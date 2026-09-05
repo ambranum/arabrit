@@ -552,7 +552,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שִׁכְבוּ",
@@ -719,23 +719,7 @@
      "caphi_urban": "raglayv",
      "caphi_raw": null,
      "maknuune_id": "7757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7757-1",
-       "root": "",
-       "gloss": "plural form of רֶגֶל (régel) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "רַגְלָיו"
-      },
-      {
-       "id": "312-28",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "רַגְלָיו"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מְכֻנָּס",
@@ -1082,76 +1066,18 @@
     },
     {
      "surface": "מַרְאֵה",
-     "lemma": "מַרְאֶה",
-     "form": "מַרְאֶה",
+     "lemma": "מַרְאָה",
+     "form": "מַרְאָה",
      "vocalized": "מַרְאֵה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "sight, appearance",
+     "gloss": "mirror",
      "analysis": "NOUN",
-     "caphi": "mare",
-     "caphi_urban": "mare",
+     "caphi": "mara",
+     "caphi_urban": "mara",
      "caphi_raw": null,
-     "maknuune_id": "937-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "937-1",
-       "root": "",
-       "gloss": "sight, appearance",
-       "analysis": "NOUN",
-       "pointed": "מַרְאֶה"
-      },
-      {
-       "id": "938-1",
-       "root": "",
-       "gloss": "mirror",
-       "analysis": "NOUN",
-       "pointed": "מַרְאָה"
-      },
-      {
-       "id": "4906-4",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:present",
-       "pointed": "מַרְאֶה"
-      },
-      {
-       "id": "4906-19",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "מַרְאָה"
-      },
-      {
-       "id": "5750-23",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֻרְאֶה"
-      },
-      {
-       "id": "939-1",
-       "root": "",
-       "gloss": "masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מראה"
-      },
-      {
-       "id": "560-1",
-       "root": "ה",
-       "gloss": "as מ- + רָאָה: To see, to have vision; figuratively, to per",
-       "analysis": "VERB",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "561-1",
-       "root": "",
-       "gloss": "as מ- + רֹאֶה: defective spelling of רואה",
-       "analysis": "NOUN",
-       "pointed": "רֹאֶה"
-      }
-     ]
+     "maknuune_id": "938-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כְנוּפְיַת",
@@ -4131,43 +4057,19 @@
     },
     {
      "surface": "בִידֵי",
-     "lemma": "יָדָה",
-     "form": "יָדָה",
+     "lemma": "יָד",
+     "form": "יָד",
      "vocalized": "בִידֵי",
      "vocalized_from": "source:pointed",
-     "root": "ה",
-     "gloss": "to throw, cast",
-     "analysis": "VERB:feminine.imperative.singular",
-     "caphi": "ydi",
-     "caphi_urban": "ydi",
+     "root": null,
+     "gloss": "arm",
+     "analysis": "NOUN:construct.dual",
+     "caphi": "ydey-",
+     "caphi_urban": "ydey-",
      "caphi_raw": null,
-     "maknuune_id": "5412-30",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "5412-30",
-       "root": "ה",
-       "gloss": "to throw, cast",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "יְדִי"
-      },
-      {
-       "id": "4-10",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "יָדִי"
-      },
-      {
-       "id": "8071-1",
-       "root": "",
-       "gloss": "plural construct state form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "ידי"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "4-7",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שַׂר",
@@ -4303,34 +4205,19 @@
     },
     {
      "surface": "בַיּוֹם",
-     "lemma": "בִּיֵּם",
-     "form": "בִּיֵּם",
+     "lemma": "יוֹם",
+     "form": "יוֹם",
      "vocalized": "בַיּוֹם",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to stage, to produce",
-     "analysis": "VERB:noun-from-verb",
-     "caphi": "biyum",
-     "caphi_urban": "biyum",
+     "gloss": "Day: the period between dawn and dusk.",
+     "analysis": "NOUN",
+     "caphi": "yom",
+     "caphi_urban": "yom",
      "caphi_raw": null,
-     "maknuune_id": "14783-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14783-5",
-       "root": "",
-       "gloss": "to stage, to produce",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "בִּיּוּם"
-      },
-      {
-       "id": "161-1",
-       "root": "",
-       "gloss": "as ב- + יוֹם: Day: the period between dawn and dusk.",
-       "analysis": "NOUN",
-       "pointed": "יוֹם"
-      }
-     ]
+     "maknuune_id": "161-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "הַהוּא",
@@ -6577,7 +6464,7 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -7114,7 +7001,7 @@
      "caphi_urban": "ragil",
      "caphi_raw": null,
      "maknuune_id": "4728-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָלֶכֶת",
@@ -10731,7 +10618,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַצָּבָא",
@@ -13981,7 +13868,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַצָּבָא",
@@ -14162,7 +14049,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִפְנֵי",
@@ -14238,7 +14125,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צָבָא",
@@ -15069,23 +14956,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רַגְלָיו",
@@ -15100,23 +14971,7 @@
      "caphi_urban": "raglayv",
      "caphi_raw": null,
      "maknuune_id": "7757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7757-1",
-       "root": "",
-       "gloss": "plural form of רֶגֶל (régel) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "רַגְלָיו"
-      },
-      {
-       "id": "312-28",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "רַגְלָיו"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וַיָּרָץ",
@@ -15940,41 +15795,18 @@
     },
     {
      "surface": "תִהְיֶה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִהְיֶה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -16535,76 +16367,19 @@
     },
     {
      "surface": "בָזֶה",
-     "lemma": "בָּזָה",
-     "form": "בָּזָה",
+     "lemma": "זֶה",
+     "form": "זֶה",
      "vocalized": "בָזֶה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Feminine singular present participle and present tense of בָּז (báz).",
-     "analysis": "VERB",
-     "caphi": "báza",
-     "caphi_urban": "báza",
+     "gloss": "this",
+     "analysis": "DET",
+     "caphi": "ze",
+     "caphi_urban": "ze",
      "caphi_raw": null,
-     "maknuune_id": "14885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14885-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of בָ",
-       "analysis": "VERB",
-       "pointed": "בָּזָה"
-      },
-      {
-       "id": "14886-1",
-       "root": "",
-       "gloss": "To degrade, to despise, to abuse: defective spelling of ביזה",
-       "analysis": "VERB",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "14887-1",
-       "root": "",
-       "gloss": "To be degraded, to be despised, to be abused: defective spel",
-       "analysis": "VERB",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14889-1",
-       "root": "",
-       "gloss": "singular form of בַּז (báz) with third-person feminine singu",
-       "analysis": "NOUN",
-       "pointed": "בַּזָּהּ"
-      },
-      {
-       "id": "14890-4",
-       "root": "ה",
-       "gloss": "To degrade, to despise, to abuse.",
-       "analysis": "VERB:passive",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14892-4",
-       "root": "ה",
-       "gloss": "To be degraded, to be despised, to be abused.",
-       "analysis": "VERB:active",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "as ב- + זֶה: this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "as ב- + זוֹ: This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ]
+     "maknuune_id": "2600-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -16968,23 +16743,7 @@
      "caphi_urban": "barur",
      "caphi_raw": null,
      "maknuune_id": "5207-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5207-1",
-       "root": "",
-       "gloss": "Clear: evident, obvious, apparent, certain.",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּר"
-      },
-      {
-       "id": "11584-6",
-       "root": "",
-       "gloss": "to select, to pick, to sort",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רַעְיוֹן",
@@ -17821,41 +17580,19 @@
     },
     {
      "surface": "הַפֶּתַח",
-     "lemma": "נִפְתַּח",
-     "form": "נִפְתַּח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": "הַפֶּתַח",
      "vocalized_from": "source:pointed",
-     "root": "ח",
-     "gloss": "To open, be opened: to be made open.",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "hipatax",
-     "caphi_urban": "hipatax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "13835-42",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13835-42",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִפָּתַח"
-      },
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "as ה- + פָּתַח: to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "as ה- + פִּתֵּחַ: defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      }
-     ]
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "דִּגְלִי",
@@ -21653,25 +21390,8 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הֲלַכְתֶּם",
@@ -22188,23 +21908,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עִמּוֹ",
@@ -23783,36 +23487,19 @@
     },
     {
      "surface": "וּשְׁנֵי",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שְׁנֵי",
+     "form": "שְׁנֵי",
      "vocalized": "וּשְׁנֵי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
+     "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
+     "analysis": "NUM",
      "caphi": "shney",
      "caphi_urban": "shney",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "550-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "חֲבֵרָיו",

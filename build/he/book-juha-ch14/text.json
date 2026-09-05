@@ -90,23 +90,7 @@
      "caphi_urban": "rxoka",
      "caphi_raw": null,
      "maknuune_id": "1823-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1823-3",
-       "root": "",
-       "gloss": "far, distant; remote",
-       "analysis": "ADJ:feminine",
-       "pointed": "רְחוֹקָה"
-      },
-      {
-       "id": "11189-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רחוק (rakhók).",
-       "analysis": "ADJ",
-       "pointed": "רְחוֹקָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

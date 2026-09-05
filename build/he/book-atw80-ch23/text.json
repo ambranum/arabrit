@@ -1335,44 +1335,7 @@
      "caphi_urban": "shura",
      "caphi_raw": null,
      "maknuune_id": "6589-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6589-1",
-       "root": "",
-       "gloss": "A row (of objects); for example, a line of text.",
-       "analysis": "NOUN",
-       "pointed": "שׁוּרָה"
-      },
-      {
-       "id": "6696-13",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׂוֹרֶה"
-      },
-      {
-       "id": "6696-14",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׂוֹרָה"
-      },
-      {
-       "id": "6697-15",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׁוֹרֶה"
-      },
-      {
-       "id": "6697-16",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׁוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחרי",
@@ -1402,44 +1365,7 @@
      "caphi_urban": "shura",
      "caphi_raw": null,
      "maknuune_id": "6589-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6589-1",
-       "root": "",
-       "gloss": "A row (of objects); for example, a line of text.",
-       "analysis": "NOUN",
-       "pointed": "שׁוּרָה"
-      },
-      {
-       "id": "6696-13",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׂוֹרֶה"
-      },
-      {
-       "id": "6696-14",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׂוֹרָה"
-      },
-      {
-       "id": "6697-15",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׁוֹרֶה"
-      },
-      {
-       "id": "6697-16",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׁוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עד",

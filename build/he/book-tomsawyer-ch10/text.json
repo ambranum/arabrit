@@ -1624,25 +1624,8 @@
      "caphi_urban": "diber",
      "caphi_raw": null,
      "maknuune_id": "2250-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2250-21",
-       "root": "",
-       "gloss": "to speak (say words)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דִּיבֵּר"
-      },
-      {
-       "id": "4827-3",
-       "root": "",
-       "gloss": "to be spoken",
-       "analysis": "VERB:active",
-       "pointed": "דיבר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מתוך",

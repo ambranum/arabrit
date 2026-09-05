@@ -354,46 +354,8 @@
      "caphi_urban": "i",
      "caphi_raw": null,
      "maknuune_id": "1969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1969-1",
-       "root": "",
-       "gloss": "an island",
-       "analysis": "NOUN",
-       "pointed": "אִי"
-      },
-      {
-       "id": "1972-1",
-       "root": "",
-       "gloss": "non-",
-       "analysis": "PREFIX",
-       "pointed": "אִי־"
-      },
-      {
-       "id": "1975-1",
-       "root": "",
-       "gloss": "where.",
-       "analysis": "ADV",
-       "pointed": "אַי"
-      },
-      {
-       "id": "9218-1",
-       "root": "",
-       "gloss": "-ian, -eer: Denoting a profession or occupation.",
-       "analysis": "SUFFIX",
-       "pointed": "־ַאי"
-      },
-      {
-       "id": "9219-1",
-       "root": "",
-       "gloss": "Used in forming adjectives related to a profession or occupa",
-       "analysis": "SUFFIX",
-       "pointed": "־ָאִי"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "עד",
@@ -697,46 +659,8 @@
      "caphi_urban": "adama",
      "caphi_raw": null,
      "maknuune_id": "913-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "913-1",
-       "root": "",
-       "gloss": "earth, soil, land",
-       "analysis": "NOUN",
-       "pointed": "אֲדָמָה"
-      },
-      {
-       "id": "370-4",
-       "root": "",
-       "gloss": "red",
-       "analysis": "ADJ:feminine",
-       "pointed": "אֲדֻמָּה"
-      },
-      {
-       "id": "851-18",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֶדְמֶה"
-      },
-      {
-       "id": "13080-28",
-       "root": "",
-       "gloss": "to imagine",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדַמֶּה"
-      },
-      {
-       "id": "14897-32",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדֻמֶּה"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     }
    ],
    "audio": null
@@ -2954,23 +2878,7 @@
      "caphi_urban": "nixnsa",
      "caphi_raw": null,
      "maknuune_id": "4237-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4237-1",
-       "root": "",
-       "gloss": "Third-person feminine singular past (suffix conjugation) of ",
-       "analysis": "VERB",
-       "pointed": "נִכְנְסָה"
-      },
-      {
-       "id": "2564-14",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "נִכְנְסָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לנמל",
@@ -3152,48 +3060,19 @@
     },
     {
      "surface": "בים",
-     "lemma": "בִּיֵּם",
-     "form": "בִּיֵּם",
-     "vocalized": "בִּיֵּם",
-     "vocalized_from": "lexicon",
+     "lemma": "יָם",
+     "form": "יָם",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to stage, to produce",
-     "analysis": "VERB",
-     "caphi": "biyem",
-     "caphi_urban": "biyem",
+     "gloss": "sea",
+     "analysis": "NOUN",
+     "caphi": "yam",
+     "caphi_urban": "yam",
      "caphi_raw": null,
-     "maknuune_id": "14783-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14783-1",
-       "root": "",
-       "gloss": "to stage, to produce",
-       "analysis": "VERB",
-       "pointed": "בִּיֵּם"
-      },
-      {
-       "id": "14783-38",
-       "root": "",
-       "gloss": "to stage, to produce",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּיֵּם"
-      },
-      {
-       "id": "124-1",
-       "root": "",
-       "gloss": "as ב- + יָם: sea",
-       "analysis": "NOUN",
-       "pointed": "יָם"
-      },
-      {
-       "id": "3486-1",
-       "root": "",
-       "gloss": "as ב- + י־ם: Jerusalem, the capital of Israel.",
-       "analysis": "NAME",
-       "pointed": "י־ם"
-      }
-     ]
+     "maknuune_id": "124-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null

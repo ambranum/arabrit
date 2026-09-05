@@ -530,37 +530,7 @@
      "caphi_urban": "rabim",
      "caphi_raw": null,
      "maknuune_id": "4002-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4002-1",
-       "root": "",
-       "gloss": "many people",
-       "analysis": "NOUN",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "4004-1",
-       "root": "",
-       "gloss": "Masculine plural present participle and present tense of רָב",
-       "analysis": "VERB",
-       "pointed": "רָבִים"
-      },
-      {
-       "id": "28-4",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "33-16",
-       "root": "",
-       "gloss": "to contend, dispute",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "רָבִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עם",
@@ -944,39 +914,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יה",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יה"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יה"
     },
     {
      "surface": "נשאו",
@@ -2285,30 +2224,7 @@
      "caphi_urban": "shesh",
      "caphi_raw": null,
      "maknuune_id": "1341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1341-1",
-       "root": "",
-       "gloss": "feminine of שִׁשָּׁה (shishá, “six”)",
-       "analysis": "NUM",
-       "pointed": "שֵׁשׁ"
-      },
-      {
-       "id": "1343-1",
-       "root": "",
-       "gloss": "to rejoice, be happy",
-       "analysis": "VERB",
-       "pointed": "שָׂשׂ"
-      },
-      {
-       "id": "1344-4",
-       "root": "",
-       "gloss": "six",
-       "analysis": "NUM:feminine",
-       "pointed": "שֵׁשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שעות",

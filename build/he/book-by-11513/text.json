@@ -12639,41 +12639,18 @@
     },
     {
      "surface": "לַשּׁוּב",
-     "lemma": "שָׁב",
-     "form": "שָׁב",
+     "lemma": "לָשׁוּב",
+     "form": "לָשׁוּב",
      "vocalized": "לַשּׁוּב",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "to return (to go back to a place or person)",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "to-infinitive of שָׁב (sháv).",
+     "analysis": "VERB",
      "caphi": "lashuv",
      "caphi_urban": "lashuv",
      "caphi_raw": null,
-     "maknuune_id": "6378-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6378-3",
-       "root": "ו",
-       "gloss": "to return (to go back to a place or person)",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "7531-1",
-       "root": "",
-       "gloss": "to-infinitive of שָׁב (sháv).",
-       "analysis": "VERB",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "1053-1",
-       "root": "",
-       "gloss": "as ל- + שׁוּב: again",
-       "analysis": "ADV",
-       "pointed": "שׁוּב"
-      }
-     ]
+     "maknuune_id": "7531-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִחוּץ",
@@ -12849,7 +12826,7 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -14077,18 +14054,18 @@
     },
     {
      "surface": "נַחַשׁ",
-     "lemma": "נַחַשׁ",
-     "form": "נַחַשׁ",
+     "lemma": "נָחָשׁ",
+     "form": "נָחָשׁ",
      "vocalized": "נַחַשׁ",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "magic, sorcery, spell, enchantment, augury",
+     "gloss": "snake (any of the suborder Serpentes of legless reptiles with long, thin bodies and fork-shaped tongues)",
      "analysis": "NOUN",
-     "caphi": "náxash",
-     "caphi_urban": "náxash",
+     "caphi": "naxash",
+     "caphi_urban": "naxash",
      "caphi_raw": null,
-     "maknuune_id": "1936-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1935-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּיַעֲקֹב",

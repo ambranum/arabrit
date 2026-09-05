@@ -279,30 +279,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָמַד",
@@ -1404,36 +1381,19 @@
     },
     {
      "surface": "וּשְׁנֵי",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שְׁנֵי",
+     "form": "שְׁנֵי",
      "vocalized": "וּשְׁנֵי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
+     "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
+     "analysis": "NUM",
      "caphi": "shney",
      "caphi_urban": "shney",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "550-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "יְלָדָיו",
@@ -2066,30 +2026,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גָּדְלוּ",
@@ -2234,30 +2171,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַּכָּרִים",
@@ -3239,30 +3153,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גַּם",
@@ -4740,41 +4631,18 @@
     },
     {
      "surface": "לָשׁוּב",
-     "lemma": "שָׁב",
-     "form": "שָׁב",
+     "lemma": "לָשׁוּב",
+     "form": "לָשׁוּב",
      "vocalized": "לָשׁוּב",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "to return (to go back to a place or person)",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "to-infinitive of שָׁב (sháv).",
+     "analysis": "VERB",
      "caphi": "lashuv",
      "caphi_urban": "lashuv",
      "caphi_raw": null,
-     "maknuune_id": "6378-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6378-3",
-       "root": "ו",
-       "gloss": "to return (to go back to a place or person)",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "7531-1",
-       "root": "",
-       "gloss": "to-infinitive of שָׁב (sháv).",
-       "analysis": "VERB",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "1053-1",
-       "root": "",
-       "gloss": "as ל- + שׁוּב: again",
-       "analysis": "ADV",
-       "pointed": "שׁוּב"
-      }
-     ]
+     "maknuune_id": "7531-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כְּדֵי",
@@ -4992,34 +4860,19 @@
     },
     {
      "surface": "בְּיוֹם",
-     "lemma": "בִּיֵּם",
-     "form": "בִּיֵּם",
+     "lemma": "יוֹם",
+     "form": "יוֹם",
      "vocalized": "בְּיוֹם",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to stage, to produce",
-     "analysis": "VERB:noun-from-verb",
-     "caphi": "biyum",
-     "caphi_urban": "biyum",
+     "gloss": "Day: the period between dawn and dusk.",
+     "analysis": "NOUN",
+     "caphi": "yom",
+     "caphi_urban": "yom",
      "caphi_raw": null,
-     "maknuune_id": "14783-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14783-5",
-       "root": "",
-       "gloss": "to stage, to produce",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "בִּיּוּם"
-      },
-      {
-       "id": "161-1",
-       "root": "",
-       "gloss": "as ב- + יוֹם: Day: the period between dawn and dusk.",
-       "analysis": "NOUN",
-       "pointed": "יוֹם"
-      }
-     ]
+     "maknuune_id": "161-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "קַיִץ",
@@ -5232,23 +5085,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַתָּנָה",
@@ -5459,7 +5296,7 @@
      "caphi_urban": "naxash",
      "caphi_raw": null,
      "maknuune_id": "1935-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָכַל",
@@ -8286,23 +8123,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֵרָחוֹק",
@@ -10299,23 +10120,7 @@
      "caphi_urban": "raglayv",
      "caphi_raw": null,
      "maknuune_id": "7757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7757-1",
-       "root": "",
-       "gloss": "plural form of רֶגֶל (régel) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "רַגְלָיו"
-      },
-      {
-       "id": "312-28",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "רַגְלָיו"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְמַעְלָה",
@@ -10368,25 +10173,8 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1471-1",
-       "root": "",
-       "gloss": "a moment (brief, unspecified amount of time)",
-       "analysis": "NOUN",
-       "pointed": "רֶגַע"
-      },
-      {
-       "id": "1473-1",
-       "root": "",
-       "gloss": "defective spelling of רוגע",
-       "analysis": "NOUN",
-       "pointed": "רֹגַע"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "הַהוּא",
@@ -14152,30 +13940,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שֶׁשָּׁם",
@@ -17320,76 +17085,19 @@
     },
     {
      "surface": "בָּזֶה",
-     "lemma": "בָּזָה",
-     "form": "בָּזָה",
+     "lemma": "זֶה",
+     "form": "זֶה",
      "vocalized": "בָּזֶה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Feminine singular present participle and present tense of בָּז (báz).",
-     "analysis": "VERB",
-     "caphi": "báza",
-     "caphi_urban": "báza",
+     "gloss": "this",
+     "analysis": "DET",
+     "caphi": "ze",
+     "caphi_urban": "ze",
      "caphi_raw": null,
-     "maknuune_id": "14885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14885-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of בָ",
-       "analysis": "VERB",
-       "pointed": "בָּזָה"
-      },
-      {
-       "id": "14886-1",
-       "root": "",
-       "gloss": "To degrade, to despise, to abuse: defective spelling of ביזה",
-       "analysis": "VERB",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "14887-1",
-       "root": "",
-       "gloss": "To be degraded, to be despised, to be abused: defective spel",
-       "analysis": "VERB",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14889-1",
-       "root": "",
-       "gloss": "singular form of בַּז (báz) with third-person feminine singu",
-       "analysis": "NOUN",
-       "pointed": "בַּזָּהּ"
-      },
-      {
-       "id": "14890-4",
-       "root": "ה",
-       "gloss": "To degrade, to despise, to abuse.",
-       "analysis": "VERB:passive",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14892-4",
-       "root": "ה",
-       "gloss": "To be degraded, to be despised, to be abused.",
-       "analysis": "VERB:active",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "as ב- + זֶה: this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "as ב- + זוֹ: This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ]
+     "maknuune_id": "2600-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שֶׁאֲדוֹנִי",
@@ -27889,23 +27597,7 @@
      "caphi_urban": "barur",
      "caphi_raw": null,
      "maknuune_id": "5207-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5207-1",
-       "root": "",
-       "gloss": "Clear: evident, obvious, apparent, certain.",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּר"
-      },
-      {
-       "id": "11584-6",
-       "root": "",
-       "gloss": "to select, to pick, to sort",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִי",
@@ -28119,23 +27811,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִפְּנֵי",
@@ -32266,34 +31942,19 @@
    "words": [
     {
      "surface": "בְּיוֹם",
-     "lemma": "בִּיֵּם",
-     "form": "בִּיֵּם",
+     "lemma": "יוֹם",
+     "form": "יוֹם",
      "vocalized": "בְּיוֹם",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to stage, to produce",
-     "analysis": "VERB:noun-from-verb",
-     "caphi": "biyum",
-     "caphi_urban": "biyum",
+     "gloss": "Day: the period between dawn and dusk.",
+     "analysis": "NOUN",
+     "caphi": "yom",
+     "caphi_urban": "yom",
      "caphi_raw": null,
-     "maknuune_id": "14783-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14783-5",
-       "root": "",
-       "gloss": "to stage, to produce",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "בִּיּוּם"
-      },
-      {
-       "id": "161-1",
-       "root": "",
-       "gloss": "as ב- + יוֹם: Day: the period between dawn and dusk.",
-       "analysis": "NOUN",
-       "pointed": "יוֹם"
-      }
-     ]
+     "maknuune_id": "161-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "קַיִץ",
@@ -33446,7 +33107,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִתְנַשֵּׂא",
@@ -35551,30 +35212,7 @@
      "caphi_urban": "hagan",
      "caphi_raw": null,
      "maknuune_id": "8583-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8583-1",
-       "root": "",
-       "gloss": "singular definite form of גן (gan): the garden",
-       "analysis": "NOUN",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4660-9",
-       "root": "",
-       "gloss": "A garden.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַגָּן"
-      },
-      {
-       "id": "4661-1",
-       "root": "",
-       "gloss": "as ה- + גֶּן: a gene",
-       "analysis": "NOUN",
-       "pointed": "גֶּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְהִתְחִילוּ",
@@ -36020,7 +35658,7 @@
      "caphi_urban": "adama",
      "caphi_raw": null,
      "maknuune_id": "913-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ל-"
     }
    ],
@@ -36075,7 +35713,7 @@
      "caphi_urban": "shama",
      "caphi_raw": null,
      "maknuune_id": "665-15",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -36298,23 +35936,7 @@
      "caphi_urban": "shama",
      "caphi_raw": null,
      "maknuune_id": "665-15",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "665-15",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׁמְעָה"
-      },
-      {
-       "id": "13929-1",
-       "root": "",
-       "gloss": "as ש- + מָעָה: inward parts",
-       "analysis": "NOUN",
-       "pointed": "מָעָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֹא",

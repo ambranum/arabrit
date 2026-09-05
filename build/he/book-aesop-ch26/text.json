@@ -400,46 +400,8 @@
      "caphi_urban": "yéled",
      "caphi_raw": null,
      "maknuune_id": "1042-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1042-1",
-       "root": "",
-       "gloss": "a (male) child, a (male) kid, a boy (a male child)",
-       "analysis": "NOUN",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "1043-1",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1088-4",
-       "root": "",
-       "gloss": "girl (female child)",
-       "analysis": "NOUN:masculine",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "8931-5",
-       "root": "י",
-       "gloss": "to be born",
-       "analysis": "VERB:active",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1043-26",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵלֵד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "היה",
@@ -735,23 +697,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8876-1",
-       "root": "",
-       "gloss": "plural construct state form of אִישׁ ('ish)",
-       "analysis": "NOUN",
-       "pointed": "אַנְשֵׁי"
-      },
-      {
-       "id": "1096-21",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "אֲנָשַׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכפר",

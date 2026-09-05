@@ -1932,23 +1932,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "8335-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8335-3",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:infinitive",
-       "pointed": "לצחוק"
-      },
-      {
-       "id": "9870-1",
-       "root": "",
-       "gloss": "as ל- + צְחוֹק: laughter",
-       "analysis": "NOUN",
-       "pointed": "צְחוֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולנענע",

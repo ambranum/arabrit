@@ -220,37 +220,7 @@
      "caphi_urban": "ragil",
      "caphi_raw": null,
      "maknuune_id": "4728-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4728-1",
-       "root": "",
-       "gloss": "regular, usual",
-       "analysis": "ADJ",
-       "pointed": "רָגִיל"
-      },
-      {
-       "id": "312-1",
-       "root": "",
-       "gloss": "as רֶגֶל spelled full: foot, leg",
-       "analysis": "NOUN",
-       "pointed": "רֶגֶיל"
-      },
-      {
-       "id": "5552-1",
-       "root": "",
-       "gloss": "as רִגֵּל spelled full: to spy",
-       "analysis": "VERB",
-       "pointed": "רִגֵּיל"
-      },
-      {
-       "id": "5552-38",
-       "root": "",
-       "gloss": "as רִגֵּל spelled full: to spy",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַגֵּיל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1884,32 +1854,8 @@
      "caphi_urban": "yarad",
      "caphi_raw": null,
      "maknuune_id": "2634-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2634-1",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB",
-       "pointed": "יָרַד"
-      },
-      {
-       "id": "2635-1",
-       "root": "",
-       "gloss": "Jared (a man mentioned in the Book of Genesis, a descendant ",
-       "analysis": "NAME",
-       "pointed": "יֶרֶד"
-      },
-      {
-       "id": "2634-25",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵרֵד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ולא",

@@ -1953,30 +1953,7 @@
      "caphi_urban": "sagur",
      "caphi_raw": null,
      "maknuune_id": "7618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7618-1",
-       "root": "",
-       "gloss": "closed",
-       "analysis": "ADJ",
-       "pointed": "סָגוּר"
-      },
-      {
-       "id": "7619-1",
-       "root": "",
-       "gloss": "enclosure, casing",
-       "analysis": "NOUN",
-       "pointed": "סְגוֹר"
-      },
-      {
-       "id": "4567-7",
-       "root": "",
-       "gloss": "To close (a door, a window, or the like).",
-       "analysis": "VERB:participle.passive",
-       "pointed": "סָגוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עד",
@@ -3310,25 +3287,8 @@
      "caphi_urban": "pundak",
      "caphi_raw": null,
      "maknuune_id": "5856-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5856-1",
-       "root": "",
-       "gloss": "An inn: a boardinghouse or guesthouse or hotel.",
-       "analysis": "NOUN",
-       "pointed": "פּוּנְדָק"
-      },
-      {
-       "id": "5857-5",
-       "root": "",
-       "gloss": "Alternative form of the above.",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "פּוּנְדָּק"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עשה",
@@ -3814,23 +3774,7 @@
      "caphi_urban": "barur",
      "caphi_raw": null,
      "maknuune_id": "5207-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5207-1",
-       "root": "",
-       "gloss": "Clear: evident, obvious, apparent, certain.",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּר"
-      },
-      {
-       "id": "11584-6",
-       "root": "",
-       "gloss": "to select, to pick, to sort",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הפנים",
@@ -3944,25 +3888,8 @@
      "caphi_urban": "pundak",
      "caphi_raw": null,
      "maknuune_id": "5856-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5856-1",
-       "root": "",
-       "gloss": "An inn: a boardinghouse or guesthouse or hotel.",
-       "analysis": "NOUN",
-       "pointed": "פּוּנְדָק"
-      },
-      {
-       "id": "5857-5",
-       "root": "",
-       "gloss": "Alternative form of the above.",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "פּוּנְדָּק"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בוא",
@@ -4093,25 +4020,8 @@
      "caphi_urban": "pundak",
      "caphi_raw": null,
      "maknuune_id": "5856-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5856-1",
-       "root": "",
-       "gloss": "An inn: a boardinghouse or guesthouse or hotel.",
-       "analysis": "NOUN",
-       "pointed": "פּוּנְדָק"
-      },
-      {
-       "id": "5857-5",
-       "root": "",
-       "gloss": "Alternative form of the above.",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "פּוּנְדָּק"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -5036,30 +4946,7 @@
      "caphi_urban": "ixpat",
      "caphi_raw": null,
      "maknuune_id": "11864-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11864-1",
-       "root": "",
-       "gloss": "Used to indicate someone's care or concern about something",
-       "analysis": "ADV",
-       "pointed": "אִכְפַּת"
-      },
-      {
-       "id": "17425-14",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "אִכַּפְתָּ"
-      },
-      {
-       "id": "17425-16",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "אִכַּפְתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",

@@ -1761,37 +1761,7 @@
      "caphi_urban": "tire",
      "caphi_raw": null,
      "maknuune_id": "560-22",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-22",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּרְאֶה"
-      },
-      {
-       "id": "4906-24",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּרְאֶה"
-      },
-      {
-       "id": "5750-35",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֻּרְאֶה"
-      },
-      {
-       "id": "6841-24",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֵּרָאֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איך",
@@ -4372,50 +4342,19 @@
     },
     {
      "surface": "וניסה",
-     "lemma": "נָס",
-     "form": "נָס",
+     "lemma": "נִסָּה",
+     "form": "נִסָּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "to flee",
-     "analysis": "VERB:noun-from-verb",
+     "root": "נ.ה",
+     "gloss": "to try, to attempt",
+     "analysis": "VERB:masculine.past.singular.third-person",
      "caphi": "nisa",
      "caphi_urban": "nisa",
      "caphi_raw": null,
-     "maknuune_id": "3801-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3801-4",
-       "root": "",
-       "gloss": "to flee",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "נִיסָה"
-      },
-      {
-       "id": "4597-20",
-       "root": "נ.ה",
-       "gloss": "to try, to attempt",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "נִיסָּה"
-      },
-      {
-       "id": "10089-3",
-       "root": "ה",
-       "gloss": "to be tried, to be tested",
-       "analysis": "VERB:active",
-       "pointed": "ניסה"
-      },
-      {
-       "id": "3799-22",
-       "root": "",
-       "gloss": "a miracle",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "ניסה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "4597-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לחשוב",

@@ -1642,46 +1642,8 @@
      "caphi_urban": "i",
      "caphi_raw": null,
      "maknuune_id": "1969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1969-1",
-       "root": "",
-       "gloss": "an island",
-       "analysis": "NOUN",
-       "pointed": "אִי"
-      },
-      {
-       "id": "1972-1",
-       "root": "",
-       "gloss": "non-",
-       "analysis": "PREFIX",
-       "pointed": "אִי־"
-      },
-      {
-       "id": "1975-1",
-       "root": "",
-       "gloss": "where.",
-       "analysis": "ADV",
-       "pointed": "אַי"
-      },
-      {
-       "id": "9218-1",
-       "root": "",
-       "gloss": "-ian, -eer: Denoting a profession or occupation.",
-       "analysis": "SUFFIX",
-       "pointed": "־ַאי"
-      },
-      {
-       "id": "9219-1",
-       "root": "",
-       "gloss": "Used in forming adjectives related to a profession or occupa",
-       "analysis": "SUFFIX",
-       "pointed": "־ָאִי"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ומצאו",
@@ -3140,55 +3102,18 @@
     },
     {
      "surface": "מרוצה",
-     "lemma": "מְרֻצֶּה",
-     "form": "מְרֻצֶּה",
+     "lemma": "מְרוּצֶּה",
+     "form": "מְרוּצֶּה",
      "vocalized": "מְרוּצֶּה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Satisfied.",
-     "analysis": "ADJ:feminine",
+     "gloss": "defective spelling of מְרוּצֶּה.",
+     "analysis": "ADJ",
      "caphi": "mrutse",
      "caphi_urban": "mrutse",
      "caphi_raw": null,
-     "maknuune_id": "2129-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2129-3",
-       "root": "",
-       "gloss": "Satisfied.",
-       "analysis": "ADJ:feminine",
-       "pointed": "מְרוּצֶּה"
-      },
-      {
-       "id": "9146-1",
-       "root": "",
-       "gloss": "defective spelling of מְרוּצֶּה.",
-       "analysis": "ADJ",
-       "pointed": "מְרוּצֶּה"
-      },
-      {
-       "id": "11440-15",
-       "root": "",
-       "gloss": "A race: a contest of speed, such as a footrace or a car race",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מֵרוֹצָהּ"
-      },
-      {
-       "id": "3009-1",
-       "root": "",
-       "gloss": "as מ- + רוֹצֶה: masculine singular present participle and pr",
-       "analysis": "VERB",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3010-1",
-       "root": "",
-       "gloss": "as מ- + רוֹצָה: feminine singular present participle and pre",
-       "analysis": "VERB",
-       "pointed": "רוֹצָה"
-      }
-     ]
+     "maknuune_id": "9146-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כאן",
@@ -3462,30 +3387,7 @@
      "caphi_urban": "ixpat",
      "caphi_raw": null,
      "maknuune_id": "11864-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11864-1",
-       "root": "",
-       "gloss": "Used to indicate someone's care or concern about something",
-       "analysis": "ADV",
-       "pointed": "אִכְפַּת"
-      },
-      {
-       "id": "17425-14",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "אִכַּפְתָּ"
-      },
-      {
-       "id": "17425-16",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "אִכַּפְתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -3543,36 +3445,19 @@
     },
     {
      "surface": "והבין",
-     "lemma": "בֵּין",
-     "form": "בֵּין",
+     "lemma": "הֵבִין",
+     "form": "הֵבִין",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "between, among, amid",
-     "analysis": "PREP",
-     "caphi": "beyn",
-     "caphi_urban": "beyn",
+     "root": "י",
+     "gloss": "To understand, to have understanding, to be one who understands.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "hevin",
+     "caphi_urban": "hevin",
      "caphi_raw": null,
-     "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3854-11",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בפעם",

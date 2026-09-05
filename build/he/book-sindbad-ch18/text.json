@@ -704,25 +704,8 @@
      "caphi_urban": "tsad",
      "caphi_raw": null,
      "maknuune_id": "7333-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "7333-1",
-       "root": "",
-       "gloss": "A side.",
-       "analysis": "NOUN",
-       "pointed": "צַד"
-      },
-      {
-       "id": "7334-1",
-       "root": "",
-       "gloss": "to hunt",
-       "analysis": "VERB",
-       "pointed": "צָד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "השני",
@@ -2024,50 +2007,19 @@
    "words": [
     {
      "surface": "מהבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "עד",

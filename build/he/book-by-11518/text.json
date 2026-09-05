@@ -2551,7 +2551,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",
@@ -3762,7 +3762,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כָּל",
@@ -8289,23 +8289,7 @@
      "caphi_urban": "shonim",
      "caphi_raw": null,
      "maknuune_id": "2949-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2949-4",
-       "root": "",
-       "gloss": "Different (from): not the same (as).",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שׁוֹנִים"
-      },
-      {
-       "id": "477-16",
-       "root": "ה",
-       "gloss": "to repeat (to do something an additional time)",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "שׁוֹנִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְאַמִּיץ",
@@ -11737,23 +11721,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "8335-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8335-3",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:infinitive",
-       "pointed": "לצחוק"
-      },
-      {
-       "id": "9870-1",
-       "root": "",
-       "gloss": "as ל- + צְחוֹק: laughter",
-       "analysis": "NOUN",
-       "pointed": "צְחוֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s47.mp3"
@@ -18608,7 +18576,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",

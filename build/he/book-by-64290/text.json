@@ -3408,41 +3408,18 @@
     },
     {
      "surface": "תִהְיֶה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִהְיֶה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַחֲרִיתֶךָ",
@@ -4028,23 +4005,7 @@
      "caphi_urban": "kala",
      "caphi_raw": null,
      "maknuune_id": "2933-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2933-3",
-       "root": "",
-       "gloss": "light (of low weight)",
-       "analysis": "ADJ:feminine",
-       "pointed": "קַלָּה"
-      },
-      {
-       "id": "2936-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of קל (kal).",
-       "analysis": "ADJ",
-       "pointed": "קַלָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּבְזוּיָה",
@@ -4153,23 +4114,7 @@
      "caphi_urban": "kala",
      "caphi_raw": null,
      "maknuune_id": "2933-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2933-3",
-       "root": "",
-       "gloss": "light (of low weight)",
-       "analysis": "ADJ:feminine",
-       "pointed": "קַלָּה"
-      },
-      {
-       "id": "2936-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of קל (kal).",
-       "analysis": "ADJ",
-       "pointed": "קַלָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַתָּה",
@@ -5543,44 +5488,7 @@
      "caphi_urban": "hayíta",
      "caphi_raw": null,
      "maknuune_id": "4487-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4487-1",
-       "root": "",
-       "gloss": "Second-person masculine singular past (suffix conjugation) o",
-       "analysis": "VERB",
-       "pointed": "הָיִיתָ"
-      },
-      {
-       "id": "4488-1",
-       "root": "",
-       "gloss": "Second-person feminine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "הָיִית"
-      },
-      {
-       "id": "500-6",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הָיִיתָ"
-      },
-      {
-       "id": "500-7",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הָיִית"
-      },
-      {
-       "id": "17161-4",
-       "root": "",
-       "gloss": "as ה- + ־ייה \\ ־ִיָּה: a suffix forming occupational and local noun",
-       "analysis": "SUFFIX:construct",
-       "pointed": "־יית"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רוֹאָה",

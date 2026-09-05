@@ -3293,7 +3293,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִסָּבִיב",
@@ -6314,23 +6314,7 @@
      "caphi_urban": "sagur",
      "caphi_raw": null,
      "maknuune_id": "7618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7618-1",
-       "root": "",
-       "gloss": "closed",
-       "analysis": "ADJ",
-       "pointed": "סָגוּר"
-      },
-      {
-       "id": "4567-7",
-       "root": "",
-       "gloss": "To close (a door, a window, or the like).",
-       "analysis": "VERB:participle.passive",
-       "pointed": "סָגוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",

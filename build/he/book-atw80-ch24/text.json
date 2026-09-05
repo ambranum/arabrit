@@ -1455,48 +1455,18 @@
     },
     {
      "surface": "תעשה",
-     "lemma": "תַּעֲשֶׂה",
-     "form": "תַּעֲשֶׂה",
+     "lemma": "עָשָׂה",
+     "form": "עָשָׂה",
      "vocalized": "תַּעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of עָשָׂה (asá).",
-     "analysis": "VERB",
+     "root": "ע.ה",
+     "gloss": "To do (to perform an action, to accomplish a thing).",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "taase",
      "caphi_urban": "taase",
      "caphi_raw": null,
-     "maknuune_id": "7422-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7422-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תַּעֲשֶׂה"
-      },
-      {
-       "id": "7423-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תֵּעָשֶׂה"
-      },
-      {
-       "id": "565-24",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּעֲשֶׂה"
-      },
-      {
-       "id": "7424-25",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֵּעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "565-24",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שום",

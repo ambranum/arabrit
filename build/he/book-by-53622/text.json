@@ -2816,34 +2816,18 @@
     },
     {
      "surface": "גֶּדֶר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גֶּדֶר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עֵץ",
@@ -4052,23 +4036,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַגְּדִי",
@@ -5070,25 +5038,8 @@
      "caphi_urban": "tsad",
      "caphi_raw": null,
      "maknuune_id": "7333-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "7333-1",
-       "root": "",
-       "gloss": "A side.",
-       "analysis": "NOUN",
-       "pointed": "צַד"
-      },
-      {
-       "id": "7334-1",
-       "root": "",
-       "gloss": "to hunt",
-       "analysis": "VERB",
-       "pointed": "צָד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "הָהָר",
@@ -6344,48 +6295,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "כֵּן",
@@ -8868,23 +8790,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גְּדִי",
@@ -9140,23 +9046,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַדִּיר",
@@ -9799,48 +9689,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶל",
@@ -11173,48 +11034,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נָשָׂא",
@@ -11229,23 +11061,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רַגְלָיו",
@@ -11260,23 +11076,7 @@
      "caphi_urban": "raglayv",
      "caphi_raw": null,
      "maknuune_id": "7757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7757-1",
-       "root": "",
-       "gloss": "plural form of רֶגֶל (régel) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "רַגְלָיו"
-      },
-      {
-       "id": "312-28",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "רַגְלָיו"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְמַעְלָה",
@@ -11926,48 +11726,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "יָרֵא",
@@ -14119,7 +13890,7 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "וב-"
     },
     {
@@ -14584,41 +14355,18 @@
     },
     {
      "surface": "לָשׁוּב",
-     "lemma": "שָׁב",
-     "form": "שָׁב",
+     "lemma": "לָשׁוּב",
+     "form": "לָשׁוּב",
      "vocalized": "לָשׁוּב",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "to return (to go back to a place or person)",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "to-infinitive of שָׁב (sháv).",
+     "analysis": "VERB",
      "caphi": "lashuv",
      "caphi_urban": "lashuv",
      "caphi_raw": null,
-     "maknuune_id": "6378-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6378-3",
-       "root": "ו",
-       "gloss": "to return (to go back to a place or person)",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "7531-1",
-       "root": "",
-       "gloss": "to-infinitive of שָׁב (sháv).",
-       "analysis": "VERB",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "1053-1",
-       "root": "",
-       "gloss": "as ל- + שׁוּב: again",
-       "analysis": "ADV",
-       "pointed": "שׁוּב"
-      }
-     ]
+     "maknuune_id": "7531-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -14970,7 +14718,7 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "3563-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -17520,48 +17268,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נִלְחַם",
@@ -18040,23 +17759,7 @@
      "caphi_urban": "nasa",
      "caphi_raw": null,
      "maknuune_id": "3308-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3308-1",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB",
-       "pointed": "נָשָׂא"
-      },
-      {
-       "id": "10351-3",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:active",
-       "pointed": "נָשָׂא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַגְּדִי",
@@ -18584,48 +18287,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "חָגַר",
@@ -18861,7 +18535,7 @@
      "caphi_urban": "kav",
      "caphi_raw": null,
      "maknuune_id": "470-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אוֹר",
@@ -19298,48 +18972,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "כֻּלּוֹ",

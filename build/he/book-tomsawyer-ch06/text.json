@@ -474,44 +474,7 @@
      "caphi_urban": "badak",
      "caphi_raw": null,
      "maknuune_id": "2300-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2300-1",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "5189-3",
-       "root": "",
-       "gloss": "To be tested, to be examined.",
-       "analysis": "VERB:active",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "2300-39",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּדֹק"
-      },
-      {
-       "id": "4030-1",
-       "root": "",
-       "gloss": "as ב- + דַּק: thin",
-       "analysis": "ADJ",
-       "pointed": "דַּק"
-      },
-      {
-       "id": "4031-1",
-       "root": "",
-       "gloss": "as ב- + דֹּק: defective spelling of דוק",
-       "analysis": "NOUN",
-       "pointed": "דֹּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -1576,25 +1539,8 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1471-1",
-       "root": "",
-       "gloss": "a moment (brief, unspecified amount of time)",
-       "analysis": "NOUN",
-       "pointed": "רֶגַע"
-      },
-      {
-       "id": "1473-1",
-       "root": "",
-       "gloss": "defective spelling of רוגע",
-       "analysis": "NOUN",
-       "pointed": "רֹגַע"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null

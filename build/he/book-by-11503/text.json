@@ -2303,7 +2303,7 @@
      "caphi_urban": "ixpat",
      "caphi_raw": null,
      "maknuune_id": "11864-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לוֹ",
@@ -5811,12 +5811,12 @@
      "vocalized_from": "source:pointed",
      "root": null,
      "gloss": "to check, examine, verify",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "bdok",
-     "caphi_urban": "bdok",
+     "analysis": "VERB",
+     "caphi": "badak",
+     "caphi_urban": "badak",
      "caphi_raw": null,
-     "maknuune_id": "2300-39",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "2300-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּסַבְלָנוּת",

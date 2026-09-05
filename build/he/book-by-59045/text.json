@@ -553,23 +553,7 @@
      "caphi_urban": "rxoka",
      "caphi_raw": null,
      "maknuune_id": "1823-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1823-3",
-       "root": "",
-       "gloss": "far, distant; remote",
-       "analysis": "ADJ:feminine",
-       "pointed": "רְחוֹקָה"
-      },
-      {
-       "id": "11189-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רחוק (rakhók).",
-       "analysis": "ADJ",
-       "pointed": "רְחוֹקָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִלְמֹד",
@@ -4997,7 +4981,7 @@
      "caphi_urban": "bati",
      "caphi_raw": null,
      "maknuune_id": "3145-6",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְכָאן",
@@ -8534,34 +8518,18 @@
     },
     {
      "surface": "עֲשׂוּ",
-     "lemma": "עֲשׂוּ",
-     "form": "עֲשׂוּ",
+     "lemma": "עָשׂוּ",
+     "form": "עָשׂוּ",
      "vocalized": "עֲשׂוּ",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "masculine plural imperative of עָשָׂה (asá)",
+     "gloss": "third-person plural past (suffix conjugation) of עָשָׂה (asá)",
      "analysis": "VERB",
      "caphi": "asu",
      "caphi_urban": "asu",
      "caphi_raw": null,
-     "maknuune_id": "5994-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5994-1",
-       "root": "",
-       "gloss": "masculine plural imperative of עָשָׂה (asá)",
-       "analysis": "VERB",
-       "pointed": "עֲשׂוּ"
-      },
-      {
-       "id": "565-34",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "עֲשׂוּ"
-      }
-     ]
+     "maknuune_id": "5993-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כִּרְצוֹנְכֶם",
@@ -10105,7 +10073,7 @@
      "caphi_urban": "yarad",
      "caphi_raw": null,
      "maknuune_id": "2634-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -17352,23 +17320,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שְׁלשׁ",
@@ -18022,25 +17974,8 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הָיָה",

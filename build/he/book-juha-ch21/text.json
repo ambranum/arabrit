@@ -267,30 +267,13 @@
      "vocalized_from": "unvocalized:clitic",
      "root": null,
      "gloss": "to shout, to yell",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "tsaaku",
      "caphi_urban": "tsaaku",
      "caphi_raw": null,
-     "maknuune_id": "13079-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "13079-31",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "צַעֲקוּ"
-      },
-      {
-       "id": "13079-14",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "צָעֲקוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "13079-14",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -1059,34 +1042,18 @@
     },
     {
      "surface": "גדר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גָּדֵר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שבורה",

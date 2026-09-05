@@ -705,32 +705,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "והולמס",
@@ -4839,23 +4815,7 @@
      "caphi_urban": "pataxti",
      "caphi_raw": null,
      "maknuune_id": "2296-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2296-9",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פָּתַחְתִּי"
-      },
-      {
-       "id": "12623-7",
-       "root": "",
-       "gloss": "to develop",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פִּתַּחְתִּי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -5314,23 +5274,7 @@
      "caphi_urban": "pataxti",
      "caphi_raw": null,
      "maknuune_id": "2296-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2296-9",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פָּתַחְתִּי"
-      },
-      {
-       "id": "12623-7",
-       "root": "",
-       "gloss": "to develop",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פִּתַּחְתִּי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",
@@ -5672,76 +5616,18 @@
     },
     {
      "surface": "מכר",
-     "lemma": "נִמְכַּר",
-     "form": "נִמְכַּר",
+     "lemma": "מָכַר",
+     "form": "מָכַר",
      "vocalized": "מָכַר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to be sold, to be transferred in exchange for money",
-     "analysis": "VERB:active",
+     "gloss": "to sell",
+     "analysis": "VERB:masculine.past.singular.third-person",
      "caphi": "maxar",
      "caphi_urban": "maxar",
      "caphi_raw": null,
-     "maknuune_id": "6927-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6927-10",
-       "root": "",
-       "gloss": "to be sold, to be transferred in exchange for money",
-       "analysis": "VERB:active",
-       "pointed": "מָכַר"
-      },
-      {
-       "id": "7882-1",
-       "root": "",
-       "gloss": "Familiar, known, recognized.",
-       "analysis": "ADJ",
-       "pointed": "מֻכָּר"
-      },
-      {
-       "id": "10157-1",
-       "root": "",
-       "gloss": "to sell",
-       "analysis": "VERB",
-       "pointed": "מָכַר"
-      },
-      {
-       "id": "10158-1",
-       "root": "",
-       "gloss": "sale",
-       "analysis": "NOUN",
-       "pointed": "מֶכֶר"
-      },
-      {
-       "id": "10159-1",
-       "root": "",
-       "gloss": "acquaintance",
-       "analysis": "NOUN",
-       "pointed": "מַכָּר"
-      },
-      {
-       "id": "10028-23",
-       "root": "נ",
-       "gloss": "to be recognized",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֻכָּר"
-      },
-      {
-       "id": "11747-1",
-       "root": "",
-       "gloss": "as מ- + כַּר: cushion",
-       "analysis": "NOUN",
-       "pointed": "כַּר"
-      },
-      {
-       "id": "5019-6",
-       "root": "",
-       "gloss": "as מ- + כּוֹר: A biblical measure of weight equal to 10 eph",
-       "analysis": "NOUN:alternative",
-       "pointed": "כֹּר"
-      }
-     ]
+     "maknuune_id": "10157-14",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",
@@ -6730,34 +6616,18 @@
     },
     {
      "surface": "ימות",
-     "lemma": "יוֹם",
-     "form": "יוֹם",
-     "vocalized": "יְמוֹת",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "יָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Day: the period between dawn and dusk.",
-     "analysis": "NOUN:construct.plural",
-     "caphi": "ymot-",
-     "caphi_urban": "ymot-",
+     "gloss": "To die.",
+     "analysis": "VERB:future.masculine.singular.third-person",
+     "caphi": "yamut",
+     "caphi_urban": "yamut",
      "caphi_raw": null,
-     "maknuune_id": "161-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "161-8",
-       "root": "",
-       "gloss": "Day: the period between dawn and dusk.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "יְמוֹת־"
-      },
-      {
-       "id": "1923-25",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יָמוּת"
-      }
-     ]
+     "maknuune_id": "1923-25",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מפחד",

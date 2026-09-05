@@ -705,55 +705,18 @@
     },
     {
      "surface": "מרוצה",
-     "lemma": "מְרֻצֶּה",
-     "form": "מְרֻצֶּה",
+     "lemma": "מְרוּצֶּה",
+     "form": "מְרוּצֶּה",
      "vocalized": "מְרוּצֶּה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Satisfied.",
-     "analysis": "ADJ:feminine",
+     "gloss": "defective spelling of מְרוּצֶּה.",
+     "analysis": "ADJ",
      "caphi": "mrutse",
      "caphi_urban": "mrutse",
      "caphi_raw": null,
-     "maknuune_id": "2129-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2129-3",
-       "root": "",
-       "gloss": "Satisfied.",
-       "analysis": "ADJ:feminine",
-       "pointed": "מְרוּצֶּה"
-      },
-      {
-       "id": "9146-1",
-       "root": "",
-       "gloss": "defective spelling of מְרוּצֶּה.",
-       "analysis": "ADJ",
-       "pointed": "מְרוּצֶּה"
-      },
-      {
-       "id": "11440-15",
-       "root": "",
-       "gloss": "A race: a contest of speed, such as a footrace or a car race",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מֵרוֹצָהּ"
-      },
-      {
-       "id": "3009-1",
-       "root": "",
-       "gloss": "as מ- + רוֹצֶה: masculine singular present participle and pr",
-       "analysis": "VERB",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3010-1",
-       "root": "",
-       "gloss": "as מ- + רוֹצָה: feminine singular present participle and pre",
-       "analysis": "VERB",
-       "pointed": "רוֹצָה"
-      }
-     ]
+     "maknuune_id": "9146-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהמסע",
@@ -2084,23 +2047,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "580-1",
-       "root": "",
-       "gloss": "dust",
-       "analysis": "NOUN",
-       "pointed": "אָבָק"
-      },
-      {
-       "id": "581-1",
-       "root": "",
-       "gloss": "A hole in cloth for the insertion of thread; a hole in the e",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "השרפה",

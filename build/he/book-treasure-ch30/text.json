@@ -4628,41 +4628,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מוכן",
@@ -5922,37 +5899,7 @@
      "caphi_urban": "bata",
      "caphi_raw": null,
      "maknuune_id": "3145-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3145-8",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "בָּאתָ"
-      },
-      {
-       "id": "3145-9",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "בָּאת"
-      },
-      {
-       "id": "92-1",
-       "root": "",
-       "gloss": "as ב- + אֵת: Used to introduce a semantically definite di",
-       "analysis": "PREP",
-       "pointed": "אֵת"
-      },
-      {
-       "id": "94-1",
-       "root": "",
-       "gloss": "as ב- + אַתְּ: You, thou: (the feminine singular second-per",
-       "analysis": "PRON",
-       "pointed": "אַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בזמן",
@@ -6018,41 +5965,18 @@
     },
     {
      "surface": "מתים",
-     "lemma": "מְתִים",
-     "form": "מְתִים",
-     "vocalized": "מְתִים",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "מֵתִים",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "men (especially few in number)",
-     "analysis": "NOUN",
-     "caphi": "mtim",
-     "caphi_urban": "mtim",
+     "gloss": "Dead, having died.",
+     "analysis": "ADJ:masculine.plural",
+     "caphi": "metim",
+     "caphi_urban": "metim",
      "caphi_raw": null,
-     "maknuune_id": "13208-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13208-1",
-       "root": "",
-       "gloss": "men (especially few in number)",
-       "analysis": "NOUN",
-       "pointed": "מְתִים"
-      },
-      {
-       "id": "13209-1",
-       "root": "",
-       "gloss": "plural indefinite form of מֵת (met)",
-       "analysis": "NOUN",
-       "pointed": "מֵתִים"
-      },
-      {
-       "id": "1922-4",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "מֵתִים"
-      }
-     ]
+     "maknuune_id": "1922-4",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -7009,25 +6933,8 @@
      "caphi_urban": "sfina",
      "caphi_raw": null,
      "maknuune_id": "9236-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "9236-1",
-       "root": "",
-       "gloss": "ship, boat",
-       "analysis": "NOUN",
-       "pointed": "סְפִינָה"
-      },
-      {
-       "id": "15618-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סְפִינָה"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ימים",

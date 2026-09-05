@@ -1203,37 +1203,7 @@
      "caphi_urban": "kala",
      "caphi_raw": null,
      "maknuune_id": "2933-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2933-3",
-       "root": "",
-       "gloss": "light (of low weight)",
-       "analysis": "ADJ:feminine",
-       "pointed": "קַלָּה"
-      },
-      {
-       "id": "2936-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of קל (kal).",
-       "analysis": "ADJ",
-       "pointed": "קַלָּה"
-      },
-      {
-       "id": "2937-1",
-       "root": "ה",
-       "gloss": "to toast",
-       "analysis": "VERB",
-       "pointed": "קָלָה"
-      },
-      {
-       "id": "2937-30",
-       "root": "ה",
-       "gloss": "to toast",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְלֵה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",
@@ -3180,25 +3150,8 @@
      "caphi_urban": "arye",
      "caphi_raw": null,
      "maknuune_id": "3423-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3423-1",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN",
-       "pointed": "אַרְיֵה"
-      },
-      {
-       "id": "3423-14",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אֲרִיהָ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "והשור",

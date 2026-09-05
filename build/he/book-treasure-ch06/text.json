@@ -1710,30 +1710,7 @@
      "caphi_urban": "sagur",
      "caphi_raw": null,
      "maknuune_id": "7618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7618-1",
-       "root": "",
-       "gloss": "closed",
-       "analysis": "ADJ",
-       "pointed": "סָגוּר"
-      },
-      {
-       "id": "7619-1",
-       "root": "",
-       "gloss": "enclosure, casing",
-       "analysis": "NOUN",
-       "pointed": "סְגוֹר"
-      },
-      {
-       "id": "4567-7",
-       "root": "",
-       "gloss": "To close (a door, a window, or the like).",
-       "analysis": "VERB:participle.passive",
-       "pointed": "סָגוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בחותם",
@@ -3110,57 +3087,19 @@
     },
     {
      "surface": "בכתב",
-     "lemma": "כָּתַב",
-     "form": "כָּתַב",
+     "lemma": "כְּתָב",
+     "form": "כְּתָב",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to write",
-     "analysis": "VERB",
-     "caphi": "katav",
-     "caphi_urban": "katav",
+     "gloss": "writing, script, handwriting",
+     "analysis": "NOUN",
+     "caphi": "ktav",
+     "caphi_urban": "ktav",
      "caphi_raw": null,
-     "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "90-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "היד",
@@ -3377,41 +3316,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לנו",

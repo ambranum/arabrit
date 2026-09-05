@@ -90,23 +90,7 @@
      "caphi_urban": "rxoka",
      "caphi_raw": null,
      "maknuune_id": "1823-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1823-3",
-       "root": "",
-       "gloss": "far, distant; remote",
-       "analysis": "ADJ:feminine",
-       "pointed": "רְחוֹקָה"
-      },
-      {
-       "id": "11189-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רחוק (rakhók).",
-       "analysis": "ADJ",
-       "pointed": "רְחוֹקָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בין",
@@ -410,23 +394,7 @@
      "caphi_urban": "shonim",
      "caphi_raw": null,
      "maknuune_id": "2949-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2949-4",
-       "root": "",
-       "gloss": "Different (from): not the same (as).",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שׁוֹנִים"
-      },
-      {
-       "id": "477-16",
-       "root": "ה",
-       "gloss": "to repeat (to do something an additional time)",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "שׁוֹנִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בשכל",
@@ -3027,36 +2995,19 @@
     },
     {
      "surface": "והבין",
-     "lemma": "בֵּין",
-     "form": "בֵּין",
+     "lemma": "הֵבִין",
+     "form": "הֵבִין",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "between, among, amid",
-     "analysis": "PREP",
-     "caphi": "beyn",
-     "caphi_urban": "beyn",
+     "root": "י",
+     "gloss": "To understand, to have understanding, to be one who understands.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "hevin",
+     "caphi_urban": "hevin",
      "caphi_raw": null,
-     "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3854-11",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שהדרך",
@@ -3769,41 +3720,18 @@
     },
     {
      "surface": "זחל",
-     "lemma": "זַחַל",
-     "form": "זַחַל",
-     "vocalized": "זַחַל",
+     "lemma": "זָחַל",
+     "form": "זָחַל",
+     "vocalized": "זָחַל",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "caterpillar",
-     "analysis": "NOUN",
-     "caphi": "záxal",
-     "caphi_urban": "záxal",
+     "root": "ח",
+     "gloss": "to crawl",
+     "analysis": "VERB",
+     "caphi": "zaxal",
+     "caphi_urban": "zaxal",
      "caphi_raw": null,
-     "maknuune_id": "1816-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1816-1",
-       "root": "",
-       "gloss": "caterpillar",
-       "analysis": "NOUN",
-       "pointed": "זַחַל"
-      },
-      {
-       "id": "1817-1",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB",
-       "pointed": "זָחַל"
-      },
-      {
-       "id": "1817-29",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְחַל"
-      }
-     ]
+     "maknuune_id": "1817-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לנהר",
@@ -3915,51 +3843,7 @@
      "caphi_urban": "himshix",
      "caphi_raw": null,
      "maknuune_id": "7372-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7372-1",
-       "root": "",
-       "gloss": "To continue, to still do.",
-       "analysis": "VERB",
-       "pointed": "הִמְשִׁיךְ"
-      },
-      {
-       "id": "1814-7",
-       "root": "",
-       "gloss": "as ה- + מֶשִׁי: silk",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיְךָ"
-      },
-      {
-       "id": "1814-8",
-       "root": "",
-       "gloss": "as ה- + מֶשִׁי: silk",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיֵךְ"
-      },
-      {
-       "id": "8865-1",
-       "root": "",
-       "gloss": "as הֶמְשֵׁךְ spelled full: continuation, sequel, continuance, resum",
-       "analysis": "NOUN",
-       "pointed": "הֶמְשֵׁיךְ"
-      },
-      {
-       "id": "2313-7",
-       "root": "",
-       "gloss": "as מֶשֶׁךְ spelled full: extent, duration",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּשֶׁיךְ"
-      },
-      {
-       "id": "6857-42",
-       "root": "",
-       "gloss": "as נִמְשַׁךְ spelled full: To continue, to last, to go on",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִמָּשֵׁיךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לשחות",
@@ -4202,25 +4086,8 @@
      "caphi_urban": "tsad",
      "caphi_raw": null,
      "maknuune_id": "7333-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "7333-1",
-       "root": "",
-       "gloss": "A side.",
-       "analysis": "NOUN",
-       "pointed": "צַד"
-      },
-      {
-       "id": "7334-1",
-       "root": "",
-       "gloss": "to hunt",
-       "analysis": "VERB",
-       "pointed": "צָד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "אחד",
@@ -4565,39 +4432,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יה",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יה"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יה"
     }
    ],
    "audio": null
@@ -4674,39 +4510,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יה",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יה"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יה"
     },
     {
      "surface": "טוב",

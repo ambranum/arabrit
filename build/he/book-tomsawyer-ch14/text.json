@@ -1588,53 +1588,16 @@
      "surface": "שתקו",
      "lemma": "שָׁתַק",
      "form": "שָׁתַק",
-     "vocalized": "שִׁתְקוּ",
+     "vocalized": "שָׁתְקוּ",
      "vocalized_from": "lexicon",
      "root": null,
      "gloss": "to shut up, to be silent, to be quiet",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "shitku",
-     "caphi_urban": "shitku",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "shatku",
+     "caphi_urban": "shatku",
      "caphi_raw": null,
-     "maknuune_id": "2515-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2515-41",
-       "root": "",
-       "gloss": "to shut up, to be silent, to be quiet",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "שִׁתְקוּ"
-      },
-      {
-       "id": "9321-42",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "שַׁתְּקוּ"
-      },
-      {
-       "id": "2515-16",
-       "root": "",
-       "gloss": "to shut up, to be silent, to be quiet",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׁתְקוּ"
-      },
-      {
-       "id": "9321-25",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שִׁתְּקוּ"
-      },
-      {
-       "id": "9322-22",
-       "root": "",
-       "gloss": "to be paralysed",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שֻׁתְּקוּ"
-      }
-     ]
+     "maknuune_id": "2515-16",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והבינו",
@@ -3723,32 +3686,8 @@
      "caphi_urban": "yarad",
      "caphi_raw": null,
      "maknuune_id": "2634-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2634-1",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB",
-       "pointed": "יָרַד"
-      },
-      {
-       "id": "2635-1",
-       "root": "",
-       "gloss": "Jared (a man mentioned in the Book of Genesis, a descendant ",
-       "analysis": "NAME",
-       "pointed": "יֶרֶד"
-      },
-      {
-       "id": "2634-25",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵרֵד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "למים",

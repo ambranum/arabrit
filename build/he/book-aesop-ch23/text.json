@@ -330,43 +330,19 @@
     },
     {
      "surface": "בפה",
-     "lemma": "פֹּה",
-     "form": "פֹּה",
+     "lemma": "פֶּה",
+     "form": "פֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "here, this place, at this place, in this place",
-     "analysis": "ADV",
-     "caphi": "po",
-     "caphi_urban": "po",
+     "gloss": "mouth",
+     "analysis": "NOUN",
+     "caphi": "pe",
+     "caphi_urban": "pe",
      "caphi_raw": null,
-     "maknuune_id": "2641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2641-1",
-       "root": "",
-       "gloss": "here, this place, at this place, in this place",
-       "analysis": "ADV",
-       "pointed": "פֹּה"
-      },
-      {
-       "id": "2642-1",
-       "root": "",
-       "gloss": "mouth",
-       "analysis": "NOUN",
-       "pointed": "פֶּה"
-      },
-      {
-       "id": "2643-1",
-       "root": "",
-       "gloss": "Fa: the fourth solfège syllable, representing the note F.",
-       "analysis": "NAME",
-       "pointed": "פָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2642-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -891,23 +867,7 @@
      "caphi_urban": "tsipor",
      "caphi_raw": null,
      "maknuune_id": "1188-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1188-6",
-       "root": "",
-       "gloss": "A small bird, a sparrow.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "צִיפּוֹר"
-      },
-      {
-       "id": "17504-4",
-       "root": "",
-       "gloss": "to reward, to give a bonus or perk",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "צ׳יפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יפה",
@@ -1531,44 +1491,7 @@
      "caphi_urban": "haim",
      "caphi_raw": null,
      "maknuune_id": "10505-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10505-1",
-       "root": "",
-       "gloss": "Interrogative particle: starts a yes-or-no question.",
-       "analysis": "PARTICLE",
-       "pointed": "הַאִם"
-      },
-      {
-       "id": "10506-1",
-       "root": "",
-       "gloss": "ham",
-       "analysis": "NOUN",
-       "pointed": "הַאם"
-      },
-      {
-       "id": "104-14",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָאֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "as ה- + אִם: if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "as ה- + אָב: father (a male parent, especially of a human",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גם",

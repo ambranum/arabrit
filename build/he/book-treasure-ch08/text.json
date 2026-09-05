@@ -44,25 +44,8 @@
      "caphi_urban": "pundak",
      "caphi_raw": null,
      "maknuune_id": "5856-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5856-1",
-       "root": "",
-       "gloss": "An inn: a boardinghouse or guesthouse or hotel.",
-       "analysis": "NOUN",
-       "pointed": "פּוּנְדָק"
-      },
-      {
-       "id": "5857-5",
-       "root": "",
-       "gloss": "Alternative form of the above.",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "פּוּנְדָּק"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "היה",
@@ -1013,23 +996,7 @@
      "caphi_urban": "tsipor",
      "caphi_raw": null,
      "maknuune_id": "1188-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1188-6",
-       "root": "",
-       "gloss": "A small bird, a sparrow.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "צִיפּוֹר"
-      },
-      {
-       "id": "17504-4",
-       "root": "",
-       "gloss": "to reward, to give a bonus or perk",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "צ׳יפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2650,25 +2617,8 @@
      "caphi_urban": "diber",
      "caphi_raw": null,
      "maknuune_id": "2250-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2250-21",
-       "root": "",
-       "gloss": "to speak (say words)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דִּיבֵּר"
-      },
-      {
-       "id": "4827-3",
-       "root": "",
-       "gloss": "to be spoken",
-       "analysis": "VERB:active",
-       "pointed": "דיבר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "על",

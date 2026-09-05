@@ -2591,41 +2591,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מספר",

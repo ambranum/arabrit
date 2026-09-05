@@ -2459,32 +2459,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "מעל",

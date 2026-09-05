@@ -283,25 +283,8 @@
      "caphi_urban": "tsad",
      "caphi_raw": null,
      "maknuune_id": "7333-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "7333-1",
-       "root": "",
-       "gloss": "A side.",
-       "analysis": "NOUN",
-       "pointed": "צַד"
-      },
-      {
-       "id": "7334-1",
-       "root": "",
-       "gloss": "to hunt",
-       "analysis": "VERB",
-       "pointed": "צָד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "השני",
@@ -942,30 +925,7 @@
      "caphi_urban": "ixpat",
      "caphi_raw": null,
      "maknuune_id": "11864-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11864-1",
-       "root": "",
-       "gloss": "Used to indicate someone's care or concern about something",
-       "analysis": "ADV",
-       "pointed": "אִכְפַּת"
-      },
-      {
-       "id": "17425-14",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "אִכַּפְתָּ"
-      },
-      {
-       "id": "17425-16",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "אִכַּפְתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -1861,30 +1821,7 @@
      "caphi_urban": "ixpat",
      "caphi_raw": null,
      "maknuune_id": "11864-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11864-1",
-       "root": "",
-       "gloss": "Used to indicate someone's care or concern about something",
-       "analysis": "ADV",
-       "pointed": "אִכְפַּת"
-      },
-      {
-       "id": "17425-14",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "אִכַּפְתָּ"
-      },
-      {
-       "id": "17425-16",
-       "root": "",
-       "gloss": "to saddle, to attach a saddle",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "אִכַּפְתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -4131,37 +4068,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "77-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "77-3",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:feminine",
-       "pointed": "שחורה"
-      },
-      {
-       "id": "774-14",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חוֹרֶה"
-      },
-      {
-       "id": "774-15",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "חוֹרָה"
-      },
-      {
-       "id": "2865-1",
-       "root": "",
-       "gloss": "as שְׁחֹרָה spelled full: feminine singular indefinite form of שחו",
-       "analysis": "ADJ",
-       "pointed": "שְׁחוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ודגל",
@@ -4476,48 +4383,18 @@
     },
     {
      "surface": "שחורים",
-     "lemma": "שחורים",
-     "form": "שחורים",
+     "lemma": "שָׁחֹר",
+     "form": "שָׁחֹר",
      "vocalized": "שחורים",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "plural indefinite form of שחור (shakhór)",
-     "analysis": "NOUN",
-     "caphi": "shkhorím",
-     "caphi_urban": "shkhorím",
+     "gloss": "black",
+     "analysis": "ADJ:masculine.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "11608-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11608-1",
-       "root": "",
-       "gloss": "plural indefinite form of שחור (shakhór)",
-       "analysis": "NOUN",
-       "pointed": "שחורים"
-      },
-      {
-       "id": "77-5",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שחורים"
-      },
-      {
-       "id": "774-16",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "חוֹרִים"
-      },
-      {
-       "id": "1961-29",
-       "root": "",
-       "gloss": "as ש- + חֹר: hole",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "חורים"
-      }
-     ]
+     "maknuune_id": "77-5",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ובקי",
@@ -4632,25 +4509,8 @@
      "caphi_urban": "diber",
      "caphi_raw": null,
      "maknuune_id": "2250-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2250-21",
-       "root": "",
-       "gloss": "to speak (say words)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דִּיבֵּר"
-      },
-      {
-       "id": "4827-3",
-       "root": "",
-       "gloss": "to be spoken",
-       "analysis": "VERB:active",
-       "pointed": "דיבר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עם",

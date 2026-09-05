@@ -620,25 +620,8 @@
      "caphi_urban": "tsad",
      "caphi_raw": null,
      "maknuune_id": "7333-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "7333-1",
-       "root": "",
-       "gloss": "A side.",
-       "analysis": "NOUN",
-       "pointed": "צַד"
-      },
-      {
-       "id": "7334-1",
-       "root": "",
-       "gloss": "to hunt",
-       "analysis": "VERB",
-       "pointed": "צָד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "השני",

@@ -1382,37 +1382,7 @@
      "caphi_urban": "rabim",
      "caphi_raw": null,
      "maknuune_id": "4002-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4002-1",
-       "root": "",
-       "gloss": "many people",
-       "analysis": "NOUN",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "4004-1",
-       "root": "",
-       "gloss": "Masculine plural present participle and present tense of רָב",
-       "analysis": "VERB",
-       "pointed": "רָבִים"
-      },
-      {
-       "id": "28-4",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "33-16",
-       "root": "",
-       "gloss": "to contend, dispute",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "רָבִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהם",
@@ -4133,25 +4103,8 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "היה",

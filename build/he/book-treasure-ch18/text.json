@@ -358,25 +358,8 @@
      "caphi_urban": "sira",
      "caphi_raw": null,
      "maknuune_id": "1860-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1860-1",
-       "root": "",
-       "gloss": "boat",
-       "analysis": "NOUN",
-       "pointed": "סִירָה"
-      },
-      {
-       "id": "11585-14",
-       "root": "",
-       "gloss": "a generic pot, tub, vat, skeel for household or ritual purpo",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "סִירָהּ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -426,48 +409,19 @@
     },
     {
      "surface": "הלבן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
-     "vocalized": "הַלֹּבֶן",
-     "vocalized_from": "lexicon",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -2708,30 +2662,13 @@
      "vocalized_from": "unvocalized:clitic",
      "root": null,
      "gloss": "to shout, to yell",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "tsaaku",
      "caphi_urban": "tsaaku",
      "caphi_raw": null,
-     "maknuune_id": "13079-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "13079-31",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "צַעֲקוּ"
-      },
-      {
-       "id": "13079-14",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "צָעֲקוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "13079-14",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -4040,32 +3977,8 @@
      "caphi_urban": "rove",
      "caphi_raw": null,
      "maknuune_id": "1509-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1509-1",
-       "root": "",
-       "gloss": "gun, rifle",
-       "analysis": "NOUN",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-14",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-15",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹבָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלו",

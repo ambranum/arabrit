@@ -215,37 +215,7 @@
      "caphi_urban": "naxash",
      "caphi_raw": null,
      "maknuune_id": "1935-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1935-1",
-       "root": "",
-       "gloss": "snake (any of the suborder Serpentes of legless reptiles wit",
-       "analysis": "NOUN",
-       "pointed": "נָחָשׁ"
-      },
-      {
-       "id": "1936-1",
-       "root": "",
-       "gloss": "magic, sorcery, spell, enchantment, augury",
-       "analysis": "NOUN",
-       "pointed": "נַחַשׁ"
-      },
-      {
-       "id": "1937-1",
-       "root": "",
-       "gloss": "defective spelling of ניחש",
-       "analysis": "VERB",
-       "pointed": "נִחֵשׁ"
-      },
-      {
-       "id": "5529-38",
-       "root": "ח",
-       "gloss": "to guess",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נַחֵשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",

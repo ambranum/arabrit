@@ -226,48 +226,18 @@
     },
     {
      "surface": "שחורים",
-     "lemma": "שחורים",
-     "form": "שחורים",
+     "lemma": "שָׁחֹר",
+     "form": "שָׁחֹר",
      "vocalized": "שחורים",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "plural indefinite form of שחור (shakhór)",
-     "analysis": "NOUN",
-     "caphi": "shkhorím",
-     "caphi_urban": "shkhorím",
+     "gloss": "black",
+     "analysis": "ADJ:masculine.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "11608-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11608-1",
-       "root": "",
-       "gloss": "plural indefinite form of שחור (shakhór)",
-       "analysis": "NOUN",
-       "pointed": "שחורים"
-      },
-      {
-       "id": "77-5",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שחורים"
-      },
-      {
-       "id": "774-16",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "חוֹרִים"
-      },
-      {
-       "id": "1961-29",
-       "root": "",
-       "gloss": "as ש- + חֹר: hole",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "חורים"
-      }
-     ]
+     "maknuune_id": "77-5",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואז",
@@ -711,62 +681,18 @@
     },
     {
      "surface": "עבדו",
-     "lemma": "עַבְדּוֹ",
-     "form": "עַבְדּוֹ",
-     "vocalized": "עַבְדּוֹ",
+     "lemma": "עָבְדוּ",
+     "form": "עָבְדוּ",
+     "vocalized": "עָבְדוּ",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "singular form of עֶבֶד (éved) with third-person masculine singular personal pronoun as possessor: his slave.",
-     "analysis": "NOUN",
-     "caphi": "avdo",
-     "caphi_urban": "avdo",
+     "gloss": "Third-person plural past (suffix conjugation) of עָבַד (avád).",
+     "analysis": "VERB",
+     "caphi": "avdu",
+     "caphi_urban": "avdu",
      "caphi_raw": null,
-     "maknuune_id": "5929-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5929-1",
-       "root": "",
-       "gloss": "singular form of עֶבֶד (éved) with third-person masculine si",
-       "analysis": "NOUN",
-       "pointed": "עַבְדּוֹ"
-      },
-      {
-       "id": "5930-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of עָבַד (avád",
-       "analysis": "VERB",
-       "pointed": "עָבְדוּ"
-      },
-      {
-       "id": "5931-1",
-       "root": "",
-       "gloss": "Masculine plural imperative of עָבַד (avád).",
-       "analysis": "VERB",
-       "pointed": "עִבְדוּ"
-      },
-      {
-       "id": "5932-1",
-       "root": "",
-       "gloss": "Third-person masculine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "עֲבָדוֹ"
-      },
-      {
-       "id": "5933-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of עִבֵּד (ibé",
-       "analysis": "VERB",
-       "pointed": "עִבְּדוּ"
-      },
-      {
-       "id": "5934-1",
-       "root": "",
-       "gloss": "Masculine plural imperative of עִבֵּד (ibéd)",
-       "analysis": "VERB",
-       "pointed": "עַבְּדוּ"
-      }
-     ]
+     "maknuune_id": "5930-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כל",
@@ -2189,23 +2115,7 @@
      "caphi_urban": "rxoka",
      "caphi_raw": null,
      "maknuune_id": "1823-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1823-3",
-       "root": "",
-       "gloss": "far, distant; remote",
-       "analysis": "ADJ:feminine",
-       "pointed": "רְחוֹקָה"
-      },
-      {
-       "id": "11189-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רחוק (rakhók).",
-       "analysis": "ADJ",
-       "pointed": "רְחוֹקָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והעשן",
@@ -2682,50 +2592,19 @@
     },
     {
      "surface": "וחיכו",
-     "lemma": "חִיֵּךְ",
-     "form": "חִיֵּךְ",
+     "lemma": "חִכָּה",
+     "form": "חִכָּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח.י",
-     "gloss": "to smile",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "xayxu",
-     "caphi_urban": "xayxu",
+     "root": "ה",
+     "gloss": "to wait, wait for",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4653-40",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4653-40",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "חַיְּכוּ"
-      },
-      {
-       "id": "4653-23",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חִיְּכוּ"
-      },
-      {
-       "id": "11934-18",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "חיכו"
-      },
-      {
-       "id": "7703-20",
-       "root": "ה",
-       "gloss": "to wait, wait for",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חיכו"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "7703-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בשקט",

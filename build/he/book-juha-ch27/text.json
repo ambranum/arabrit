@@ -453,55 +453,18 @@
     },
     {
      "surface": "חור",
-     "lemma": "חוּר",
-     "form": "חוּר",
-     "vocalized": "חוּר",
+     "lemma": "חֹר",
+     "form": "חֹר",
+     "vocalized": "חוֹר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fine white cloth",
-     "analysis": "NOUN",
-     "caphi": "xur",
-     "caphi_urban": "xur",
+     "gloss": "hole",
+     "analysis": "NOUN:indefinite.singular",
+     "caphi": "xor",
+     "caphi_urban": "xor",
      "caphi_raw": null,
-     "maknuune_id": "1963-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1963-1",
-       "root": "",
-       "gloss": "fine white cloth",
-       "analysis": "NOUN",
-       "pointed": "חוּר"
-      },
-      {
-       "id": "1964-1",
-       "root": "",
-       "gloss": "defective spelling of חוור",
-       "analysis": "NOUN",
-       "pointed": "חַוָּר"
-      },
-      {
-       "id": "1965-1",
-       "root": "",
-       "gloss": "defective spelling of חוור",
-       "analysis": "VERB",
-       "pointed": "חָוַר"
-      },
-      {
-       "id": "1966-1",
-       "root": "",
-       "gloss": "defective spelling of חיוור",
-       "analysis": "VERB",
-       "pointed": "חִוֵּר"
-      },
-      {
-       "id": "1961-3",
-       "root": "",
-       "gloss": "hole",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹר"
-      }
-     ]
+     "maknuune_id": "1961-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פתוח",

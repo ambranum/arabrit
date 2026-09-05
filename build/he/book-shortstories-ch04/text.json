@@ -1878,32 +1878,8 @@
      "caphi_urban": "rove",
      "caphi_raw": null,
      "maknuune_id": "1509-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1509-1",
-       "root": "",
-       "gloss": "gun, rifle",
-       "analysis": "NOUN",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-14",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-15",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹבָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שהוא",
@@ -5396,37 +5372,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "2961-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-3",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ניירות"
-      },
-      {
-       "id": "4198-1",
-       "root": "",
-       "gloss": "as נְיָרוֹת spelled full: plural indefinite form of נייר / נְיָר (",
-       "analysis": "NOUN",
-       "pointed": "נְיָירוֹת"
-      },
-      {
-       "id": "3774-1",
-       "root": "",
-       "gloss": "as נֵרוֹת spelled full: plural indefinite form of נֵר (ner): can",
-       "analysis": "NOUN",
-       "pointed": "נֵיירוֹת"
-      },
-      {
-       "id": "11333-5",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ:feminine.plural",
-       "pointed": "נִיירוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שהוא",
@@ -7122,25 +7068,8 @@
      "caphi_urban": "yafe",
      "caphi_raw": null,
      "maknuune_id": "757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "757-1",
-       "root": "",
-       "gloss": "beautiful, comely, fair, goodly, pleasant",
-       "analysis": "ADJ",
-       "pointed": "יָפֶה"
-      },
-      {
-       "id": "757-3",
-       "root": "",
-       "gloss": "beautiful, comely, fair, goodly, pleasant",
-       "analysis": "ADJ:feminine",
-       "pointed": "יָפָה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null

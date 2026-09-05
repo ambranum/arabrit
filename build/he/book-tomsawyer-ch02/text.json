@@ -224,34 +224,18 @@
     },
     {
      "surface": "גדר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גָּדֵר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ארוכה",
@@ -360,37 +344,7 @@
      "caphi_urban": "tséva",
      "caphi_raw": null,
      "maknuune_id": "1213-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1213-1",
-       "root": "",
-       "gloss": "color, colour",
-       "analysis": "NOUN",
-       "pointed": "צֶבַע"
-      },
-      {
-       "id": "1214-1",
-       "root": "",
-       "gloss": "a (male) painter.",
-       "analysis": "NOUN",
-       "pointed": "צַבָּע"
-      },
-      {
-       "id": "1215-1",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB",
-       "pointed": "צָבַע"
-      },
-      {
-       "id": "1215-30",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְבַע"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לבן",
@@ -591,37 +545,7 @@
      "caphi_urban": "tséva",
      "caphi_raw": null,
      "maknuune_id": "1213-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1213-1",
-       "root": "",
-       "gloss": "color, colour",
-       "analysis": "NOUN",
-       "pointed": "צֶבַע"
-      },
-      {
-       "id": "1214-1",
-       "root": "",
-       "gloss": "a (male) painter.",
-       "analysis": "NOUN",
-       "pointed": "צַבָּע"
-      },
-      {
-       "id": "1215-1",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB",
-       "pointed": "צָבַע"
-      },
-      {
-       "id": "1215-30",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְבַע"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -659,37 +583,7 @@
      "caphi_urban": "tséva",
      "caphi_raw": null,
      "maknuune_id": "1213-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1213-1",
-       "root": "",
-       "gloss": "color, colour",
-       "analysis": "NOUN",
-       "pointed": "צֶבַע"
-      },
-      {
-       "id": "1214-1",
-       "root": "",
-       "gloss": "a (male) painter.",
-       "analysis": "NOUN",
-       "pointed": "צַבָּע"
-      },
-      {
-       "id": "1215-1",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB",
-       "pointed": "צָבַע"
-      },
-      {
-       "id": "1215-30",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְבַע"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קו",
@@ -704,23 +598,7 @@
      "caphi_urban": "kav",
      "caphi_raw": null,
      "maknuune_id": "470-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "470-1",
-       "root": "",
-       "gloss": "line",
-       "analysis": "NOUN",
-       "pointed": "קַו"
-      },
-      {
-       "id": "470-8",
-       "root": "",
-       "gloss": "line",
-       "analysis": "NOUN:alternative",
-       "pointed": "קָו"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחד",
@@ -1016,46 +894,8 @@
      "caphi_urban": "yéled",
      "caphi_raw": null,
      "maknuune_id": "1042-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1042-1",
-       "root": "",
-       "gloss": "a (male) child, a (male) kid, a boy (a male child)",
-       "analysis": "NOUN",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "1043-1",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1088-4",
-       "root": "",
-       "gloss": "girl (female child)",
-       "analysis": "NOUN:masculine",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "8931-5",
-       "root": "י",
-       "gloss": "to be born",
-       "analysis": "VERB:active",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1043-26",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵלֵד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "שיצבע",
@@ -1261,25 +1101,8 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1471-1",
-       "root": "",
-       "gloss": "a moment (brief, unspecified amount of time)",
-       "analysis": "NOUN",
-       "pointed": "רֶגַע"
-      },
-      {
-       "id": "1473-1",
-       "root": "",
-       "gloss": "defective spelling of רוגע",
-       "analysis": "NOUN",
-       "pointed": "רֹגַע"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "הזה",
@@ -2044,51 +1867,7 @@
      "caphi_urban": "himshix",
      "caphi_raw": null,
      "maknuune_id": "7372-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7372-1",
-       "root": "",
-       "gloss": "To continue, to still do.",
-       "analysis": "VERB",
-       "pointed": "הִמְשִׁיךְ"
-      },
-      {
-       "id": "1814-7",
-       "root": "",
-       "gloss": "as ה- + מֶשִׁי: silk",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיְךָ"
-      },
-      {
-       "id": "1814-8",
-       "root": "",
-       "gloss": "as ה- + מֶשִׁי: silk",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיֵךְ"
-      },
-      {
-       "id": "8865-1",
-       "root": "",
-       "gloss": "as הֶמְשֵׁךְ spelled full: continuation, sequel, continuance, resum",
-       "analysis": "NOUN",
-       "pointed": "הֶמְשֵׁיךְ"
-      },
-      {
-       "id": "2313-7",
-       "root": "",
-       "gloss": "as מֶשֶׁךְ spelled full: extent, duration",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּשֶׁיךְ"
-      },
-      {
-       "id": "6857-42",
-       "root": "",
-       "gloss": "as נִמְשַׁךְ spelled full: To continue, to last, to go on",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִמָּשֵׁיךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לצבוע",
@@ -2447,34 +2226,18 @@
     },
     {
      "surface": "גדר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גָּדֵר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2630,34 +2393,18 @@
     },
     {
      "surface": "גדר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גָּדֵר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחד",
@@ -3688,37 +3435,7 @@
      "caphi_urban": "tséva",
      "caphi_raw": null,
      "maknuune_id": "1213-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1213-1",
-       "root": "",
-       "gloss": "color, colour",
-       "analysis": "NOUN",
-       "pointed": "צֶבַע"
-      },
-      {
-       "id": "1214-1",
-       "root": "",
-       "gloss": "a (male) painter.",
-       "analysis": "NOUN",
-       "pointed": "צַבָּע"
-      },
-      {
-       "id": "1215-1",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB",
-       "pointed": "צָבַע"
-      },
-      {
-       "id": "1215-30",
-       "root": "ע",
-       "gloss": "painted; (he) colored, (he) dyed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְבַע"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בשמש",
@@ -4711,48 +4428,18 @@
     },
     {
      "surface": "תעשה",
-     "lemma": "תַּעֲשֶׂה",
-     "form": "תַּעֲשֶׂה",
+     "lemma": "עָשָׂה",
+     "form": "עָשָׂה",
      "vocalized": "תַּעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of עָשָׂה (asá).",
-     "analysis": "VERB",
+     "root": "ע.ה",
+     "gloss": "To do (to perform an action, to accomplish a thing).",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "taase",
      "caphi_urban": "taase",
      "caphi_raw": null,
-     "maknuune_id": "7422-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7422-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תַּעֲשֶׂה"
-      },
-      {
-       "id": "7423-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תֵּעָשֶׂה"
-      },
-      {
-       "id": "565-24",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּעֲשֶׂה"
-      },
-      {
-       "id": "7424-25",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֵּעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "565-24",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",

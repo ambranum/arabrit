@@ -1581,76 +1581,19 @@
     },
     {
      "surface": "בזה",
-     "lemma": "בָּזָה",
-     "form": "בָּזָה",
-     "vocalized": "בָּזָה",
-     "vocalized_from": "lexicon",
+     "lemma": "זֶה",
+     "form": "זֶה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "Feminine singular present participle and present tense of בָּז (báz).",
-     "analysis": "VERB",
-     "caphi": "báza",
-     "caphi_urban": "báza",
+     "gloss": "this",
+     "analysis": "DET",
+     "caphi": "ze",
+     "caphi_urban": "ze",
      "caphi_raw": null,
-     "maknuune_id": "14885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14885-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of בָ",
-       "analysis": "VERB",
-       "pointed": "בָּזָה"
-      },
-      {
-       "id": "14886-1",
-       "root": "",
-       "gloss": "To degrade, to despise, to abuse: defective spelling of ביזה",
-       "analysis": "VERB",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "14887-1",
-       "root": "",
-       "gloss": "To be degraded, to be despised, to be abused: defective spel",
-       "analysis": "VERB",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14889-1",
-       "root": "",
-       "gloss": "singular form of בַּז (báz) with third-person feminine singu",
-       "analysis": "NOUN",
-       "pointed": "בַּזָּהּ"
-      },
-      {
-       "id": "14890-4",
-       "root": "ה",
-       "gloss": "To degrade, to despise, to abuse.",
-       "analysis": "VERB:passive",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14892-4",
-       "root": "ה",
-       "gloss": "To be degraded, to be despised, to be abused.",
-       "analysis": "VERB:active",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "as ב- + זֶה: this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "as ב- + זוֹ: This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ]
+     "maknuune_id": "2600-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ואתה",

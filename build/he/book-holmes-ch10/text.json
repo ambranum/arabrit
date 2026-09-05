@@ -2357,23 +2357,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "580-1",
-       "root": "",
-       "gloss": "dust",
-       "analysis": "NOUN",
-       "pointed": "אָבָק"
-      },
-      {
-       "id": "581-1",
-       "root": "",
-       "gloss": "A hole in cloth for the insertion of thread; a hole in the e",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וכתמים",
@@ -2915,36 +2899,19 @@
     },
     {
      "surface": "השיער",
-     "lemma": "שִׁעֵר",
-     "form": "שִׁעֵר",
+     "lemma": "שֵׂעָר",
+     "form": "שֵׂעָר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "assume, suppose, imagine",
-     "analysis": "VERB:masculine.past.singular.third-person",
-     "caphi": "shier",
-     "caphi_urban": "shier",
+     "gloss": "hair",
+     "analysis": "NOUN:alternative",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "2337-18",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "2337-18",
-       "root": "",
-       "gloss": "assume, suppose, imagine",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "שִׁיעֵר"
-      },
-      {
-       "id": "2119-31",
-       "root": "",
-       "gloss": "hair",
-       "analysis": "NOUN:alternative",
-       "pointed": "שיער"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "2119-31",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלו",
@@ -3126,25 +3093,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הפסיקה",
@@ -4373,25 +4323,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שאלתי",
@@ -5358,37 +5291,7 @@
      "caphi_urban": "tire",
      "caphi_raw": null,
      "maknuune_id": "560-22",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-22",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּרְאֶה"
-      },
-      {
-       "id": "4906-24",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּרְאֶה"
-      },
-      {
-       "id": "5750-35",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֻּרְאֶה"
-      },
-      {
-       "id": "6841-24",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֵּרָאֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מה",

@@ -7237,25 +7237,8 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הָיָה",

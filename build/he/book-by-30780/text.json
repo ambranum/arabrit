@@ -1643,23 +1643,7 @@
      "caphi_urban": "shonim",
      "caphi_raw": null,
      "maknuune_id": "2949-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2949-4",
-       "root": "",
-       "gloss": "Different (from): not the same (as).",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שׁוֹנִים"
-      },
-      {
-       "id": "477-16",
-       "root": "ה",
-       "gloss": "to repeat (to do something an additional time)",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "שׁוֹנִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s5.mp3"
@@ -5256,48 +5240,19 @@
     },
     {
      "surface": "הַלָּבָן",
-     "lemma": "לֹבֶן",
-     "form": "לֹבֶן",
+     "lemma": "לָבָן",
+     "form": "לָבָן",
      "vocalized": "הַלָּבָן",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "whiteness",
-     "analysis": "NOUN:definite.singular",
-     "caphi": "haloven",
-     "caphi_urban": "haloven",
+     "gloss": "white (color)",
+     "analysis": "ADJ",
+     "caphi": "lavan",
+     "caphi_urban": "lavan",
      "caphi_raw": null,
-     "maknuune_id": "9960-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9960-10",
-       "root": "",
-       "gloss": "whiteness",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַלֹּבֶן"
-      },
-      {
-       "id": "5444-28",
-       "root": "",
-       "gloss": "To bleach, to whiten, to make white, to become white.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַלְבֵּן"
-      },
-      {
-       "id": "1400-1",
-       "root": "",
-       "gloss": "as ה- + לָבָן: white (color)",
-       "analysis": "ADJ",
-       "pointed": "לָבָן"
-      },
-      {
-       "id": "1403-1",
-       "root": "",
-       "gloss": "as ה- + לֻבַּן: defective spelling of לובן",
-       "analysis": "VERB",
-       "pointed": "לֻבַּן"
-      }
-     ]
+     "maknuune_id": "1400-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עֲדַיִן",
@@ -5726,41 +5681,18 @@
     },
     {
      "surface": "לָשׁוּב",
-     "lemma": "שָׁב",
-     "form": "שָׁב",
+     "lemma": "לָשׁוּב",
+     "form": "לָשׁוּב",
      "vocalized": "לָשׁוּב",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "to return (to go back to a place or person)",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "to-infinitive of שָׁב (sháv).",
+     "analysis": "VERB",
      "caphi": "lashuv",
      "caphi_urban": "lashuv",
      "caphi_raw": null,
-     "maknuune_id": "6378-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6378-3",
-       "root": "ו",
-       "gloss": "to return (to go back to a place or person)",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "7531-1",
-       "root": "",
-       "gloss": "to-infinitive of שָׁב (sháv).",
-       "analysis": "VERB",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "1053-1",
-       "root": "",
-       "gloss": "as ל- + שׁוּב: again",
-       "analysis": "ADV",
-       "pointed": "שׁוּב"
-      }
-     ]
+     "maknuune_id": "7531-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְאַרְצוֹת",
@@ -7507,41 +7439,18 @@
     },
     {
      "surface": "לָשׁוּב",
-     "lemma": "שָׁב",
-     "form": "שָׁב",
+     "lemma": "לָשׁוּב",
+     "form": "לָשׁוּב",
      "vocalized": "לָשׁוּב",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "to return (to go back to a place or person)",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "to-infinitive of שָׁב (sháv).",
+     "analysis": "VERB",
      "caphi": "lashuv",
      "caphi_urban": "lashuv",
      "caphi_raw": null,
-     "maknuune_id": "6378-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6378-3",
-       "root": "ו",
-       "gloss": "to return (to go back to a place or person)",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "7531-1",
-       "root": "",
-       "gloss": "to-infinitive of שָׁב (sháv).",
-       "analysis": "VERB",
-       "pointed": "לָשׁוּב"
-      },
-      {
-       "id": "1053-1",
-       "root": "",
-       "gloss": "as ל- + שׁוּב: again",
-       "analysis": "ADV",
-       "pointed": "שׁוּב"
-      }
-     ]
+     "maknuune_id": "7531-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְמוֹלַדְתֵּנוּ",

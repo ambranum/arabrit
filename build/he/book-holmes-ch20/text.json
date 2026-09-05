@@ -1089,53 +1089,8 @@
      "caphi_urban": "pésel",
      "caphi_raw": null,
      "maknuune_id": "4927-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4927-1",
-       "root": "",
-       "gloss": "A statue, a sculpture",
-       "analysis": "NOUN",
-       "pointed": "פֶּסֶל"
-      },
-      {
-       "id": "4928-1",
-       "root": "",
-       "gloss": "A sculptor.",
-       "analysis": "NOUN",
-       "pointed": "פַּסָּל"
-      },
-      {
-       "id": "4929-1",
-       "root": "",
-       "gloss": "defective spelling of פיסל",
-       "analysis": "VERB",
-       "pointed": "פִּסֵּל"
-      },
-      {
-       "id": "4930-1",
-       "root": "",
-       "gloss": "to disqualify, invalidate, rule out",
-       "analysis": "VERB",
-       "pointed": "פָּסַל"
-      },
-      {
-       "id": "8761-4",
-       "root": "",
-       "gloss": "A female sculptor.",
-       "analysis": "NOUN:masculine",
-       "pointed": "פַּסָּל"
-      },
-      {
-       "id": "4930-39",
-       "root": "",
-       "gloss": "to disqualify, invalidate, rule out",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּסֹל"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "היה",
@@ -1165,44 +1120,7 @@
      "caphi_urban": "shavur",
      "caphi_raw": null,
      "maknuune_id": "4650-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4650-1",
-       "root": "",
-       "gloss": "Broken: not intact.",
-       "analysis": "ADJ",
-       "pointed": "שָׁבוּר"
-      },
-      {
-       "id": "449-3",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:participle.passive",
-       "pointed": "שָׁבוּר"
-      },
-      {
-       "id": "452-5",
-       "root": "",
-       "gloss": "to wait",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "שִׂבּוּר"
-      },
-      {
-       "id": "4302-1",
-       "root": "",
-       "gloss": "as ש- + בּוֹר: hole, pit",
-       "analysis": "NOUN",
-       "pointed": "בּוֹר"
-      },
-      {
-       "id": "4303-1",
-       "root": "",
-       "gloss": "as ש- + בּוּר: fallow, uncultivated land",
-       "analysis": "NOUN",
-       "pointed": "בּוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1441,44 +1359,7 @@
      "caphi_urban": "badak",
      "caphi_raw": null,
      "maknuune_id": "2300-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2300-1",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "5189-3",
-       "root": "",
-       "gloss": "To be tested, to be examined.",
-       "analysis": "VERB:active",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "2300-39",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּדֹק"
-      },
-      {
-       "id": "4030-1",
-       "root": "",
-       "gloss": "as ב- + דַּק: thin",
-       "analysis": "ADJ",
-       "pointed": "דַּק"
-      },
-      {
-       "id": "4031-1",
-       "root": "",
-       "gloss": "as ב- + דֹּק: defective spelling of דוק",
-       "analysis": "NOUN",
-       "pointed": "דֹּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -3762,62 +3643,18 @@
     },
     {
      "surface": "עבדו",
-     "lemma": "עַבְדּוֹ",
-     "form": "עַבְדּוֹ",
-     "vocalized": "עַבְדּוֹ",
+     "lemma": "עָבְדוּ",
+     "form": "עָבְדוּ",
+     "vocalized": "עָבְדוּ",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "singular form of עֶבֶד (éved) with third-person masculine singular personal pronoun as possessor: his slave.",
-     "analysis": "NOUN",
-     "caphi": "avdo",
-     "caphi_urban": "avdo",
+     "gloss": "Third-person plural past (suffix conjugation) of עָבַד (avád).",
+     "analysis": "VERB",
+     "caphi": "avdu",
+     "caphi_urban": "avdu",
      "caphi_raw": null,
-     "maknuune_id": "5929-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5929-1",
-       "root": "",
-       "gloss": "singular form of עֶבֶד (éved) with third-person masculine si",
-       "analysis": "NOUN",
-       "pointed": "עַבְדּוֹ"
-      },
-      {
-       "id": "5930-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of עָבַד (avád",
-       "analysis": "VERB",
-       "pointed": "עָבְדוּ"
-      },
-      {
-       "id": "5931-1",
-       "root": "",
-       "gloss": "Masculine plural imperative of עָבַד (avád).",
-       "analysis": "VERB",
-       "pointed": "עִבְדוּ"
-      },
-      {
-       "id": "5932-1",
-       "root": "",
-       "gloss": "Third-person masculine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "עֲבָדוֹ"
-      },
-      {
-       "id": "5933-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of עִבֵּד (ibé",
-       "analysis": "VERB",
-       "pointed": "עִבְּדוּ"
-      },
-      {
-       "id": "5934-1",
-       "root": "",
-       "gloss": "Masculine plural imperative of עִבֵּד (ibéd)",
-       "analysis": "VERB",
-       "pointed": "עַבְּדוּ"
-      }
-     ]
+     "maknuune_id": "5930-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איטלקים",
@@ -4040,32 +3877,8 @@
      "caphi_urban": "étsel",
      "caphi_raw": null,
      "maknuune_id": "4431-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-נו",
-     "options": [
-      {
-       "id": "4431-1",
-       "root": "",
-       "gloss": "At or to the home or office of (a person), or the like.",
-       "analysis": "PREP",
-       "pointed": "אֵצֶל"
-      },
-      {
-       "id": "10026-31",
-       "root": "נ",
-       "gloss": "to be rescued",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֻצַּל"
-      },
-      {
-       "id": "11022-22",
-       "root": "ע",
-       "gloss": "to shade, to cast a shadow (to shield from light)",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אָצֵל"
-      }
-     ],
-     "_cut_for_prompt": "-נו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-נו"
     },
     {
      "surface": "והוא",

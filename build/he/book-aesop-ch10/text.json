@@ -498,55 +498,18 @@
     },
     {
      "surface": "חיות",
-     "lemma": "חִיּוּת",
-     "form": "חִיּוּת",
-     "vocalized": "חִיּוּת",
+     "lemma": "חַיּוֹת",
+     "form": "חַיּוֹת",
+     "vocalized": "חַיּוֹת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "life, lifespan",
+     "gloss": "plural indefinite form of חַיָּה",
      "analysis": "NOUN",
-     "caphi": "xiyut",
-     "caphi_urban": "xiyut",
+     "caphi": "xayot",
+     "caphi_urban": "xayot",
      "caphi_raw": null,
-     "maknuune_id": "13054-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13054-1",
-       "root": "",
-       "gloss": "life, lifespan",
-       "analysis": "NOUN",
-       "pointed": "חִיּוּת"
-      },
-      {
-       "id": "13055-1",
-       "root": "",
-       "gloss": "plural indefinite form of חַיָּה",
-       "analysis": "NOUN",
-       "pointed": "חַיּוֹת"
-      },
-      {
-       "id": "13056-1",
-       "root": "",
-       "gloss": "plural construct state form of חיה",
-       "analysis": "NOUN",
-       "pointed": "חַיּוֹת־"
-      },
-      {
-       "id": "880-5",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:feminine.plural",
-       "pointed": "חַיּוֹת"
-      },
-      {
-       "id": "2655-3",
-       "root": "",
-       "gloss": "animal (organism other than man)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "חַיּוֹת"
-      }
-     ]
+     "maknuune_id": "13055-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושאל",
@@ -1935,43 +1898,19 @@
     },
     {
      "surface": "בפה",
-     "lemma": "פֹּה",
-     "form": "פֹּה",
+     "lemma": "פֶּה",
+     "form": "פֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "here, this place, at this place, in this place",
-     "analysis": "ADV",
-     "caphi": "po",
-     "caphi_urban": "po",
+     "gloss": "mouth",
+     "analysis": "NOUN",
+     "caphi": "pe",
+     "caphi_urban": "pe",
      "caphi_raw": null,
-     "maknuune_id": "2641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2641-1",
-       "root": "",
-       "gloss": "here, this place, at this place, in this place",
-       "analysis": "ADV",
-       "pointed": "פֹּה"
-      },
-      {
-       "id": "2642-1",
-       "root": "",
-       "gloss": "mouth",
-       "analysis": "NOUN",
-       "pointed": "פֶּה"
-      },
-      {
-       "id": "2643-1",
-       "root": "",
-       "gloss": "Fa: the fourth solfège syllable, representing the note F.",
-       "analysis": "NAME",
-       "pointed": "פָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2642-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלי",

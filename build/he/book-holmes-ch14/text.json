@@ -575,57 +575,19 @@
     },
     {
      "surface": "בכתב",
-     "lemma": "כָּתַב",
-     "form": "כָּתַב",
+     "lemma": "כְּתָב",
+     "form": "כְּתָב",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to write",
-     "analysis": "VERB",
-     "caphi": "katav",
-     "caphi_urban": "katav",
+     "gloss": "writing, script, handwriting",
+     "analysis": "NOUN",
+     "caphi": "ktav",
+     "caphi_urban": "ktav",
      "caphi_raw": null,
-     "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "90-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "היד",
@@ -1115,44 +1077,7 @@
      "caphi_urban": "badak",
      "caphi_raw": null,
      "maknuune_id": "2300-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2300-1",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "5189-3",
-       "root": "",
-       "gloss": "To be tested, to be examined.",
-       "analysis": "VERB:active",
-       "pointed": "בָּדַק"
-      },
-      {
-       "id": "2300-39",
-       "root": "",
-       "gloss": "to check, examine, verify",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּדֹק"
-      },
-      {
-       "id": "4030-1",
-       "root": "",
-       "gloss": "as ב- + דַּק: thin",
-       "analysis": "ADJ",
-       "pointed": "דַּק"
-      },
-      {
-       "id": "4031-1",
-       "root": "",
-       "gloss": "as ב- + דֹּק: defective spelling of דוק",
-       "analysis": "NOUN",
-       "pointed": "דֹּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -1402,37 +1327,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "77-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "77-3",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:feminine",
-       "pointed": "שחורה"
-      },
-      {
-       "id": "774-14",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חוֹרֶה"
-      },
-      {
-       "id": "774-15",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "חוֹרָה"
-      },
-      {
-       "id": "2865-1",
-       "root": "",
-       "gloss": "as שְׁחֹרָה spelled full: feminine singular indefinite form of שחו",
-       "analysis": "ADJ",
-       "pointed": "שְׁחוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והדיו",
@@ -2434,43 +2329,19 @@
     },
     {
      "surface": "בפה",
-     "lemma": "פֹּה",
-     "form": "פֹּה",
+     "lemma": "פֶּה",
+     "form": "פֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "here, this place, at this place, in this place",
-     "analysis": "ADV",
-     "caphi": "po",
-     "caphi_urban": "po",
+     "gloss": "mouth",
+     "analysis": "NOUN",
+     "caphi": "pe",
+     "caphi_urban": "pe",
      "caphi_raw": null,
-     "maknuune_id": "2641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2641-1",
-       "root": "",
-       "gloss": "here, this place, at this place, in this place",
-       "analysis": "ADV",
-       "pointed": "פֹּה"
-      },
-      {
-       "id": "2642-1",
-       "root": "",
-       "gloss": "mouth",
-       "analysis": "NOUN",
-       "pointed": "פֶּה"
-      },
-      {
-       "id": "2643-1",
-       "root": "",
-       "gloss": "Fa: the fourth solfège syllable, representing the note F.",
-       "analysis": "NAME",
-       "pointed": "פָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2642-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ואני",

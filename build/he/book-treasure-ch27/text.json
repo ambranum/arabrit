@@ -1457,46 +1457,8 @@
      "caphi_urban": "i",
      "caphi_raw": null,
      "maknuune_id": "1969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1969-1",
-       "root": "",
-       "gloss": "an island",
-       "analysis": "NOUN",
-       "pointed": "אִי"
-      },
-      {
-       "id": "1972-1",
-       "root": "",
-       "gloss": "non-",
-       "analysis": "PREFIX",
-       "pointed": "אִי־"
-      },
-      {
-       "id": "1975-1",
-       "root": "",
-       "gloss": "where.",
-       "analysis": "ADV",
-       "pointed": "אַי"
-      },
-      {
-       "id": "9218-1",
-       "root": "",
-       "gloss": "-ian, -eer: Denoting a profession or occupation.",
-       "analysis": "SUFFIX",
-       "pointed": "־ַאי"
-      },
-      {
-       "id": "9219-1",
-       "root": "",
-       "gloss": "Used in forming adjectives related to a profession or occupa",
-       "analysis": "SUFFIX",
-       "pointed": "־ָאִי"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "בחושך",
@@ -3009,30 +2971,7 @@
      "caphi_urban": "hidlik",
      "caphi_raw": null,
      "maknuune_id": "2672-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2672-1",
-       "root": "",
-       "gloss": "To light, light up, ignite (a fire, lamp, or the like).",
-       "analysis": "VERB",
-       "pointed": "הִדְלִיק"
-      },
-      {
-       "id": "9914-1",
-       "root": "",
-       "gloss": "as ה- + דָּלִיק: flammable",
-       "analysis": "ADJ",
-       "pointed": "דָּלִיק"
-      },
-      {
-       "id": "1192-9",
-       "root": "",
-       "gloss": "as דֶּלֶק spelled full: fuel",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַדֶּלֶיק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אור",

@@ -237,34 +237,18 @@
     },
     {
      "surface": "גדר",
-     "lemma": "גְּדֵרָה",
-     "form": "גְּדֵרָה",
+     "lemma": "גָּדֵר",
+     "form": "גָּדֵר",
      "vocalized": "גָּדֵר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "wall, head",
-     "analysis": "NOUN:masculine",
+     "gloss": "fence, hedge, wall",
+     "analysis": "NOUN",
      "caphi": "gader",
      "caphi_urban": "gader",
      "caphi_raw": null,
-     "maknuune_id": "9127-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9127-6",
-       "root": "",
-       "gloss": "wall, head",
-       "analysis": "NOUN:masculine",
-       "pointed": "גָּדֵר"
-      },
-      {
-       "id": "16630-1",
-       "root": "",
-       "gloss": "fence, hedge, wall",
-       "analysis": "NOUN",
-       "pointed": "גָּדֵר"
-      }
-     ]
+     "maknuune_id": "16630-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ובית",
@@ -1813,32 +1797,8 @@
      "caphi_urban": "rove",
      "caphi_raw": null,
      "maknuune_id": "1509-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1509-1",
-       "root": "",
-       "gloss": "gun, rifle",
-       "analysis": "NOUN",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-14",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹבֶה"
-      },
-      {
-       "id": "604-15",
-       "root": "ה",
-       "gloss": "to increase, to multiply",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹבָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",

@@ -2896,44 +2896,7 @@
      "caphi_urban": "asu",
      "caphi_raw": null,
      "maknuune_id": "5993-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5993-1",
-       "root": "",
-       "gloss": "third-person plural past (suffix conjugation) of עָשָׂה (asá",
-       "analysis": "VERB",
-       "pointed": "עָשׂוּ"
-      },
-      {
-       "id": "5994-1",
-       "root": "",
-       "gloss": "masculine plural imperative of עָשָׂה (asá)",
-       "analysis": "VERB",
-       "pointed": "עֲשׂוּ"
-      },
-      {
-       "id": "5995-1",
-       "root": "",
-       "gloss": "Esau",
-       "analysis": "NAME",
-       "pointed": "עֵשָׂו"
-      },
-      {
-       "id": "565-34",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "עֲשׂוּ"
-      },
-      {
-       "id": "565-17",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "עָשׂוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כלום",
@@ -3032,23 +2995,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "580-1",
-       "root": "",
-       "gloss": "dust",
-       "analysis": "NOUN",
-       "pointed": "אָבָק"
-      },
-      {
-       "id": "581-1",
-       "root": "",
-       "gloss": "A hole in cloth for the insertion of thread; a hole in the e",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "השרפה",

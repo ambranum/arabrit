@@ -143,23 +143,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8876-1",
-       "root": "",
-       "gloss": "plural construct state form of אִישׁ ('ish)",
-       "analysis": "NOUN",
-       "pointed": "אַנְשֵׁי"
-      },
-      {
-       "id": "1096-21",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "אֲנָשַׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכפר",

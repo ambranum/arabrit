@@ -2072,37 +2072,7 @@
      "caphi_urban": "ragil",
      "caphi_raw": null,
      "maknuune_id": "4728-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4728-1",
-       "root": "",
-       "gloss": "regular, usual",
-       "analysis": "ADJ",
-       "pointed": "רָגִיל"
-      },
-      {
-       "id": "312-1",
-       "root": "",
-       "gloss": "as רֶגֶל spelled full: foot, leg",
-       "analysis": "NOUN",
-       "pointed": "רֶגֶיל"
-      },
-      {
-       "id": "5552-1",
-       "root": "",
-       "gloss": "as רִגֵּל spelled full: to spy",
-       "analysis": "VERB",
-       "pointed": "רִגֵּיל"
-      },
-      {
-       "id": "5552-38",
-       "root": "",
-       "gloss": "as רִגֵּל spelled full: to spy",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַגֵּיל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

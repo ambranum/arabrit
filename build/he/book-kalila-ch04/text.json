@@ -848,25 +848,8 @@
      "caphi_urban": "arye",
      "caphi_raw": null,
      "maknuune_id": "3423-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3423-1",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN",
-       "pointed": "אַרְיֵה"
-      },
-      {
-       "id": "3423-14",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אֲרִיהָ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "הקשיב",
@@ -950,25 +933,8 @@
      "caphi_urban": "arye",
      "caphi_raw": null,
      "maknuune_id": "3423-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3423-1",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN",
-       "pointed": "אַרְיֵה"
-      },
-      {
-       "id": "3423-14",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אֲרִיהָ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "והשור",
@@ -1056,50 +1022,19 @@
    "words": [
     {
      "surface": "מהבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "עד",
@@ -1847,41 +1782,18 @@
     },
     {
      "surface": "ראית",
-     "lemma": "רְאִיָּה",
-     "form": "רְאִיָּה",
-     "vocalized": "רְאִיַּת",
+     "lemma": "רָאָה",
+     "form": "רָאָה",
+     "vocalized": "רָאִיתָ",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "sight",
-     "analysis": "NOUN:construct.singular",
-     "caphi": "riyat-",
-     "caphi_urban": "riyat-",
+     "root": "ה",
+     "gloss": "To see, to have vision; figuratively, to perceive.",
+     "analysis": "VERB:masculine.past.second-person.singular",
+     "caphi": "raita",
+     "caphi_urban": "raita",
      "caphi_raw": null,
-     "maknuune_id": "2025-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2025-4",
-       "root": "",
-       "gloss": "sight",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "רְאִיַּת־"
-      },
-      {
-       "id": "560-9",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רָאִיתָ"
-      },
-      {
-       "id": "560-10",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רָאִית"
-      }
-     ]
+     "maknuune_id": "560-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מה",

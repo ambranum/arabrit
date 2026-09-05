@@ -1660,23 +1660,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "8335-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8335-3",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:infinitive",
-       "pointed": "לצחוק"
-      },
-      {
-       "id": "9870-1",
-       "root": "",
-       "gloss": "as ל- + צְחוֹק: laughter",
-       "analysis": "NOUN",
-       "pointed": "צְחוֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1827,76 +1811,18 @@
     },
     {
      "surface": "משנה",
-     "lemma": "מִשְׁנֶה",
-     "form": "מִשְׁנֶה",
-     "vocalized": "מִשְׁנֶה",
+     "lemma": "שִׁנָּה",
+     "form": "שִׁנָּה",
+     "vocalized": "מְשַׁנֶּה",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "deputy",
-     "analysis": "NOUN",
-     "caphi": "mishne",
-     "caphi_urban": "mishne",
+     "root": "ה",
+     "gloss": "to change, to alter",
+     "analysis": "VERB:masculine.present.singular",
+     "caphi": "mshane",
+     "caphi_urban": "mshane",
      "caphi_raw": null,
-     "maknuune_id": "6440-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6440-1",
-       "root": "",
-       "gloss": "deputy",
-       "analysis": "NOUN",
-       "pointed": "מִשְׁנֶה"
-      },
-      {
-       "id": "6440-3",
-       "root": "",
-       "gloss": "deputy",
-       "analysis": "NOUN:feminine",
-       "pointed": "מִשְׁנָה"
-      },
-      {
-       "id": "6442-1",
-       "root": "",
-       "gloss": "Mishnah (part of the Talmud)",
-       "analysis": "NAME",
-       "pointed": "מִשְׁנָה"
-      },
-      {
-       "id": "6444-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of ש",
-       "analysis": "VERB",
-       "pointed": "מְשַׁנֶּה"
-      },
-      {
-       "id": "6445-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of שי",
-       "analysis": "VERB",
-       "pointed": "מְשַׁנָּה"
-      },
-      {
-       "id": "6446-1",
-       "root": "",
-       "gloss": "defective spelling of משונה",
-       "analysis": "ADJ",
-       "pointed": "מְשֻׁנֶּה"
-      },
-      {
-       "id": "476-1",
-       "root": "",
-       "gloss": "as מ- + שָׁנָה: year (the time it takes for the Earth to com",
-       "analysis": "NOUN",
-       "pointed": "שָׁנָה"
-      },
-      {
-       "id": "480-1",
-       "root": "",
-       "gloss": "as מ- + שֵׁנָה: defective spelling of שינה",
-       "analysis": "NOUN",
-       "pointed": "שֵׁנָה"
-      }
-     ]
+     "maknuune_id": "2681-26",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והקול",

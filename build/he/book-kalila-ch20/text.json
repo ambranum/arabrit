@@ -1494,37 +1494,7 @@
      "caphi_urban": "hadvarim",
      "caphi_raw": null,
      "maknuune_id": "2030-20",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2030-20",
-       "root": "",
-       "gloss": "thing",
-       "analysis": "NOUN:definite.plural",
-       "pointed": "הַדְּבָרִים"
-      },
-      {
-       "id": "2031-19",
-       "root": "",
-       "gloss": "leader",
-       "analysis": "NOUN:definite.plural",
-       "pointed": "הַדַּבָּרִים"
-      },
-      {
-       "id": "1244-1",
-       "root": "",
-       "gloss": "as ה- + דְּבָרִים: plural indefinite form of דָּבָר (davár)",
-       "analysis": "NOUN",
-       "pointed": "דְּבָרִים"
-      },
-      {
-       "id": "1245-1",
-       "root": "",
-       "gloss": "as ה- + דַּבָּרִים: plural indefinite form of דַּבָּר (dabár)",
-       "analysis": "NOUN",
-       "pointed": "דַּבָּרִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלך",
@@ -1979,37 +1949,7 @@
      "caphi_urban": "naxash",
      "caphi_raw": null,
      "maknuune_id": "1935-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1935-1",
-       "root": "",
-       "gloss": "snake (any of the suborder Serpentes of legless reptiles wit",
-       "analysis": "NOUN",
-       "pointed": "נָחָשׁ"
-      },
-      {
-       "id": "1936-1",
-       "root": "",
-       "gloss": "magic, sorcery, spell, enchantment, augury",
-       "analysis": "NOUN",
-       "pointed": "נַחַשׁ"
-      },
-      {
-       "id": "1937-1",
-       "root": "",
-       "gloss": "defective spelling of ניחש",
-       "analysis": "VERB",
-       "pointed": "נִחֵשׁ"
-      },
-      {
-       "id": "5529-38",
-       "root": "ח",
-       "gloss": "to guess",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נַחֵשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גדול",
@@ -2105,41 +2045,18 @@
     },
     {
      "surface": "זחל",
-     "lemma": "זַחַל",
-     "form": "זַחַל",
-     "vocalized": "זַחַל",
+     "lemma": "זָחַל",
+     "form": "זָחַל",
+     "vocalized": "זָחַל",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "caterpillar",
-     "analysis": "NOUN",
-     "caphi": "záxal",
-     "caphi_urban": "záxal",
+     "root": "ח",
+     "gloss": "to crawl",
+     "analysis": "VERB",
+     "caphi": "zaxal",
+     "caphi_urban": "zaxal",
      "caphi_raw": null,
-     "maknuune_id": "1816-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1816-1",
-       "root": "",
-       "gloss": "caterpillar",
-       "analysis": "NOUN",
-       "pointed": "זַחַל"
-      },
-      {
-       "id": "1817-1",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB",
-       "pointed": "זָחַל"
-      },
-      {
-       "id": "1817-29",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְחַל"
-      }
-     ]
+     "maknuune_id": "1817-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לכיוון",
@@ -2198,55 +2115,19 @@
    "words": [
     {
      "surface": "החיה",
-     "lemma": "הֶחֱיָה",
-     "form": "הֶחֱיָה",
-     "vocalized": "הֶחֱיָה",
-     "vocalized_from": "lexicon",
-     "root": "ח.י.ה",
-     "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-     "analysis": "VERB",
-     "caphi": "hexeya",
-     "caphi_urban": "hexeya",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
+     "caphi": "xaya",
+     "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "12378-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12378-1",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB",
-       "pointed": "הֶחֱיָה"
-      },
-      {
-       "id": "12378-27",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְיֵה"
-      },
-      {
-       "id": "12378-10",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "הֶחְיָה"
-      },
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "as ה- + חַי: alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "as ה- + חַיָּה: feminine singular indefinite form of חַי (kh",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ראתה",
@@ -2521,55 +2402,19 @@
     },
     {
      "surface": "החיה",
-     "lemma": "הֶחֱיָה",
-     "form": "הֶחֱיָה",
-     "vocalized": "הֶחֱיָה",
-     "vocalized_from": "lexicon",
-     "root": "ח.י.ה",
-     "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-     "analysis": "VERB",
-     "caphi": "hexeya",
-     "caphi_urban": "hexeya",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
+     "caphi": "xaya",
+     "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "12378-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12378-1",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB",
-       "pointed": "הֶחֱיָה"
-      },
-      {
-       "id": "12378-27",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְיֵה"
-      },
-      {
-       "id": "12378-10",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "הֶחְיָה"
-      },
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "as ה- + חַי: alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "as ה- + חַיָּה: feminine singular indefinite form of חַי (kh",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הרגה",
@@ -3060,55 +2905,19 @@
     },
     {
      "surface": "החיה",
-     "lemma": "הֶחֱיָה",
-     "form": "הֶחֱיָה",
-     "vocalized": "הֶחֱיָה",
-     "vocalized_from": "lexicon",
-     "root": "ח.י.ה",
-     "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-     "analysis": "VERB",
-     "caphi": "hexeya",
-     "caphi_urban": "hexeya",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
+     "caphi": "xaya",
+     "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "12378-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12378-1",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB",
-       "pointed": "הֶחֱיָה"
-      },
-      {
-       "id": "12378-27",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְיֵה"
-      },
-      {
-       "id": "12378-10",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "הֶחְיָה"
-      },
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "as ה- + חַי: alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "as ה- + חַיָּה: feminine singular indefinite form of חַי (kh",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ליד",
@@ -4018,37 +3827,7 @@
      "caphi_urban": "naxash",
      "caphi_raw": null,
      "maknuune_id": "1935-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1935-1",
-       "root": "",
-       "gloss": "snake (any of the suborder Serpentes of legless reptiles wit",
-       "analysis": "NOUN",
-       "pointed": "נָחָשׁ"
-      },
-      {
-       "id": "1936-1",
-       "root": "",
-       "gloss": "magic, sorcery, spell, enchantment, augury",
-       "analysis": "NOUN",
-       "pointed": "נַחַשׁ"
-      },
-      {
-       "id": "1937-1",
-       "root": "",
-       "gloss": "defective spelling of ניחש",
-       "analysis": "VERB",
-       "pointed": "נִחֵשׁ"
-      },
-      {
-       "id": "5529-38",
-       "root": "ח",
-       "gloss": "to guess",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נַחֵשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שחור",
@@ -4244,55 +4023,19 @@
     },
     {
      "surface": "החיה",
-     "lemma": "הֶחֱיָה",
-     "form": "הֶחֱיָה",
-     "vocalized": "הֶחֱיָה",
-     "vocalized_from": "lexicon",
-     "root": "ח.י.ה",
-     "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-     "analysis": "VERB",
-     "caphi": "hexeya",
-     "caphi_urban": "hexeya",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
+     "caphi": "xaya",
+     "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "12378-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12378-1",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB",
-       "pointed": "הֶחֱיָה"
-      },
-      {
-       "id": "12378-27",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְיֵה"
-      },
-      {
-       "id": "12378-10",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "הֶחְיָה"
-      },
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "as ה- + חַי: alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "as ה- + חַיָּה: feminine singular indefinite form of חַי (kh",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הסתכל",
@@ -4341,36 +4084,19 @@
     },
     {
      "surface": "והבין",
-     "lemma": "בֵּין",
-     "form": "בֵּין",
+     "lemma": "הֵבִין",
+     "form": "הֵבִין",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "between, among, amid",
-     "analysis": "PREP",
-     "caphi": "beyn",
-     "caphi_urban": "beyn",
+     "root": "י",
+     "gloss": "To understand, to have understanding, to be one who understands.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "hevin",
+     "caphi_urban": "hevin",
      "caphi_raw": null,
-     "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3854-11",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null

@@ -1298,46 +1298,8 @@
      "caphi_urban": "adama",
      "caphi_raw": null,
      "maknuune_id": "913-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "913-1",
-       "root": "",
-       "gloss": "earth, soil, land",
-       "analysis": "NOUN",
-       "pointed": "אֲדָמָה"
-      },
-      {
-       "id": "370-4",
-       "root": "",
-       "gloss": "red",
-       "analysis": "ADJ:feminine",
-       "pointed": "אֲדֻמָּה"
-      },
-      {
-       "id": "851-18",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֶדְמֶה"
-      },
-      {
-       "id": "13080-28",
-       "root": "",
-       "gloss": "to imagine",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדַמֶּה"
-      },
-      {
-       "id": "14897-32",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדֻמֶּה"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "והאק",
@@ -1752,25 +1714,8 @@
      "caphi_urban": "rúax",
      "caphi_raw": null,
      "maknuune_id": "324-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "324-1",
-       "root": "",
-       "gloss": "Wind, a wind: (a) movement of atmospheric air.",
-       "analysis": "NOUN",
-       "pointed": "רוּחַ"
-      },
-      {
-       "id": "325-1",
-       "root": "",
-       "gloss": "defective spelling of רווח",
-       "analysis": "NOUN",
-       "pointed": "רֶוַח"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "מזיזה",
@@ -2095,50 +2040,19 @@
     },
     {
      "surface": "וחיכו",
-     "lemma": "חִיֵּךְ",
-     "form": "חִיֵּךְ",
+     "lemma": "חִכָּה",
+     "form": "חִכָּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח.י",
-     "gloss": "to smile",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "xayxu",
-     "caphi_urban": "xayxu",
+     "root": "ה",
+     "gloss": "to wait, wait for",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4653-40",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4653-40",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "חַיְּכוּ"
-      },
-      {
-       "id": "4653-23",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חִיְּכוּ"
-      },
-      {
-       "id": "11934-18",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "חיכו"
-      },
-      {
-       "id": "7703-20",
-       "root": "ה",
-       "gloss": "to wait, wait for",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חיכו"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "7703-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -3723,25 +3637,8 @@
      "caphi_urban": "shnáyyim",
      "caphi_raw": null,
      "maknuune_id": "82-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "82-1",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM",
-       "pointed": "שְׁנַייִם"
-      },
-      {
-       "id": "551-6",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שְׁנִיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "כסף",

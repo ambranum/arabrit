@@ -628,39 +628,8 @@
      "caphi_urban": "almana",
      "caphi_raw": null,
      "maknuune_id": "5036-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5036-1",
-       "root": "",
-       "gloss": "widow (a woman whose spouse (traditionally husband) has died",
-       "analysis": "NOUN",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "5039-3",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "14363-39",
-       "root": "א",
-       "gloss": "to bundle, bind.",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "אַלֵּמְנָה"
-      },
-      {
-       "id": "5039-14",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אַלְמָנָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -789,39 +758,8 @@
      "caphi_urban": "almana",
      "caphi_raw": null,
      "maknuune_id": "5036-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5036-1",
-       "root": "",
-       "gloss": "widow (a woman whose spouse (traditionally husband) has died",
-       "analysis": "NOUN",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "5039-3",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "14363-39",
-       "root": "א",
-       "gloss": "to bundle, bind.",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "אַלֵּמְנָה"
-      },
-      {
-       "id": "5039-14",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אַלְמָנָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -1457,39 +1395,8 @@
      "caphi_urban": "almana",
      "caphi_raw": null,
      "maknuune_id": "5036-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5036-1",
-       "root": "",
-       "gloss": "widow (a woman whose spouse (traditionally husband) has died",
-       "analysis": "NOUN",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "5039-3",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "14363-39",
-       "root": "א",
-       "gloss": "to bundle, bind.",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "אַלֵּמְנָה"
-      },
-      {
-       "id": "5039-14",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אַלְמָנָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לא",
@@ -3195,32 +3102,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     }
    ],
    "audio": null
@@ -3851,39 +3734,8 @@
      "caphi_urban": "almana",
      "caphi_raw": null,
      "maknuune_id": "5036-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5036-1",
-       "root": "",
-       "gloss": "widow (a woman whose spouse (traditionally husband) has died",
-       "analysis": "NOUN",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "5039-3",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַלְמָנָה"
-      },
-      {
-       "id": "14363-39",
-       "root": "א",
-       "gloss": "to bundle, bind.",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "אַלֵּמְנָה"
-      },
-      {
-       "id": "5039-14",
-       "root": "",
-       "gloss": "widower (a man whose spouse has died (and who has not remarr",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אַלְמָנָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והזקן",

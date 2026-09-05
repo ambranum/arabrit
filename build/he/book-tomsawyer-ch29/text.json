@@ -847,30 +847,13 @@
      "vocalized_from": "unvocalized:clitic",
      "root": null,
      "gloss": "to shout, to yell",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "tsaaku",
      "caphi_urban": "tsaaku",
      "caphi_raw": null,
-     "maknuune_id": "13079-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "13079-31",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "צַעֲקוּ"
-      },
-      {
-       "id": "13079-14",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "צָעֲקוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "13079-14",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "והסירה",
@@ -885,25 +868,8 @@
      "caphi_urban": "sira",
      "caphi_raw": null,
      "maknuune_id": "1860-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1860-1",
-       "root": "",
-       "gloss": "boat",
-       "analysis": "NOUN",
-       "pointed": "סִירָה"
-      },
-      {
-       "id": "11585-14",
-       "root": "",
-       "gloss": "a generic pot, tub, vat, skeel for household or ritual purpo",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "סִירָהּ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "באה",
@@ -2951,41 +2917,19 @@
     },
     {
      "surface": "הפתח",
-     "lemma": "נִפְתַּח",
-     "form": "נִפְתַּח",
-     "vocalized": "הִפָּתַח",
-     "vocalized_from": "lexicon",
-     "root": "ח",
-     "gloss": "To open, be opened: to be made open.",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "hipatax",
-     "caphi_urban": "hipatax",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "13835-42",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13835-42",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִפָּתַח"
-      },
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "as ה- + פָּתַח: to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "as ה- + פִּתֵּחַ: defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      }
-     ]
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלה",

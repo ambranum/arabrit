@@ -1721,23 +1721,7 @@
      "caphi_urban": "ángliya",
      "caphi_raw": null,
      "maknuune_id": "315-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "315-1",
-       "root": "",
-       "gloss": "England (a constituent country of the United Kingdom)",
-       "analysis": "NAME",
-       "pointed": "אַנְגְּלִיָּה"
-      },
-      {
-       "id": "8844-5",
-       "root": "",
-       "gloss": "Englishman",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַנְגְּלִיָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בדרך",
@@ -1776,39 +1760,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יה",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יה"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יה"
     },
     {
      "surface": "בא",

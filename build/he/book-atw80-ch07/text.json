@@ -135,25 +135,8 @@
      "caphi_urban": "diber",
      "caphi_raw": null,
      "maknuune_id": "2250-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2250-21",
-       "root": "",
-       "gloss": "to speak (say words)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דִּיבֵּר"
-      },
-      {
-       "id": "4827-3",
-       "root": "",
-       "gloss": "to be spoken",
-       "analysis": "VERB:active",
-       "pointed": "דיבר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "איתו",
@@ -2141,41 +2124,18 @@
     },
     {
      "surface": "ראית",
-     "lemma": "רְאִיָּה",
-     "form": "רְאִיָּה",
-     "vocalized": "רְאִיַּת",
+     "lemma": "רָאָה",
+     "form": "רָאָה",
+     "vocalized": "רָאִיתָ",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "sight",
-     "analysis": "NOUN:construct.singular",
-     "caphi": "riyat-",
-     "caphi_urban": "riyat-",
+     "root": "ה",
+     "gloss": "To see, to have vision; figuratively, to perceive.",
+     "analysis": "VERB:masculine.past.second-person.singular",
+     "caphi": "raita",
+     "caphi_urban": "raita",
      "caphi_raw": null,
-     "maknuune_id": "2025-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2025-4",
-       "root": "",
-       "gloss": "sight",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "רְאִיַּת־"
-      },
-      {
-       "id": "560-9",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רָאִיתָ"
-      },
-      {
-       "id": "560-10",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רָאִית"
-      }
-     ]
+     "maknuune_id": "560-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוא",

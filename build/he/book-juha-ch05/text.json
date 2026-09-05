@@ -1774,46 +1774,8 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שניים",
@@ -2226,41 +2188,18 @@
     },
     {
      "surface": "ראית",
-     "lemma": "רְאִיָּה",
-     "form": "רְאִיָּה",
-     "vocalized": "רְאִיַּת",
+     "lemma": "רָאָה",
+     "form": "רָאָה",
+     "vocalized": "רָאִיתָ",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "sight",
-     "analysis": "NOUN:construct.singular",
-     "caphi": "riyat-",
-     "caphi_urban": "riyat-",
+     "root": "ה",
+     "gloss": "To see, to have vision; figuratively, to perceive.",
+     "analysis": "VERB:masculine.past.second-person.singular",
+     "caphi": "raita",
+     "caphi_urban": "raita",
      "caphi_raw": null,
-     "maknuune_id": "2025-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2025-4",
-       "root": "",
-       "gloss": "sight",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "רְאִיַּת־"
-      },
-      {
-       "id": "560-9",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רָאִיתָ"
-      },
-      {
-       "id": "560-10",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רָאִית"
-      }
-     ]
+     "maknuune_id": "560-9",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

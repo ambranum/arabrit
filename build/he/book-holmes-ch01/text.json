@@ -4622,25 +4622,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "3563-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3563-1",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN",
-       "pointed": "קוֹל"
-      },
-      {
-       "id": "3564-1",
-       "root": "",
-       "gloss": "cool person",
-       "analysis": "ADJ",
-       "pointed": "קוּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "של",
@@ -5110,37 +5093,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "77-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "77-3",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:feminine",
-       "pointed": "שחורה"
-      },
-      {
-       "id": "774-14",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חוֹרֶה"
-      },
-      {
-       "id": "774-15",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "חוֹרָה"
-      },
-      {
-       "id": "2865-1",
-       "root": "",
-       "gloss": "as שְׁחֹרָה spelled full: feminine singular indefinite form of שחו",
-       "analysis": "ADJ",
-       "pointed": "שְׁחוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שמכסה",

@@ -2691,34 +2691,19 @@
     },
     {
      "surface": "ליער",
-     "lemma": "יִעֵר",
-     "form": "יִעֵר",
-     "vocalized": "לְיַעֵר",
-     "vocalized_from": "lexicon",
+     "lemma": "יַעַר",
+     "form": "יַעַר",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to forest, afforest",
-     "analysis": "VERB:infinitive",
-     "caphi": "lyaer",
-     "caphi_urban": "lyaer",
+     "gloss": "forest",
+     "analysis": "NOUN",
+     "caphi": "yáar",
+     "caphi_urban": "yáar",
      "caphi_raw": null,
-     "maknuune_id": "16462-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "16462-5",
-       "root": "",
-       "gloss": "to forest, afforest",
-       "analysis": "VERB:infinitive",
-       "pointed": "לְיַעֵר"
-      },
-      {
-       "id": "1425-1",
-       "root": "",
-       "gloss": "as ל- + יַעַר: forest",
-       "analysis": "NOUN",
-       "pointed": "יַעַר"
-      }
-     ]
+     "maknuune_id": "1425-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "עבה",

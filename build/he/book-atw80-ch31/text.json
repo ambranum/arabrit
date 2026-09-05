@@ -1079,41 +1079,18 @@
     },
     {
      "surface": "זחל",
-     "lemma": "זַחַל",
-     "form": "זַחַל",
-     "vocalized": "זַחַל",
+     "lemma": "זָחַל",
+     "form": "זָחַל",
+     "vocalized": "זָחַל",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "caterpillar",
-     "analysis": "NOUN",
-     "caphi": "záxal",
-     "caphi_urban": "záxal",
+     "root": "ח",
+     "gloss": "to crawl",
+     "analysis": "VERB",
+     "caphi": "zaxal",
+     "caphi_urban": "zaxal",
      "caphi_raw": null,
-     "maknuune_id": "1816-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1816-1",
-       "root": "",
-       "gloss": "caterpillar",
-       "analysis": "NOUN",
-       "pointed": "זַחַל"
-      },
-      {
-       "id": "1817-1",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB",
-       "pointed": "זָחַל"
-      },
-      {
-       "id": "1817-29",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְחַל"
-      }
-     ]
+     "maknuune_id": "1817-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",

@@ -1759,43 +1759,19 @@
     },
     {
      "surface": "בִּידֵי",
-     "lemma": "יָדָה",
-     "form": "יָדָה",
+     "lemma": "יָד",
+     "form": "יָד",
      "vocalized": "בִּידֵי",
      "vocalized_from": "source:pointed",
-     "root": "ה",
-     "gloss": "to throw, cast",
-     "analysis": "VERB:feminine.imperative.singular",
-     "caphi": "ydi",
-     "caphi_urban": "ydi",
+     "root": null,
+     "gloss": "arm",
+     "analysis": "NOUN:construct.dual",
+     "caphi": "ydey-",
+     "caphi_urban": "ydey-",
      "caphi_raw": null,
-     "maknuune_id": "5412-30",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "5412-30",
-       "root": "ה",
-       "gloss": "to throw, cast",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "יְדִי"
-      },
-      {
-       "id": "4-10",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "יָדִי"
-      },
-      {
-       "id": "8071-1",
-       "root": "",
-       "gloss": "plural construct state form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "ידי"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "4-7",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "מִשְׁמַר",
@@ -2407,7 +2383,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לַה",
@@ -5844,76 +5820,18 @@
     },
     {
      "surface": "מַרְאֵה",
-     "lemma": "מַרְאֶה",
-     "form": "מַרְאֶה",
+     "lemma": "מַרְאָה",
+     "form": "מַרְאָה",
      "vocalized": "מַרְאֵה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "sight, appearance",
+     "gloss": "mirror",
      "analysis": "NOUN",
-     "caphi": "mare",
-     "caphi_urban": "mare",
+     "caphi": "mara",
+     "caphi_urban": "mara",
      "caphi_raw": null,
-     "maknuune_id": "937-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "937-1",
-       "root": "",
-       "gloss": "sight, appearance",
-       "analysis": "NOUN",
-       "pointed": "מַרְאֶה"
-      },
-      {
-       "id": "938-1",
-       "root": "",
-       "gloss": "mirror",
-       "analysis": "NOUN",
-       "pointed": "מַרְאָה"
-      },
-      {
-       "id": "4906-4",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:present",
-       "pointed": "מַרְאֶה"
-      },
-      {
-       "id": "4906-19",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "מַרְאָה"
-      },
-      {
-       "id": "5750-23",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֻרְאֶה"
-      },
-      {
-       "id": "939-1",
-       "root": "",
-       "gloss": "masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מראה"
-      },
-      {
-       "id": "560-1",
-       "root": "ה",
-       "gloss": "as מ- + רָאָה: To see, to have vision; figuratively, to per",
-       "analysis": "VERB",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "561-1",
-       "root": "",
-       "gloss": "as מ- + רֹאֶה: defective spelling of רואה",
-       "analysis": "NOUN",
-       "pointed": "רֹאֶה"
-      }
-     ]
+     "maknuune_id": "938-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פְּנֵיהֶם",

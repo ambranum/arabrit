@@ -535,55 +535,19 @@
     },
     {
      "surface": "החיה",
-     "lemma": "הֶחֱיָה",
-     "form": "הֶחֱיָה",
-     "vocalized": "הֶחֱיָה",
-     "vocalized_from": "lexicon",
-     "root": "ח.י.ה",
-     "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-     "analysis": "VERB",
-     "caphi": "hexeya",
-     "caphi_urban": "hexeya",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
+     "caphi": "xaya",
+     "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "12378-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12378-1",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB",
-       "pointed": "הֶחֱיָה"
-      },
-      {
-       "id": "12378-27",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְיֵה"
-      },
-      {
-       "id": "12378-10",
-       "root": "ח.י.ה",
-       "gloss": "To revive, to resuscitate, to revitalize, to quicken",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "הֶחְיָה"
-      },
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "as ה- + חַי: alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "as ה- + חַיָּה: feminine singular indefinite form of חַי (kh",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בלי",
@@ -2589,50 +2553,19 @@
     },
     {
      "surface": "וחיכו",
-     "lemma": "חִיֵּךְ",
-     "form": "חִיֵּךְ",
+     "lemma": "חִכָּה",
+     "form": "חִכָּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח.י",
-     "gloss": "to smile",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "xayxu",
-     "caphi_urban": "xayxu",
+     "root": "ה",
+     "gloss": "to wait, wait for",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4653-40",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4653-40",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "חַיְּכוּ"
-      },
-      {
-       "id": "4653-23",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חִיְּכוּ"
-      },
-      {
-       "id": "11934-18",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "חיכו"
-      },
-      {
-       "id": "7703-20",
-       "root": "ה",
-       "gloss": "to wait, wait for",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "חיכו"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "7703-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "להם",

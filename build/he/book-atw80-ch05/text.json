@@ -849,37 +849,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "2961-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-3",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ניירות"
-      },
-      {
-       "id": "4198-1",
-       "root": "",
-       "gloss": "as נְיָרוֹת spelled full: plural indefinite form of נייר / נְיָר (",
-       "analysis": "NOUN",
-       "pointed": "נְיָירוֹת"
-      },
-      {
-       "id": "3774-1",
-       "root": "",
-       "gloss": "as נֵרוֹת spelled full: plural indefinite form of נֵר (ner): can",
-       "analysis": "NOUN",
-       "pointed": "נֵיירוֹת"
-      },
-      {
-       "id": "11333-5",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ:feminine.plural",
-       "pointed": "נִיירוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1187,41 +1157,18 @@
     },
     {
      "surface": "מכירים",
-     "lemma": "מַכִּיר",
-     "form": "מַכִּיר",
+     "lemma": "הִכִּיר",
+     "form": "הִכִּיר",
      "vocalized": "מַכִּירִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "acquaintance",
-     "analysis": "NOUN:indefinite.plural",
+     "root": "נ",
+     "gloss": "To know (someone), to recognize, to be familiar with (someone or something), to meet.",
+     "analysis": "VERB:masculine.plural.present",
      "caphi": "makirim",
      "caphi_urban": "makirim",
      "caphi_raw": null,
-     "maknuune_id": "16409-17",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "16409-17",
-       "root": "",
-       "gloss": "acquaintance",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַכִּירִים"
-      },
-      {
-       "id": "1826-18",
-       "root": "נ",
-       "gloss": "To know (someone), to recognize, to be familiar with (someon",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "מַכִּירִים"
-      },
-      {
-       "id": "14329-1",
-       "root": "",
-       "gloss": "as מ- + כִּירַיִם: stove, hearth, range",
-       "analysis": "NOUN",
-       "pointed": "כִּירַיִם"
-      }
-     ]
+     "maknuune_id": "1826-18",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -1396,25 +1343,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "נגמר",

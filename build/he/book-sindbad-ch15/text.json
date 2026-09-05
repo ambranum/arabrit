@@ -181,25 +181,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מתה",
@@ -393,41 +376,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חזק",
@@ -1724,37 +1684,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "77-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "77-3",
-       "root": "",
-       "gloss": "black",
-       "analysis": "ADJ:feminine",
-       "pointed": "שחורה"
-      },
-      {
-       "id": "774-14",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חוֹרֶה"
-      },
-      {
-       "id": "774-15",
-       "root": "ה",
-       "gloss": "as ש- + חָרָה: for anger to burn in someone (with לְ־ (l'-)",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "חוֹרָה"
-      },
-      {
-       "id": "2865-1",
-       "root": "",
-       "gloss": "as שְׁחֹרָה spelled full: feminine singular indefinite form of שחו",
-       "analysis": "ADJ",
-       "pointed": "שְׁחוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2282,39 +2212,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יה",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יה"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יה"
     },
     {
      "surface": "והוא",

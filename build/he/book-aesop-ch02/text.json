@@ -1059,39 +1059,16 @@
      "surface": "כאבו",
      "lemma": "כָּאַב",
      "form": "כָּאַב",
-     "vocalized": "כַּאֲבוּ",
+     "vocalized": "כָּאֲבוּ",
      "vocalized_from": "lexicon",
      "root": null,
      "gloss": "to hurt, ache",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "kaavu",
      "caphi_urban": "kaavu",
      "caphi_raw": null,
-     "maknuune_id": "7767-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7767-31",
-       "root": "",
-       "gloss": "to hurt, ache",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "כַּאֲבוּ"
-      },
-      {
-       "id": "7766-13",
-       "root": "",
-       "gloss": "pain",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "כְּאֵבוֹ"
-      },
-      {
-       "id": "7767-14",
-       "root": "",
-       "gloss": "to hurt, ache",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "כָּאֲבוּ"
-      }
-     ]
+     "maknuune_id": "7767-14",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והוא",

@@ -2521,64 +2521,19 @@
     },
     {
      "surface": "ושני",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שְׁנֵי",
+     "form": "שְׁנֵי",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
+     "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
+     "analysis": "NUM",
      "caphi": "shney",
      "caphi_urban": "shney",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "551-1",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ",
-       "pointed": "שֵׁנִי"
-      },
-      {
-       "id": "552-1",
-       "root": "",
-       "gloss": "defective spelling of שוני",
-       "analysis": "NOUN",
-       "pointed": "שֹׁנִי"
-      },
-      {
-       "id": "553-1",
-       "root": "",
-       "gloss": "scarlet, crimson",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִי"
-      },
-      {
-       "id": "555-1",
-       "root": "",
-       "gloss": "defective spelling of שיני",
-       "analysis": "ADJ",
-       "pointed": "שִׁנִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "550-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ילדים",
@@ -4890,36 +4845,19 @@
     },
     {
      "surface": "בבוץ",
-     "lemma": "בּוּץ",
-     "form": "בּוּץ",
+     "lemma": "בֹּץ",
+     "form": "בֹּץ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "byssus (fine linen)",
-     "analysis": "NOUN",
-     "caphi": "buts",
-     "caphi_urban": "buts",
+     "gloss": "mud",
+     "analysis": "NOUN:indefinite.singular",
+     "caphi": "bots",
+     "caphi_urban": "bots",
      "caphi_raw": null,
-     "maknuune_id": "8942-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "8942-1",
-       "root": "",
-       "gloss": "byssus (fine linen)",
-       "analysis": "NOUN",
-       "pointed": "בּוּץ"
-      },
-      {
-       "id": "8941-3",
-       "root": "",
-       "gloss": "mud",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹץ"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "8941-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "והכיסים",
@@ -5273,25 +5211,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "של",

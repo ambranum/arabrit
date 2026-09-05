@@ -844,23 +844,7 @@
      "caphi_urban": "rxoka",
      "caphi_raw": null,
      "maknuune_id": "1823-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1823-3",
-       "root": "",
-       "gloss": "far, distant; remote",
-       "analysis": "ADJ:feminine",
-       "pointed": "רְחוֹקָה"
-      },
-      {
-       "id": "11189-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רחוק (rakhók).",
-       "analysis": "ADJ",
-       "pointed": "רְחוֹקָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -914,25 +898,8 @@
      "caphi_urban": "pundak",
      "caphi_raw": null,
      "maknuune_id": "5856-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "5856-1",
-       "root": "",
-       "gloss": "An inn: a boardinghouse or guesthouse or hotel.",
-       "analysis": "NOUN",
-       "pointed": "פּוּנְדָק"
-      },
-      {
-       "id": "5857-5",
-       "root": "",
-       "gloss": "Alternative form of the above.",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "פּוּנְדָּק"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "על",

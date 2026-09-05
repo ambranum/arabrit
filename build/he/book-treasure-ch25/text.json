@@ -75,25 +75,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "היה",
@@ -123,44 +106,7 @@
      "caphi_urban": "shavur",
      "caphi_raw": null,
      "maknuune_id": "4650-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4650-1",
-       "root": "",
-       "gloss": "Broken: not intact.",
-       "analysis": "ADJ",
-       "pointed": "שָׁבוּר"
-      },
-      {
-       "id": "449-3",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:participle.passive",
-       "pointed": "שָׁבוּר"
-      },
-      {
-       "id": "452-5",
-       "root": "",
-       "gloss": "to wait",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "שִׂבּוּר"
-      },
-      {
-       "id": "4302-1",
-       "root": "",
-       "gloss": "as ש- + בּוֹר: hole, pit",
-       "analysis": "NOUN",
-       "pointed": "בּוֹר"
-      },
-      {
-       "id": "4303-1",
-       "root": "",
-       "gloss": "as ש- + בּוּר: fallow, uncultivated land",
-       "analysis": "NOUN",
-       "pointed": "בּוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והפוך",
@@ -3209,43 +3155,19 @@
     },
     {
      "surface": "בפה",
-     "lemma": "פֹּה",
-     "form": "פֹּה",
+     "lemma": "פֶּה",
+     "form": "פֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "here, this place, at this place, in this place",
-     "analysis": "ADV",
-     "caphi": "po",
-     "caphi_urban": "po",
+     "gloss": "mouth",
+     "analysis": "NOUN",
+     "caphi": "pe",
+     "caphi_urban": "pe",
      "caphi_raw": null,
-     "maknuune_id": "2641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2641-1",
-       "root": "",
-       "gloss": "here, this place, at this place, in this place",
-       "analysis": "ADV",
-       "pointed": "פֹּה"
-      },
-      {
-       "id": "2642-1",
-       "root": "",
-       "gloss": "mouth",
-       "analysis": "NOUN",
-       "pointed": "פֶּה"
-      },
-      {
-       "id": "2643-1",
-       "root": "",
-       "gloss": "Fa: the fourth solfège syllable, representing the note F.",
-       "analysis": "NAME",
-       "pointed": "פָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2642-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -3428,23 +3350,7 @@
      "caphi_urban": "shama",
      "caphi_raw": null,
      "maknuune_id": "665-15",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "665-15",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׁמְעָה"
-      },
-      {
-       "id": "13929-1",
-       "root": "",
-       "gloss": "as ש- + מָעָה: inward parts",
-       "analysis": "NOUN",
-       "pointed": "מָעָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והלכה",

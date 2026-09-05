@@ -3806,36 +3806,19 @@
     },
     {
      "surface": "וּשְׁנֵי",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שְׁנֵי",
+     "form": "שְׁנֵי",
      "vocalized": "וּשְׁנֵי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
+     "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
+     "analysis": "NUM",
      "caphi": "shney",
      "caphi_urban": "shney",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "550-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הַיְלָדִים",
@@ -4559,7 +4542,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",
@@ -4910,7 +4893,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְּלָדִים",
@@ -5129,7 +5112,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",
@@ -6518,7 +6501,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",
@@ -7062,23 +7045,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "8335-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8335-3",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:infinitive",
-       "pointed": "לצחוק"
-      },
-      {
-       "id": "9870-1",
-       "root": "",
-       "gloss": "as ל- + צְחוֹק: laughter",
-       "analysis": "NOUN",
-       "pointed": "צְחוֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s38.mp3"
@@ -8843,7 +8810,7 @@
      "caphi_urban": "karu",
      "caphi_raw": null,
      "maknuune_id": "169-17",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְלָדִים",

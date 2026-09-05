@@ -143,55 +143,18 @@
     },
     {
      "surface": "חור",
-     "lemma": "חוּר",
-     "form": "חוּר",
-     "vocalized": "חוּר",
+     "lemma": "חֹר",
+     "form": "חֹר",
+     "vocalized": "חוֹר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fine white cloth",
-     "analysis": "NOUN",
-     "caphi": "xur",
-     "caphi_urban": "xur",
+     "gloss": "hole",
+     "analysis": "NOUN:indefinite.singular",
+     "caphi": "xor",
+     "caphi_urban": "xor",
      "caphi_raw": null,
-     "maknuune_id": "1963-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1963-1",
-       "root": "",
-       "gloss": "fine white cloth",
-       "analysis": "NOUN",
-       "pointed": "חוּר"
-      },
-      {
-       "id": "1964-1",
-       "root": "",
-       "gloss": "defective spelling of חוור",
-       "analysis": "NOUN",
-       "pointed": "חַוָּר"
-      },
-      {
-       "id": "1965-1",
-       "root": "",
-       "gloss": "defective spelling of חוור",
-       "analysis": "VERB",
-       "pointed": "חָוַר"
-      },
-      {
-       "id": "1966-1",
-       "root": "",
-       "gloss": "defective spelling of חיוור",
-       "analysis": "VERB",
-       "pointed": "חִוֵּר"
-      },
-      {
-       "id": "1961-3",
-       "root": "",
-       "gloss": "hole",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹר"
-      }
-     ]
+     "maknuune_id": "1961-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -853,36 +816,19 @@
     },
     {
      "surface": "והבין",
-     "lemma": "בֵּין",
-     "form": "בֵּין",
+     "lemma": "הֵבִין",
+     "form": "הֵבִין",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "between, among, amid",
-     "analysis": "PREP",
-     "caphi": "beyn",
-     "caphi_urban": "beyn",
+     "root": "י",
+     "gloss": "To understand, to have understanding, to be one who understands.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "hevin",
+     "caphi_urban": "hevin",
      "caphi_raw": null,
-     "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3854-11",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null

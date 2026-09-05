@@ -1603,41 +1603,18 @@
     },
     {
      "surface": "זחל",
-     "lemma": "זַחַל",
-     "form": "זַחַל",
-     "vocalized": "זַחַל",
+     "lemma": "זָחַל",
+     "form": "זָחַל",
+     "vocalized": "זָחַל",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "caterpillar",
-     "analysis": "NOUN",
-     "caphi": "záxal",
-     "caphi_urban": "záxal",
+     "root": "ח",
+     "gloss": "to crawl",
+     "analysis": "VERB",
+     "caphi": "zaxal",
+     "caphi_urban": "zaxal",
      "caphi_raw": null,
-     "maknuune_id": "1816-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1816-1",
-       "root": "",
-       "gloss": "caterpillar",
-       "analysis": "NOUN",
-       "pointed": "זַחַל"
-      },
-      {
-       "id": "1817-1",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB",
-       "pointed": "זָחַל"
-      },
-      {
-       "id": "1817-29",
-       "root": "ח",
-       "gloss": "to crawl",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְחַל"
-      }
-     ]
+     "maknuune_id": "1817-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מתחת",
@@ -2432,41 +2409,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הלוויה",
@@ -3405,37 +3359,7 @@
      "caphi_urban": "lyadah",
      "caphi_raw": null,
      "maknuune_id": "3024-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3024-1",
-       "root": "",
-       "gloss": "Form of לְיַד (lyad) including third-person feminine singula",
-       "analysis": "PREP",
-       "pointed": "לְיָדָהּ"
-      },
-      {
-       "id": "5412-1",
-       "root": "ה",
-       "gloss": "as ל- + יָדָה: to throw, cast",
-       "analysis": "VERB",
-       "pointed": "יָדָה"
-      },
-      {
-       "id": "5413-1",
-       "root": "",
-       "gloss": "as ל- + יָדָהּ: singular form of יד f (yad) with third-perso",
-       "analysis": "NOUN",
-       "pointed": "יָדָהּ"
-      },
-      {
-       "id": "3023-1",
-       "root": "",
-       "gloss": "as לֵדָה spelled full: birth, childbirth, delivery",
-       "analysis": "NOUN",
-       "pointed": "לֵידָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3835,41 +3759,18 @@
     },
     {
      "surface": "מתים",
-     "lemma": "מְתִים",
-     "form": "מְתִים",
-     "vocalized": "מְתִים",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "מֵתִים",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "men (especially few in number)",
-     "analysis": "NOUN",
-     "caphi": "mtim",
-     "caphi_urban": "mtim",
+     "gloss": "Dead, having died.",
+     "analysis": "ADJ:masculine.plural",
+     "caphi": "metim",
+     "caphi_urban": "metim",
      "caphi_raw": null,
-     "maknuune_id": "13208-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13208-1",
-       "root": "",
-       "gloss": "men (especially few in number)",
-       "analysis": "NOUN",
-       "pointed": "מְתִים"
-      },
-      {
-       "id": "13209-1",
-       "root": "",
-       "gloss": "plural indefinite form of מֵת (met)",
-       "analysis": "NOUN",
-       "pointed": "מֵתִים"
-      },
-      {
-       "id": "1922-4",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "מֵתִים"
-      }
-     ]
+     "maknuune_id": "1922-4",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אנחנו",
@@ -4036,37 +3937,7 @@
      "caphi_urban": "lyadah",
      "caphi_raw": null,
      "maknuune_id": "3024-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3024-1",
-       "root": "",
-       "gloss": "Form of לְיַד (lyad) including third-person feminine singula",
-       "analysis": "PREP",
-       "pointed": "לְיָדָהּ"
-      },
-      {
-       "id": "5412-1",
-       "root": "ה",
-       "gloss": "as ל- + יָדָה: to throw, cast",
-       "analysis": "VERB",
-       "pointed": "יָדָה"
-      },
-      {
-       "id": "5413-1",
-       "root": "",
-       "gloss": "as ל- + יָדָהּ: singular form of יד f (yad) with third-perso",
-       "analysis": "NOUN",
-       "pointed": "יָדָהּ"
-      },
-      {
-       "id": "3023-1",
-       "root": "",
-       "gloss": "as לֵדָה spelled full: birth, childbirth, delivery",
-       "analysis": "NOUN",
-       "pointed": "לֵידָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

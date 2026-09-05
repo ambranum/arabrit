@@ -3175,23 +3175,7 @@
      "caphi_urban": "avak",
      "caphi_raw": null,
      "maknuune_id": "580-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "580-1",
-       "root": "",
-       "gloss": "dust",
-       "analysis": "NOUN",
-       "pointed": "אָבָק"
-      },
-      {
-       "id": "581-1",
-       "root": "",
-       "gloss": "A hole in cloth for the insertion of thread; a hole in the e",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "השרפה",
@@ -3591,44 +3575,7 @@
      "caphi_urban": "yavesh",
      "caphi_raw": null,
      "maknuune_id": "2542-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2542-1",
-       "root": "",
-       "gloss": "Dry, arid: not wet; lacking moisture or humidity.",
-       "analysis": "ADJ",
-       "pointed": "יָבֵשׁ"
-      },
-      {
-       "id": "2543-1",
-       "root": "",
-       "gloss": "defective spelling of ייבש.",
-       "analysis": "VERB",
-       "pointed": "יִבֵּשׁ"
-      },
-      {
-       "id": "1004-5",
-       "root": "",
-       "gloss": "to feel embarrassed, be ashamed",
-       "analysis": "VERB:future",
-       "pointed": "יֵבֹשׁ"
-      },
-      {
-       "id": "5164-4",
-       "root": "",
-       "gloss": "to dry, to dry out: to cause to become dry",
-       "analysis": "VERB:passive",
-       "pointed": "יֻבַּשׁ"
-      },
-      {
-       "id": "5164-40",
-       "root": "",
-       "gloss": "to dry, to dry out: to cause to become dry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "יַבֵּשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -4033,46 +3980,8 @@
      "caphi_urban": "yéled",
      "caphi_raw": null,
      "maknuune_id": "1042-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1042-1",
-       "root": "",
-       "gloss": "a (male) child, a (male) kid, a boy (a male child)",
-       "analysis": "NOUN",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "1043-1",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1088-4",
-       "root": "",
-       "gloss": "girl (female child)",
-       "analysis": "NOUN:masculine",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "8931-5",
-       "root": "י",
-       "gloss": "to be born",
-       "analysis": "VERB:active",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1043-26",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵלֵד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "אבל",

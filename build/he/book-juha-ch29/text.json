@@ -1639,34 +1639,18 @@
     },
     {
      "surface": "ימות",
-     "lemma": "יוֹם",
-     "form": "יוֹם",
-     "vocalized": "יְמוֹת",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "יָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Day: the period between dawn and dusk.",
-     "analysis": "NOUN:construct.plural",
-     "caphi": "ymot-",
-     "caphi_urban": "ymot-",
+     "gloss": "To die.",
+     "analysis": "VERB:future.masculine.singular.third-person",
+     "caphi": "yamut",
+     "caphi_urban": "yamut",
      "caphi_raw": null,
-     "maknuune_id": "161-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "161-8",
-       "root": "",
-       "gloss": "Day: the period between dawn and dusk.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "יְמוֹת־"
-      },
-      {
-       "id": "1923-25",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יָמוּת"
-      }
-     ]
+     "maknuune_id": "1923-25",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1891,34 +1875,18 @@
     },
     {
      "surface": "ימות",
-     "lemma": "יוֹם",
-     "form": "יוֹם",
-     "vocalized": "יְמוֹת",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "יָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Day: the period between dawn and dusk.",
-     "analysis": "NOUN:construct.plural",
-     "caphi": "ymot-",
-     "caphi_urban": "ymot-",
+     "gloss": "To die.",
+     "analysis": "VERB:future.masculine.singular.third-person",
+     "caphi": "yamut",
+     "caphi_urban": "yamut",
      "caphi_raw": null,
-     "maknuune_id": "161-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "161-8",
-       "root": "",
-       "gloss": "Day: the period between dawn and dusk.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "יְמוֹת־"
-      },
-      {
-       "id": "1923-25",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יָמוּת"
-      }
-     ]
+     "maknuune_id": "1923-25",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

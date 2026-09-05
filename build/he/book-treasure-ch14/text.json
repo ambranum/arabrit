@@ -769,25 +769,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "3563-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3563-1",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN",
-       "pointed": "קוֹל"
-      },
-      {
-       "id": "3564-1",
-       "root": "",
-       "gloss": "cool person",
-       "analysis": "ADJ",
-       "pointed": "קוּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אחר",

@@ -703,25 +703,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "וילדו",
@@ -849,76 +832,19 @@
     },
     {
      "surface": "בזה",
-     "lemma": "בָּזָה",
-     "form": "בָּזָה",
-     "vocalized": "בָּזָה",
-     "vocalized_from": "lexicon",
+     "lemma": "זֶה",
+     "form": "זֶה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "Feminine singular present participle and present tense of בָּז (báz).",
-     "analysis": "VERB",
-     "caphi": "báza",
-     "caphi_urban": "báza",
+     "gloss": "this",
+     "analysis": "DET",
+     "caphi": "ze",
+     "caphi_urban": "ze",
      "caphi_raw": null,
-     "maknuune_id": "14885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14885-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of בָ",
-       "analysis": "VERB",
-       "pointed": "בָּזָה"
-      },
-      {
-       "id": "14886-1",
-       "root": "",
-       "gloss": "To degrade, to despise, to abuse: defective spelling of ביזה",
-       "analysis": "VERB",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "14887-1",
-       "root": "",
-       "gloss": "To be degraded, to be despised, to be abused: defective spel",
-       "analysis": "VERB",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14889-1",
-       "root": "",
-       "gloss": "singular form of בַּז (báz) with third-person feminine singu",
-       "analysis": "NOUN",
-       "pointed": "בַּזָּהּ"
-      },
-      {
-       "id": "14890-4",
-       "root": "ה",
-       "gloss": "To degrade, to despise, to abuse.",
-       "analysis": "VERB:passive",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14892-4",
-       "root": "ה",
-       "gloss": "To be degraded, to be despised, to be abused.",
-       "analysis": "VERB:active",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "as ב- + זֶה: this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "as ב- + זוֹ: This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ]
+     "maknuune_id": "2600-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "רגע",
@@ -1095,46 +1021,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -1600,46 +1488,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -3026,46 +2876,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -3800,46 +3612,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עמד",
@@ -4765,46 +4539,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "חייך",
@@ -5904,46 +5640,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לחץ",
@@ -6302,23 +6000,7 @@
      "caphi_urban": "barur",
      "caphi_raw": null,
      "maknuune_id": "5207-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5207-1",
-       "root": "",
-       "gloss": "Clear: evident, obvious, apparent, certain.",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּר"
-      },
-      {
-       "id": "11584-6",
-       "root": "",
-       "gloss": "to select, to pick, to sort",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ששניהם",
@@ -6434,46 +6116,8 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נשאר",
@@ -6538,50 +6182,19 @@
     },
     {
      "surface": "והרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותן",

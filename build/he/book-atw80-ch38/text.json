@@ -1609,32 +1609,16 @@
      "surface": "קראו",
      "lemma": "קָרָא",
      "form": "קָרָא",
-     "vocalized": "קִרְאוּ",
+     "vocalized": "קָרְאוּ",
      "vocalized_from": "lexicon",
      "root": "א",
      "gloss": "to read",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "kiru",
-     "caphi_urban": "kiru",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "karu",
+     "caphi_urban": "karu",
      "caphi_raw": null,
-     "maknuune_id": "169-34",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "169-34",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "קִרְאוּ"
-      },
-      {
-       "id": "169-17",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "קָרְאוּ"
-      }
-     ]
+     "maknuune_id": "169-17",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לפספרטו",
@@ -2356,25 +2340,8 @@
      "caphi_urban": "réga",
      "caphi_raw": null,
      "maknuune_id": "1471-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1471-1",
-       "root": "",
-       "gloss": "a moment (brief, unspecified amount of time)",
-       "analysis": "NOUN",
-       "pointed": "רֶגַע"
-      },
-      {
-       "id": "1473-1",
-       "root": "",
-       "gloss": "defective spelling of רוגע",
-       "analysis": "NOUN",
-       "pointed": "רֹגַע"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "אחד",

@@ -2488,25 +2488,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "היה",
@@ -3258,25 +3241,8 @@
      "caphi_urban": "arye",
      "caphi_raw": null,
      "maknuune_id": "3423-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3423-1",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN",
-       "pointed": "אַרְיֵה"
-      },
-      {
-       "id": "3423-14",
-       "root": "",
-       "gloss": "lion (a big cat, Panthera leo, native to Africa, India and f",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אֲרִיהָ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "עמד",

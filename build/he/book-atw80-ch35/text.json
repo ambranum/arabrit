@@ -2137,23 +2137,7 @@
      "caphi_urban": "ángliya",
      "caphi_raw": null,
      "maknuune_id": "315-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "315-1",
-       "root": "",
-       "gloss": "England (a constituent country of the United Kingdom)",
-       "analysis": "NAME",
-       "pointed": "אַנְגְּלִיָּה"
-      },
-      {
-       "id": "8844-5",
-       "root": "",
-       "gloss": "Englishman",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַנְגְּלִיָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2206,23 +2190,7 @@
      "caphi_urban": "ángliya",
      "caphi_raw": null,
      "maknuune_id": "315-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "315-1",
-       "root": "",
-       "gloss": "England (a constituent country of the United Kingdom)",
-       "analysis": "NAME",
-       "pointed": "אַנְגְּלִיָּה"
-      },
-      {
-       "id": "8844-5",
-       "root": "",
-       "gloss": "Englishman",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַנְגְּלִיָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2516,30 +2484,7 @@
      "caphi_urban": "shesh",
      "caphi_raw": null,
      "maknuune_id": "1341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1341-1",
-       "root": "",
-       "gloss": "feminine of שִׁשָּׁה (shishá, “six”)",
-       "analysis": "NUM",
-       "pointed": "שֵׁשׁ"
-      },
-      {
-       "id": "1343-1",
-       "root": "",
-       "gloss": "to rejoice, be happy",
-       "analysis": "VERB",
-       "pointed": "שָׂשׂ"
-      },
-      {
-       "id": "1344-4",
-       "root": "",
-       "gloss": "six",
-       "analysis": "NUM:feminine",
-       "pointed": "שֵׁשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שעות",

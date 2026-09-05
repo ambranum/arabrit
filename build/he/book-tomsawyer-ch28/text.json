@@ -63,50 +63,19 @@
     },
     {
      "surface": "במעבר",
-     "lemma": "מְעֻבָּר",
-     "form": "מְעֻבָּר",
+     "lemma": "מַעֲבָר",
+     "form": "מַעֲבָר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "pregnant",
-     "analysis": "ADJ",
-     "caphi": "mubar",
-     "caphi_urban": "mubar",
+     "gloss": "A passage, passing-place, crossing, crosswalk.",
+     "analysis": "NOUN",
+     "caphi": "maavar",
+     "caphi_urban": "maavar",
      "caphi_raw": null,
-     "maknuune_id": "2121-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2121-1",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ",
-       "pointed": "מְעֻבָּר"
-      },
-      {
-       "id": "3254-1",
-       "root": "",
-       "gloss": "A passage, passing-place, crossing, crosswalk.",
-       "analysis": "NOUN",
-       "pointed": "מַעֲבָר"
-      },
-      {
-       "id": "11956-23",
-       "root": "ע",
-       "gloss": "To be handed over, transmitted, brought or taken across, tra",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מָעֳבָר"
-      },
-      {
-       "id": "13127-24",
-       "root": "",
-       "gloss": "to cause to cross over or go across",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְעַבֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "3254-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "והחוט",
@@ -205,50 +174,19 @@
     },
     {
      "surface": "במעבר",
-     "lemma": "מְעֻבָּר",
-     "form": "מְעֻבָּר",
+     "lemma": "מַעֲבָר",
+     "form": "מַעֲבָר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "pregnant",
-     "analysis": "ADJ",
-     "caphi": "mubar",
-     "caphi_urban": "mubar",
+     "gloss": "A passage, passing-place, crossing, crosswalk.",
+     "analysis": "NOUN",
+     "caphi": "maavar",
+     "caphi_urban": "maavar",
      "caphi_raw": null,
-     "maknuune_id": "2121-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2121-1",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ",
-       "pointed": "מְעֻבָּר"
-      },
-      {
-       "id": "3254-1",
-       "root": "",
-       "gloss": "A passage, passing-place, crossing, crosswalk.",
-       "analysis": "NOUN",
-       "pointed": "מַעֲבָר"
-      },
-      {
-       "id": "11956-23",
-       "root": "ע",
-       "gloss": "To be handed over, transmitted, brought or taken across, tra",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מָעֳבָר"
-      },
-      {
-       "id": "13127-24",
-       "root": "",
-       "gloss": "to cause to cross over or go across",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְעַבֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "3254-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שני",
@@ -1277,32 +1215,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "לכיוון",

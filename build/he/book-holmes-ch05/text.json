@@ -1367,41 +1367,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",
@@ -1767,43 +1744,19 @@
     },
     {
      "surface": "בפה",
-     "lemma": "פֹּה",
-     "form": "פֹּה",
+     "lemma": "פֶּה",
+     "form": "פֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "here, this place, at this place, in this place",
-     "analysis": "ADV",
-     "caphi": "po",
-     "caphi_urban": "po",
+     "gloss": "mouth",
+     "analysis": "NOUN",
+     "caphi": "pe",
+     "caphi_urban": "pe",
      "caphi_raw": null,
-     "maknuune_id": "2641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2641-1",
-       "root": "",
-       "gloss": "here, this place, at this place, in this place",
-       "analysis": "ADV",
-       "pointed": "פֹּה"
-      },
-      {
-       "id": "2642-1",
-       "root": "",
-       "gloss": "mouth",
-       "analysis": "NOUN",
-       "pointed": "פֶּה"
-      },
-      {
-       "id": "2643-1",
-       "root": "",
-       "gloss": "Fa: the fourth solfège syllable, representing the note F.",
-       "analysis": "NAME",
-       "pointed": "פָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2642-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ושאל",

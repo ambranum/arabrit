@@ -528,50 +528,19 @@
     },
     {
      "surface": "מהבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "עד",
@@ -853,23 +822,7 @@
      "caphi_urban": "lvakesh",
      "caphi_raw": null,
      "maknuune_id": "7001-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7001-1",
-       "root": "",
-       "gloss": "to-infinitive of ביקש / בִּקֵּשׁ (bikésh).",
-       "analysis": "VERB",
-       "pointed": "לְבַקֵּשׁ"
-      },
-      {
-       "id": "7455-5",
-       "root": "",
-       "gloss": "to ask for, request",
-       "analysis": "VERB:infinitive",
-       "pointed": "לְבַקֵּשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עוד",
@@ -1663,23 +1616,7 @@
      "caphi_urban": "anshey",
      "caphi_raw": null,
      "maknuune_id": "8876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8876-1",
-       "root": "",
-       "gloss": "plural construct state form of אִישׁ ('ish)",
-       "analysis": "NOUN",
-       "pointed": "אַנְשֵׁי"
-      },
-      {
-       "id": "1096-21",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "אֲנָשַׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכפר",
@@ -2650,44 +2587,7 @@
      "caphi_urban": "haim",
      "caphi_raw": null,
      "maknuune_id": "10505-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10505-1",
-       "root": "",
-       "gloss": "Interrogative particle: starts a yes-or-no question.",
-       "analysis": "PARTICLE",
-       "pointed": "הַאִם"
-      },
-      {
-       "id": "10506-1",
-       "root": "",
-       "gloss": "ham",
-       "analysis": "NOUN",
-       "pointed": "הַאם"
-      },
-      {
-       "id": "104-14",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָאֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "as ה- + אִם: if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "as ה- + אָב: father (a male parent, especially of a human",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עמדה",
@@ -3129,32 +3029,8 @@
      "caphi_urban": "étsel",
      "caphi_raw": null,
      "maknuune_id": "4431-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-נו",
-     "options": [
-      {
-       "id": "4431-1",
-       "root": "",
-       "gloss": "At or to the home or office of (a person), or the like.",
-       "analysis": "PREP",
-       "pointed": "אֵצֶל"
-      },
-      {
-       "id": "10026-31",
-       "root": "נ",
-       "gloss": "to be rescued",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֻצַּל"
-      },
-      {
-       "id": "11022-22",
-       "root": "ע",
-       "gloss": "to shade, to cast a shadow (to shield from light)",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אָצֵל"
-      }
-     ],
-     "_cut_for_prompt": "-נו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-נו"
     },
     {
      "surface": "לא",
@@ -3519,76 +3395,19 @@
     },
     {
      "surface": "בזה",
-     "lemma": "בָּזָה",
-     "form": "בָּזָה",
-     "vocalized": "בָּזָה",
-     "vocalized_from": "lexicon",
+     "lemma": "זֶה",
+     "form": "זֶה",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "Feminine singular present participle and present tense of בָּז (báz).",
-     "analysis": "VERB",
-     "caphi": "báza",
-     "caphi_urban": "báza",
+     "gloss": "this",
+     "analysis": "DET",
+     "caphi": "ze",
+     "caphi_urban": "ze",
      "caphi_raw": null,
-     "maknuune_id": "14885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14885-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of בָ",
-       "analysis": "VERB",
-       "pointed": "בָּזָה"
-      },
-      {
-       "id": "14886-1",
-       "root": "",
-       "gloss": "To degrade, to despise, to abuse: defective spelling of ביזה",
-       "analysis": "VERB",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "14887-1",
-       "root": "",
-       "gloss": "To be degraded, to be despised, to be abused: defective spel",
-       "analysis": "VERB",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14889-1",
-       "root": "",
-       "gloss": "singular form of בַּז (báz) with third-person feminine singu",
-       "analysis": "NOUN",
-       "pointed": "בַּזָּהּ"
-      },
-      {
-       "id": "14890-4",
-       "root": "ה",
-       "gloss": "To degrade, to despise, to abuse.",
-       "analysis": "VERB:passive",
-       "pointed": "בֻּזָּה"
-      },
-      {
-       "id": "14892-4",
-       "root": "ה",
-       "gloss": "To be degraded, to be despised, to be abused.",
-       "analysis": "VERB:active",
-       "pointed": "בִּזָּה"
-      },
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "as ב- + זֶה: this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "as ב- + זוֹ: This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ]
+     "maknuune_id": "2600-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ולא",
@@ -3985,44 +3804,7 @@
      "caphi_urban": "haim",
      "caphi_raw": null,
      "maknuune_id": "10505-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10505-1",
-       "root": "",
-       "gloss": "Interrogative particle: starts a yes-or-no question.",
-       "analysis": "PARTICLE",
-       "pointed": "הַאִם"
-      },
-      {
-       "id": "10506-1",
-       "root": "",
-       "gloss": "ham",
-       "analysis": "NOUN",
-       "pointed": "הַאם"
-      },
-      {
-       "id": "104-14",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָאֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "as ה- + אִם: if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "as ה- + אָב: father (a male parent, especially of a human",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמרה",
@@ -5772,32 +5554,8 @@
      "caphi_urban": "yarad",
      "caphi_raw": null,
      "maknuune_id": "2634-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2634-1",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB",
-       "pointed": "יָרַד"
-      },
-      {
-       "id": "2635-1",
-       "root": "",
-       "gloss": "Jared (a man mentioned in the Book of Genesis, a descendant ",
-       "analysis": "NAME",
-       "pointed": "יֶרֶד"
-      },
-      {
-       "id": "2634-25",
-       "root": "י",
-       "gloss": "To go down, descend.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵרֵד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ממנה",
@@ -5873,25 +5631,8 @@
      "caphi_urban": "yafe",
      "caphi_raw": null,
      "maknuune_id": "757-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "757-1",
-       "root": "",
-       "gloss": "beautiful, comely, fair, goodly, pleasant",
-       "analysis": "ADJ",
-       "pointed": "יָפֶה"
-      },
-      {
-       "id": "757-3",
-       "root": "",
-       "gloss": "beautiful, comely, fair, goodly, pleasant",
-       "analysis": "ADJ:feminine",
-       "pointed": "יָפָה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -6703,32 +6444,16 @@
      "surface": "קראו",
      "lemma": "קָרָא",
      "form": "קָרָא",
-     "vocalized": "קִרְאוּ",
+     "vocalized": "קָרְאוּ",
      "vocalized_from": "lexicon",
      "root": "א",
      "gloss": "to read",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "kiru",
-     "caphi_urban": "kiru",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "karu",
+     "caphi_urban": "karu",
      "caphi_raw": null,
-     "maknuune_id": "169-34",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "169-34",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "קִרְאוּ"
-      },
-      {
-       "id": "169-17",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "קָרְאוּ"
-      }
-     ]
+     "maknuune_id": "169-17",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",

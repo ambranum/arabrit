@@ -292,23 +292,7 @@
      "caphi_urban": "pataxti",
      "caphi_raw": null,
      "maknuune_id": "2296-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2296-9",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פָּתַחְתִּי"
-      },
-      {
-       "id": "12623-7",
-       "root": "",
-       "gloss": "to develop",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "פִּתַּחְתִּי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",

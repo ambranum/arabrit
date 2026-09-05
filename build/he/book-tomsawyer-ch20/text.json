@@ -3153,44 +3153,7 @@
      "caphi_urban": "hayíta",
      "caphi_raw": null,
      "maknuune_id": "4487-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4487-1",
-       "root": "",
-       "gloss": "Second-person masculine singular past (suffix conjugation) o",
-       "analysis": "VERB",
-       "pointed": "הָיִיתָ"
-      },
-      {
-       "id": "4488-1",
-       "root": "",
-       "gloss": "Second-person feminine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "הָיִית"
-      },
-      {
-       "id": "500-6",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הָיִיתָ"
-      },
-      {
-       "id": "500-7",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הָיִית"
-      },
-      {
-       "id": "17161-4",
-       "root": "",
-       "gloss": "as ה- + ־ייה \\ ־ִיָּה: a suffix forming occupational and local noun",
-       "analysis": "SUFFIX:construct",
-       "pointed": "־יית"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בלילה",

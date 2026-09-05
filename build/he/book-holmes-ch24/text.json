@@ -682,25 +682,8 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שוכבת",
@@ -1645,23 +1628,7 @@
      "caphi_urban": "barur",
      "caphi_raw": null,
      "maknuune_id": "5207-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5207-1",
-       "root": "",
-       "gloss": "Clear: evident, obvious, apparent, certain.",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּר"
-      },
-      {
-       "id": "11584-6",
-       "root": "",
-       "gloss": "to select, to pick, to sort",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לכל",
@@ -1838,30 +1805,7 @@
      "caphi_urban": "sagur",
      "caphi_raw": null,
      "maknuune_id": "7618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7618-1",
-       "root": "",
-       "gloss": "closed",
-       "analysis": "ADJ",
-       "pointed": "סָגוּר"
-      },
-      {
-       "id": "7619-1",
-       "root": "",
-       "gloss": "enclosure, casing",
-       "analysis": "NOUN",
-       "pointed": "סְגוֹר"
-      },
-      {
-       "id": "4567-7",
-       "root": "",
-       "gloss": "To close (a door, a window, or the like).",
-       "analysis": "VERB:participle.passive",
-       "pointed": "סָגוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והשוטר",
@@ -1876,25 +1820,8 @@
      "caphi_urban": "shoter",
      "caphi_raw": null,
      "maknuune_id": "3105-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3105-1",
-       "root": "",
-       "gloss": "policeman, cop",
-       "analysis": "NOUN",
-       "pointed": "שׁוֹטֵר"
-      },
-      {
-       "id": "6414-6",
-       "root": "",
-       "gloss": "policewoman (a female police officer)",
-       "analysis": "NOUN:masculine",
-       "pointed": "שׁוֹטֵר"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -2488,50 +2415,19 @@
     },
     {
      "surface": "והרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותו",
@@ -3165,44 +3061,7 @@
      "caphi_urban": "shura",
      "caphi_raw": null,
      "maknuune_id": "6589-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6589-1",
-       "root": "",
-       "gloss": "A row (of objects); for example, a line of text.",
-       "analysis": "NOUN",
-       "pointed": "שׁוּרָה"
-      },
-      {
-       "id": "6696-13",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׂוֹרֶה"
-      },
-      {
-       "id": "6696-14",
-       "root": "ה",
-       "gloss": "to be or become great, prince-like",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׂוֹרָה"
-      },
-      {
-       "id": "6697-15",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׁוֹרֶה"
-      },
-      {
-       "id": "6697-16",
-       "root": "ה",
-       "gloss": "(intransitive) to soak, permeate",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שׁוֹרָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -3308,46 +3167,8 @@
      "caphi_urban": "yéled",
      "caphi_raw": null,
      "maknuune_id": "1042-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1042-1",
-       "root": "",
-       "gloss": "a (male) child, a (male) kid, a boy (a male child)",
-       "analysis": "NOUN",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "1043-1",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1088-4",
-       "root": "",
-       "gloss": "girl (female child)",
-       "analysis": "NOUN:masculine",
-       "pointed": "יֶלֶד"
-      },
-      {
-       "id": "8931-5",
-       "root": "י",
-       "gloss": "to be born",
-       "analysis": "VERB:active",
-       "pointed": "יָלַד"
-      },
-      {
-       "id": "1043-26",
-       "root": "י",
-       "gloss": "to give birth (\"to child\"; beget a descendant)",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יֵלֵד"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "מהמטבח",
@@ -4475,36 +4296,19 @@
     },
     {
      "surface": "והבין",
-     "lemma": "בֵּין",
-     "form": "בֵּין",
+     "lemma": "הֵבִין",
+     "form": "הֵבִין",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "between, among, amid",
-     "analysis": "PREP",
-     "caphi": "beyn",
-     "caphi_urban": "beyn",
+     "root": "י",
+     "gloss": "To understand, to have understanding, to be one who understands.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "hevin",
+     "caphi_urban": "hevin",
      "caphi_raw": null,
-     "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3854-11",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הכול",
@@ -5156,30 +4960,7 @@
      "caphi_urban": "bati",
      "caphi_raw": null,
      "maknuune_id": "3145-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3145-6",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "בָּאתִי"
-      },
-      {
-       "id": "5168-1",
-       "root": "",
-       "gloss": "as ב- + אִתִּי: Form of אֶת (ét) including first-person sing",
-       "analysis": "PREP",
-       "pointed": "אִתִּי"
-      },
-      {
-       "id": "96-8",
-       "root": "",
-       "gloss": "as ב- + אֵת: shovel",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "אִתִּי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אל",

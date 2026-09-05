@@ -271,36 +271,19 @@
     },
     {
      "surface": "בבוץ",
-     "lemma": "בּוּץ",
-     "form": "בּוּץ",
+     "lemma": "בֹּץ",
+     "form": "בֹּץ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "byssus (fine linen)",
-     "analysis": "NOUN",
-     "caphi": "buts",
-     "caphi_urban": "buts",
+     "gloss": "mud",
+     "analysis": "NOUN:indefinite.singular",
+     "caphi": "bots",
+     "caphi_urban": "bots",
      "caphi_raw": null,
-     "maknuune_id": "8942-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "8942-1",
-       "root": "",
-       "gloss": "byssus (fine linen)",
-       "analysis": "NOUN",
-       "pointed": "בּוּץ"
-      },
-      {
-       "id": "8941-3",
-       "root": "",
-       "gloss": "mud",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹץ"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "8941-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ולא",
@@ -464,34 +447,18 @@
     },
     {
      "surface": "ימות",
-     "lemma": "יוֹם",
-     "form": "יוֹם",
-     "vocalized": "יְמוֹת",
+     "lemma": "מֵת",
+     "form": "מֵת",
+     "vocalized": "יָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Day: the period between dawn and dusk.",
-     "analysis": "NOUN:construct.plural",
-     "caphi": "ymot-",
-     "caphi_urban": "ymot-",
+     "gloss": "To die.",
+     "analysis": "VERB:future.masculine.singular.third-person",
+     "caphi": "yamut",
+     "caphi_urban": "yamut",
      "caphi_raw": null,
-     "maknuune_id": "161-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "161-8",
-       "root": "",
-       "gloss": "Day: the period between dawn and dusk.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "יְמוֹת־"
-      },
-      {
-       "id": "1923-25",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יָמוּת"
-      }
-     ]
+     "maknuune_id": "1923-25",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כאן",
@@ -609,36 +576,19 @@
     },
     {
      "surface": "בבוץ",
-     "lemma": "בּוּץ",
-     "form": "בּוּץ",
+     "lemma": "בֹּץ",
+     "form": "בֹּץ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "byssus (fine linen)",
-     "analysis": "NOUN",
-     "caphi": "buts",
-     "caphi_urban": "buts",
+     "gloss": "mud",
+     "analysis": "NOUN:indefinite.singular",
+     "caphi": "bots",
+     "caphi_urban": "bots",
      "caphi_raw": null,
-     "maknuune_id": "8942-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "8942-1",
-       "root": "",
-       "gloss": "byssus (fine linen)",
-       "analysis": "NOUN",
-       "pointed": "בּוּץ"
-      },
-      {
-       "id": "8941-3",
-       "root": "",
-       "gloss": "mud",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹץ"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "8941-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "והמשיך",
@@ -3878,41 +3828,18 @@
     },
     {
      "surface": "תהיה",
-     "lemma": "תִּהְיֶה",
-     "form": "תִּהְיֶה",
+     "lemma": "הָיָה",
+     "form": "הָיָה",
      "vocalized": "תִּהְיֶה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "Second-person masculine singular future (prefix conjugation) of הָיָה (hayá).",
-     "analysis": "VERB",
+     "gloss": "to be:",
+     "analysis": "VERB:future.masculine.second-person.singular",
      "caphi": "tihye",
      "caphi_urban": "tihye",
      "caphi_raw": null,
-     "maknuune_id": "7420-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7420-1",
-       "root": "",
-       "gloss": "Second-person masculine singular future (prefix conjugation)",
-       "analysis": "VERB",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "500-19",
-       "root": "",
-       "gloss": "to be:",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּהְיֶה"
-      },
-      {
-       "id": "13074-4",
-       "root": "ה",
-       "gloss": "To wonder.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "תְּהִיָּה"
-      }
-     ]
+     "maknuune_id": "500-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בטוח",

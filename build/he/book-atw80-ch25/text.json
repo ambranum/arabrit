@@ -803,37 +803,7 @@
      "caphi_urban": "rabim",
      "caphi_raw": null,
      "maknuune_id": "4002-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4002-1",
-       "root": "",
-       "gloss": "many people",
-       "analysis": "NOUN",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "4004-1",
-       "root": "",
-       "gloss": "Masculine plural present participle and present tense of רָב",
-       "analysis": "VERB",
-       "pointed": "רָבִים"
-      },
-      {
-       "id": "28-4",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "רַבִּים"
-      },
-      {
-       "id": "33-16",
-       "root": "",
-       "gloss": "to contend, dispute",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "רָבִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -972,23 +942,7 @@
      "caphi_urban": "ángliya",
      "caphi_raw": null,
      "maknuune_id": "315-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "315-1",
-       "root": "",
-       "gloss": "England (a constituent country of the United Kingdom)",
-       "analysis": "NAME",
-       "pointed": "אַנְגְּלִיָּה"
-      },
-      {
-       "id": "8844-5",
-       "root": "",
-       "gloss": "Englishman",
-       "analysis": "NOUN:feminine",
-       "pointed": "אַנְגְּלִיָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ועל",
@@ -1252,57 +1206,19 @@
     },
     {
      "surface": "וחייך",
-     "lemma": "חַיֶּיךָ",
-     "form": "חַיֶּיךָ",
+     "lemma": "חִיֵּךְ",
+     "form": "חִיֵּךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "form of חַיִּים (khayím) with second-person masculine singular personal pronoun as possessor.",
-     "analysis": "NOUN",
-     "caphi": "xayéyxa",
-     "caphi_urban": "xayéyxa",
+     "root": "ח.י",
+     "gloss": "to smile",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4654-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4654-1",
-       "root": "",
-       "gloss": "form of חַיִּים (khayím) with second-person masculine singul",
-       "analysis": "NOUN",
-       "pointed": "חַיֶּיךָ"
-      },
-      {
-       "id": "4655-1",
-       "root": "",
-       "gloss": "form of חַיִּים (khayím) with second-person feminine singula",
-       "analysis": "NOUN",
-       "pointed": "חַיַּיִךְ"
-      },
-      {
-       "id": "1982-8",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חַיֶּיךָ"
-      },
-      {
-       "id": "1982-9",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חַיַּיִךְ"
-      },
-      {
-       "id": "4653-18",
-       "root": "ח.י",
-       "gloss": "to smile",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "חייך"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "4653-18",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בלי",
@@ -1862,37 +1778,7 @@
      "caphi_urban": "tire",
      "caphi_raw": null,
      "maknuune_id": "560-22",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-22",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּרְאֶה"
-      },
-      {
-       "id": "4906-24",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּרְאֶה"
-      },
-      {
-       "id": "5750-35",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֻּרְאֶה"
-      },
-      {
-       "id": "6841-24",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֵּרָאֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וכל",
