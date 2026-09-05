@@ -751,34 +751,18 @@
     },
     {
      "surface": "הסיר",
-     "lemma": "הֵסִיר",
-     "form": "הֵסִיר",
-     "vocalized": "הֵסִיר",
+     "lemma": "סִיר",
+     "form": "סִיר",
+     "vocalized": "הַסִּיר",
      "vocalized_from": "lexicon",
-     "root": "ו",
-     "gloss": "to remove",
-     "analysis": "VERB",
-     "caphi": "hesir",
-     "caphi_urban": "hesir",
+     "root": null,
+     "gloss": "a generic pot, tub, vat, skeel for household or ritual purposes",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "hasir",
+     "caphi_urban": "hasir",
      "caphi_raw": null,
-     "maknuune_id": "9952-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9952-1",
-       "root": "ו",
-       "gloss": "to remove",
-       "analysis": "VERB",
-       "pointed": "הֵסִיר"
-      },
-      {
-       "id": "11585-7",
-       "root": "",
-       "gloss": "a generic pot, tub, vat, skeel for household or ritual purpo",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַסִּיר"
-      }
-     ]
+     "maknuune_id": "11585-7",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהר",
@@ -1156,34 +1140,18 @@
     },
     {
      "surface": "הסיר",
-     "lemma": "הֵסִיר",
-     "form": "הֵסִיר",
-     "vocalized": "הֵסִיר",
+     "lemma": "סִיר",
+     "form": "סִיר",
+     "vocalized": "הַסִּיר",
      "vocalized_from": "lexicon",
-     "root": "ו",
-     "gloss": "to remove",
-     "analysis": "VERB",
-     "caphi": "hesir",
-     "caphi_urban": "hesir",
+     "root": null,
+     "gloss": "a generic pot, tub, vat, skeel for household or ritual purposes",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "hasir",
+     "caphi_urban": "hasir",
      "caphi_raw": null,
-     "maknuune_id": "9952-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9952-1",
-       "root": "ו",
-       "gloss": "to remove",
-       "analysis": "VERB",
-       "pointed": "הֵסִיר"
-      },
-      {
-       "id": "11585-7",
-       "root": "",
-       "gloss": "a generic pot, tub, vat, skeel for household or ritual purpo",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַסִּיר"
-      }
-     ]
+     "maknuune_id": "11585-7",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וריח",
@@ -1371,34 +1339,18 @@
     },
     {
      "surface": "הסיר",
-     "lemma": "הֵסִיר",
-     "form": "הֵסִיר",
-     "vocalized": "הֵסִיר",
+     "lemma": "סִיר",
+     "form": "סִיר",
+     "vocalized": "הַסִּיר",
      "vocalized_from": "lexicon",
-     "root": "ו",
-     "gloss": "to remove",
-     "analysis": "VERB",
-     "caphi": "hesir",
-     "caphi_urban": "hesir",
+     "root": null,
+     "gloss": "a generic pot, tub, vat, skeel for household or ritual purposes",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "hasir",
+     "caphi_urban": "hasir",
      "caphi_raw": null,
-     "maknuune_id": "9952-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9952-1",
-       "root": "ו",
-       "gloss": "to remove",
-       "analysis": "VERB",
-       "pointed": "הֵסִיר"
-      },
-      {
-       "id": "11585-7",
-       "root": "",
-       "gloss": "a generic pot, tub, vat, skeel for household or ritual purpo",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַסִּיר"
-      }
-     ]
+     "maknuune_id": "11585-7",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

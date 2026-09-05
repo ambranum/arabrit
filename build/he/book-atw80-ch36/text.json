@@ -664,64 +664,19 @@
    "words": [
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "התחנה",
@@ -1797,23 +1752,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-3",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:dual.indefinite",
-       "pointed": "ידיים"
-      },
-      {
-       "id": "8073-1",
-       "root": "",
-       "gloss": "as יָדַיִם spelled full: dual indefinite form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "יָדַיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2227,25 +2166,8 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",

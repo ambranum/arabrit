@@ -2125,37 +2125,7 @@
      "caphi_urban": "shata",
      "caphi_raw": null,
      "maknuune_id": "4772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4772-1",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "1568-14",
-       "root": "",
-       "gloss": "to place, set",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "4772-30",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁתֵה"
-      },
-      {
-       "id": "232-1",
-       "root": "",
-       "gloss": "as ש- + תֵּה: tea",
-       "analysis": "NOUN",
-       "pointed": "תֵּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רום",
@@ -2975,53 +2945,8 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לי",

@@ -771,23 +771,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2059-12",
-       "root": "",
-       "gloss": "to start, to begin",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "הִתְחִילָה"
-      },
-      {
-       "id": "9912-9",
-       "root": "",
-       "gloss": "beginning",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "התחילה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שנה",

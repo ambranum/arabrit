@@ -1251,23 +1251,7 @@
      "caphi_urban": "haolam",
      "caphi_raw": null,
      "maknuune_id": "1524-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1524-1",
-       "root": "",
-       "gloss": "the world: singular definite form of עוֹלָם (olám).",
-       "analysis": "NOUN",
-       "pointed": "הָעוֹלָם"
-      },
-      {
-       "id": "1062-10",
-       "root": "",
-       "gloss": "world: (the) Earth, (the) globe.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָעוֹלָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1600,25 +1584,8 @@
      "caphi_urban": "mishtara",
      "caphi_raw": null,
      "maknuune_id": "4397-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4397-1",
-       "root": "",
-       "gloss": "police",
-       "analysis": "NOUN",
-       "pointed": "מִשְׁטָרָה"
-      },
-      {
-       "id": "13693-15",
-       "root": "",
-       "gloss": "a regime",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִשְׁטָרָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמרה",
@@ -2434,23 +2401,7 @@
      "caphi_urban": "sak",
      "caphi_raw": null,
      "maknuune_id": "4496-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4496-1",
-       "root": "",
-       "gloss": "a sack",
-       "analysis": "NOUN",
-       "pointed": "שַׂק"
-      },
-      {
-       "id": "3313-33",
-       "root": "",
-       "gloss": "to kiss",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שַׁק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גדול",

@@ -59,44 +59,7 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אז",
@@ -305,51 +268,7 @@
      "caphi_urban": "yishnu",
      "caphi_raw": null,
      "maknuune_id": "2157-34",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2157-34",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "יִשְׁנוּ"
-      },
-      {
-       "id": "477-26",
-       "root": "ה",
-       "gloss": "to repeat (to do something an additional time)",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יִשְׁנוּ"
-      },
-      {
-       "id": "2373-12",
-       "root": "",
-       "gloss": "Being, existence.",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "יֶשְׁנוֹ"
-      },
-      {
-       "id": "2681-38",
-       "root": "ה",
-       "gloss": "to change, to alter",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יְשַׁנּוּ"
-      },
-      {
-       "id": "2950-48",
-       "root": "ה",
-       "gloss": "To be changed, to be altered.",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יְשֻׁנּוּ"
-      },
-      {
-       "id": "2157-10",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:feminine.first-person.masculine.past.plural",
-       "pointed": "יָשַׁנּוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יצאתי",
@@ -379,46 +298,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "והלכתי",
@@ -1478,53 +1359,8 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לי",
@@ -1817,23 +1653,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ויושב",
@@ -3360,23 +3180,7 @@
      "caphi_urban": "soxer",
      "caphi_raw": null,
      "maknuune_id": "10981-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10981-1",
-       "root": "",
-       "gloss": "A trader.",
-       "analysis": "NOUN",
-       "pointed": "סוֹחֵר"
-      },
-      {
-       "id": "10982-14",
-       "root": "",
-       "gloss": "to traverse, to pass",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "סוֹחֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וכל",

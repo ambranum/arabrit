@@ -342,23 +342,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "המרוץ",
@@ -1492,36 +1476,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ואשתו",
@@ -2601,50 +2568,19 @@
     },
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "הסוס",
@@ -2761,51 +2697,7 @@
      "caphi_urban": "yishnu",
      "caphi_raw": null,
      "maknuune_id": "2157-34",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2157-34",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "יִשְׁנוּ"
-      },
-      {
-       "id": "477-26",
-       "root": "ה",
-       "gloss": "to repeat (to do something an additional time)",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יִשְׁנוּ"
-      },
-      {
-       "id": "2373-12",
-       "root": "",
-       "gloss": "Being, existence.",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "יֶשְׁנוֹ"
-      },
-      {
-       "id": "2681-38",
-       "root": "ה",
-       "gloss": "to change, to alter",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יְשַׁנּוּ"
-      },
-      {
-       "id": "2950-48",
-       "root": "ה",
-       "gloss": "To be changed, to be altered.",
-       "analysis": "VERB:future.masculine.plural.third-person",
-       "pointed": "יְשֻׁנּוּ"
-      },
-      {
-       "id": "2157-10",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:feminine.first-person.masculine.past.plural",
-       "pointed": "יָשַׁנּוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כל",
@@ -2918,36 +2810,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמרה",
@@ -3646,23 +3521,7 @@
      "caphi_urban": "dam",
      "caphi_raw": null,
      "maknuune_id": "123-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "123-1",
-       "root": "",
-       "gloss": "blood",
-       "analysis": "NOUN",
-       "pointed": "דָּם"
-      },
-      {
-       "id": "12827-38",
-       "root": "",
-       "gloss": "to pause",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "דֹֹּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -4359,23 +4218,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מתחרה",
@@ -5080,25 +4923,8 @@
      "caphi_urban": "mfakéax",
      "caphi_raw": null,
      "maknuune_id": "14844-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "14844-1",
-       "root": "",
-       "gloss": "supervisor",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּחַ"
-      },
-      {
-       "id": "14841-24",
-       "root": "",
-       "gloss": "to supervise",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּחַ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "איש",
@@ -5159,25 +4985,8 @@
      "caphi_urban": "mfakéax",
      "caphi_raw": null,
      "maknuune_id": "14844-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "14844-1",
-       "root": "",
-       "gloss": "supervisor",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּחַ"
-      },
-      {
-       "id": "14841-24",
-       "root": "",
-       "gloss": "to supervise",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּחַ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -5480,36 +5289,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רדף",
@@ -5576,48 +5368,18 @@
     },
     {
      "surface": "הרג",
-     "lemma": "נֶהֱרַג",
-     "form": "נֶהֱרַג",
+     "lemma": "הָרַג",
+     "form": "הָרַג",
      "vocalized": "הָרַג",
      "vocalized_from": "lexicon",
      "root": "ה",
-     "gloss": "To be killed; to die suddenly or violently.",
-     "analysis": "VERB:active",
+     "gloss": "to kill (put to death).",
+     "analysis": "VERB",
      "caphi": "harag",
      "caphi_urban": "harag",
      "caphi_raw": null,
-     "maknuune_id": "4478-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4478-3",
-       "root": "ה",
-       "gloss": "To be killed; to die suddenly or violently.",
-       "analysis": "VERB:active",
-       "pointed": "הָרַג"
-      },
-      {
-       "id": "6347-1",
-       "root": "ה",
-       "gloss": "to kill (put to death).",
-       "analysis": "VERB",
-       "pointed": "הָרַג"
-      },
-      {
-       "id": "6348-1",
-       "root": "",
-       "gloss": "killing, murder, slaughter, massacre",
-       "analysis": "NOUN",
-       "pointed": "הֶרֶג"
-      },
-      {
-       "id": "6347-39",
-       "root": "ה",
-       "gloss": "to kill (put to death).",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֲרֹג"
-      }
-     ]
+     "maknuune_id": "6347-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",
@@ -5718,25 +5480,8 @@
      "caphi_urban": "mfakéax",
      "caphi_raw": null,
      "maknuune_id": "14844-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "14844-1",
-       "root": "",
-       "gloss": "supervisor",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּחַ"
-      },
-      {
-       "id": "14841-24",
-       "root": "",
-       "gloss": "to supervise",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּחַ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -6021,25 +5766,8 @@
      "caphi_urban": "mfakéax",
      "caphi_raw": null,
      "maknuune_id": "14844-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "14844-1",
-       "root": "",
-       "gloss": "supervisor",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּחַ"
-      },
-      {
-       "id": "14841-24",
-       "root": "",
-       "gloss": "to supervise",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּחַ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שתק",

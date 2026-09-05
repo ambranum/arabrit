@@ -2764,36 +2764,19 @@
    "words": [
     {
      "surface": "ובא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הלילה",
@@ -3255,23 +3238,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-14",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "בּוֹכֶה"
-      },
-      {
-       "id": "6058-15",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "בּוֹכָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",
@@ -3478,46 +3445,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "משהו",
@@ -3662,39 +3591,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ושם",

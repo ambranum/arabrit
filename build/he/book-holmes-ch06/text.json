@@ -270,25 +270,8 @@
      "caphi_urban": "bgadim",
      "caphi_raw": null,
      "maknuune_id": "4019-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "4019-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּגֶד (béged): garments",
-       "analysis": "NOUN",
-       "pointed": "בְּגָדִים"
-      },
-      {
-       "id": "3815-3",
-       "root": "",
-       "gloss": "clothing, garment",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "בְּגָדִים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שחורים",
@@ -1680,62 +1663,18 @@
     },
     {
      "surface": "מעבר",
-     "lemma": "מְעֻבָּר",
-     "form": "מְעֻבָּר",
-     "vocalized": "מְעֻבָּר",
+     "lemma": "מַעֲבָר",
+     "form": "מַעֲבָר",
+     "vocalized": "מַעֲבָר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "pregnant",
-     "analysis": "ADJ",
-     "caphi": "mubar",
-     "caphi_urban": "mubar",
+     "gloss": "A passage, passing-place, crossing, crosswalk.",
+     "analysis": "NOUN",
+     "caphi": "maavar",
+     "caphi_urban": "maavar",
      "caphi_raw": null,
-     "maknuune_id": "2121-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2121-1",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ",
-       "pointed": "מְעֻבָּר"
-      },
-      {
-       "id": "3254-1",
-       "root": "",
-       "gloss": "A passage, passing-place, crossing, crosswalk.",
-       "analysis": "NOUN",
-       "pointed": "מַעֲבָר"
-      },
-      {
-       "id": "11956-23",
-       "root": "ע",
-       "gloss": "To be handed over, transmitted, brought or taken across, tra",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מָעֳבָר"
-      },
-      {
-       "id": "13127-24",
-       "root": "",
-       "gloss": "to cause to cross over or go across",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְעַבֵּר"
-      },
-      {
-       "id": "185-1",
-       "root": "ע",
-       "gloss": "as מ- + עָבַר: to pass, to cross",
-       "analysis": "VERB",
-       "pointed": "עָבַר"
-      },
-      {
-       "id": "186-1",
-       "root": "",
-       "gloss": "as מ- + עָבָר: The past.",
-       "analysis": "NOUN",
-       "pointed": "עָבָר"
-      }
-     ]
+     "maknuune_id": "3254-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואז",
@@ -2168,36 +2107,19 @@
     },
     {
      "surface": "הברכיים",
-     "lemma": "בִּרְכַּיִים",
-     "form": "בִּרְכַּיִים",
+     "lemma": "בֶּרֶךְ",
+     "form": "בֶּרֶךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-     "analysis": "NOUN",
-     "caphi": "birkáyim",
-     "caphi_urban": "birkáyim",
+     "gloss": "knee",
+     "analysis": "NOUN:indefinite.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4980-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4980-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-       "analysis": "NOUN",
-       "pointed": "בִּרְכַּיִים"
-      },
-      {
-       "id": "600-3",
-       "root": "",
-       "gloss": "knee",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ברכיים"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "600-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עם",
@@ -3858,46 +3780,8 @@
      "caphi_urban": "tafas",
      "caphi_raw": null,
      "maknuune_id": "6875-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6875-1",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6876-1",
-       "root": "",
-       "gloss": "clasp, clip",
-       "analysis": "NOUN",
-       "pointed": "תֶּפֶס"
-      },
-      {
-       "id": "13328-3",
-       "root": "ת.פ",
-       "gloss": "To be caught.",
-       "analysis": "VERB:active",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "13884-43",
-       "root": "",
-       "gloss": "to seize",
-       "analysis": "VERB:alternative",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6875-39",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "תְּפֹס"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותו",
@@ -3940,64 +3824,19 @@
    "words": [
     {
      "surface": "והשני",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שֵׁנִי",
+     "form": "שֵׁנִי",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
-     "caphi": "shney",
-     "caphi_urban": "shney",
+     "gloss": "second",
+     "analysis": "ADJ",
+     "caphi": "sheni",
+     "caphi_urban": "sheni",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "551-1",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ",
-       "pointed": "שֵׁנִי"
-      },
-      {
-       "id": "552-1",
-       "root": "",
-       "gloss": "defective spelling of שוני",
-       "analysis": "NOUN",
-       "pointed": "שֹׁנִי"
-      },
-      {
-       "id": "553-1",
-       "root": "",
-       "gloss": "scarlet, crimson",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִי"
-      },
-      {
-       "id": "555-1",
-       "root": "",
-       "gloss": "defective spelling of שיני",
-       "analysis": "ADJ",
-       "pointed": "שִׁנִּי"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "551-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "ירד",
@@ -5304,50 +5143,19 @@
    "words": [
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "על",
@@ -5933,39 +5741,8 @@
      "caphi_urban": "rotse",
      "caphi_raw": null,
      "maknuune_id": "3009-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "3009-1",
-       "root": "",
-       "gloss": "masculine singular present participle and present tense of ר",
-       "analysis": "VERB",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3010-1",
-       "root": "",
-       "gloss": "feminine singular present participle and present tense of רצ",
-       "analysis": "VERB",
-       "pointed": "רוֹצָה"
-      },
-      {
-       "id": "3490-15",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3490-16",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹצָה"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "את",
@@ -6222,23 +5999,7 @@
      "caphi_urban": "shave",
      "caphi_raw": null,
      "maknuune_id": "9088-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9088-3",
-       "root": "",
-       "gloss": "equal, identical (the same in all respects, having the same ",
-       "analysis": "ADJ:feminine",
-       "pointed": "שָׁוֶוה"
-      },
-      {
-       "id": "7746-15",
-       "root": "",
-       "gloss": "as ש- + וָו: hook",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "וָוָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חודשיים",
@@ -6692,36 +6453,19 @@
     },
     {
      "surface": "הברכיים",
-     "lemma": "בִּרְכַּיִים",
-     "form": "בִּרְכַּיִים",
+     "lemma": "בֶּרֶךְ",
+     "form": "בֶּרֶךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-     "analysis": "NOUN",
-     "caphi": "birkáyim",
-     "caphi_urban": "birkáyim",
+     "gloss": "knee",
+     "analysis": "NOUN:indefinite.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4980-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4980-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-       "analysis": "NOUN",
-       "pointed": "בִּרְכַּיִים"
-      },
-      {
-       "id": "600-3",
-       "root": "",
-       "gloss": "knee",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ברכיים"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "600-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלו",

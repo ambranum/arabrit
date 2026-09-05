@@ -464,46 +464,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מספרים",
@@ -1593,23 +1555,7 @@
      "caphi_urban": "rúax",
      "caphi_raw": null,
      "maknuune_id": "324-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "324-1",
-       "root": "",
-       "gloss": "Wind, a wind: (a) movement of atmospheric air.",
-       "analysis": "NOUN",
-       "pointed": "רוּחַ"
-      },
-      {
-       "id": "325-1",
-       "root": "",
-       "gloss": "defective spelling of רווח",
-       "analysis": "NOUN",
-       "pointed": "רֶוַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והספינה",
@@ -2340,30 +2286,7 @@
      "caphi_urban": "kaele",
      "caphi_raw": null,
      "maknuune_id": "8002-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8002-3",
-       "root": "",
-       "gloss": "Used other than figuratively or idiomatically: see כ־, זה.",
-       "analysis": "ADV:plural",
-       "pointed": "כָּאֵלֶּה"
-      },
-      {
-       "id": "357-6",
-       "root": "",
-       "gloss": "as כ- + אֵל: god (a deity or supreme being; a supernatura",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵלָה"
-      },
-      {
-       "id": "885-1",
-       "root": "",
-       "gloss": "as כ- + אֵלֶּה: masculine/feminine plural of זה (ze)",
-       "analysis": "DET",
-       "pointed": "אֵלֶּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2927,23 +2850,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-3",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:dual.indefinite",
-       "pointed": "ידיים"
-      },
-      {
-       "id": "8073-1",
-       "root": "",
-       "gloss": "as יָדַיִם spelled full: dual indefinite form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "יָדַיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ריקות",

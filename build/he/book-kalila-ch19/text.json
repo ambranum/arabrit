@@ -249,30 +249,7 @@
      "caphi_urban": "kof",
      "caphi_raw": null,
      "maknuune_id": "1801-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1801-1",
-       "root": "",
-       "gloss": "monkey, ape",
-       "analysis": "NOUN",
-       "pointed": "קוֹף"
-      },
-      {
-       "id": "1802-1",
-       "root": "",
-       "gloss": "eye of a needle",
-       "analysis": "NOUN",
-       "pointed": "קוּף"
-      },
-      {
-       "id": "14322-5",
-       "root": "",
-       "gloss": "feminine of קוֹף (“monkey, ape”)",
-       "analysis": "NOUN:masculine",
-       "pointed": "קוֹף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שפעם",
@@ -540,32 +517,8 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",
@@ -1845,30 +1798,7 @@
      "caphi_urban": "kof",
      "caphi_raw": null,
      "maknuune_id": "1801-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1801-1",
-       "root": "",
-       "gloss": "monkey, ape",
-       "analysis": "NOUN",
-       "pointed": "קוֹף"
-      },
-      {
-       "id": "1802-1",
-       "root": "",
-       "gloss": "eye of a needle",
-       "analysis": "NOUN",
-       "pointed": "קוּף"
-      },
-      {
-       "id": "14322-5",
-       "root": "",
-       "gloss": "feminine of קוֹף (“monkey, ape”)",
-       "analysis": "NOUN:masculine",
-       "pointed": "קוֹף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2159,30 +2089,7 @@
      "caphi_urban": "kof",
      "caphi_raw": null,
      "maknuune_id": "1801-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1801-1",
-       "root": "",
-       "gloss": "monkey, ape",
-       "analysis": "NOUN",
-       "pointed": "קוֹף"
-      },
-      {
-       "id": "1802-1",
-       "root": "",
-       "gloss": "eye of a needle",
-       "analysis": "NOUN",
-       "pointed": "קוּף"
-      },
-      {
-       "id": "14322-5",
-       "root": "",
-       "gloss": "feminine of קוֹף (“monkey, ape”)",
-       "analysis": "NOUN:masculine",
-       "pointed": "קוֹף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3619,30 +3526,7 @@
      "caphi_urban": "kof",
      "caphi_raw": null,
      "maknuune_id": "1801-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1801-1",
-       "root": "",
-       "gloss": "monkey, ape",
-       "analysis": "NOUN",
-       "pointed": "קוֹף"
-      },
-      {
-       "id": "1802-1",
-       "root": "",
-       "gloss": "eye of a needle",
-       "analysis": "NOUN",
-       "pointed": "קוּף"
-      },
-      {
-       "id": "14322-5",
-       "root": "",
-       "gloss": "feminine of קוֹף (“monkey, ape”)",
-       "analysis": "NOUN:masculine",
-       "pointed": "קוֹף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

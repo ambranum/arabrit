@@ -908,58 +908,7 @@
      "caphi_urban": "baala",
      "caphi_raw": null,
      "maknuune_id": "1098-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1098-6",
-       "root": "",
-       "gloss": "master, owner",
-       "analysis": "NOUN:feminine",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "2369-1",
-       "root": "",
-       "gloss": "mistress (female master or owner)",
-       "analysis": "NOUN",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "1101-5",
-       "root": "",
-       "gloss": "having, possessing, (endowed) with",
-       "analysis": "ADJ:feminine",
-       "pointed": "בַּעַלָה"
-      },
-      {
-       "id": "1099-13",
-       "root": "",
-       "gloss": "lord, idol",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "בַּעֲלָהּ"
-      },
-      {
-       "id": "1102-14",
-       "root": "",
-       "gloss": "to have sexual intercourse",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "בָּעֲלָה"
-      },
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "as ב- + עָלָה: To ascend, rise, go up; to move from a point",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "as ב- + עֹלָה: fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -2062,30 +2011,7 @@
      "caphi_urban": "meot",
      "caphi_raw": null,
      "maknuune_id": "1891-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1891-5",
-       "root": "",
-       "gloss": "hundred, one hundred",
-       "analysis": "NUM:plural",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "3749-1",
-       "root": "",
-       "gloss": "plural of מֵאָה",
-       "analysis": "NUM",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "622-1",
-       "root": "",
-       "gloss": "as מ- + אוֹת: a sign, an omen",
-       "analysis": "NOUN",
-       "pointed": "אוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יספיקו",
@@ -3035,23 +2961,7 @@
      "caphi_urban": "patxa",
      "caphi_raw": null,
      "maknuune_id": "2296-16",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2296-16",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "פָּתְחָה"
-      },
-      {
-       "id": "12623-21",
-       "root": "",
-       "gloss": "to develop",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "פִּתְּחָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לפניה",
@@ -5019,44 +4929,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "14896-3",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ:feminine",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "851-15",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "14897-17",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דּוּמָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בדיוק",
@@ -5859,23 +5732,7 @@
      "caphi_urban": "patxa",
      "caphi_raw": null,
      "maknuune_id": "2296-16",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2296-16",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "פָּתְחָה"
-      },
-      {
-       "id": "12623-21",
-       "root": "",
-       "gloss": "to develop",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "פִּתְּחָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואמרה",
@@ -6523,23 +6380,7 @@
      "caphi_urban": "soxer",
      "caphi_raw": null,
      "maknuune_id": "10981-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10981-1",
-       "root": "",
-       "gloss": "A trader.",
-       "analysis": "NOUN",
-       "pointed": "סוֹחֵר"
-      },
-      {
-       "id": "10982-14",
-       "root": "",
-       "gloss": "to traverse, to pass",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "סוֹחֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והעתיק",

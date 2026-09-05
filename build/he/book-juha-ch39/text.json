@@ -265,23 +265,7 @@
      "caphi_urban": "hayareax",
      "caphi_raw": null,
      "maknuune_id": "1996-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1996-9",
-       "root": "",
-       "gloss": "Moon",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיָּרֵחַ"
-      },
-      {
-       "id": "1997-9",
-       "root": "",
-       "gloss": "month",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיֶּרַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -334,23 +318,7 @@
      "caphi_urban": "hayareax",
      "caphi_raw": null,
      "maknuune_id": "1996-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1996-9",
-       "root": "",
-       "gloss": "Moon",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיָּרֵחַ"
-      },
-      {
-       "id": "1997-9",
-       "root": "",
-       "gloss": "month",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיֶּרַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נפל",
@@ -795,37 +763,7 @@
      "caphi_urban": "mashax",
      "caphi_raw": null,
      "maknuune_id": "2312-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2312-1",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2313-1",
-       "root": "",
-       "gloss": "extent, duration",
-       "analysis": "NOUN",
-       "pointed": "מֶשֶׁךְ"
-      },
-      {
-       "id": "6857-3",
-       "root": "",
-       "gloss": "To continue, to last, to go on",
-       "analysis": "VERB:active",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2312-39",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְשֹׁךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בכל",
@@ -977,37 +915,7 @@
      "caphi_urban": "mashax",
      "caphi_raw": null,
      "maknuune_id": "2312-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2312-1",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2313-1",
-       "root": "",
-       "gloss": "extent, duration",
-       "analysis": "NOUN",
-       "pointed": "מֶשֶׁךְ"
-      },
-      {
-       "id": "6857-3",
-       "root": "",
-       "gloss": "To continue, to last, to go on",
-       "analysis": "VERB:active",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2312-39",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְשֹׁךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שוב",
@@ -1296,23 +1204,7 @@
      "caphi_urban": "hayareax",
      "caphi_raw": null,
      "maknuune_id": "1996-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1996-9",
-       "root": "",
-       "gloss": "Moon",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיָּרֵחַ"
-      },
-      {
-       "id": "1997-9",
-       "root": "",
-       "gloss": "month",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיֶּרַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היה",

@@ -367,25 +367,8 @@
      "caphi_urban": "sfina",
      "caphi_raw": null,
      "maknuune_id": "9236-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "9236-1",
-       "root": "",
-       "gloss": "ship, boat",
-       "analysis": "NOUN",
-       "pointed": "סְפִינָה"
-      },
-      {
-       "id": "15618-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סְפִינָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "גדולה",
@@ -415,25 +398,8 @@
      "caphi_urban": "mfaked",
      "caphi_raw": null,
      "maknuune_id": "7438-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "7438-1",
-       "root": "",
-       "gloss": "A (male) commander, a (male) commanding officer.",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּד"
-      },
-      {
-       "id": "10146-24",
-       "root": "",
-       "gloss": "to command, to oversee",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּד"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "היה",
@@ -1366,30 +1332,7 @@
      "caphi_urban": "meot",
      "caphi_raw": null,
      "maknuune_id": "1891-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1891-5",
-       "root": "",
-       "gloss": "hundred, one hundred",
-       "analysis": "NUM:plural",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "3749-1",
-       "root": "",
-       "gloss": "plural of מֵאָה",
-       "analysis": "NUM",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "622-1",
-       "root": "",
-       "gloss": "as מ- + אוֹת: a sign, an omen",
-       "analysis": "NOUN",
-       "pointed": "אוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ספינות",
@@ -1917,48 +1860,18 @@
     },
     {
      "surface": "נשאו",
-     "lemma": "נָשָׁא",
-     "form": "נָשָׁא",
-     "vocalized": "נִשְׁאוּ",
+     "lemma": "נָשָׂא",
+     "form": "נָשָׂא",
+     "vocalized": "נָשְׂאוּ",
      "vocalized_from": "lexicon",
      "root": "נ.א",
-     "gloss": "To lead astray, that is, (mentally) to delude, or (morally) to seduce, to beguile, to deceive",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "nishu",
-     "caphi_urban": "nishu",
+     "gloss": "to lift",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "nasu",
+     "caphi_urban": "nasu",
      "caphi_raw": null,
-     "maknuune_id": "3311-33",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3311-33",
-       "root": "נ.א",
-       "gloss": "To lead astray, that is, (mentally) to delude, or (morally) ",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "נִשְׁאוּ"
-      },
-      {
-       "id": "3308-18",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָשְׂאוּ"
-      },
-      {
-       "id": "3311-15",
-       "root": "נ.א",
-       "gloss": "To lead astray, that is, (mentally) to delude, or (morally) ",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָשְׁאוּ"
-      },
-      {
-       "id": "10351-16",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נִשְּׂאוּ"
-      }
-     ]
+     "maknuune_id": "3308-18",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותנו",
@@ -3231,55 +3144,18 @@
     },
     {
      "surface": "למות",
-     "lemma": "מֵת",
-     "form": "מֵת",
+     "lemma": "לָמוּת",
+     "form": "לָמוּת",
      "vocalized": "לָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "To die.",
-     "analysis": "VERB:infinitive",
+     "gloss": "to-infinitive of מֵת (met).",
+     "analysis": "VERB",
      "caphi": "lamut",
      "caphi_urban": "lamut",
      "caphi_raw": null,
-     "maknuune_id": "1923-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1923-3",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָמוּת"
-      },
-      {
-       "id": "2178-1",
-       "root": "",
-       "gloss": "to-infinitive of מֵת (met).",
-       "analysis": "VERB",
-       "pointed": "לָמוּת"
-      },
-      {
-       "id": "1660-3",
-       "root": "",
-       "gloss": "llama",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לָמוֹת"
-      },
-      {
-       "id": "977-1",
-       "root": "",
-       "gloss": "as ל- + מָוֶת: defective spelling of מוות",
-       "analysis": "NOUN",
-       "pointed": "מָוֶת"
-      },
-      {
-       "id": "978-1",
-       "root": "",
-       "gloss": "as ל- + מוּת: Masculine singular imperative of מֵת (mét).",
-       "analysis": "VERB",
-       "pointed": "מוּת"
-      }
-     ]
+     "maknuune_id": "2178-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחד",
@@ -3841,55 +3717,18 @@
     },
     {
      "surface": "למות",
-     "lemma": "מֵת",
-     "form": "מֵת",
+     "lemma": "לָמוּת",
+     "form": "לָמוּת",
      "vocalized": "לָמוּת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "To die.",
-     "analysis": "VERB:infinitive",
+     "gloss": "to-infinitive of מֵת (met).",
+     "analysis": "VERB",
      "caphi": "lamut",
      "caphi_urban": "lamut",
      "caphi_raw": null,
-     "maknuune_id": "1923-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1923-3",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:infinitive",
-       "pointed": "לָמוּת"
-      },
-      {
-       "id": "2178-1",
-       "root": "",
-       "gloss": "to-infinitive of מֵת (met).",
-       "analysis": "VERB",
-       "pointed": "לָמוּת"
-      },
-      {
-       "id": "1660-3",
-       "root": "",
-       "gloss": "llama",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לָמוֹת"
-      },
-      {
-       "id": "977-1",
-       "root": "",
-       "gloss": "as ל- + מָוֶת: defective spelling of מוות",
-       "analysis": "NOUN",
-       "pointed": "מָוֶת"
-      },
-      {
-       "id": "978-1",
-       "root": "",
-       "gloss": "as ל- + מוּת: Masculine singular imperative of מֵת (mét).",
-       "analysis": "VERB",
-       "pointed": "מוּת"
-      }
-     ]
+     "maknuune_id": "2178-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",

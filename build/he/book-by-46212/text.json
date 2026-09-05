@@ -7599,7 +7599,7 @@
      "caphi_urban": "shlishi",
      "caphi_raw": null,
      "maknuune_id": "569-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בּוֹא",
@@ -8342,25 +8342,8 @@
      "caphi_urban": "éle",
      "caphi_raw": null,
      "maknuune_id": "885-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "885-1",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET",
-       "pointed": "אֵלֶּה"
-      },
-      {
-       "id": "2601-3",
-       "root": "",
-       "gloss": "this, this one.",
-       "analysis": "PRON:plural",
-       "pointed": "אֵלֶּה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְאַחַר",

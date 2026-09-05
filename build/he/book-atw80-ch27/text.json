@@ -1443,43 +1443,19 @@
     },
     {
      "surface": "ועם",
-     "lemma": "עַם",
-     "form": "עַם",
+     "lemma": "עִם",
+     "form": "עִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A nation, a people.",
-     "analysis": "NOUN",
-     "caphi": "am",
-     "caphi_urban": "am",
+     "gloss": "With: used to indicate togetherness, being together.",
+     "analysis": "PREP",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "1031-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1031-1",
-       "root": "",
-       "gloss": "A nation, a people.",
-       "analysis": "NOUN",
-       "pointed": "עַם"
-      },
-      {
-       "id": "1032-1",
-       "root": "",
-       "gloss": "With: used to indicate togetherness, being together.",
-       "analysis": "PREP",
-       "pointed": "עִם"
-      },
-      {
-       "id": "9619-1",
-       "root": "",
-       "gloss": "abbreviation of עַמּוּד (amúd, “page”): p.",
-       "analysis": "NOUN",
-       "pointed": "עמ׳"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "1032-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "פיקס",

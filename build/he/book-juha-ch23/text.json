@@ -1461,25 +1461,8 @@
      "caphi_urban": "od",
      "caphi_raw": null,
      "maknuune_id": "3277-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3277-1",
-       "root": "",
-       "gloss": "still, longer, more; no longer, no more, any longer (signifi",
-       "analysis": "ADV",
-       "pointed": "עוֹד"
-      },
-      {
-       "id": "3280-1",
-       "root": "",
-       "gloss": "oud",
-       "analysis": "NOUN",
-       "pointed": "עוּד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "חצי",

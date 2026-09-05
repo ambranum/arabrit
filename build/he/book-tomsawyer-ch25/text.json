@@ -1618,58 +1618,7 @@
      "caphi_urban": "baala",
      "caphi_raw": null,
      "maknuune_id": "1098-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1098-6",
-       "root": "",
-       "gloss": "master, owner",
-       "analysis": "NOUN:feminine",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "2369-1",
-       "root": "",
-       "gloss": "mistress (female master or owner)",
-       "analysis": "NOUN",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "1101-5",
-       "root": "",
-       "gloss": "having, possessing, (endowed) with",
-       "analysis": "ADJ:feminine",
-       "pointed": "בַּעַלָה"
-      },
-      {
-       "id": "1099-13",
-       "root": "",
-       "gloss": "lord, idol",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "בַּעֲלָהּ"
-      },
-      {
-       "id": "1102-14",
-       "root": "",
-       "gloss": "to have sexual intercourse",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "בָּעֲלָה"
-      },
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "as ב- + עָלָה: To ascend, rise, go up; to move from a point",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "as ב- + עֹלָה: fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בעלה",
@@ -1684,58 +1633,7 @@
      "caphi_urban": "baala",
      "caphi_raw": null,
      "maknuune_id": "1098-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1098-6",
-       "root": "",
-       "gloss": "master, owner",
-       "analysis": "NOUN:feminine",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "2369-1",
-       "root": "",
-       "gloss": "mistress (female master or owner)",
-       "analysis": "NOUN",
-       "pointed": "בַּעֲלָה"
-      },
-      {
-       "id": "1101-5",
-       "root": "",
-       "gloss": "having, possessing, (endowed) with",
-       "analysis": "ADJ:feminine",
-       "pointed": "בַּעַלָה"
-      },
-      {
-       "id": "1099-13",
-       "root": "",
-       "gloss": "lord, idol",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "בַּעֲלָהּ"
-      },
-      {
-       "id": "1102-14",
-       "root": "",
-       "gloss": "to have sexual intercourse",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "בָּעֲלָה"
-      },
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "as ב- + עָלָה: To ascend, rise, go up; to move from a point",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "as ב- + עֹלָה: fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היה",
@@ -2058,30 +1956,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "6347-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6347-4",
-       "root": "ה",
-       "gloss": "to kill (put to death).",
-       "analysis": "VERB:infinitive",
-       "pointed": "להרוג"
-      },
-      {
-       "id": "6437-1",
-       "root": "",
-       "gloss": "as ל- + הָרוּג: killed, murdered, slain",
-       "analysis": "ADJ",
-       "pointed": "הָרוּג"
-      },
-      {
-       "id": "6346-1",
-       "root": "",
-       "gloss": "as לַהֲרֹג spelled full: to-infinitive of הָרַג (harág), defectiv",
-       "analysis": "VERB",
-       "pointed": "לַהֲרוֹג"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -2949,41 +2824,18 @@
     },
     {
      "surface": "תספר",
-     "lemma": "סָפַר",
-     "form": "סָפַר",
-     "vocalized": "תִּסְפֹּר",
+     "lemma": "סִפֵּר",
+     "form": "סִפֵּר",
+     "vocalized": "תְּסַפֵּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to count",
+     "gloss": "to tell (a story), to narrate, to recount",
      "analysis": "VERB:future.masculine.second-person.singular",
-     "caphi": "tispor",
-     "caphi_urban": "tispor",
+     "caphi": "tsaper",
+     "caphi_urban": "tsaper",
      "caphi_raw": null,
-     "maknuune_id": "1117-25",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1117-25",
-       "root": "",
-       "gloss": "to count",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּסְפֹּר"
-      },
-      {
-       "id": "2187-34",
-       "root": "",
-       "gloss": "To be told, to be recounted.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תְּסֻפַּר"
-      },
-      {
-       "id": "4008-30",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תְּסַפֵּר"
-      }
-     ]
+     "maknuune_id": "4008-30",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לאף",
@@ -3882,50 +3734,19 @@
    "words": [
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "כל",

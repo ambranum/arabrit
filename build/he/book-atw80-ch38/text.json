@@ -978,44 +978,7 @@
      "caphi_urban": "ani",
      "caphi_raw": null,
      "maknuune_id": "6714-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6714-1",
-       "root": "",
-       "gloss": "poor",
-       "analysis": "ADJ",
-       "pointed": "עָנִי"
-      },
-      {
-       "id": "6716-1",
-       "root": "",
-       "gloss": "defective spelling of עוני",
-       "analysis": "NOUN",
-       "pointed": "עֹנִי"
-      },
-      {
-       "id": "6717-1",
-       "root": "",
-       "gloss": "feminine singular imperative of עָנָה (anáh)",
-       "analysis": "VERB",
-       "pointed": "עֲנִי"
-      },
-      {
-       "id": "10872-3",
-       "root": "",
-       "gloss": "poverty (the quality or state of being indigent)",
-       "analysis": "NOUN:alternative",
-       "pointed": "עֹנִי"
-      },
-      {
-       "id": "4764-29",
-       "root": "ע.ה",
-       "gloss": "to answer, to reply",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "עֲנִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1083,30 +1046,7 @@
      "caphi_urban": "yodáat",
      "caphi_raw": null,
      "maknuune_id": "14456-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14456-1",
-       "root": "",
-       "gloss": "Feminine singular present participle and present tense of יָ",
-       "analysis": "VERB",
-       "pointed": "יוֹדַעַת"
-      },
-      {
-       "id": "818-17",
-       "root": "י.ע",
-       "gloss": "To know (a fact).",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "יוֹדַעַת"
-      },
-      {
-       "id": "9295-9",
-       "root": "",
-       "gloss": "to be informed",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "יודעת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואני",

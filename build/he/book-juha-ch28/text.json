@@ -415,23 +415,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -704,23 +688,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהכיס",
@@ -805,23 +773,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

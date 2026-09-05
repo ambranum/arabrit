@@ -183,32 +183,8 @@
      "caphi_urban": "axalti",
      "caphi_raw": null,
      "maknuune_id": "973-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "973-11",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אָכַלְתִּי"
-      },
-      {
-       "id": "7647-6",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אֻכַּלְתִּי"
-      },
-      {
-       "id": "15507-9",
-       "root": "",
-       "gloss": "to corrode",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אִכַּלְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -1096,23 +1072,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יצא",
@@ -1709,25 +1669,8 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שנולד",
@@ -1773,44 +1716,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "14896-3",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ:feminine",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "851-15",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "14897-17",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דּוּמָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3386,30 +3292,7 @@
      "caphi_urban": "heemin",
      "caphi_raw": null,
      "maknuune_id": "5500-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5500-1",
-       "root": "א",
-       "gloss": "to believe",
-       "analysis": "VERB",
-       "pointed": "הֶאֱמִין"
-      },
-      {
-       "id": "1604-1",
-       "root": "",
-       "gloss": "as ה- + אָמִין: trustworthy, reliable",
-       "analysis": "ADJ",
-       "pointed": "אָמִין"
-      },
-      {
-       "id": "7740-38",
-       "root": "א",
-       "gloss": "as נֶאֱמַן spelled full: to be true or reliable",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵאָמֵין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לעיניים",
@@ -4014,43 +3897,19 @@
    "words": [
     {
      "surface": "וחזרתי",
-     "lemma": "חֲזָרָה",
-     "form": "חֲזָרָה",
+     "lemma": "חָזַר",
+     "form": "חָזַר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "A return, returning, going back.",
-     "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-     "caphi": "xazarati",
-     "caphi_urban": "xazarati",
+     "root": "ח",
+     "gloss": "to return (to come back after some period of time, or at regular intervals)",
+     "analysis": "VERB:feminine.first-person.masculine.past.singular",
+     "caphi": "xazarti",
+     "caphi_urban": "xazarti",
      "caphi_raw": null,
-     "maknuune_id": "2142-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2142-7",
-       "root": "",
-       "gloss": "A return, returning, going back.",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "חֲזָרָתִי"
-      },
-      {
-       "id": "4374-6",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "חָזַרְתִּי"
-      },
-      {
-       "id": "7942-7",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "חִזַּרְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "4374-6",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לבגדאד",

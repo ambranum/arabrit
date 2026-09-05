@@ -804,25 +804,8 @@
      "caphi_urban": "mfaked",
      "caphi_raw": null,
      "maknuune_id": "7438-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "7438-1",
-       "root": "",
-       "gloss": "A (male) commander, a (male) commanding officer.",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּד"
-      },
-      {
-       "id": "10146-24",
-       "root": "",
-       "gloss": "to command, to oversee",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּד"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "נהיה",
@@ -3015,39 +2998,8 @@
      "caphi_urban": "shémesh",
      "caphi_raw": null,
      "maknuune_id": "402-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "402-1",
-       "root": "",
-       "gloss": "sun",
-       "analysis": "NOUN",
-       "pointed": "שֶׁמֶשׁ"
-      },
-      {
-       "id": "403-1",
-       "root": "",
-       "gloss": "public servant",
-       "analysis": "NOUN",
-       "pointed": "שַׁמָּשׁ"
-      },
-      {
-       "id": "404-1",
-       "root": "",
-       "gloss": "defective spelling of שימש.",
-       "analysis": "VERB",
-       "pointed": "שִׁמֵּשׁ"
-      },
-      {
-       "id": "7869-38",
-       "root": "",
-       "gloss": "to serve, be used",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שַׁמֵּשׁ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שקעה",

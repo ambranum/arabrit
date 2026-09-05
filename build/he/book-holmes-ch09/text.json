@@ -805,48 +805,18 @@
     },
     {
      "surface": "קשור",
-     "lemma": "קִשּׁוּר",
-     "form": "קִשּׁוּר",
-     "vocalized": "קִשּׁוּר",
+     "lemma": "קָשׁוּר",
+     "form": "קָשׁוּר",
+     "vocalized": "קָשׁוּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "link, connection",
-     "analysis": "NOUN",
-     "caphi": "kishur",
-     "caphi_urban": "kishur",
+     "gloss": "Tied, connected, bound.",
+     "analysis": "ADJ",
+     "caphi": "kashur",
+     "caphi_urban": "kashur",
      "caphi_raw": null,
-     "maknuune_id": "2080-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2080-1",
-       "root": "",
-       "gloss": "link, connection",
-       "analysis": "NOUN",
-       "pointed": "קִשּׁוּר"
-      },
-      {
-       "id": "2792-1",
-       "root": "",
-       "gloss": "Tied, connected, bound.",
-       "analysis": "ADJ",
-       "pointed": "קָשׁוּר"
-      },
-      {
-       "id": "3843-4",
-       "root": "",
-       "gloss": "To connect, tie.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "קִשּׁוּר"
-      },
-      {
-       "id": "10776-4",
-       "root": "",
-       "gloss": "to tie, link together",
-       "analysis": "VERB:participle.passive",
-       "pointed": "קָשׁוּר"
-      }
-     ]
+     "maknuune_id": "2792-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בלולאה",
@@ -4113,64 +4083,19 @@
     },
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "האוורור",
@@ -5559,34 +5484,18 @@
     },
     {
      "surface": "קח",
-     "lemma": "לָקַח",
-     "form": "לָקַח",
+     "lemma": "קַח",
+     "form": "קַח",
      "vocalized": "קַח",
      "vocalized_from": "lexicon",
-     "root": "ל.ח",
-     "gloss": "to take (grasp with the hands)",
-     "analysis": "VERB:imperative",
+     "root": null,
+     "gloss": "Masculine singular imperative of לָקַח (laqach)",
+     "analysis": "VERB",
      "caphi": "kax",
      "caphi_urban": "kax",
      "caphi_raw": null,
-     "maknuune_id": "966-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "966-7",
-       "root": "ל.ח",
-       "gloss": "to take (grasp with the hands)",
-       "analysis": "VERB:imperative",
-       "pointed": "קַח"
-      },
-      {
-       "id": "12975-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of לָקַח (laqach)",
-       "analysis": "VERB",
-       "pointed": "קַח"
-      }
-     ]
+     "maknuune_id": "12975-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -6166,30 +6075,7 @@
      "caphi_urban": "hanaxash",
      "caphi_raw": null,
      "maknuune_id": "1935-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1935-10",
-       "root": "",
-       "gloss": "snake (any of the suborder Serpentes of legless reptiles wit",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַנָּחָשׁ"
-      },
-      {
-       "id": "1936-6",
-       "root": "",
-       "gloss": "magic, sorcery, spell, enchantment, augury",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַנַּחַשׁ"
-      },
-      {
-       "id": "1937-1",
-       "root": "",
-       "gloss": "as ה- + נִחֵשׁ: defective spelling of ניחש",
-       "analysis": "VERB",
-       "pointed": "נִחֵשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכי",

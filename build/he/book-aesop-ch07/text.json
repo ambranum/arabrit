@@ -390,25 +390,8 @@
      "caphi_urban": "od",
      "caphi_raw": null,
      "maknuune_id": "3277-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3277-1",
-       "root": "",
-       "gloss": "still, longer, more; no longer, no more, any longer (signifi",
-       "analysis": "ADV",
-       "pointed": "עוֹד"
-      },
-      {
-       "id": "3280-1",
-       "root": "",
-       "gloss": "oud",
-       "analysis": "NOUN",
-       "pointed": "עוּד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -1215,30 +1198,7 @@
      "caphi_urban": "hayona",
      "caphi_raw": null,
      "maknuune_id": "1234-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1234-9",
-       "root": "",
-       "gloss": "pigeon, dove",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיּוֹנָה"
-      },
-      {
-       "id": "13883-20",
-       "root": "",
-       "gloss": "to capitalize",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "היונה"
-      },
-      {
-       "id": "1235-1",
-       "root": "",
-       "gloss": "as ה- + יוֹנָה: Jonah (a minor prophet who was cast into the",
-       "analysis": "NAME",
-       "pointed": "יוֹנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1837,30 +1797,7 @@
      "caphi_urban": "hayona",
      "caphi_raw": null,
      "maknuune_id": "1234-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1234-9",
-       "root": "",
-       "gloss": "pigeon, dove",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיּוֹנָה"
-      },
-      {
-       "id": "13883-20",
-       "root": "",
-       "gloss": "to capitalize",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "היונה"
-      },
-      {
-       "id": "1235-1",
-       "root": "",
-       "gloss": "as ה- + יוֹנָה: Jonah (a minor prophet who was cast into the",
-       "analysis": "NAME",
-       "pointed": "יוֹנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שמעה",

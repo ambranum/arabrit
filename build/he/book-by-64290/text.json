@@ -1115,18 +1115,18 @@
     },
     {
      "surface": "בַּעֲלָהּ",
-     "lemma": "בְּעָל",
-     "form": "בְּעָל",
+     "lemma": "בַּעַל",
+     "form": "בַּעַל",
      "vocalized": "בַּעֲלָהּ",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "lord, idol",
-     "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-     "caphi": "baalah",
-     "caphi_urban": "baalah",
+     "gloss": "master, owner",
+     "analysis": "NOUN:feminine",
+     "caphi": "baala",
+     "caphi_urban": "baala",
      "caphi_raw": null,
-     "maknuune_id": "1099-13",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1098-6",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וַדַּאי",
@@ -3541,7 +3541,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִפְנֵי",
@@ -3617,23 +3617,7 @@
      "caphi_urban": "omnam",
      "caphi_raw": null,
      "maknuune_id": "12618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12618-1",
-       "root": "",
-       "gloss": "truly",
-       "analysis": "ADV",
-       "pointed": "אׇמְנָם"
-      },
-      {
-       "id": "7985-26",
-       "root": "",
-       "gloss": "artist",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אׇמָּנָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חָטָאתִי",
@@ -5444,44 +5428,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "14896-3",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ:feminine",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "851-15",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "14897-17",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דּוּמָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַתְּ",

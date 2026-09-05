@@ -2167,62 +2167,19 @@
    "words": [
     {
      "surface": "הגברת",
-     "lemma": "הִגְבִּיר",
-     "form": "הִגְבִּיר",
-     "vocalized": "הִגְבַּרְתָּ",
-     "vocalized_from": "lexicon",
+     "lemma": "גְּבֶרֶת",
+     "form": "גְּבֶרֶת",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to strengthen",
-     "analysis": "VERB:masculine.past.second-person.singular",
-     "caphi": "higbarta",
-     "caphi_urban": "higbarta",
+     "gloss": "lady, madam",
+     "analysis": "NOUN",
+     "caphi": "gvéret",
+     "caphi_urban": "gvéret",
      "caphi_raw": null,
-     "maknuune_id": "9909-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9909-9",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתָּ"
-      },
-      {
-       "id": "9909-10",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתְּ"
-      },
-      {
-       "id": "10232-9",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתָּ"
-      },
-      {
-       "id": "10232-11",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתְּ"
-      },
-      {
-       "id": "1093-6",
-       "root": "",
-       "gloss": "as ה- + גֶּבֶר: man (an adult male human being)",
-       "analysis": "NOUN:feminine",
-       "pointed": "גְּבֶרֶת"
-      },
-      {
-       "id": "12680-1",
-       "root": "",
-       "gloss": "as ה- + גְּבֶרֶת: lady, madam",
-       "analysis": "NOUN",
-       "pointed": "גְּבֶרֶת"
-      }
-     ]
+     "maknuune_id": "12680-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמרה",
@@ -3810,62 +3767,19 @@
    "words": [
     {
      "surface": "הגברת",
-     "lemma": "הִגְבִּיר",
-     "form": "הִגְבִּיר",
-     "vocalized": "הִגְבַּרְתָּ",
-     "vocalized_from": "lexicon",
+     "lemma": "גְּבֶרֶת",
+     "form": "גְּבֶרֶת",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to strengthen",
-     "analysis": "VERB:masculine.past.second-person.singular",
-     "caphi": "higbarta",
-     "caphi_urban": "higbarta",
+     "gloss": "lady, madam",
+     "analysis": "NOUN",
+     "caphi": "gvéret",
+     "caphi_urban": "gvéret",
      "caphi_raw": null,
-     "maknuune_id": "9909-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9909-9",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתָּ"
-      },
-      {
-       "id": "9909-10",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתְּ"
-      },
-      {
-       "id": "10232-9",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתָּ"
-      },
-      {
-       "id": "10232-11",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתְּ"
-      },
-      {
-       "id": "1093-6",
-       "root": "",
-       "gloss": "as ה- + גֶּבֶר: man (an adult male human being)",
-       "analysis": "NOUN:feminine",
-       "pointed": "גְּבֶרֶת"
-      },
-      {
-       "id": "12680-1",
-       "root": "",
-       "gloss": "as ה- + גְּבֶרֶת: lady, madam",
-       "analysis": "NOUN",
-       "pointed": "גְּבֶרֶת"
-      }
-     ]
+     "maknuune_id": "12680-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמרה",
@@ -4366,62 +4280,19 @@
     },
     {
      "surface": "הגברת",
-     "lemma": "הִגְבִּיר",
-     "form": "הִגְבִּיר",
-     "vocalized": "הִגְבַּרְתָּ",
-     "vocalized_from": "lexicon",
+     "lemma": "גְּבֶרֶת",
+     "form": "גְּבֶרֶת",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to strengthen",
-     "analysis": "VERB:masculine.past.second-person.singular",
-     "caphi": "higbarta",
-     "caphi_urban": "higbarta",
+     "gloss": "lady, madam",
+     "analysis": "NOUN",
+     "caphi": "gvéret",
+     "caphi_urban": "gvéret",
      "caphi_raw": null,
-     "maknuune_id": "9909-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9909-9",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתָּ"
-      },
-      {
-       "id": "9909-10",
-       "root": "",
-       "gloss": "to strengthen",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הִגְבַּרְתְּ"
-      },
-      {
-       "id": "10232-9",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתָּ"
-      },
-      {
-       "id": "10232-11",
-       "root": "",
-       "gloss": "to be strengthened",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "הֻגְבַּרְתְּ"
-      },
-      {
-       "id": "1093-6",
-       "root": "",
-       "gloss": "as ה- + גֶּבֶר: man (an adult male human being)",
-       "analysis": "NOUN:feminine",
-       "pointed": "גְּבֶרֶת"
-      },
-      {
-       "id": "12680-1",
-       "root": "",
-       "gloss": "as ה- + גְּבֶרֶת: lady, madam",
-       "analysis": "NOUN",
-       "pointed": "גְּבֶרֶת"
-      }
-     ]
+     "maknuune_id": "12680-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ובכה",
@@ -4884,64 +4755,19 @@
     },
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "וקוראת",

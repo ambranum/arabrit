@@ -576,37 +576,7 @@
      "caphi_urban": "shata",
      "caphi_raw": null,
      "maknuune_id": "4772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4772-1",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "1568-14",
-       "root": "",
-       "gloss": "to place, set",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "4772-30",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁתֵה"
-      },
-      {
-       "id": "232-1",
-       "root": "",
-       "gloss": "as ש- + תֵּה: tea",
-       "analysis": "NOUN",
-       "pointed": "תֵּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כי",
@@ -786,50 +756,19 @@
     },
     {
      "surface": "ואנשים",
-     "lemma": "נָשִׁים",
-     "form": "נָשִׁים",
+     "lemma": "אֲנָשִׁים",
+     "form": "אֲנָשִׁים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "women",
-     "analysis": "NOUN:masculine",
+     "gloss": "plural indefinite form of אִישׁ (ísh)",
+     "analysis": "NOUN",
      "caphi": "anashim",
      "caphi_urban": "anashim",
      "caphi_raw": null,
-     "maknuune_id": "2871-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2871-7",
-       "root": "",
-       "gloss": "women",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "3723-1",
-       "root": "",
-       "gloss": "plural indefinite form of אִישׁ (ísh)",
-       "analysis": "NOUN",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "1096-3",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "821-3",
-       "root": "",
-       "gloss": "human, man, person, mortal",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אנשים"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3723-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שכבו",

@@ -206,105 +206,23 @@
      "caphi_urban": "ani",
      "caphi_raw": null,
      "maknuune_id": "6714-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6714-1",
-       "root": "",
-       "gloss": "poor",
-       "analysis": "ADJ",
-       "pointed": "עָנִי"
-      },
-      {
-       "id": "6716-1",
-       "root": "",
-       "gloss": "defective spelling of עוני",
-       "analysis": "NOUN",
-       "pointed": "עֹנִי"
-      },
-      {
-       "id": "6717-1",
-       "root": "",
-       "gloss": "feminine singular imperative of עָנָה (anáh)",
-       "analysis": "VERB",
-       "pointed": "עֲנִי"
-      },
-      {
-       "id": "10872-3",
-       "root": "",
-       "gloss": "poverty (the quality or state of being indigent)",
-       "analysis": "NOUN:alternative",
-       "pointed": "עֹנִי"
-      },
-      {
-       "id": "4764-29",
-       "root": "ע.ה",
-       "gloss": "to answer, to reply",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "עֲנִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושמו",
-     "lemma": "שְׁמוֹ",
-     "form": "שְׁמוֹ",
+     "lemma": "שָׂמוּ",
+     "form": "שָׂמוּ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "singular form of שֵׁם (shém) with third-person masculine singular personal pronoun as possessor.",
-     "analysis": "NOUN",
-     "caphi": "shmo",
-     "caphi_urban": "shmo",
+     "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
+     "analysis": "VERB",
+     "caphi": "sámu",
+     "caphi_urban": "sámu",
      "caphi_raw": null,
-     "maknuune_id": "6772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6772-1",
-       "root": "",
-       "gloss": "singular form of שֵׁם (shém) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "6773-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׁם (shám)",
-       "analysis": "VERB",
-       "pointed": "שָׁמוּ"
-      },
-      {
-       "id": "6774-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
-       "analysis": "VERB",
-       "pointed": "שָׂמוּ"
-      },
-      {
-       "id": "6775-1",
-       "root": "",
-       "gloss": "Third-person masculine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "שָׂמוֹ"
-      },
-      {
-       "id": "1999-14",
-       "root": "",
-       "gloss": "a name",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "2002-14",
-       "root": "י",
-       "gloss": "to put, place",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׂמוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "6774-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "סינדבאד",
@@ -1269,30 +1187,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2117-9",
-       "root": "",
-       "gloss": "gateway (entrance)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשַּׁעַר"
-      },
-      {
-       "id": "2119-7",
-       "root": "",
-       "gloss": "hair",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשֵּׂעָר"
-      },
-      {
-       "id": "2118-1",
-       "root": "",
-       "gloss": "as ה- + שִׁעֵר: defective spelling of שיער",
-       "analysis": "VERB",
-       "pointed": "שִׁעֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושם",
@@ -1606,64 +1501,19 @@
     },
     {
      "surface": "ואוכל",
-     "lemma": "אוֹכֵל",
-     "form": "אוֹכֵל",
+     "lemma": "אָכַל",
+     "form": "אָכַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular present participle and present tense of אָכַל (akhál)",
-     "analysis": "VERB",
+     "root": "א",
+     "gloss": "to eat",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "oxel",
      "caphi_urban": "oxel",
      "caphi_raw": null,
-     "maknuune_id": "7645-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7645-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of א",
-       "analysis": "VERB",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "7648-1",
-       "root": "",
-       "gloss": "first-person singular future (prefix conjugation) of יכול / ",
-       "analysis": "VERB",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "973-20",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "2255-17",
-       "root": "",
-       "gloss": "can, to be able to",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "7644-7",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "אוֹכֶל"
-      },
-      {
-       "id": "7647-17",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "אוּכַּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "973-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ואני",
@@ -2468,30 +2318,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "341-1",
-       "root": "",
-       "gloss": "An evil, trouble; something bad.",
-       "analysis": "NOUN",
-       "pointed": "רַע"
-      },
-      {
-       "id": "343-1",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN",
-       "pointed": "רֵעַ"
-      },
-      {
-       "id": "16381-1",
-       "root": "",
-       "gloss": "evil, badness, cruelty.",
-       "analysis": "NOUN",
-       "pointed": "רֹעַ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2634,30 +2461,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "341-1",
-       "root": "",
-       "gloss": "An evil, trouble; something bad.",
-       "analysis": "NOUN",
-       "pointed": "רַע"
-      },
-      {
-       "id": "343-1",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN",
-       "pointed": "רֵעַ"
-      },
-      {
-       "id": "16381-1",
-       "root": "",
-       "gloss": "evil, badness, cruelty.",
-       "analysis": "NOUN",
-       "pointed": "רֹעַ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2801,64 +2605,19 @@
     },
     {
      "surface": "ואוכל",
-     "lemma": "אוֹכֵל",
-     "form": "אוֹכֵל",
+     "lemma": "אָכַל",
+     "form": "אָכַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular present participle and present tense of אָכַל (akhál)",
-     "analysis": "VERB",
+     "root": "א",
+     "gloss": "to eat",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "oxel",
      "caphi_urban": "oxel",
      "caphi_raw": null,
-     "maknuune_id": "7645-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7645-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of א",
-       "analysis": "VERB",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "7648-1",
-       "root": "",
-       "gloss": "first-person singular future (prefix conjugation) of יכול / ",
-       "analysis": "VERB",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "973-20",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "2255-17",
-       "root": "",
-       "gloss": "can, to be able to",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "7644-7",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "אוֹכֶל"
-      },
-      {
-       "id": "7647-17",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "אוּכַּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "973-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ופירות",
@@ -3541,30 +3300,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2117-9",
-       "root": "",
-       "gloss": "gateway (entrance)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשַּׁעַר"
-      },
-      {
-       "id": "2119-7",
-       "root": "",
-       "gloss": "hair",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשֵּׂעָר"
-      },
-      {
-       "id": "2118-1",
-       "root": "",
-       "gloss": "as ה- + שִׁעֵר: defective spelling of שיער",
-       "analysis": "VERB",
-       "pointed": "שִׁעֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3592,34 +3328,18 @@
     },
     {
      "surface": "צודק",
-     "lemma": "צוֹדֵק",
-     "form": "צוֹדֵק",
+     "lemma": "צָדַק",
+     "form": "צָדַק",
      "vocalized": "צוֹדֵק",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "just, fair",
-     "analysis": "ADJ",
+     "gloss": "To be right.",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "tsodek",
      "caphi_urban": "tsodek",
      "caphi_raw": null,
-     "maknuune_id": "3931-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3931-1",
-       "root": "",
-       "gloss": "just, fair",
-       "analysis": "ADJ",
-       "pointed": "צוֹדֵק"
-      },
-      {
-       "id": "3935-14",
-       "root": "",
-       "gloss": "To be right.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "צוֹדֵק"
-      }
-     ]
+     "maknuune_id": "3935-14",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לשאול",
@@ -4072,41 +3792,18 @@
     },
     {
      "surface": "אספר",
-     "lemma": "סָפַר",
-     "form": "סָפַר",
-     "vocalized": "אֶסְפֹּר",
+     "lemma": "סִפֵּר",
+     "form": "סִפֵּר",
+     "vocalized": "אֲסַפֵּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to count",
+     "gloss": "to tell (a story), to narrate, to recount",
      "analysis": "VERB:feminine.first-person.future.masculine.singular",
-     "caphi": "espor",
-     "caphi_urban": "espor",
+     "caphi": "asaper",
+     "caphi_urban": "asaper",
      "caphi_raw": null,
-     "maknuune_id": "1117-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1117-21",
-       "root": "",
-       "gloss": "to count",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֶסְפֹּר"
-      },
-      {
-       "id": "2187-30",
-       "root": "",
-       "gloss": "To be told, to be recounted.",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲסֻפַּר"
-      },
-      {
-       "id": "4008-28",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲסַפֵּר"
-      }
-     ]
+     "maknuune_id": "4008-28",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לך",

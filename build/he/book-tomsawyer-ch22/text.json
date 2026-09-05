@@ -765,23 +765,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "10195-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10195-3",
-       "root": "ח",
-       "gloss": "to dig",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      },
-      {
-       "id": "10196-3",
-       "root": "ח",
-       "gloss": "to be ashamed",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בחצות",
@@ -2360,64 +2344,19 @@
    "words": [
     {
      "surface": "ושמו",
-     "lemma": "שְׁמוֹ",
-     "form": "שְׁמוֹ",
+     "lemma": "שָׂמוּ",
+     "form": "שָׂמוּ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "singular form of שֵׁם (shém) with third-person masculine singular personal pronoun as possessor.",
-     "analysis": "NOUN",
-     "caphi": "shmo",
-     "caphi_urban": "shmo",
+     "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
+     "analysis": "VERB",
+     "caphi": "sámu",
+     "caphi_urban": "sámu",
      "caphi_raw": null,
-     "maknuune_id": "6772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6772-1",
-       "root": "",
-       "gloss": "singular form of שֵׁם (shém) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "6773-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׁם (shám)",
-       "analysis": "VERB",
-       "pointed": "שָׁמוּ"
-      },
-      {
-       "id": "6774-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
-       "analysis": "VERB",
-       "pointed": "שָׂמוּ"
-      },
-      {
-       "id": "6775-1",
-       "root": "",
-       "gloss": "Third-person masculine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "שָׂמוֹ"
-      },
-      {
-       "id": "1999-14",
-       "root": "",
-       "gloss": "a name",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "2002-14",
-       "root": "י",
-       "gloss": "to put, place",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׂמוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "6774-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",
@@ -2557,23 +2496,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "10195-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10195-3",
-       "root": "ח",
-       "gloss": "to dig",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      },
-      {
-       "id": "10196-3",
-       "root": "ח",
-       "gloss": "to be ashamed",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3161,64 +3084,19 @@
    "words": [
     {
      "surface": "והשני",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שֵׁנִי",
+     "form": "שֵׁנִי",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
-     "caphi": "shney",
-     "caphi_urban": "shney",
+     "gloss": "second",
+     "analysis": "ADJ",
+     "caphi": "sheni",
+     "caphi_urban": "sheni",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "551-1",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ",
-       "pointed": "שֵׁנִי"
-      },
-      {
-       "id": "552-1",
-       "root": "",
-       "gloss": "defective spelling of שוני",
-       "analysis": "NOUN",
-       "pointed": "שֹׁנִי"
-      },
-      {
-       "id": "553-1",
-       "root": "",
-       "gloss": "scarlet, crimson",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִי"
-      },
-      {
-       "id": "555-1",
-       "root": "",
-       "gloss": "defective spelling of שיני",
-       "analysis": "ADJ",
-       "pointed": "שִׁנִּי"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "551-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "החירש",
@@ -3375,25 +3253,8 @@
      "caphi_urban": "bgadim",
      "caphi_raw": null,
      "maknuune_id": "4019-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "4019-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּגֶד (béged): garments",
-       "analysis": "NOUN",
-       "pointed": "בְּגָדִים"
-      },
-      {
-       "id": "3815-3",
-       "root": "",
-       "gloss": "clothing, garment",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "בְּגָדִים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ספרדיים",

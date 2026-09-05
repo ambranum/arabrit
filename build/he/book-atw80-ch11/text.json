@@ -2366,41 +2366,19 @@
     },
     {
      "surface": "הפיל",
-     "lemma": "הִפִּיל",
-     "form": "הִפִּיל",
-     "vocalized": "הִפִּיל",
-     "vocalized_from": "lexicon",
-     "root": "נ",
-     "gloss": "to drop (something)",
-     "analysis": "VERB",
-     "caphi": "hipil",
-     "caphi_urban": "hipil",
+     "lemma": "פִּיל",
+     "form": "פִּיל",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "elephant",
+     "analysis": "NOUN",
+     "caphi": "pil",
+     "caphi_urban": "pil",
      "caphi_raw": null,
-     "maknuune_id": "11109-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11109-1",
-       "root": "נ",
-       "gloss": "to drop (something)",
-       "analysis": "VERB",
-       "pointed": "הִפִּיל"
-      },
-      {
-       "id": "11843-3",
-       "root": "נ",
-       "gloss": "to be knocked over, made to fall, brought down",
-       "analysis": "VERB:active",
-       "pointed": "הִפִּיל"
-      },
-      {
-       "id": "2595-1",
-       "root": "",
-       "gloss": "as ה- + פִּיל: elephant",
-       "analysis": "NOUN",
-       "pointed": "פִּיל"
-      }
-     ]
+     "maknuune_id": "2595-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ופוג",

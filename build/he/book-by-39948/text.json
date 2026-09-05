@@ -3679,23 +3679,7 @@
      "caphi_urban": "omnam",
      "caphi_raw": null,
      "maknuune_id": "12618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12618-1",
-       "root": "",
-       "gloss": "truly",
-       "analysis": "ADV",
-       "pointed": "אׇמְנָם"
-      },
-      {
-       "id": "7985-26",
-       "root": "",
-       "gloss": "artist",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אׇמָּנָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָמַד",
@@ -7976,7 +7960,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָמְנָם",
@@ -7991,23 +7975,7 @@
      "caphi_urban": "omnam",
      "caphi_raw": null,
      "maknuune_id": "12618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12618-1",
-       "root": "",
-       "gloss": "truly",
-       "analysis": "ADV",
-       "pointed": "אׇמְנָם"
-      },
-      {
-       "id": "7985-26",
-       "root": "",
-       "gloss": "artist",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אׇמָּנָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פָּתוּחַ",
@@ -8082,7 +8050,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִפְנִים",
@@ -10004,36 +9972,19 @@
     },
     {
      "surface": "וּבָא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "וּבָא",
      "vocalized_from": "source:pointed",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "צָעִיר",
@@ -11401,23 +11352,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִמְצוּדָה",
@@ -17627,23 +17562,7 @@
      "caphi_urban": "omnam",
      "caphi_raw": null,
      "maknuune_id": "12618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12618-1",
-       "root": "",
-       "gloss": "truly",
-       "analysis": "ADV",
-       "pointed": "אׇמְנָם"
-      },
-      {
-       "id": "7985-26",
-       "root": "",
-       "gloss": "artist",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אׇמָּנָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוּא",
@@ -19705,7 +19624,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַפָּתוּחַ",
@@ -23334,23 +23253,7 @@
      "caphi_urban": "yavo",
      "caphi_raw": null,
      "maknuune_id": "3145-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3145-3",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:future",
-       "pointed": "יָבוֹא"
-      },
-      {
-       "id": "6558-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יָבוֹא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הֵנָּה",
@@ -32453,7 +32356,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְתָנוּחַ",
@@ -33119,23 +33022,7 @@
      "caphi_urban": "kashur",
      "caphi_raw": null,
      "maknuune_id": "2792-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2792-1",
-       "root": "",
-       "gloss": "Tied, connected, bound.",
-       "analysis": "ADJ",
-       "pointed": "קָשׁוּר"
-      },
-      {
-       "id": "10776-4",
-       "root": "",
-       "gloss": "to tie, link together",
-       "analysis": "VERB:participle.passive",
-       "pointed": "קָשׁוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יָפֶה",
@@ -34186,7 +34073,7 @@
      "caphi_urban": "naflu",
      "caphi_raw": null,
      "maknuune_id": "2407-19",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִידֵיהֶם",
@@ -39782,48 +39669,18 @@
     },
     {
      "surface": "נִשְּׁאוּ",
-     "lemma": "נָשָׁא",
-     "form": "נָשָׁא",
+     "lemma": "נָשָׂא",
+     "form": "נָשָׂא",
      "vocalized": "נִשְּׁאוּ",
      "vocalized_from": "source:pointed",
      "root": "נ.א",
-     "gloss": "To lead astray, that is, (mentally) to delude, or (morally) to seduce, to beguile, to deceive",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "nishu",
-     "caphi_urban": "nishu",
+     "gloss": "to lift",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "nasu",
+     "caphi_urban": "nasu",
      "caphi_raw": null,
-     "maknuune_id": "3311-33",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3311-33",
-       "root": "נ.א",
-       "gloss": "To lead astray, that is, (mentally) to delude, or (morally) ",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "נִשְׁאוּ"
-      },
-      {
-       "id": "3308-18",
-       "root": "נ.א",
-       "gloss": "to lift",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָשְׂאוּ"
-      },
-      {
-       "id": "3311-15",
-       "root": "נ.א",
-       "gloss": "To lead astray, that is, (mentally) to delude, or (morally) ",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָשְׁאוּ"
-      },
-      {
-       "id": "10351-16",
-       "root": "א",
-       "gloss": "to be raised, lifted up, carried away",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נִשְּׂאוּ"
-      }
-     ]
+     "maknuune_id": "3308-18",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִשָּׁם",
@@ -43369,44 +43226,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2741-1",
-       "root": "",
-       "gloss": "little, few (not much)",
-       "analysis": "ADV",
-       "pointed": "מְעַט"
-      },
-      {
-       "id": "2742-1",
-       "root": "",
-       "gloss": "defective spelling of מיעט",
-       "analysis": "VERB",
-       "pointed": "מִעֵט"
-      },
-      {
-       "id": "14727-38",
-       "root": "",
-       "gloss": "to shorten",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַעֵט"
-      },
-      {
-       "id": "1436-1",
-       "root": "",
-       "gloss": "as מ- + עֵט: a pen",
-       "analysis": "NOUN",
-       "pointed": "עֵט"
-      },
-      {
-       "id": "1437-1",
-       "root": "",
-       "gloss": "as מ- + עָט: to lunge, to pounce",
-       "analysis": "VERB",
-       "pointed": "עָט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -50797,36 +50617,19 @@
     },
     {
      "surface": "בְּרִיצָה",
-     "lemma": "רָץ",
-     "form": "רָץ",
+     "lemma": "רִיצָה",
+     "form": "רִיצָה",
      "vocalized": "בְּרִיצָה",
      "vocalized_from": "source:pointed",
-     "root": "ו",
-     "gloss": "To run; to move forward quickly on legs.",
-     "analysis": "VERB:noun-from-verb",
+     "root": null,
+     "gloss": "run, running",
+     "analysis": "NOUN",
      "caphi": "ritsa",
      "caphi_urban": "ritsa",
      "caphi_raw": null,
-     "maknuune_id": "5007-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "5007-4",
-       "root": "ו",
-       "gloss": "To run; to move forward quickly on legs.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "רִיצָה"
-      },
-      {
-       "id": "10088-1",
-       "root": "",
-       "gloss": "run, running",
-       "analysis": "NOUN",
-       "pointed": "רִיצָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "10088-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "וּבְטִפּוּס",
@@ -52604,7 +52407,7 @@
      "caphi_urban": "nixnas",
      "caphi_raw": null,
      "maknuune_id": "2564-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -56440,7 +56243,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָלָה",
@@ -60203,36 +60006,19 @@
     },
     {
      "surface": "וּבָא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "וּבָא",
      "vocalized_from": "source:pointed",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בִּפְסִיעוֹת",
@@ -62351,7 +62137,7 @@
      "caphi_urban": "pétax",
      "caphi_raw": null,
      "maknuune_id": "2298-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -63035,30 +62821,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "341-1",
-       "root": "",
-       "gloss": "An evil, trouble; something bad.",
-       "analysis": "NOUN",
-       "pointed": "רַע"
-      },
-      {
-       "id": "343-1",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN",
-       "pointed": "רֵעַ"
-      },
-      {
-       "id": "16381-1",
-       "root": "",
-       "gloss": "evil, badness, cruelty.",
-       "analysis": "NOUN",
-       "pointed": "רֹעַ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -65256,7 +65019,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּמְיַבֵּב",
@@ -65952,7 +65715,7 @@
      "caphi_urban": "xélek",
      "caphi_raw": null,
      "maknuune_id": "3519-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בּוֹ",
@@ -66233,23 +65996,7 @@
      "caphi_urban": "horid",
      "caphi_raw": null,
      "maknuune_id": "4383-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4383-1",
-       "root": "י",
-       "gloss": "to take down, to bring down, to lower",
-       "analysis": "VERB",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "10069-3",
-       "root": "י",
-       "gloss": "to be lowered, to be brought or taken down",
-       "analysis": "VERB:active",
-       "pointed": "הוֹרִיד"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַנַּפָּח",
@@ -66415,7 +66162,7 @@
      "caphi_urban": "pétax",
      "caphi_raw": null,
      "maknuune_id": "2298-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -68478,30 +68225,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "341-1",
-       "root": "",
-       "gloss": "An evil, trouble; something bad.",
-       "analysis": "NOUN",
-       "pointed": "רַע"
-      },
-      {
-       "id": "343-1",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN",
-       "pointed": "רֵעַ"
-      },
-      {
-       "id": "16381-1",
-       "root": "",
-       "gloss": "evil, badness, cruelty.",
-       "analysis": "NOUN",
-       "pointed": "רֹעַ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָשׂוּ",
@@ -70209,7 +69933,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -70376,23 +70100,7 @@
      "caphi_urban": "yavo",
      "caphi_raw": null,
      "maknuune_id": "3145-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3145-3",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:future",
-       "pointed": "יָבוֹא"
-      },
-      {
-       "id": "6558-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יָבוֹא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יוֹמָהּ",
@@ -70502,64 +70210,19 @@
    "words": [
     {
      "surface": "בְּפֶתַח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": "בְּפֶתַח",
      "vocalized_from": "source:pointed",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "הַסַּדְנָה",
@@ -71135,7 +70798,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָמַר",

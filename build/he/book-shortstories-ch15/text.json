@@ -668,36 +668,19 @@
     },
     {
      "surface": "הברכיים",
-     "lemma": "בִּרְכַּיִים",
-     "form": "בִּרְכַּיִים",
+     "lemma": "בֶּרֶךְ",
+     "form": "בֶּרֶךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-     "analysis": "NOUN",
-     "caphi": "birkáyim",
-     "caphi_urban": "birkáyim",
+     "gloss": "knee",
+     "analysis": "NOUN:indefinite.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4980-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4980-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-       "analysis": "NOUN",
-       "pointed": "בִּרְכַּיִים"
-      },
-      {
-       "id": "600-3",
-       "root": "",
-       "gloss": "knee",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ברכיים"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "600-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והתחיל",
@@ -1116,25 +1099,8 @@
      "caphi_urban": "xalon",
      "caphi_raw": null,
      "maknuune_id": "1440-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1440-1",
-       "root": "",
-       "gloss": "a window",
-       "analysis": "NOUN",
-       "pointed": "חַלּוֹן"
-      },
-      {
-       "id": "1441-1",
-       "root": "",
-       "gloss": "defective spelling of חילון",
-       "analysis": "NOUN",
-       "pointed": "חִלּוּן"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "וחשב",
@@ -1678,44 +1644,7 @@
      "caphi_urban": "makel",
      "caphi_raw": null,
      "maknuune_id": "62-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "62-1",
-       "root": "",
-       "gloss": "stick, staff, rod",
-       "analysis": "NOUN",
-       "pointed": "מַקֵּל"
-      },
-      {
-       "id": "63-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "11021-14",
-       "root": "ע",
-       "gloss": "to ease, to relieve, to facilitate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "2540-3",
-       "root": "",
-       "gloss": "as מ- + קָלַל: to decrease, diminish",
-       "analysis": "VERB:canonical",
-       "pointed": "קַל"
-      },
-      {
-       "id": "2933-1",
-       "root": "",
-       "gloss": "as מ- + קַל: light (of low weight)",
-       "analysis": "ADJ",
-       "pointed": "קַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושני",
@@ -1971,64 +1900,19 @@
     },
     {
      "surface": "והשני",
-     "lemma": "שְׁנַייִם",
-     "form": "שְׁנַייִם",
+     "lemma": "שֵׁנִי",
+     "form": "שֵׁנִי",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "two",
-     "analysis": "NUM:construct",
-     "caphi": "shney",
-     "caphi_urban": "shney",
+     "gloss": "second",
+     "analysis": "ADJ",
+     "caphi": "sheni",
+     "caphi_urban": "sheni",
      "caphi_raw": null,
-     "maknuune_id": "82-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "82-3",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM:construct",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "550-1",
-       "root": "",
-       "gloss": "masculine construct state of שניים \\ שְׁנַיִם",
-       "analysis": "NUM",
-       "pointed": "שְׁנֵי"
-      },
-      {
-       "id": "551-1",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ",
-       "pointed": "שֵׁנִי"
-      },
-      {
-       "id": "552-1",
-       "root": "",
-       "gloss": "defective spelling of שוני",
-       "analysis": "NOUN",
-       "pointed": "שֹׁנִי"
-      },
-      {
-       "id": "553-1",
-       "root": "",
-       "gloss": "scarlet, crimson",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִי"
-      },
-      {
-       "id": "555-1",
-       "root": "",
-       "gloss": "defective spelling of שיני",
-       "analysis": "ADJ",
-       "pointed": "שִׁנִּי"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "551-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "היה",
@@ -2280,46 +2164,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אתמול",
@@ -2442,32 +2288,8 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותי",
@@ -3285,64 +3107,19 @@
     },
     {
      "surface": "ואוכל",
-     "lemma": "אוֹכֵל",
-     "form": "אוֹכֵל",
+     "lemma": "אָכַל",
+     "form": "אָכַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular present participle and present tense of אָכַל (akhál)",
-     "analysis": "VERB",
+     "root": "א",
+     "gloss": "to eat",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "oxel",
      "caphi_urban": "oxel",
      "caphi_raw": null,
-     "maknuune_id": "7645-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7645-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of א",
-       "analysis": "VERB",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "7648-1",
-       "root": "",
-       "gloss": "first-person singular future (prefix conjugation) of יכול / ",
-       "analysis": "VERB",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "973-20",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "2255-17",
-       "root": "",
-       "gloss": "can, to be able to",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "7644-7",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "אוֹכֶל"
-      },
-      {
-       "id": "7647-17",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "אוּכַּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "973-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אין",
@@ -3361,50 +3138,19 @@
     },
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "לחם",
@@ -3570,34 +3316,18 @@
     },
     {
      "surface": "קח",
-     "lemma": "לָקַח",
-     "form": "לָקַח",
+     "lemma": "קַח",
+     "form": "קַח",
      "vocalized": "קַח",
      "vocalized_from": "lexicon",
-     "root": "ל.ח",
-     "gloss": "to take (grasp with the hands)",
-     "analysis": "VERB:imperative",
+     "root": null,
+     "gloss": "Masculine singular imperative of לָקַח (laqach)",
+     "analysis": "VERB",
      "caphi": "kax",
      "caphi_urban": "kax",
      "caphi_raw": null,
-     "maknuune_id": "966-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "966-7",
-       "root": "ל.ח",
-       "gloss": "to take (grasp with the hands)",
-       "analysis": "VERB:imperative",
-       "pointed": "קַח"
-      },
-      {
-       "id": "12975-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of לָקַח (laqach)",
-       "analysis": "VERB",
-       "pointed": "קַח"
-      }
-     ]
+     "maknuune_id": "12975-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותי",
@@ -4042,30 +3772,7 @@
      "caphi_urban": "ra",
      "caphi_raw": null,
      "maknuune_id": "341-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "341-1",
-       "root": "",
-       "gloss": "An evil, trouble; something bad.",
-       "analysis": "NOUN",
-       "pointed": "רַע"
-      },
-      {
-       "id": "343-1",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN",
-       "pointed": "רֵעַ"
-      },
-      {
-       "id": "16381-1",
-       "root": "",
-       "gloss": "evil, badness, cruelty.",
-       "analysis": "NOUN",
-       "pointed": "רֹעַ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -5615,46 +5322,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בסוף",
@@ -5745,46 +5414,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תבוא",
@@ -6466,32 +6097,15 @@
      "form": "פִּנָּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ה",
-     "gloss": "to clear (an area or space of someone or something)",
-     "analysis": "VERB:masculine.past.singular.third-person",
+     "root": null,
+     "gloss": "corner",
+     "analysis": "NOUN",
      "caphi": "pina",
      "caphi_urban": "pina",
      "caphi_raw": null,
-     "maknuune_id": "1919-20",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1919-20",
-       "root": "ה",
-       "gloss": "to clear (an area or space of someone or something)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "פִּינָּה"
-      },
-      {
-       "id": "12056-3",
-       "root": "ה",
-       "gloss": "To be cleared or evacuated.",
-       "analysis": "VERB:active",
-       "pointed": "פינה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "1918-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "וזרק",
@@ -6506,32 +6120,8 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",
@@ -6629,25 +6219,8 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4652-1",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB",
-       "pointed": "שָׁכַב"
-      },
-      {
-       "id": "4652-30",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁכַב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "וחלם",

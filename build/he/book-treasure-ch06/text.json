@@ -1200,64 +1200,19 @@
     },
     {
      "surface": "האלה",
-     "lemma": "אֵל",
-     "form": "אֵל",
+     "lemma": "אֵלֶּה",
+     "form": "אֵלֶּה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "god (a deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed)",
-     "analysis": "NOUN:feminine",
-     "caphi": "ela",
-     "caphi_urban": "ela",
+     "gloss": "masculine/feminine plural of זה (ze)",
+     "analysis": "DET",
+     "caphi": "éle",
+     "caphi_urban": "éle",
      "caphi_raw": null,
-     "maknuune_id": "357-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "357-6",
-       "root": "",
-       "gloss": "god (a deity or supreme being; a supernatural, typically imm",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵלָה"
-      },
-      {
-       "id": "885-1",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET",
-       "pointed": "אֵלֶּה"
-      },
-      {
-       "id": "886-1",
-       "root": "",
-       "gloss": "A goddess.",
-       "analysis": "NOUN",
-       "pointed": "אֵלָה"
-      },
-      {
-       "id": "888-1",
-       "root": "",
-       "gloss": "A club for beating.",
-       "analysis": "NOUN",
-       "pointed": "אַלָּה"
-      },
-      {
-       "id": "889-1",
-       "root": "",
-       "gloss": "defective spelling of אלוה",
-       "analysis": "NOUN",
-       "pointed": "אֱלֹהַּ"
-      },
-      {
-       "id": "2601-3",
-       "root": "",
-       "gloss": "this, this one.",
-       "analysis": "PRON:plural",
-       "pointed": "אֵלֶּה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "885-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אומרים",
@@ -1302,44 +1257,7 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",
@@ -2455,44 +2373,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלו",
@@ -2807,62 +2688,18 @@
     },
     {
      "surface": "תשעה",
-     "lemma": "תֵּשַׁע",
-     "form": "תֵּשַׁע",
+     "lemma": "תִּשְׁעָה",
+     "form": "תִּשְׁעָה",
      "vocalized": "תִּשְׁעָה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "feminine of תִּשְׁעָה (tish'á, “nine”)",
-     "analysis": "NUM:masculine",
+     "gloss": "nine",
+     "analysis": "NUM",
      "caphi": "tisha",
      "caphi_urban": "tisha",
      "caphi_raw": null,
-     "maknuune_id": "1354-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1354-3",
-       "root": "",
-       "gloss": "feminine of תִּשְׁעָה (tish'á, “nine”)",
-       "analysis": "NUM:masculine",
-       "pointed": "תִּשְׁעָה"
-      },
-      {
-       "id": "1355-1",
-       "root": "",
-       "gloss": "nine",
-       "analysis": "NUM",
-       "pointed": "תִּשְׁעָה"
-      },
-      {
-       "id": "11890-3",
-       "root": "",
-       "gloss": "masculine construct state of תִּשְׁעָה (tish'á, “nine”)",
-       "analysis": "NUM:absolute",
-       "pointed": "תִּשְׁעָה"
-      },
-      {
-       "id": "1332-19",
-       "root": "",
-       "gloss": "To look, gaze at or about.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּשְׁעֶה"
-      },
-      {
-       "id": "12167-35",
-       "root": "ה",
-       "gloss": "To be delayed or deferred to a later time.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תֻּשְׁעֶה"
-      },
-      {
-       "id": "12168-22",
-       "root": "ה",
-       "gloss": "To be delayed or deferred to a later time.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תַּשְׁעֶה"
-      }
-     ]
+     "maknuune_id": "1355-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מיל",
@@ -3704,44 +3541,7 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואני",
@@ -4035,41 +3835,18 @@
     },
     {
      "surface": "תספר",
-     "lemma": "סָפַר",
-     "form": "סָפַר",
-     "vocalized": "תִּסְפֹּר",
+     "lemma": "סִפֵּר",
+     "form": "סִפֵּר",
+     "vocalized": "תְּסַפֵּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to count",
+     "gloss": "to tell (a story), to narrate, to recount",
      "analysis": "VERB:future.masculine.second-person.singular",
-     "caphi": "tispor",
-     "caphi_urban": "tispor",
+     "caphi": "tsaper",
+     "caphi_urban": "tsaper",
      "caphi_raw": null,
-     "maknuune_id": "1117-25",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1117-25",
-       "root": "",
-       "gloss": "to count",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תִּסְפֹּר"
-      },
-      {
-       "id": "2187-34",
-       "root": "",
-       "gloss": "To be told, to be recounted.",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תְּסֻפַּר"
-      },
-      {
-       "id": "4008-30",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:future.masculine.second-person.singular",
-       "pointed": "תְּסַפֵּר"
-      }
-     ]
+     "maknuune_id": "4008-30",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לאף",

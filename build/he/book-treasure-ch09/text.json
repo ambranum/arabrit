@@ -270,64 +270,19 @@
     },
     {
      "surface": "ושמו",
-     "lemma": "שְׁמוֹ",
-     "form": "שְׁמוֹ",
+     "lemma": "שָׂמוּ",
+     "form": "שָׂמוּ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "singular form of שֵׁם (shém) with third-person masculine singular personal pronoun as possessor.",
-     "analysis": "NOUN",
-     "caphi": "shmo",
-     "caphi_urban": "shmo",
+     "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
+     "analysis": "VERB",
+     "caphi": "sámu",
+     "caphi_urban": "sámu",
      "caphi_raw": null,
-     "maknuune_id": "6772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6772-1",
-       "root": "",
-       "gloss": "singular form of שֵׁם (shém) with third-person masculine sin",
-       "analysis": "NOUN",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "6773-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׁם (shám)",
-       "analysis": "VERB",
-       "pointed": "שָׁמוּ"
-      },
-      {
-       "id": "6774-1",
-       "root": "",
-       "gloss": "Third-person plural past (suffix conjugation) of שָׂם (sám).",
-       "analysis": "VERB",
-       "pointed": "שָׂמוּ"
-      },
-      {
-       "id": "6775-1",
-       "root": "",
-       "gloss": "Third-person masculine singular past (suffix conjugation) of",
-       "analysis": "VERB",
-       "pointed": "שָׂמוֹ"
-      },
-      {
-       "id": "1999-14",
-       "root": "",
-       "gloss": "a name",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "שְׁמוֹ"
-      },
-      {
-       "id": "2002-14",
-       "root": "י",
-       "gloss": "to put, place",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׂמוּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "6774-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "סמולט",

@@ -1349,62 +1349,18 @@
     },
     {
      "surface": "נשבר",
-     "lemma": "שָׁבַר",
-     "form": "שָׁבַר",
+     "lemma": "נִשְׁבַּר",
+     "form": "נִשְׁבַּר",
      "vocalized": "נִשְׁבַּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to break (separate into pieces or create cracks in)",
-     "analysis": "VERB:passive",
+     "gloss": "To break, to be broken, to get broken.",
+     "analysis": "VERB",
      "caphi": "nishbar",
      "caphi_urban": "nishbar",
      "caphi_raw": null,
-     "maknuune_id": "449-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "449-4",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:passive",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-1",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-15",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִשְׁבָּר"
-      },
-      {
-       "id": "449-24",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשְׁבֹּר"
-      },
-      {
-       "id": "451-33",
-       "root": "",
-       "gloss": "to be shattered (broken violently)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשֻׁבַּר"
-      },
-      {
-       "id": "452-29",
-       "root": "",
-       "gloss": "to wait",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשַׂבֵּר"
-      }
-     ]
+     "maknuune_id": "3163-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "במקום",
@@ -1990,30 +1946,7 @@
      "caphi_urban": "dégel",
      "caphi_raw": null,
      "maknuune_id": "769-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "769-1",
-       "root": "",
-       "gloss": "flag",
-       "analysis": "NOUN",
-       "pointed": "דֶּגֶל"
-      },
-      {
-       "id": "770-1",
-       "root": "",
-       "gloss": "defective spelling of דיגל.",
-       "analysis": "VERB",
-       "pointed": "דִּגֵּל"
-      },
-      {
-       "id": "7599-38",
-       "root": "",
-       "gloss": "to raise a flag",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "דַּגֵּל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זה",
@@ -2704,50 +2637,19 @@
     },
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "השלישי",
@@ -4197,34 +4099,18 @@
     },
     {
      "surface": "קח",
-     "lemma": "לָקַח",
-     "form": "לָקַח",
+     "lemma": "קַח",
+     "form": "קַח",
      "vocalized": "קַח",
      "vocalized_from": "lexicon",
-     "root": "ל.ח",
-     "gloss": "to take (grasp with the hands)",
-     "analysis": "VERB:imperative",
+     "root": null,
+     "gloss": "Masculine singular imperative of לָקַח (laqach)",
+     "analysis": "VERB",
      "caphi": "kax",
      "caphi_urban": "kax",
      "caphi_raw": null,
-     "maknuune_id": "966-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "966-7",
-       "root": "ל.ח",
-       "gloss": "to take (grasp with the hands)",
-       "analysis": "VERB:imperative",
-       "pointed": "קַח"
-      },
-      {
-       "id": "12975-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of לָקַח (laqach)",
-       "analysis": "VERB",
-       "pointed": "קַח"
-      }
-     ]
+     "maknuune_id": "12975-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",

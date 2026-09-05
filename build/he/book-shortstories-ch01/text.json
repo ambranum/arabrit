@@ -104,44 +104,7 @@
      "caphi_urban": "raze",
      "caphi_raw": null,
      "maknuune_id": "10188-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10188-1",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10188-3",
-       "root": "",
-       "gloss": "thin, slim, skinny",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-1",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB",
-       "pointed": "רָזָה"
-      },
-      {
-       "id": "10189-13",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רָזֶה"
-      },
-      {
-       "id": "10189-27",
-       "root": "ה",
-       "gloss": "to become thinner, to lose weight, to slim down",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְזֵה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קשה",
@@ -1796,44 +1759,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2741-1",
-       "root": "",
-       "gloss": "little, few (not much)",
-       "analysis": "ADV",
-       "pointed": "מְעַט"
-      },
-      {
-       "id": "2742-1",
-       "root": "",
-       "gloss": "defective spelling of מיעט",
-       "analysis": "VERB",
-       "pointed": "מִעֵט"
-      },
-      {
-       "id": "14727-38",
-       "root": "",
-       "gloss": "to shorten",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַעֵט"
-      },
-      {
-       "id": "1436-1",
-       "root": "",
-       "gloss": "as מ- + עֵט: a pen",
-       "analysis": "NOUN",
-       "pointed": "עֵט"
-      },
-      {
-       "id": "1437-1",
-       "root": "",
-       "gloss": "as מ- + עָט: to lunge, to pounce",
-       "analysis": "VERB",
-       "pointed": "עָט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ובחודשים",
@@ -3246,44 +3172,7 @@
      "caphi_urban": "makel",
      "caphi_raw": null,
      "maknuune_id": "62-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "62-1",
-       "root": "",
-       "gloss": "stick, staff, rod",
-       "analysis": "NOUN",
-       "pointed": "מַקֵּל"
-      },
-      {
-       "id": "63-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "11021-14",
-       "root": "ע",
-       "gloss": "to ease, to relieve, to facilitate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "2540-3",
-       "root": "",
-       "gloss": "as מ- + קָלַל: to decrease, diminish",
-       "analysis": "VERB:canonical",
-       "pointed": "קַל"
-      },
-      {
-       "id": "2933-1",
-       "root": "",
-       "gloss": "as מ- + קַל: light (of low weight)",
-       "analysis": "ADJ",
-       "pointed": "קַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גדול",
@@ -3964,23 +3853,7 @@
      "caphi_urban": "haolam",
      "caphi_raw": null,
      "maknuune_id": "1524-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1524-1",
-       "root": "",
-       "gloss": "the world: singular definite form of עוֹלָם (olám).",
-       "analysis": "NOUN",
-       "pointed": "הָעוֹלָם"
-      },
-      {
-       "id": "1062-10",
-       "root": "",
-       "gloss": "world: (the) Earth, (the) globe.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָעוֹלָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היה",
@@ -4033,23 +3906,7 @@
      "caphi_urban": "hayareax",
      "caphi_raw": null,
      "maknuune_id": "1996-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1996-9",
-       "root": "",
-       "gloss": "Moon",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיָּרֵחַ"
-      },
-      {
-       "id": "1997-9",
-       "root": "",
-       "gloss": "month",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיֶּרַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היה",
@@ -4923,30 +4780,7 @@
      "caphi_urban": "nasham",
      "caphi_raw": null,
      "maknuune_id": "8147-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8147-1",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB",
-       "pointed": "נָשַׁם"
-      },
-      {
-       "id": "8147-37",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נְשֹׁם"
-      },
-      {
-       "id": "8147-45",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשֹּׁם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -6219,37 +6053,7 @@
      "caphi_urban": "horid",
      "caphi_raw": null,
      "maknuune_id": "4383-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4383-1",
-       "root": "י",
-       "gloss": "to take down, to bring down, to lower",
-       "analysis": "VERB",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "4384-1",
-       "root": "",
-       "gloss": "defective spelling of הווריד",
-       "analysis": "VERB",
-       "pointed": "הִוְרִיד"
-      },
-      {
-       "id": "10069-3",
-       "root": "י",
-       "gloss": "to be lowered, to be brought or taken down",
-       "analysis": "VERB:active",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "2182-8",
-       "root": "",
-       "gloss": "vein",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַוְּרִיד"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",

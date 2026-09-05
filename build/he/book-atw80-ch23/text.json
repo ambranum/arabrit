@@ -255,50 +255,19 @@
     },
     {
      "surface": "ואנשים",
-     "lemma": "נָשִׁים",
-     "form": "נָשִׁים",
+     "lemma": "אֲנָשִׁים",
+     "form": "אֲנָשִׁים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "women",
-     "analysis": "NOUN:masculine",
+     "gloss": "plural indefinite form of אִישׁ (ísh)",
+     "analysis": "NOUN",
      "caphi": "anashim",
      "caphi_urban": "anashim",
      "caphi_raw": null,
-     "maknuune_id": "2871-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2871-7",
-       "root": "",
-       "gloss": "women",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "3723-1",
-       "root": "",
-       "gloss": "plural indefinite form of אִישׁ (ísh)",
-       "analysis": "NOUN",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "1096-3",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "821-3",
-       "root": "",
-       "gloss": "human, man, person, mortal",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אנשים"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3723-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שקפצו",
@@ -1679,30 +1648,7 @@
      "caphi_urban": "nasham",
      "caphi_raw": null,
      "maknuune_id": "8147-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8147-1",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB",
-       "pointed": "נָשַׁם"
-      },
-      {
-       "id": "8147-37",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נְשֹׁם"
-      },
-      {
-       "id": "8147-45",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשֹּׁם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2342,32 +2288,16 @@
      "surface": "נפלו",
      "lemma": "נָפַל",
      "form": "נָפַל",
-     "vocalized": "נִפְלוּ",
+     "vocalized": "נָפְלוּ",
      "vocalized_from": "lexicon",
      "root": null,
      "gloss": "To fall: to be pulled downward by gravity.",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "niflu",
-     "caphi_urban": "niflu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "naflu",
+     "caphi_urban": "naflu",
      "caphi_raw": null,
-     "maknuune_id": "2407-47",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2407-47",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "נִפְלוּ"
-      },
-      {
-       "id": "2407-19",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָפְלוּ"
-      }
-     ]
+     "maknuune_id": "2407-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זה",
@@ -2566,44 +2496,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכי",

@@ -190,30 +190,7 @@
      "caphi_urban": "barux",
      "caphi_raw": null,
      "maknuune_id": "1521-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1521-1",
-       "root": "",
-       "gloss": "blessed",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "9561-4",
-       "root": "",
-       "gloss": "to bless",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "4155-1",
-       "root": "",
-       "gloss": "as ב- + רוך: defective spelling of רוך (“softness”)",
-       "analysis": "NOUN",
-       "pointed": "רוך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוּא",
@@ -537,30 +514,7 @@
      "caphi_urban": "barux",
      "caphi_raw": null,
      "maknuune_id": "1521-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1521-1",
-       "root": "",
-       "gloss": "blessed",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "9561-4",
-       "root": "",
-       "gloss": "to bless",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "4155-1",
-       "root": "",
-       "gloss": "as ב- + רוך: defective spelling of רוך (“softness”)",
-       "analysis": "NOUN",
-       "pointed": "רוך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוּא",
@@ -3175,7 +3129,7 @@
      "caphi_urban": "rúax",
      "caphi_raw": null,
      "maknuune_id": "324-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יִשְׂרָאֵל",
@@ -7038,7 +6992,7 @@
      "caphi_urban": "nasu",
      "caphi_raw": null,
      "maknuune_id": "3308-18",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -11759,7 +11713,7 @@
      "caphi_urban": "rúax",
      "caphi_raw": null,
      "maknuune_id": "324-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַחֲשָׁד",

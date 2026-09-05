@@ -3531,7 +3531,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֹא",
@@ -6903,23 +6903,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְהַיְלָדִים",
@@ -7657,37 +7641,7 @@
      "caphi_urban": "hirgish",
      "caphi_raw": null,
      "maknuune_id": "8729-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8729-1",
-       "root": "",
-       "gloss": "feel, sense",
-       "analysis": "VERB",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "12073-3",
-       "root": "",
-       "gloss": "To be felt.",
-       "analysis": "VERB:active",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "12370-1",
-       "root": "",
-       "gloss": "as ה- + רָגִישׁ: sensitive",
-       "analysis": "ADJ",
-       "pointed": "רָגִישׁ"
-      },
-      {
-       "id": "4729-9",
-       "root": "",
-       "gloss": "as רֶגֶשׁ spelled full: emotion, feeling; sentiment",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶישׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כִּי",
@@ -18820,30 +18774,7 @@
      "caphi_urban": "shata",
      "caphi_raw": null,
      "maknuune_id": "4772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4772-1",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "1568-14",
-       "root": "",
-       "gloss": "to place, set",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "232-1",
-       "root": "",
-       "gloss": "as ש- + תֵּה: tea",
-       "analysis": "NOUN",
-       "pointed": "תֵּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פָּנָיו",
@@ -18934,7 +18865,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַּחֲשַׁאי",
@@ -19224,7 +19155,7 @@
      "caphi_urban": "naflu",
      "caphi_raw": null,
      "maknuune_id": "2407-19",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פָּנֶיךָ",
@@ -21360,37 +21291,7 @@
      "caphi_urban": "hirgish",
      "caphi_raw": null,
      "maknuune_id": "8729-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8729-1",
-       "root": "",
-       "gloss": "feel, sense",
-       "analysis": "VERB",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "12073-3",
-       "root": "",
-       "gloss": "To be felt.",
-       "analysis": "VERB:active",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "12370-1",
-       "root": "",
-       "gloss": "as ה- + רָגִישׁ: sensitive",
-       "analysis": "ADJ",
-       "pointed": "רָגִישׁ"
-      },
-      {
-       "id": "4729-9",
-       "root": "",
-       "gloss": "as רֶגֶשׁ spelled full: emotion, feeling; sentiment",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶישׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כְּאֵב",
@@ -23324,30 +23225,7 @@
      "caphi_urban": "barux",
      "caphi_raw": null,
      "maknuune_id": "1521-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1521-1",
-       "root": "",
-       "gloss": "blessed",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "9561-4",
-       "root": "",
-       "gloss": "to bless",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "4155-1",
-       "root": "",
-       "gloss": "as ב- + רוך: defective spelling of רוך (“softness”)",
-       "analysis": "NOUN",
-       "pointed": "רוך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רוֹפֵא",
@@ -23362,30 +23240,7 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חוֹלִים",
@@ -25165,23 +25020,7 @@
      "caphi_urban": "omnam",
      "caphi_raw": null,
      "maknuune_id": "12618-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12618-1",
-       "root": "",
-       "gloss": "truly",
-       "analysis": "ADV",
-       "pointed": "אׇמְנָם"
-      },
-      {
-       "id": "7985-26",
-       "root": "",
-       "gloss": "artist",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אׇמָּנָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עֲשָׂהאֵל",

@@ -358,23 +358,7 @@
      "caphi_urban": "xipes",
      "caphi_raw": null,
      "maknuune_id": "3442-20",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3442-20",
-       "root": "",
-       "gloss": "to look for, search for, seek",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "חִיפֵּשׂ"
-      },
-      {
-       "id": "1469-3",
-       "root": "",
-       "gloss": "To be looked for, sought.",
-       "analysis": "VERB:active",
-       "pointed": "חיפש"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עבודה",
@@ -565,30 +549,7 @@
      "caphi_urban": "lavash",
      "caphi_raw": null,
      "maknuune_id": "2391-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2391-1",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB",
-       "pointed": "לָבַשׁ"
-      },
-      {
-       "id": "2391-30",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "לְבַשׁ"
-      },
-      {
-       "id": "1004-1",
-       "root": "",
-       "gloss": "as ל- + בֹּשׁ: to feel embarrassed, be ashamed",
-       "analysis": "VERB",
-       "pointed": "בֹּשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -4203,25 +4164,8 @@
      "caphi_urban": "od",
      "caphi_raw": null,
      "maknuune_id": "3277-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3277-1",
-       "root": "",
-       "gloss": "still, longer, more; no longer, no more, any longer (signifi",
-       "analysis": "ADV",
-       "pointed": "עוֹד"
-      },
-      {
-       "id": "3280-1",
-       "root": "",
-       "gloss": "oud",
-       "analysis": "NOUN",
-       "pointed": "עוּד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -4393,37 +4337,7 @@
      "caphi_urban": "tiru",
      "caphi_raw": null,
      "maknuune_id": "560-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-24",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תִּרְאוּ"
-      },
-      {
-       "id": "4906-26",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תַּרְאוּ"
-      },
-      {
-       "id": "5750-39",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֻּרְאוּ"
-      },
-      {
-       "id": "6841-28",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֵּרָאוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הילד",
@@ -4843,32 +4757,8 @@
      "caphi_urban": "axalti",
      "caphi_raw": null,
      "maknuune_id": "973-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "973-11",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אָכַלְתִּי"
-      },
-      {
-       "id": "7647-6",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אֻכַּלְתִּי"
-      },
-      {
-       "id": "15507-9",
-       "root": "",
-       "gloss": "to corrode",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אִכַּלְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בלי",
@@ -5567,37 +5457,7 @@
      "caphi_urban": "tiru",
      "caphi_raw": null,
      "maknuune_id": "560-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-24",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תִּרְאוּ"
-      },
-      {
-       "id": "4906-26",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תַּרְאוּ"
-      },
-      {
-       "id": "5750-39",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֻּרְאוּ"
-      },
-      {
-       "id": "6841-28",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֵּרָאוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איך",

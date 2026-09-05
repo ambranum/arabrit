@@ -33,36 +33,19 @@
    "words": [
     {
      "surface": "לאיש",
-     "lemma": "אִשָּׁה",
-     "form": "אִשָּׁה",
+     "lemma": "אִישׁ",
+     "form": "אִישׁ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "woman (an adult female human)",
-     "analysis": "NOUN:masculine",
+     "gloss": "A man, adult male human being.",
+     "analysis": "NOUN",
      "caphi": "ish",
      "caphi_urban": "ish",
      "caphi_raw": null,
-     "maknuune_id": "1090-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1090-7",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine",
-       "pointed": "אִישׁ"
-      },
-      {
-       "id": "1096-1",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN",
-       "pointed": "אִישׁ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "maknuune_id": "1096-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ולאשתו",
@@ -224,23 +207,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מוזרה",
@@ -542,23 +509,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -772,23 +723,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1176,23 +1111,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחת",
@@ -1931,23 +1850,7 @@
      "caphi_urban": "beytsa",
      "caphi_raw": null,
      "maknuune_id": "1939-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1939-1",
-       "root": "",
-       "gloss": "egg",
-       "analysis": "NOUN",
-       "pointed": "בֵּיצָה"
-      },
-      {
-       "id": "3696-3",
-       "root": "",
-       "gloss": "plural indefinite form of בֵּיצָה (betzá): eggs",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בֵּיצָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1985,39 +1888,8 @@
      "caphi_urban": "rotse",
      "caphi_raw": null,
      "maknuune_id": "3009-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "3009-1",
-       "root": "",
-       "gloss": "masculine singular present participle and present tense of ר",
-       "analysis": "VERB",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3010-1",
-       "root": "",
-       "gloss": "feminine singular present participle and present tense of רצ",
-       "analysis": "VERB",
-       "pointed": "רוֹצָה"
-      },
-      {
-       "id": "3490-15",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3490-16",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹצָה"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "הכול",

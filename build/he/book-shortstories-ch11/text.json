@@ -1062,25 +1062,8 @@
      "caphi_urban": "saviv",
      "caphi_raw": null,
      "maknuune_id": "15795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-ו",
-     "options": [
-      {
-       "id": "15795-1",
-       "root": "",
-       "gloss": "around",
-       "analysis": "ADV",
-       "pointed": "סָבִיב"
-      },
-      {
-       "id": "15796-1",
-       "root": "",
-       "gloss": "around, about",
-       "analysis": "PREP",
-       "pointed": "סְבִיב"
-      }
-     ],
-     "_cut_for_prompt": "-ו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-ו"
     },
     {
      "surface": "לראות",
@@ -2177,36 +2160,19 @@
     },
     {
      "surface": "והמשיך",
-     "lemma": "מֶשִׁי",
-     "form": "מֶשִׁי",
+     "lemma": "הִמְשִׁיךְ",
+     "form": "הִמְשִׁיךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "silk",
-     "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-     "caphi": "mishyxa",
-     "caphi_urban": "mishyxa",
+     "gloss": "To continue, to still do.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "himshix",
+     "caphi_urban": "himshix",
      "caphi_raw": null,
-     "maknuune_id": "1814-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1814-7",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיְךָ"
-      },
-      {
-       "id": "1814-8",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיֵךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "7372-12",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "להסתכל",
@@ -3238,23 +3204,7 @@
      "caphi_urban": "rúax",
      "caphi_raw": null,
      "maknuune_id": "324-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "324-1",
-       "root": "",
-       "gloss": "Wind, a wind: (a) movement of atmospheric air.",
-       "analysis": "NOUN",
-       "pointed": "רוּחַ"
-      },
-      {
-       "id": "325-1",
-       "root": "",
-       "gloss": "defective spelling of רווח",
-       "analysis": "NOUN",
-       "pointed": "רֶוַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3549,30 +3499,7 @@
      "caphi_urban": "lavash",
      "caphi_raw": null,
      "maknuune_id": "2391-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2391-1",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB",
-       "pointed": "לָבַשׁ"
-      },
-      {
-       "id": "2391-30",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "לְבַשׁ"
-      },
-      {
-       "id": "1004-1",
-       "root": "",
-       "gloss": "as ל- + בֹּשׁ: to feel embarrassed, be ashamed",
-       "analysis": "VERB",
-       "pointed": "בֹּשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בגד",
@@ -4719,36 +4646,19 @@
     },
     {
      "surface": "והאיש",
-     "lemma": "אִשָּׁה",
-     "form": "אִשָּׁה",
+     "lemma": "אִישׁ",
+     "form": "אִישׁ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "woman (an adult female human)",
-     "analysis": "NOUN:masculine",
+     "gloss": "A man, adult male human being.",
+     "analysis": "NOUN",
      "caphi": "ish",
      "caphi_urban": "ish",
      "caphi_raw": null,
-     "maknuune_id": "1090-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1090-7",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine",
-       "pointed": "אִישׁ"
-      },
-      {
-       "id": "1096-1",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN",
-       "pointed": "אִישׁ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "1096-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "הסתכל",
@@ -5016,44 +4926,7 @@
      "caphi_urban": "hirgish",
      "caphi_raw": null,
      "maknuune_id": "8729-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8729-1",
-       "root": "",
-       "gloss": "feel, sense",
-       "analysis": "VERB",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "8730-1",
-       "root": "",
-       "gloss": "masculine singular definite form of רגיש (ragísh).",
-       "analysis": "ADJ",
-       "pointed": "הָרָגִישׁ"
-      },
-      {
-       "id": "12073-3",
-       "root": "",
-       "gloss": "To be felt.",
-       "analysis": "VERB:active",
-       "pointed": "הִרְגִּישׁ"
-      },
-      {
-       "id": "12370-1",
-       "root": "",
-       "gloss": "as ה- + רָגִישׁ: sensitive",
-       "analysis": "ADJ",
-       "pointed": "רָגִישׁ"
-      },
-      {
-       "id": "4729-9",
-       "root": "",
-       "gloss": "as רֶגֶשׁ spelled full: emotion, feeling; sentiment",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶישׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -5392,37 +5265,7 @@
      "caphi_urban": "horid",
      "caphi_raw": null,
      "maknuune_id": "4383-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4383-1",
-       "root": "י",
-       "gloss": "to take down, to bring down, to lower",
-       "analysis": "VERB",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "4384-1",
-       "root": "",
-       "gloss": "defective spelling of הווריד",
-       "analysis": "VERB",
-       "pointed": "הִוְרִיד"
-      },
-      {
-       "id": "10069-3",
-       "root": "י",
-       "gloss": "to be lowered, to be brought or taken down",
-       "analysis": "VERB:active",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "2182-8",
-       "root": "",
-       "gloss": "vein",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַוְּרִיד"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -5467,25 +5310,8 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4652-1",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB",
-       "pointed": "שָׁכַב"
-      },
-      {
-       "id": "4652-30",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁכַב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "על",

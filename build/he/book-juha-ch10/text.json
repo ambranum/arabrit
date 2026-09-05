@@ -770,37 +770,7 @@
      "caphi_urban": "horid",
      "caphi_raw": null,
      "maknuune_id": "4383-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4383-1",
-       "root": "י",
-       "gloss": "to take down, to bring down, to lower",
-       "analysis": "VERB",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "4384-1",
-       "root": "",
-       "gloss": "defective spelling of הווריד",
-       "analysis": "VERB",
-       "pointed": "הִוְרִיד"
-      },
-      {
-       "id": "10069-3",
-       "root": "י",
-       "gloss": "to be lowered, to be brought or taken down",
-       "analysis": "VERB:active",
-       "pointed": "הוֹרִיד"
-      },
-      {
-       "id": "2182-8",
-       "root": "",
-       "gloss": "vein",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַוְּרִיד"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותם",

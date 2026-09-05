@@ -1051,23 +1051,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "10195-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10195-3",
-       "root": "ח",
-       "gloss": "to dig",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      },
-      {
-       "id": "10196-3",
-       "root": "ח",
-       "gloss": "to be ashamed",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",
@@ -1264,32 +1248,8 @@
      "caphi_urban": "axalti",
      "caphi_raw": null,
      "maknuune_id": "973-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "973-11",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אָכַלְתִּי"
-      },
-      {
-       "id": "7647-6",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אֻכַּלְתִּי"
-      },
-      {
-       "id": "15507-9",
-       "root": "",
-       "gloss": "to corrode",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אִכַּלְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "כל",
@@ -1478,44 +1438,7 @@
      "caphi_urban": "makel",
      "caphi_raw": null,
      "maknuune_id": "62-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "62-1",
-       "root": "",
-       "gloss": "stick, staff, rod",
-       "analysis": "NOUN",
-       "pointed": "מַקֵּל"
-      },
-      {
-       "id": "63-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "11021-14",
-       "root": "ע",
-       "gloss": "to ease, to relieve, to facilitate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "2540-3",
-       "root": "",
-       "gloss": "as מ- + קָלַל: to decrease, diminish",
-       "analysis": "VERB:canonical",
-       "pointed": "קַל"
-      },
-      {
-       "id": "2933-1",
-       "root": "",
-       "gloss": "as מ- + קַל: light (of low weight)",
-       "analysis": "ADJ",
-       "pointed": "קַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והתחיל",
@@ -1546,23 +1469,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "10195-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10195-3",
-       "root": "ח",
-       "gloss": "to dig",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      },
-      {
-       "id": "10196-3",
-       "root": "ח",
-       "gloss": "to be ashamed",
-       "analysis": "VERB:infinitive",
-       "pointed": "לחפור"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

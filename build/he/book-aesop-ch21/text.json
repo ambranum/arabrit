@@ -1066,23 +1066,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-3",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:dual.indefinite",
-       "pointed": "ידיים"
-      },
-      {
-       "id": "8073-1",
-       "root": "",
-       "gloss": "as יָדַיִם spelled full: dual indefinite form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "יָדַיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1120,37 +1104,7 @@
      "caphi_urban": "mashax",
      "caphi_raw": null,
      "maknuune_id": "2312-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2312-1",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2313-1",
-       "root": "",
-       "gloss": "extent, duration",
-       "analysis": "NOUN",
-       "pointed": "מֶשֶׁךְ"
-      },
-      {
-       "id": "6857-3",
-       "root": "",
-       "gloss": "To continue, to last, to go on",
-       "analysis": "VERB:active",
-       "pointed": "מָשַׁךְ"
-      },
-      {
-       "id": "2312-39",
-       "root": "",
-       "gloss": "to pull",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְשֹׁךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חזק",
@@ -1681,44 +1635,7 @@
      "caphi_urban": "makel",
      "caphi_raw": null,
      "maknuune_id": "62-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "62-1",
-       "root": "",
-       "gloss": "stick, staff, rod",
-       "analysis": "NOUN",
-       "pointed": "מַקֵּל"
-      },
-      {
-       "id": "63-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of ה",
-       "analysis": "VERB",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "11021-14",
-       "root": "ע",
-       "gloss": "to ease, to relieve, to facilitate",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מֵקֵל"
-      },
-      {
-       "id": "2540-3",
-       "root": "",
-       "gloss": "as מ- + קָלַל: to decrease, diminish",
-       "analysis": "VERB:canonical",
-       "pointed": "קַל"
-      },
-      {
-       "id": "2933-1",
-       "root": "",
-       "gloss": "as מ- + קַל: light (of low weight)",
-       "analysis": "ADJ",
-       "pointed": "קַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחד",

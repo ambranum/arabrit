@@ -1197,36 +1197,19 @@
    "words": [
     {
      "surface": "ובא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הלילה",
@@ -1747,50 +1730,19 @@
    "words": [
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "הם",
@@ -2231,50 +2183,19 @@
    "words": [
     {
      "surface": "ובבוקר",
-     "lemma": "בּוֹקֵר",
-     "form": "בּוֹקֵר",
+     "lemma": "בֹּקֶר",
+     "form": "בֹּקֶר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A cowboy, cattleman.",
-     "analysis": "NOUN",
+     "gloss": "A morning, dawn.",
+     "analysis": "NOUN:indefinite.singular",
      "caphi": "boker",
      "caphi_urban": "boker",
      "caphi_raw": null,
-     "maknuune_id": "1640-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "1640-1",
-       "root": "",
-       "gloss": "A cowboy, cattleman.",
-       "analysis": "NOUN",
-       "pointed": "בּוֹקֵר"
-      },
-      {
-       "id": "1639-8",
-       "root": "",
-       "gloss": "A morning, dawn.",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "בּוֹקֶר"
-      },
-      {
-       "id": "1641-17",
-       "root": "",
-       "gloss": "to be visited",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "בּוּקַּר"
-      },
-      {
-       "id": "5499-3",
-       "root": "",
-       "gloss": "to visit",
-       "analysis": "VERB:passive",
-       "pointed": "בוקר"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "maknuune_id": "1639-8",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "הוא",
@@ -2334,23 +2255,7 @@
      "caphi_urban": "sak",
      "caphi_raw": null,
      "maknuune_id": "4496-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4496-1",
-       "root": "",
-       "gloss": "a sack",
-       "analysis": "NOUN",
-       "pointed": "שַׂק"
-      },
-      {
-       "id": "3313-33",
-       "root": "",
-       "gloss": "to kiss",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שַׁק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואבנים",
@@ -3381,30 +3286,7 @@
      "caphi_urban": "meot",
      "caphi_raw": null,
      "maknuune_id": "1891-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1891-5",
-       "root": "",
-       "gloss": "hundred, one hundred",
-       "analysis": "NUM:plural",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "3749-1",
-       "root": "",
-       "gloss": "plural of מֵאָה",
-       "analysis": "NUM",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "622-1",
-       "root": "",
-       "gloss": "as מ- + אוֹת: a sign, an omen",
-       "analysis": "NOUN",
-       "pointed": "אוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3820,43 +3702,19 @@
     },
     {
      "surface": "וחזרתי",
-     "lemma": "חֲזָרָה",
-     "form": "חֲזָרָה",
+     "lemma": "חָזַר",
+     "form": "חָזַר",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "A return, returning, going back.",
-     "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-     "caphi": "xazarati",
-     "caphi_urban": "xazarati",
+     "root": "ח",
+     "gloss": "to return (to come back after some period of time, or at regular intervals)",
+     "analysis": "VERB:feminine.first-person.masculine.past.singular",
+     "caphi": "xazarti",
+     "caphi_urban": "xazarti",
      "caphi_raw": null,
-     "maknuune_id": "2142-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2142-7",
-       "root": "",
-       "gloss": "A return, returning, going back.",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "חֲזָרָתִי"
-      },
-      {
-       "id": "4374-6",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "חָזַרְתִּי"
-      },
-      {
-       "id": "7942-7",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "חִזַּרְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "4374-6",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לבגדאד",

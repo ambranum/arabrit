@@ -398,25 +398,8 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": "audio/s1.mp3"
@@ -3049,25 +3032,8 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אוֹתוֹ",
@@ -6739,18 +6705,18 @@
     },
     {
      "surface": "סְבִיבוֹ",
-     "lemma": "סְבִיב",
-     "form": "סְבִיב",
+     "lemma": "סָבִיב",
+     "form": "סָבִיב",
      "vocalized": "סְבִיבוֹ",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "around, about",
-     "analysis": "PREP",
-     "caphi": "sviv",
-     "caphi_urban": "sviv",
+     "gloss": "around",
+     "analysis": "ADV",
+     "caphi": "saviv",
+     "caphi_urban": "saviv",
      "caphi_raw": null,
-     "maknuune_id": "15796-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "15795-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "-ו"
     },
     {
@@ -7447,7 +7413,7 @@
      "caphi_urban": "kaele",
      "caphi_raw": null,
      "maknuune_id": "8002-3",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִצְרִיף",

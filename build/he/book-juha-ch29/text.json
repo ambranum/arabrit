@@ -1112,23 +1112,7 @@
      "caphi_urban": "sak",
      "caphi_raw": null,
      "maknuune_id": "4496-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4496-1",
-       "root": "",
-       "gloss": "a sack",
-       "analysis": "NOUN",
-       "pointed": "שַׂק"
-      },
-      {
-       "id": "3313-33",
-       "root": "",
-       "gloss": "to kiss",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שַׁק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",

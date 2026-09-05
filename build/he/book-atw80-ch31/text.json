@@ -876,64 +876,19 @@
     },
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "הקרון",
@@ -2085,25 +2040,8 @@
      "caphi_urban": "katsin",
      "caphi_raw": null,
      "maknuune_id": "6644-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "6644-1",
-       "root": "",
-       "gloss": "commissioned officer",
-       "analysis": "NOUN",
-       "pointed": "קָצִין"
-      },
-      {
-       "id": "6645-1",
-       "root": "",
-       "gloss": "a surname",
-       "analysis": "NAME",
-       "pointed": "קצין"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -2406,25 +2344,8 @@
      "caphi_urban": "katsin",
      "caphi_raw": null,
      "maknuune_id": "6644-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "6644-1",
-       "root": "",
-       "gloss": "commissioned officer",
-       "analysis": "NOUN",
-       "pointed": "קָצִין"
-      },
-      {
-       "id": "6645-1",
-       "root": "",
-       "gloss": "a surname",
-       "analysis": "NAME",
-       "pointed": "קצין"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נתן",

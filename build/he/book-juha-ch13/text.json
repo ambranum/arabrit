@@ -681,23 +681,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-3",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:dual.indefinite",
-       "pointed": "ידיים"
-      },
-      {
-       "id": "8073-1",
-       "root": "",
-       "gloss": "as יָדַיִם spelled full: dual indefinite form of יָד (yád)",
-       "analysis": "NOUN",
-       "pointed": "יָדַיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1129,44 +1113,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלי",
@@ -1265,44 +1212,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלו",

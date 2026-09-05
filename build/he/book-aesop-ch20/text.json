@@ -243,23 +243,7 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עף",
@@ -694,44 +678,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2741-1",
-       "root": "",
-       "gloss": "little, few (not much)",
-       "analysis": "ADV",
-       "pointed": "מְעַט"
-      },
-      {
-       "id": "2742-1",
-       "root": "",
-       "gloss": "defective spelling of מיעט",
-       "analysis": "VERB",
-       "pointed": "מִעֵט"
-      },
-      {
-       "id": "14727-38",
-       "root": "",
-       "gloss": "to shorten",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַעֵט"
-      },
-      {
-       "id": "1436-1",
-       "root": "",
-       "gloss": "as מ- + עֵט: a pen",
-       "analysis": "NOUN",
-       "pointed": "עֵט"
-      },
-      {
-       "id": "1437-1",
-       "root": "",
-       "gloss": "as מ- + עָט: to lunge, to pounce",
-       "analysis": "VERB",
-       "pointed": "עָט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מים",
@@ -1646,25 +1593,8 @@
      "caphi_urban": "od",
      "caphi_raw": null,
      "maknuune_id": "3277-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3277-1",
-       "root": "",
-       "gloss": "still, longer, more; no longer, no more, any longer (signifi",
-       "analysis": "ADV",
-       "pointed": "עוֹד"
-      },
-      {
-       "id": "3280-1",
-       "root": "",
-       "gloss": "oud",
-       "analysis": "NOUN",
-       "pointed": "עוּד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אחת",
@@ -1884,37 +1814,7 @@
      "caphi_urban": "shata",
      "caphi_raw": null,
      "maknuune_id": "4772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4772-1",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "1568-14",
-       "root": "",
-       "gloss": "to place, set",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "4772-30",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁתֵה"
-      },
-      {
-       "id": "232-1",
-       "root": "",
-       "gloss": "as ש- + תֵּה: tea",
-       "analysis": "NOUN",
-       "pointed": "תֵּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואז",
@@ -1964,64 +1864,19 @@
     },
     {
      "surface": "בשמחה",
-     "lemma": "שָׂמַח",
-     "form": "שָׂמַח",
+     "lemma": "שִׂמְחָה",
+     "form": "שִׂמְחָה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be happy, glad, joyous, cheerful, merry",
-     "analysis": "VERB:noun-from-verb",
+     "gloss": "joy, happiness, glee.",
+     "analysis": "NOUN",
      "caphi": "simxa",
      "caphi_urban": "simxa",
      "caphi_raw": null,
-     "maknuune_id": "1270-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1270-5",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "שִׂמְחָה"
-      },
-      {
-       "id": "1976-1",
-       "root": "",
-       "gloss": "joy, happiness, glee.",
-       "analysis": "NOUN",
-       "pointed": "שִׂמְחָה"
-      },
-      {
-       "id": "1269-3",
-       "root": "",
-       "gloss": "happy, glad, pleased",
-       "analysis": "ADJ:feminine",
-       "pointed": "שְׂמֵחָה"
-      },
-      {
-       "id": "1270-16",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שְׂמֵחָה"
-      },
-      {
-       "id": "1270-13",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׂמְחָה"
-      },
-      {
-       "id": "1978-1",
-       "root": "",
-       "gloss": "third-person feminine singular past (suffix conjugation) of ",
-       "analysis": "VERB",
-       "pointed": "שמחה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "1976-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null

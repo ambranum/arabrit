@@ -227,43 +227,19 @@
     },
     {
      "surface": "ועם",
-     "lemma": "עַם",
-     "form": "עַם",
+     "lemma": "עִם",
+     "form": "עִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A nation, a people.",
-     "analysis": "NOUN",
-     "caphi": "am",
-     "caphi_urban": "am",
+     "gloss": "With: used to indicate togetherness, being together.",
+     "analysis": "PREP",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "1031-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1031-1",
-       "root": "",
-       "gloss": "A nation, a people.",
-       "analysis": "NOUN",
-       "pointed": "עַם"
-      },
-      {
-       "id": "1032-1",
-       "root": "",
-       "gloss": "With: used to indicate togetherness, being together.",
-       "analysis": "PREP",
-       "pointed": "עִם"
-      },
-      {
-       "id": "9619-1",
-       "root": "",
-       "gloss": "abbreviation of עַמּוּד (amúd, “page”): p.",
-       "analysis": "NOUN",
-       "pointed": "עמ׳"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "1032-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "המפה",
@@ -667,23 +643,7 @@
      "caphi_urban": "dam",
      "caphi_raw": null,
      "maknuune_id": "123-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "123-1",
-       "root": "",
-       "gloss": "blood",
-       "analysis": "NOUN",
-       "pointed": "דָּם"
-      },
-      {
-       "id": "12827-38",
-       "root": "",
-       "gloss": "to pause",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "דֹֹּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וחום",
@@ -1310,39 +1270,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "לחם",
@@ -1749,39 +1678,8 @@
      "caphi_urban": "páam",
      "caphi_raw": null,
      "maknuune_id": "989-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "989-1",
-       "root": "",
-       "gloss": "A time: an instance, an occurrence.",
-       "analysis": "NOUN",
-       "pointed": "פַּעַם"
-      },
-      {
-       "id": "990-1",
-       "root": "",
-       "gloss": "To beat, to strike, to knock.",
-       "analysis": "VERB",
-       "pointed": "פָּעַם"
-      },
-      {
-       "id": "991-3",
-       "root": "",
-       "gloss": "defective spelling of פיעם.",
-       "analysis": "VERB:canonical",
-       "pointed": "פִּעֵם"
-      },
-      {
-       "id": "990-29",
-       "root": "",
-       "gloss": "To beat, to strike, to knock.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּעַם"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "ידעתי",
@@ -2497,25 +2395,8 @@
      "caphi_urban": "od",
      "caphi_raw": null,
      "maknuune_id": "3277-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3277-1",
-       "root": "",
-       "gloss": "still, longer, more; no longer, no more, any longer (signifi",
-       "analysis": "ADV",
-       "pointed": "עוֹד"
-      },
-      {
-       "id": "3280-1",
-       "root": "",
-       "gloss": "oud",
-       "analysis": "NOUN",
-       "pointed": "עוּד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אחד",
@@ -2629,39 +2510,8 @@
      "caphi_urban": "shémesh",
      "caphi_raw": null,
      "maknuune_id": "402-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "402-1",
-       "root": "",
-       "gloss": "sun",
-       "analysis": "NOUN",
-       "pointed": "שֶׁמֶשׁ"
-      },
-      {
-       "id": "403-1",
-       "root": "",
-       "gloss": "public servant",
-       "analysis": "NOUN",
-       "pointed": "שַׁמָּשׁ"
-      },
-      {
-       "id": "404-1",
-       "root": "",
-       "gloss": "defective spelling of שימש.",
-       "analysis": "VERB",
-       "pointed": "שִׁמֵּשׁ"
-      },
-      {
-       "id": "7869-38",
-       "root": "",
-       "gloss": "to serve, be used",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שַׁמֵּשׁ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "הייתה",
@@ -3573,32 +3423,8 @@
      "caphi_urban": "axalti",
      "caphi_raw": null,
      "maknuune_id": "973-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "973-11",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אָכַלְתִּי"
-      },
-      {
-       "id": "7647-6",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אֻכַּלְתִּי"
-      },
-      {
-       "id": "15507-9",
-       "root": "",
-       "gloss": "to corrode",
-       "analysis": "VERB:feminine.first-person.masculine.past.singular",
-       "pointed": "אִכַּלְתִּי"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לחם",

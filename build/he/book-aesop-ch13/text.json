@@ -1759,39 +1759,8 @@
      "caphi_urban": "rotse",
      "caphi_raw": null,
      "maknuune_id": "3009-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "3009-1",
-       "root": "",
-       "gloss": "masculine singular present participle and present tense of ר",
-       "analysis": "VERB",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3010-1",
-       "root": "",
-       "gloss": "feminine singular present participle and present tense of רצ",
-       "analysis": "VERB",
-       "pointed": "רוֹצָה"
-      },
-      {
-       "id": "3490-15",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹצֶה"
-      },
-      {
-       "id": "3490-16",
-       "root": "ה",
-       "gloss": "To want.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "רוֹצָה"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "להיות",
@@ -1825,62 +1794,18 @@
     },
     {
      "surface": "נשבר",
-     "lemma": "שָׁבַר",
-     "form": "שָׁבַר",
+     "lemma": "נִשְׁבַּר",
+     "form": "נִשְׁבַּר",
      "vocalized": "נִשְׁבַּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to break (separate into pieces or create cracks in)",
-     "analysis": "VERB:passive",
+     "gloss": "To break, to be broken, to get broken.",
+     "analysis": "VERB",
      "caphi": "nishbar",
      "caphi_urban": "nishbar",
      "caphi_raw": null,
-     "maknuune_id": "449-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "449-4",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:passive",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-1",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-15",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִשְׁבָּר"
-      },
-      {
-       "id": "449-24",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשְׁבֹּר"
-      },
-      {
-       "id": "451-33",
-       "root": "",
-       "gloss": "to be shattered (broken violently)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשֻׁבַּר"
-      },
-      {
-       "id": "452-29",
-       "root": "",
-       "gloss": "to wait",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשַׂבֵּר"
-      }
-     ]
+     "maknuune_id": "3163-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

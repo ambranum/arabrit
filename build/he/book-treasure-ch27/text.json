@@ -2862,25 +2862,8 @@
      "caphi_urban": "délet",
      "caphi_raw": null,
      "maknuune_id": "1144-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1144-1",
-       "root": "",
-       "gloss": "door (portal of entry)",
-       "analysis": "NOUN",
-       "pointed": "דֶּלֶת"
-      },
-      {
-       "id": "1145-1",
-       "root": "",
-       "gloss": "alternative spelling of דל״ת",
-       "analysis": "NOUN",
-       "pointed": "דָּלֶת"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ונפלתי",

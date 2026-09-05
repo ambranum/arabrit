@@ -44,23 +44,7 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מצא",

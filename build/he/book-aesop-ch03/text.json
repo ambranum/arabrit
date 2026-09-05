@@ -448,37 +448,7 @@
      "caphi_urban": "tiru",
      "caphi_raw": null,
      "maknuune_id": "560-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "560-24",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תִּרְאוּ"
-      },
-      {
-       "id": "4906-26",
-       "root": "א.ה",
-       "gloss": "to show",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תַּרְאוּ"
-      },
-      {
-       "id": "5750-39",
-       "root": "ה",
-       "gloss": "to be shown",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֻּרְאוּ"
-      },
-      {
-       "id": "6841-28",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of נִרְאָה.",
-       "analysis": "VERB:future.masculine.plural.second-person",
-       "pointed": "תֵּרָאוּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איך",
@@ -947,39 +917,8 @@
      "caphi_urban": "neelam",
      "caphi_raw": null,
      "maknuune_id": "8813-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "8813-1",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB",
-       "pointed": "נֶעֱלַם"
-      },
-      {
-       "id": "8814-1",
-       "root": "",
-       "gloss": "hidden, concealed; mysterious",
-       "analysis": "ADJ",
-       "pointed": "נֶעֱלָם"
-      },
-      {
-       "id": "8813-16",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נֶעֱלָם"
-      },
-      {
-       "id": "8813-22",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָלֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בין",
@@ -1676,30 +1615,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "1808-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1808-4",
-       "root": "ע",
-       "gloss": "To stop, to stop moving, to halt, to stop the motion of. (Se",
-       "analysis": "VERB:infinitive",
-       "pointed": "לעצור"
-      },
-      {
-       "id": "1912-1",
-       "root": "",
-       "gloss": "as ל- + עִצּוּר: consonant",
-       "analysis": "NOUN",
-       "pointed": "עִצּוּר"
-      },
-      {
-       "id": "11868-1",
-       "root": "",
-       "gloss": "as ל- + עָצוּר: constricted, restrained",
-       "analysis": "ADJ",
-       "pointed": "עָצוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2193,30 +2109,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "1808-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1808-4",
-       "root": "ע",
-       "gloss": "To stop, to stop moving, to halt, to stop the motion of. (Se",
-       "analysis": "VERB:infinitive",
-       "pointed": "לעצור"
-      },
-      {
-       "id": "1912-1",
-       "root": "",
-       "gloss": "as ל- + עִצּוּר: consonant",
-       "analysis": "NOUN",
-       "pointed": "עִצּוּר"
-      },
-      {
-       "id": "11868-1",
-       "root": "",
-       "gloss": "as ל- + עָצוּר: constricted, restrained",
-       "analysis": "ADJ",
-       "pointed": "עָצוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זה",

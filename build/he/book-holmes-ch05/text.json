@@ -1614,43 +1614,19 @@
     },
     {
      "surface": "מתחתיו",
-     "lemma": "מָתַח",
-     "form": "מָתַח",
+     "lemma": "מִתַּחַת",
+     "form": "מִתַּחַת",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to stretch",
-     "analysis": "VERB",
-     "caphi": "matax",
-     "caphi_urban": "matax",
+     "root": null,
+     "gloss": "Under, below.",
+     "analysis": "PREP",
+     "caphi": "mitáxat",
+     "caphi_urban": "mitáxat",
      "caphi_raw": null,
-     "maknuune_id": "12382-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-תיו",
-     "options": [
-      {
-       "id": "12382-1",
-       "root": "ח",
-       "gloss": "to stretch",
-       "analysis": "VERB",
-       "pointed": "מָתַח"
-      },
-      {
-       "id": "12383-1",
-       "root": "",
-       "gloss": "tension",
-       "analysis": "NOUN",
-       "pointed": "מֶתַח"
-      },
-      {
-       "id": "12382-30",
-       "root": "ח",
-       "gloss": "to stretch",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְתַח"
-      }
-     ],
-     "_cut_for_prompt": "-תיו"
+     "maknuune_id": "16281-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יו"
     },
     {
      "surface": "עצם",
@@ -3329,53 +3305,8 @@
      "caphi_urban": "patax",
      "caphi_raw": null,
      "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בחור",
@@ -3628,44 +3559,7 @@
      "caphi_urban": "shlishi",
      "caphi_raw": null,
      "maknuune_id": "569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "569-1",
-       "root": "",
-       "gloss": "third",
-       "analysis": "ADJ",
-       "pointed": "שְׁלִישִׁי"
-      },
-      {
-       "id": "4145-5",
-       "root": "",
-       "gloss": "A third: one of three equal parts.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שְׁלִישֵׁי־"
-      },
-      {
-       "id": "4146-5",
-       "root": "",
-       "gloss": "A lieutenant.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שָׁלִישֵׁי־"
-      },
-      {
-       "id": "1495-1",
-       "root": "",
-       "gloss": "as של- + יִשַׁי: Jesse (the son of Obed and the father of kin",
-       "analysis": "NAME",
-       "pointed": "יִשַׁי"
-      },
-      {
-       "id": "16252-7",
-       "root": "",
-       "gloss": "as ש- + לַיִשׁ: lion",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "לֵישִׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ימינה",
@@ -4218,36 +4112,19 @@
     },
     {
      "surface": "הברכיים",
-     "lemma": "בִּרְכַּיִים",
-     "form": "בִּרְכַּיִים",
+     "lemma": "בֶּרֶךְ",
+     "form": "בֶּרֶךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-     "analysis": "NOUN",
-     "caphi": "birkáyim",
-     "caphi_urban": "birkáyim",
+     "gloss": "knee",
+     "analysis": "NOUN:indefinite.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4980-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4980-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-       "analysis": "NOUN",
-       "pointed": "בִּרְכַּיִים"
-      },
-      {
-       "id": "600-3",
-       "root": "",
-       "gloss": "knee",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ברכיים"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "600-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",
@@ -5089,30 +4966,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "1808-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1808-4",
-       "root": "ע",
-       "gloss": "To stop, to stop moving, to halt, to stop the motion of. (Se",
-       "analysis": "VERB:infinitive",
-       "pointed": "לעצור"
-      },
-      {
-       "id": "1912-1",
-       "root": "",
-       "gloss": "as ל- + עִצּוּר: consonant",
-       "analysis": "NOUN",
-       "pointed": "עִצּוּר"
-      },
-      {
-       "id": "11868-1",
-       "root": "",
-       "gloss": "as ל- + עָצוּר: constricted, restrained",
-       "analysis": "ADJ",
-       "pointed": "עָצוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",

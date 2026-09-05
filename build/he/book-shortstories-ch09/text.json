@@ -953,62 +953,18 @@
     },
     {
      "surface": "חלק",
-     "lemma": "חָלָק",
-     "form": "חָלָק",
-     "vocalized": "חָלָק",
+     "lemma": "חֵלֶק",
+     "form": "חֵלֶק",
+     "vocalized": "חֵלֶק",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "smooth",
-     "analysis": "ADJ",
-     "caphi": "xalak",
-     "caphi_urban": "xalak",
+     "gloss": "part, piece, portion, fraction",
+     "analysis": "NOUN",
+     "caphi": "xélek",
+     "caphi_urban": "xélek",
      "caphi_raw": null,
-     "maknuune_id": "3518-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3519-1",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN",
-       "pointed": "חֵלֶק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      },
-      {
-       "id": "3521-1",
-       "root": "",
-       "gloss": "defective spelling of חילק",
-       "analysis": "VERB",
-       "pointed": "חִלֵּק"
-      },
-      {
-       "id": "11733-3",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:active",
-       "pointed": "חָלַק"
-      },
-      {
-       "id": "11829-4",
-       "root": "",
-       "gloss": "to divide, split",
-       "analysis": "VERB:passive",
-       "pointed": "חֻלַּק"
-      }
-     ]
+     "maknuune_id": "3519-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהנוף",
@@ -1606,50 +1562,19 @@
     },
     {
      "surface": "וישן",
-     "lemma": "יָשָׁן",
-     "form": "יָשָׁן",
+     "lemma": "יָשַׁן",
+     "form": "יָשַׁן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "old, having existed for a long time",
-     "analysis": "ADJ",
+     "root": "י",
+     "gloss": "to sleep, to be asleep",
+     "analysis": "VERB",
      "caphi": "yashan",
      "caphi_urban": "yashan",
      "caphi_raw": null,
-     "maknuune_id": "2156-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2156-1",
-       "root": "",
-       "gloss": "old, having existed for a long time",
-       "analysis": "ADJ",
-       "pointed": "יָשָׁן"
-      },
-      {
-       "id": "2157-1",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB",
-       "pointed": "יָשַׁן"
-      },
-      {
-       "id": "2157-5",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:present",
-       "pointed": "יָשֵׁן"
-      },
-      {
-       "id": "2157-7",
-       "root": "י",
-       "gloss": "to sleep, to be asleep",
-       "analysis": "VERB:imperative",
-       "pointed": "יְשַׁן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "2157-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בגורן",
@@ -3989,44 +3914,7 @@
      "caphi_urban": "yavo",
      "caphi_raw": null,
      "maknuune_id": "3145-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3145-3",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:future",
-       "pointed": "יָבוֹא"
-      },
-      {
-       "id": "6558-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יָבוֹא"
-      },
-      {
-       "id": "6559-1",
-       "root": "",
-       "gloss": "defective spelling of ייבוא",
-       "analysis": "NOUN",
-       "pointed": "יִבּוּא"
-      },
-      {
-       "id": "13365-5",
-       "root": "",
-       "gloss": "To import: to bring (something) into a country for sale or t",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "יִבּוּא"
-      },
-      {
-       "id": "15644-54",
-       "root": "",
-       "gloss": "import, importation",
-       "analysis": "NOUN:alternative",
-       "pointed": "יִבוּא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ביום",
@@ -5031,64 +4919,19 @@
     },
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "והסתכלו",

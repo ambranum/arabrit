@@ -4273,44 +4273,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2741-1",
-       "root": "",
-       "gloss": "little, few (not much)",
-       "analysis": "ADV",
-       "pointed": "מְעַט"
-      },
-      {
-       "id": "2742-1",
-       "root": "",
-       "gloss": "defective spelling of מיעט",
-       "analysis": "VERB",
-       "pointed": "מִעֵט"
-      },
-      {
-       "id": "14727-38",
-       "root": "",
-       "gloss": "to shorten",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַעֵט"
-      },
-      {
-       "id": "1436-1",
-       "root": "",
-       "gloss": "as מ- + עֵט: a pen",
-       "analysis": "NOUN",
-       "pointed": "עֵט"
-      },
-      {
-       "id": "1437-1",
-       "root": "",
-       "gloss": "as מ- + עָט: to lunge, to pounce",
-       "analysis": "VERB",
-       "pointed": "עָט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s26.mp3"
@@ -5714,7 +5677,7 @@
      "caphi_urban": "asaper",
      "caphi_raw": null,
      "maknuune_id": "4008-28",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָכֶם",

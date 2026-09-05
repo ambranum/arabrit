@@ -109,34 +109,18 @@
     },
     {
      "surface": "הקברות",
-     "lemma": "נִקְבַּר",
-     "form": "נִקְבַּר",
-     "vocalized": "הִקָּבְרוּת",
+     "lemma": "קֶבֶר",
+     "form": "קֶבֶר",
+     "vocalized": "הַקְּבָרוֹת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to be buried, interred",
-     "analysis": "VERB:noun-from-verb",
-     "caphi": "hikavrut",
-     "caphi_urban": "hikavrut",
+     "gloss": "grave, gravesite",
+     "analysis": "NOUN:definite.plural",
+     "caphi": "hakvarot",
+     "caphi_urban": "hakvarot",
      "caphi_raw": null,
-     "maknuune_id": "10765-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10765-9",
-       "root": "",
-       "gloss": "to be buried, interred",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "הִקָּבְרוּת"
-      },
-      {
-       "id": "3593-35",
-       "root": "",
-       "gloss": "grave, gravesite",
-       "analysis": "NOUN:definite.plural",
-       "pointed": "הַקְּבָרוֹת"
-      }
-     ]
+     "maknuune_id": "3593-35",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -294,36 +278,19 @@
    "words": [
     {
      "surface": "ובא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "פוטר",
@@ -1390,44 +1357,7 @@
      "caphi_urban": "mat",
      "caphi_raw": null,
      "maknuune_id": "2741-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2741-1",
-       "root": "",
-       "gloss": "little, few (not much)",
-       "analysis": "ADV",
-       "pointed": "מְעַט"
-      },
-      {
-       "id": "2742-1",
-       "root": "",
-       "gloss": "defective spelling of מיעט",
-       "analysis": "VERB",
-       "pointed": "מִעֵט"
-      },
-      {
-       "id": "14727-38",
-       "root": "",
-       "gloss": "to shorten",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַעֵט"
-      },
-      {
-       "id": "1436-1",
-       "root": "",
-       "gloss": "as מ- + עֵט: a pen",
-       "analysis": "NOUN",
-       "pointed": "עֵט"
-      },
-      {
-       "id": "1437-1",
-       "root": "",
-       "gloss": "as מ- + עָט: to lunge, to pounce",
-       "analysis": "VERB",
-       "pointed": "עָט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מדי",
@@ -1652,34 +1582,18 @@
     },
     {
      "surface": "הקברות",
-     "lemma": "נִקְבַּר",
-     "form": "נִקְבַּר",
-     "vocalized": "הִקָּבְרוּת",
+     "lemma": "קֶבֶר",
+     "form": "קֶבֶר",
+     "vocalized": "הַקְּבָרוֹת",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to be buried, interred",
-     "analysis": "VERB:noun-from-verb",
-     "caphi": "hikavrut",
-     "caphi_urban": "hikavrut",
+     "gloss": "grave, gravesite",
+     "analysis": "NOUN:definite.plural",
+     "caphi": "hakvarot",
+     "caphi_urban": "hakvarot",
      "caphi_raw": null,
-     "maknuune_id": "10765-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10765-9",
-       "root": "",
-       "gloss": "to be buried, interred",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "הִקָּבְרוּת"
-      },
-      {
-       "id": "3593-35",
-       "root": "",
-       "gloss": "grave, gravesite",
-       "analysis": "NOUN:definite.plural",
-       "pointed": "הַקְּבָרוֹת"
-      }
-     ]
+     "maknuune_id": "3593-35",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והתעורר",
@@ -1911,23 +1825,7 @@
      "caphi_urban": "dam",
      "caphi_raw": null,
      "maknuune_id": "123-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "123-1",
-       "root": "",
-       "gloss": "blood",
-       "analysis": "NOUN",
-       "pointed": "דָּם"
-      },
-      {
-       "id": "12827-38",
-       "root": "",
-       "gloss": "to pause",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "דֹֹּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2835,23 +2733,7 @@
      "caphi_urban": "boxe",
      "caphi_raw": null,
      "maknuune_id": "6058-14",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-14",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "בּוֹכֶה"
-      },
-      {
-       "id": "6058-15",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "בּוֹכָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואומר",

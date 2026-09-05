@@ -1633,30 +1633,7 @@
      "caphi_urban": "nasham",
      "caphi_raw": null,
      "maknuune_id": "8147-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8147-1",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB",
-       "pointed": "נָשַׁם"
-      },
-      {
-       "id": "8147-37",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נְשֹׁם"
-      },
-      {
-       "id": "8147-45",
-       "root": "",
-       "gloss": "to breathe",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשֹּׁם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושתה",

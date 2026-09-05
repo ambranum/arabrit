@@ -75,51 +75,7 @@
      "caphi_urban": "shéva",
      "caphi_raw": null,
      "maknuune_id": "1345-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1345-1",
-       "root": "",
-       "gloss": "feminine of שִׁבְעָה (shiv'á, “seven”)",
-       "analysis": "NUM",
-       "pointed": "שֶׁבַע"
-      },
-      {
-       "id": "1347-1",
-       "root": "",
-       "gloss": "to be sated.",
-       "analysis": "VERB",
-       "pointed": "שָׂבַע"
-      },
-      {
-       "id": "1348-1",
-       "root": "",
-       "gloss": "satiety",
-       "analysis": "NOUN",
-       "pointed": "שָׂבָע"
-      },
-      {
-       "id": "1349-1",
-       "root": "",
-       "gloss": "defective spelling of שובע",
-       "analysis": "NOUN",
-       "pointed": "שֹׂבַע"
-      },
-      {
-       "id": "1350-1",
-       "root": "",
-       "gloss": "satiated, filled",
-       "analysis": "ADJ",
-       "pointed": "שָׂבֵעַ"
-      },
-      {
-       "id": "1351-4",
-       "root": "",
-       "gloss": "seven",
-       "analysis": "NUM:feminine",
-       "pointed": "שֶׁבַע"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ברחוב",

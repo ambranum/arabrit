@@ -341,46 +341,8 @@
      "caphi_urban": "tafas",
      "caphi_raw": null,
      "maknuune_id": "6875-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6875-1",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6876-1",
-       "root": "",
-       "gloss": "clasp, clip",
-       "analysis": "NOUN",
-       "pointed": "תֶּפֶס"
-      },
-      {
-       "id": "13328-3",
-       "root": "ת.פ",
-       "gloss": "To be caught.",
-       "analysis": "VERB:active",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "13884-43",
-       "root": "",
-       "gloss": "to seize",
-       "analysis": "VERB:alternative",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6875-39",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "תְּפֹס"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותו",
@@ -562,37 +524,7 @@
      "caphi_urban": "ten",
      "caphi_raw": null,
      "maknuune_id": "575-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-6",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:imperative",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "9764-1",
-       "root": "",
-       "gloss": "jackal",
-       "analysis": "NOUN",
-       "pointed": "תַּן"
-      },
-      {
-       "id": "9765-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of נתן (natán).",
-       "analysis": "VERB",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "7783-3",
-       "root": "",
-       "gloss": "-er: forming nouns denoting one with a certain characteristi",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־תן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",
@@ -985,53 +917,8 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לו",
@@ -1115,39 +1002,8 @@
      "caphi_urban": "neelam",
      "caphi_raw": null,
      "maknuune_id": "8813-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "8813-1",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB",
-       "pointed": "נֶעֱלַם"
-      },
-      {
-       "id": "8814-1",
-       "root": "",
-       "gloss": "hidden, concealed; mysterious",
-       "analysis": "ADJ",
-       "pointed": "נֶעֱלָם"
-      },
-      {
-       "id": "8813-16",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נֶעֱלָם"
-      },
-      {
-       "id": "8813-22",
-       "root": "ע",
-       "gloss": "to disappear",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָלֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בין",
@@ -1937,30 +1793,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "1808-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1808-4",
-       "root": "ע",
-       "gloss": "To stop, to stop moving, to halt, to stop the motion of. (Se",
-       "analysis": "VERB:infinitive",
-       "pointed": "לעצור"
-      },
-      {
-       "id": "1912-1",
-       "root": "",
-       "gloss": "as ל- + עִצּוּר: consonant",
-       "analysis": "NOUN",
-       "pointed": "עִצּוּר"
-      },
-      {
-       "id": "11868-1",
-       "root": "",
-       "gloss": "as ל- + עָצוּר: constricted, restrained",
-       "analysis": "ADJ",
-       "pointed": "עָצוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

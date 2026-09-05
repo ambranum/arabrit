@@ -1392,36 +1392,19 @@
     },
     {
      "surface": "והמשיך",
-     "lemma": "מֶשִׁי",
-     "form": "מֶשִׁי",
+     "lemma": "הִמְשִׁיךְ",
+     "form": "הִמְשִׁיךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "silk",
-     "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-     "caphi": "mishyxa",
-     "caphi_urban": "mishyxa",
+     "gloss": "To continue, to still do.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "himshix",
+     "caphi_urban": "himshix",
      "caphi_raw": null,
-     "maknuune_id": "1814-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1814-7",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיְךָ"
-      },
-      {
-       "id": "1814-8",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיֵךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "7372-12",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בדרך",

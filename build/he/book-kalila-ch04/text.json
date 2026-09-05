@@ -1474,30 +1474,7 @@
      "caphi_urban": "hashaar",
      "caphi_raw": null,
      "maknuune_id": "2117-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2117-9",
-       "root": "",
-       "gloss": "gateway (entrance)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשַּׁעַר"
-      },
-      {
-       "id": "2119-7",
-       "root": "",
-       "gloss": "hair",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַשֵּׂעָר"
-      },
-      {
-       "id": "2118-1",
-       "root": "",
-       "gloss": "as ה- + שִׁעֵר: defective spelling of שיער",
-       "analysis": "VERB",
-       "pointed": "שִׁעֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושמע",
@@ -3475,32 +3452,8 @@
      "caphi_urban": "mi",
      "caphi_raw": null,
      "maknuune_id": "3495-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "3495-1",
-       "root": "",
-       "gloss": "who, what person or persons",
-       "analysis": "PRON",
-       "pointed": "מִי"
-      },
-      {
-       "id": "3496-1",
-       "root": "",
-       "gloss": "plural construct state form of מַיִם (máyim)",
-       "analysis": "NOUN",
-       "pointed": "מֵי"
-      },
-      {
-       "id": "326-3",
-       "root": "",
-       "gloss": "(uncountable) water",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "מֵי־"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "שלא",
@@ -3676,37 +3629,7 @@
      "caphi_urban": "ten",
      "caphi_raw": null,
      "maknuune_id": "575-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-6",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:imperative",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "9764-1",
-       "root": "",
-       "gloss": "jackal",
-       "analysis": "NOUN",
-       "pointed": "תַּן"
-      },
-      {
-       "id": "9765-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of נתן (natán).",
-       "analysis": "VERB",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "7783-3",
-       "root": "",
-       "gloss": "-er: forming nouns denoting one with a certain characteristi",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־תן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",

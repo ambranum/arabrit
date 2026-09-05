@@ -471,23 +471,7 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2241,43 +2225,19 @@
     },
     {
      "surface": "ועם",
-     "lemma": "עַם",
-     "form": "עַם",
+     "lemma": "עִם",
+     "form": "עִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A nation, a people.",
-     "analysis": "NOUN",
-     "caphi": "am",
-     "caphi_urban": "am",
+     "gloss": "With: used to indicate togetherness, being together.",
+     "analysis": "PREP",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "1031-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1031-1",
-       "root": "",
-       "gloss": "A nation, a people.",
-       "analysis": "NOUN",
-       "pointed": "עַם"
-      },
-      {
-       "id": "1032-1",
-       "root": "",
-       "gloss": "With: used to indicate togetherness, being together.",
-       "analysis": "PREP",
-       "pointed": "עִם"
-      },
-      {
-       "id": "9619-1",
-       "root": "",
-       "gloss": "abbreviation of עַמּוּד (amúd, “page”): p.",
-       "analysis": "NOUN",
-       "pointed": "עמ׳"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "1032-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הימים",
@@ -2789,37 +2749,7 @@
      "caphi_urban": "barux",
      "caphi_raw": null,
      "maknuune_id": "1521-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1521-1",
-       "root": "",
-       "gloss": "blessed",
-       "analysis": "ADJ",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "1523-1",
-       "root": "",
-       "gloss": "trouble, disaster",
-       "analysis": "NOUN",
-       "pointed": "בְּרוֹךְ"
-      },
-      {
-       "id": "9561-4",
-       "root": "",
-       "gloss": "to bless",
-       "analysis": "VERB:participle.passive",
-       "pointed": "בָּרוּךְ"
-      },
-      {
-       "id": "4155-1",
-       "root": "",
-       "gloss": "as ב- + רוך: defective spelling of רוך (“softness”)",
-       "analysis": "NOUN",
-       "pointed": "רוך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הבא",
@@ -3261,43 +3191,19 @@
     },
     {
      "surface": "בריצה",
-     "lemma": "רָץ",
-     "form": "רָץ",
+     "lemma": "רִיצָה",
+     "form": "רִיצָה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ו",
-     "gloss": "To run; to move forward quickly on legs.",
-     "analysis": "VERB:noun-from-verb",
+     "root": null,
+     "gloss": "run, running",
+     "analysis": "NOUN",
      "caphi": "ritsa",
      "caphi_urban": "ritsa",
      "caphi_raw": null,
-     "maknuune_id": "5007-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "5007-4",
-       "root": "ו",
-       "gloss": "To run; to move forward quickly on legs.",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "רִיצָה"
-      },
-      {
-       "id": "10088-1",
-       "root": "",
-       "gloss": "run, running",
-       "analysis": "NOUN",
-       "pointed": "רִיצָה"
-      },
-      {
-       "id": "10087-18",
-       "root": "ה",
-       "gloss": "to satisfy, to please, to placate",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רִיצָּה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "10088-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "אל",
@@ -3397,37 +3303,7 @@
      "caphi_urban": "shata",
      "caphi_raw": null,
      "maknuune_id": "4772-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4772-1",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "1568-14",
-       "root": "",
-       "gloss": "to place, set",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שָׁתָה"
-      },
-      {
-       "id": "4772-30",
-       "root": "ה",
-       "gloss": "to drink",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁתֵה"
-      },
-      {
-       "id": "232-1",
-       "root": "",
-       "gloss": "as ש- + תֵּה: tea",
-       "analysis": "NOUN",
-       "pointed": "תֵּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהר",
@@ -4067,23 +3943,7 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עכבר",
@@ -4222,44 +4082,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "14896-3",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ:feminine",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "851-15",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "14897-17",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דּוּמָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לשני",

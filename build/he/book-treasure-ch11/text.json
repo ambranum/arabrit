@@ -881,25 +881,8 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -1174,46 +1157,8 @@
      "caphi_urban": "i",
      "caphi_raw": null,
      "maknuune_id": "1969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1969-1",
-       "root": "",
-       "gloss": "an island",
-       "analysis": "NOUN",
-       "pointed": "אִי"
-      },
-      {
-       "id": "1972-1",
-       "root": "",
-       "gloss": "non-",
-       "analysis": "PREFIX",
-       "pointed": "אִי־"
-      },
-      {
-       "id": "1975-1",
-       "root": "",
-       "gloss": "where.",
-       "analysis": "ADV",
-       "pointed": "אַי"
-      },
-      {
-       "id": "9218-1",
-       "root": "",
-       "gloss": "-ian, -eer: Denoting a profession or occupation.",
-       "analysis": "SUFFIX",
-       "pointed": "־ַאי"
-      },
-      {
-       "id": "9219-1",
-       "root": "",
-       "gloss": "Used in forming adjectives related to a profession or occupa",
-       "analysis": "SUFFIX",
-       "pointed": "־ָאִי"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ואז",
@@ -1349,44 +1294,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלו",
@@ -1424,25 +1332,8 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -1472,25 +1363,8 @@
      "caphi_urban": "mfaked",
      "caphi_raw": null,
      "maknuune_id": "7438-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "7438-1",
-       "root": "",
-       "gloss": "A (male) commander, a (male) commanding officer.",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּד"
-      },
-      {
-       "id": "10146-24",
-       "root": "",
-       "gloss": "to command, to oversee",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּד"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "וטרלוני",
@@ -1865,25 +1739,8 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -2457,44 +2314,7 @@
      "caphi_urban": "dome",
      "caphi_raw": null,
      "maknuune_id": "14896-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "14896-1",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "851-14",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "דּוֹמֶה"
-      },
-      {
-       "id": "14896-3",
-       "root": "",
-       "gloss": "similar, resembling, alike",
-       "analysis": "ADJ:feminine",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "851-15",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "דּוֹמָה"
-      },
-      {
-       "id": "14897-17",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "דּוּמָּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -2521,36 +2341,19 @@
    "words": [
     {
      "surface": "ובא",
-     "lemma": "בֹּא",
-     "form": "בֹּא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular imperative of בָּא (bá).",
+     "root": "ו.א",
+     "gloss": "To come.",
      "analysis": "VERB",
-     "caphi": "bo",
-     "caphi_urban": "bo",
+     "caphi": "ba",
+     "caphi_urban": "ba",
      "caphi_raw": null,
-     "maknuune_id": "795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "795-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of בָּא (bá).",
-       "analysis": "VERB",
-       "pointed": "בֹּא"
-      },
-      {
-       "id": "3145-1",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB",
-       "pointed": "בָּא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3145-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שלישי",
@@ -2565,44 +2368,7 @@
      "caphi_urban": "shlishi",
      "caphi_raw": null,
      "maknuune_id": "569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "569-1",
-       "root": "",
-       "gloss": "third",
-       "analysis": "ADJ",
-       "pointed": "שְׁלִישִׁי"
-      },
-      {
-       "id": "4145-5",
-       "root": "",
-       "gloss": "A third: one of three equal parts.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שְׁלִישֵׁי־"
-      },
-      {
-       "id": "4146-5",
-       "root": "",
-       "gloss": "A lieutenant.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שָׁלִישֵׁי־"
-      },
-      {
-       "id": "1495-1",
-       "root": "",
-       "gloss": "as של- + יִשַׁי: Jesse (the son of Obed and the father of kin",
-       "analysis": "NAME",
-       "pointed": "יִשַׁי"
-      },
-      {
-       "id": "16252-7",
-       "root": "",
-       "gloss": "as ש- + לַיִשׁ: lion",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "לֵישִׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ישראל",
@@ -3366,44 +3132,7 @@
      "caphi_urban": "haxelek",
      "caphi_raw": null,
      "maknuune_id": "3519-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3519-9",
-       "root": "",
-       "gloss": "part, piece, portion, fraction",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֵלֶק"
-      },
-      {
-       "id": "5520-28",
-       "root": "ח",
-       "gloss": "to slip, skid",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחֲלֵק"
-      },
-      {
-       "id": "11733-39",
-       "root": "",
-       "gloss": "to be divided",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵחָלֵק"
-      },
-      {
-       "id": "3518-1",
-       "root": "",
-       "gloss": "as ה- + חָלָק: smooth",
-       "analysis": "ADJ",
-       "pointed": "חָלָק"
-      },
-      {
-       "id": "3520-1",
-       "root": "ח",
-       "gloss": "as ה- + חָלַק: to divide, to partition, to split",
-       "analysis": "VERB",
-       "pointed": "חָלַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלו",
@@ -4479,23 +4208,7 @@
      "caphi_urban": "hayareax",
      "caphi_raw": null,
      "maknuune_id": "1996-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1996-9",
-       "root": "",
-       "gloss": "Moon",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיָּרֵחַ"
-      },
-      {
-       "id": "1997-9",
-       "root": "",
-       "gloss": "month",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיֶּרַח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

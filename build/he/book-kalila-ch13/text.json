@@ -93,41 +93,18 @@
     },
     {
      "surface": "אספר",
-     "lemma": "סָפַר",
-     "form": "סָפַר",
-     "vocalized": "אֶסְפֹּר",
+     "lemma": "סִפֵּר",
+     "form": "סִפֵּר",
+     "vocalized": "אֲסַפֵּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to count",
+     "gloss": "to tell (a story), to narrate, to recount",
      "analysis": "VERB:feminine.first-person.future.masculine.singular",
-     "caphi": "espor",
-     "caphi_urban": "espor",
+     "caphi": "asaper",
+     "caphi_urban": "asaper",
      "caphi_raw": null,
-     "maknuune_id": "1117-21",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1117-21",
-       "root": "",
-       "gloss": "to count",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֶסְפֹּר"
-      },
-      {
-       "id": "2187-30",
-       "root": "",
-       "gloss": "To be told, to be recounted.",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲסֻפַּר"
-      },
-      {
-       "id": "4008-28",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲסַפֵּר"
-      }
-     ]
+     "maknuune_id": "4008-28",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לך",
@@ -440,23 +417,7 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -643,43 +604,19 @@
     },
     {
      "surface": "ועם",
-     "lemma": "עַם",
-     "form": "עַם",
+     "lemma": "עִם",
+     "form": "עִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "A nation, a people.",
-     "analysis": "NOUN",
-     "caphi": "am",
-     "caphi_urban": "am",
+     "gloss": "With: used to indicate togetherness, being together.",
+     "analysis": "PREP",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "1031-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1031-1",
-       "root": "",
-       "gloss": "A nation, a people.",
-       "analysis": "NOUN",
-       "pointed": "עַם"
-      },
-      {
-       "id": "1032-1",
-       "root": "",
-       "gloss": "With: used to indicate togetherness, being together.",
-       "analysis": "PREP",
-       "pointed": "עִם"
-      },
-      {
-       "id": "9619-1",
-       "root": "",
-       "gloss": "abbreviation of עַמּוּד (amúd, “page”): p.",
-       "analysis": "NOUN",
-       "pointed": "עמ׳"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "1032-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "חיטה",
@@ -1566,30 +1503,7 @@
      "caphi_urban": "hayona",
      "caphi_raw": null,
      "maknuune_id": "1234-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1234-9",
-       "root": "",
-       "gloss": "pigeon, dove",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיּוֹנָה"
-      },
-      {
-       "id": "13883-20",
-       "root": "",
-       "gloss": "to capitalize",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "היונה"
-      },
-      {
-       "id": "1235-1",
-       "root": "",
-       "gloss": "as ה- + יוֹנָה: Jonah (a minor prophet who was cast into the",
-       "analysis": "NAME",
-       "pointed": "יוֹנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הגדולה",
@@ -2134,32 +2048,16 @@
      "surface": "נפלו",
      "lemma": "נָפַל",
      "form": "נָפַל",
-     "vocalized": "נִפְלוּ",
+     "vocalized": "נָפְלוּ",
      "vocalized_from": "lexicon",
      "root": null,
      "gloss": "To fall: to be pulled downward by gravity.",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "niflu",
-     "caphi_urban": "niflu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "naflu",
+     "caphi_urban": "naflu",
      "caphi_raw": null,
-     "maknuune_id": "2407-47",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2407-47",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "נִפְלוּ"
-      },
-      {
-       "id": "2407-19",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "נָפְלוּ"
-      }
-     ]
+     "maknuune_id": "2407-19",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ברשת",
@@ -2826,30 +2724,7 @@
      "caphi_urban": "hayona",
      "caphi_raw": null,
      "maknuune_id": "1234-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1234-9",
-       "root": "",
-       "gloss": "pigeon, dove",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיּוֹנָה"
-      },
-      {
-       "id": "13883-20",
-       "root": "",
-       "gloss": "to capitalize",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "היונה"
-      },
-      {
-       "id": "1235-1",
-       "root": "",
-       "gloss": "as ה- + יוֹנָה: Jonah (a minor prophet who was cast into the",
-       "analysis": "NAME",
-       "pointed": "יוֹנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הגדולה",
@@ -4069,30 +3944,7 @@
      "caphi_urban": "hayona",
      "caphi_raw": null,
      "maknuune_id": "1234-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1234-9",
-       "root": "",
-       "gloss": "pigeon, dove",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַיּוֹנָה"
-      },
-      {
-       "id": "13883-20",
-       "root": "",
-       "gloss": "to capitalize",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "היונה"
-      },
-      {
-       "id": "1235-1",
-       "root": "",
-       "gloss": "as ה- + יוֹנָה: Jonah (a minor prophet who was cast into the",
-       "analysis": "NAME",
-       "pointed": "יוֹנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הגדולה",

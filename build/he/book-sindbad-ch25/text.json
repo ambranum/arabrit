@@ -1505,50 +1505,19 @@
     },
     {
      "surface": "ואנשים",
-     "lemma": "נָשִׁים",
-     "form": "נָשִׁים",
+     "lemma": "אֲנָשִׁים",
+     "form": "אֲנָשִׁים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "women",
-     "analysis": "NOUN:masculine",
+     "gloss": "plural indefinite form of אִישׁ (ísh)",
+     "analysis": "NOUN",
      "caphi": "anashim",
      "caphi_urban": "anashim",
      "caphi_raw": null,
-     "maknuune_id": "2871-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2871-7",
-       "root": "",
-       "gloss": "women",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "3723-1",
-       "root": "",
-       "gloss": "plural indefinite form of אִישׁ (ísh)",
-       "analysis": "NOUN",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "1096-3",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "821-3",
-       "root": "",
-       "gloss": "human, man, person, mortal",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אנשים"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "3723-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עם",
@@ -2300,23 +2269,7 @@
      "caphi_urban": "soxer",
      "caphi_raw": null,
      "maknuune_id": "10981-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10981-1",
-       "root": "",
-       "gloss": "A trader.",
-       "analysis": "NOUN",
-       "pointed": "סוֹחֵר"
-      },
-      {
-       "id": "10982-14",
-       "root": "",
-       "gloss": "to traverse, to pass",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "סוֹחֵר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",
@@ -2979,53 +2932,8 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לי",
@@ -3108,64 +3016,19 @@
     },
     {
      "surface": "ואוכל",
-     "lemma": "אוֹכֵל",
-     "form": "אוֹכֵל",
+     "lemma": "אָכַל",
+     "form": "אָכַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": null,
-     "gloss": "Masculine singular present participle and present tense of אָכַל (akhál)",
-     "analysis": "VERB",
+     "root": "א",
+     "gloss": "to eat",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "oxel",
      "caphi_urban": "oxel",
      "caphi_raw": null,
-     "maknuune_id": "7645-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "7645-1",
-       "root": "",
-       "gloss": "Masculine singular present participle and present tense of א",
-       "analysis": "VERB",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "7648-1",
-       "root": "",
-       "gloss": "first-person singular future (prefix conjugation) of יכול / ",
-       "analysis": "VERB",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "973-20",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "אוֹכֵל"
-      },
-      {
-       "id": "2255-17",
-       "root": "",
-       "gloss": "can, to be able to",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אוּכַל"
-      },
-      {
-       "id": "7644-7",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "אוֹכֶל"
-      },
-      {
-       "id": "7647-17",
-       "root": "א",
-       "gloss": "to corrode, be consumed, be devoured",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "אוּכַּל"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "973-20",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לימים",
@@ -3895,23 +3758,7 @@
      "caphi_urban": "haolam",
      "caphi_raw": null,
      "maknuune_id": "1524-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1524-1",
-       "root": "",
-       "gloss": "the world: singular definite form of עוֹלָם (olám).",
-       "analysis": "NOUN",
-       "pointed": "הָעוֹלָם"
-      },
-      {
-       "id": "1062-10",
-       "root": "",
-       "gloss": "world: (the) Earth, (the) globe.",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָעוֹלָם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

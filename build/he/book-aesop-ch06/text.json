@@ -726,37 +726,7 @@
      "caphi_urban": "ten",
      "caphi_raw": null,
      "maknuune_id": "575-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-6",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:imperative",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "9764-1",
-       "root": "",
-       "gloss": "jackal",
-       "analysis": "NOUN",
-       "pointed": "תַּן"
-      },
-      {
-       "id": "9765-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of נתן (natán).",
-       "analysis": "VERB",
-       "pointed": "תֵּן"
-      },
-      {
-       "id": "7783-3",
-       "root": "",
-       "gloss": "-er: forming nouns denoting one with a certain characteristi",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־תן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",

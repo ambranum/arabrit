@@ -696,39 +696,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלו",
@@ -1570,53 +1539,8 @@
      "caphi_urban": "nixnas",
      "caphi_raw": null,
      "maknuune_id": "2564-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "2564-1",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB",
-       "pointed": "נִכְנַס"
-      },
-      {
-       "id": "2564-16",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִכְנָס"
-      },
-      {
-       "id": "2564-23",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִכָּנֵס"
-      },
-      {
-       "id": "6280-33",
-       "root": "",
-       "gloss": "To be brought in, taken in, sent in, or otherwise caused to ",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֻכְנַס"
-      },
-      {
-       "id": "9046-34",
-       "root": "",
-       "gloss": "to be assembled, to be gathered together",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכֻנַּס"
-      },
-      {
-       "id": "9047-31",
-       "root": "",
-       "gloss": "to assemble (a group of people), to call a meeting",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכַנֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "לכנסייה",
@@ -1981,23 +1905,7 @@
      "caphi_urban": "hexlit",
      "caphi_raw": null,
      "maknuune_id": "3455-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3455-1",
-       "root": "ח",
-       "gloss": "To opt, choose, decide.",
-       "analysis": "VERB",
-       "pointed": "הֶחְלִיט"
-      },
-      {
-       "id": "7410-3",
-       "root": "",
-       "gloss": "To be decided.",
-       "analysis": "VERB:active",
-       "pointed": "הֶחְלִיט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לאכול",
@@ -2601,36 +2509,19 @@
     },
     {
      "surface": "הברכיים",
-     "lemma": "בִּרְכַּיִים",
-     "form": "בִּרְכַּיִים",
+     "lemma": "בֶּרֶךְ",
+     "form": "בֶּרֶךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-     "analysis": "NOUN",
-     "caphi": "birkáyim",
-     "caphi_urban": "birkáyim",
+     "gloss": "knee",
+     "analysis": "NOUN:indefinite.plural",
+     "caphi": null,
+     "caphi_urban": null,
      "caphi_raw": null,
-     "maknuune_id": "4980-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4980-1",
-       "root": "",
-       "gloss": "plural indefinite form of בֶּרֶךְ (bérekh)",
-       "analysis": "NOUN",
-       "pointed": "בִּרְכַּיִים"
-      },
-      {
-       "id": "600-3",
-       "root": "",
-       "gloss": "knee",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "ברכיים"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "600-3",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",
@@ -3109,32 +3000,8 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אותו",
@@ -3478,51 +3345,7 @@
      "caphi_urban": "raa",
      "caphi_raw": null,
      "maknuune_id": "342-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "342-3",
-       "root": "",
-       "gloss": "bad",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָעָה"
-      },
-      {
-       "id": "343-4",
-       "root": "",
-       "gloss": "friend, colleague",
-       "analysis": "NOUN:feminine",
-       "pointed": "רֵעָה"
-      },
-      {
-       "id": "824-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of רַע (ra)",
-       "analysis": "ADJ",
-       "pointed": "רָעָה"
-      },
-      {
-       "id": "826-1",
-       "root": "",
-       "gloss": "defective spelling of רוֹעֶה (“shepherd”)",
-       "analysis": "NOUN",
-       "pointed": "רֹעֶה"
-      },
-      {
-       "id": "829-1",
-       "root": "ה",
-       "gloss": "defective spelling of ריעה (“to become friends”)",
-       "analysis": "VERB",
-       "pointed": "רֵעָה"
-      },
-      {
-       "id": "831-1",
-       "root": "",
-       "gloss": "alternative form of רֵעַ (réa, réaʕ, “friend”)",
-       "analysis": "NOUN",
-       "pointed": "רֵעֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אם",

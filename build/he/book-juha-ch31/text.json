@@ -822,62 +822,18 @@
     },
     {
      "surface": "נשבר",
-     "lemma": "שָׁבַר",
-     "form": "שָׁבַר",
+     "lemma": "נִשְׁבַּר",
+     "form": "נִשְׁבַּר",
      "vocalized": "נִשְׁבַּר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to break (separate into pieces or create cracks in)",
-     "analysis": "VERB:passive",
+     "gloss": "To break, to be broken, to get broken.",
+     "analysis": "VERB",
      "caphi": "nishbar",
      "caphi_urban": "nishbar",
      "caphi_raw": null,
-     "maknuune_id": "449-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "449-4",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:passive",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-1",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB",
-       "pointed": "נִשְׁבַּר"
-      },
-      {
-       "id": "3163-15",
-       "root": "",
-       "gloss": "To break, to be broken, to get broken.",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִשְׁבָּר"
-      },
-      {
-       "id": "449-24",
-       "root": "",
-       "gloss": "to break (separate into pieces or create cracks in)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִשְׁבֹּר"
-      },
-      {
-       "id": "451-33",
-       "root": "",
-       "gloss": "to be shattered (broken violently)",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשֻׁבַּר"
-      },
-      {
-       "id": "452-29",
-       "root": "",
-       "gloss": "to wait",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְשַׂבֵּר"
-      }
-     ]
+     "maknuune_id": "3163-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1504,30 +1460,7 @@
      "caphi_urban": "barax",
      "caphi_raw": null,
      "maknuune_id": "9625-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9625-1",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB",
-       "pointed": "בָּרַח"
-      },
-      {
-       "id": "9625-29",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּרַח"
-      },
-      {
-       "id": "11977-1",
-       "root": "",
-       "gloss": "as ב- + רח׳: abbreviation of רְחוֹב: St., st., street",
-       "analysis": "NOUN",
-       "pointed": "רח׳"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",

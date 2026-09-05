@@ -666,23 +666,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חום",
@@ -1805,36 +1789,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "השני",
@@ -2543,25 +2510,8 @@
      "caphi_urban": "mishtara",
      "caphi_raw": null,
      "maknuune_id": "4397-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4397-1",
-       "root": "",
-       "gloss": "police",
-       "analysis": "NOUN",
-       "pointed": "מִשְׁטָרָה"
-      },
-      {
-       "id": "13693-15",
-       "root": "",
-       "gloss": "a regime",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִשְׁטָרָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -2620,48 +2570,18 @@
     },
     {
      "surface": "הרג",
-     "lemma": "נֶהֱרַג",
-     "form": "נֶהֱרַג",
+     "lemma": "הָרַג",
+     "form": "הָרַג",
      "vocalized": "הָרַג",
      "vocalized_from": "lexicon",
      "root": "ה",
-     "gloss": "To be killed; to die suddenly or violently.",
-     "analysis": "VERB:active",
+     "gloss": "to kill (put to death).",
+     "analysis": "VERB",
      "caphi": "harag",
      "caphi_urban": "harag",
      "caphi_raw": null,
-     "maknuune_id": "4478-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4478-3",
-       "root": "ה",
-       "gloss": "To be killed; to die suddenly or violently.",
-       "analysis": "VERB:active",
-       "pointed": "הָרַג"
-      },
-      {
-       "id": "6347-1",
-       "root": "ה",
-       "gloss": "to kill (put to death).",
-       "analysis": "VERB",
-       "pointed": "הָרַג"
-      },
-      {
-       "id": "6348-1",
-       "root": "",
-       "gloss": "killing, murder, slaughter, massacre",
-       "analysis": "NOUN",
-       "pointed": "הֶרֶג"
-      },
-      {
-       "id": "6347-39",
-       "root": "ה",
-       "gloss": "to kill (put to death).",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֲרֹג"
-      }
-     ]
+     "maknuune_id": "6347-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -2680,36 +2600,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והולמס",
@@ -5326,30 +5229,7 @@
      "caphi_urban": "barax",
      "caphi_raw": null,
      "maknuune_id": "9625-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9625-1",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB",
-       "pointed": "בָּרַח"
-      },
-      {
-       "id": "9625-29",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּרַח"
-      },
-      {
-       "id": "11977-1",
-       "root": "",
-       "gloss": "as ב- + רח׳: abbreviation of רְחוֹב: St., st., street",
-       "analysis": "NOUN",
-       "pointed": "רח׳"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לשדה",
@@ -5548,36 +5428,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והולמס",
@@ -5879,36 +5742,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והיא",
@@ -6481,36 +6327,19 @@
     },
     {
      "surface": "המאמן",
-     "lemma": "אֻמַּן",
-     "form": "אֻמַּן",
+     "lemma": "אִמֵּן",
+     "form": "אִמֵּן",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be trained, to be coached",
+     "gloss": "to train",
      "analysis": "VERB:masculine.present.singular",
-     "caphi": "muman",
-     "caphi_urban": "muman",
+     "caphi": "mamen",
+     "caphi_urban": "mamen",
      "caphi_raw": null,
-     "maknuune_id": "7987-24",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7987-24",
-       "root": "",
-       "gloss": "to be trained, to be coached",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאֻמָּן"
-      },
-      {
-       "id": "13733-26",
-       "root": "",
-       "gloss": "to train",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְאַמֵּן"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "13733-26",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "התאמן",

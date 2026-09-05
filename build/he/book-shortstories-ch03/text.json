@@ -1229,64 +1229,19 @@
     },
     {
      "surface": "בפתח",
-     "lemma": "פָּתַח",
-     "form": "פָּתַח",
+     "lemma": "פֶּתַח",
+     "form": "פֶּתַח",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
-     "root": "ח",
-     "gloss": "to open (something)",
-     "analysis": "VERB",
-     "caphi": "patax",
-     "caphi_urban": "patax",
+     "root": null,
+     "gloss": "doorway",
+     "analysis": "NOUN",
+     "caphi": "pétax",
+     "caphi_urban": "pétax",
      "caphi_raw": null,
-     "maknuune_id": "2296-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2296-1",
-       "root": "ח",
-       "gloss": "to open (something)",
-       "analysis": "VERB",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2297-1",
-       "root": "",
-       "gloss": "defective spelling of פיתח.",
-       "analysis": "VERB",
-       "pointed": "פִּתֵּחַ"
-      },
-      {
-       "id": "2298-1",
-       "root": "",
-       "gloss": "doorway",
-       "analysis": "NOUN",
-       "pointed": "פֶּתַח"
-      },
-      {
-       "id": "2299-1",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN",
-       "pointed": "פַּתָּח"
-      },
-      {
-       "id": "13835-3",
-       "root": "ח",
-       "gloss": "To open, be opened: to be made open.",
-       "analysis": "VERB:active",
-       "pointed": "פָּתַח"
-      },
-      {
-       "id": "2299-3",
-       "root": "",
-       "gloss": "patach",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "פַּתַח"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "2298-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "החנות",
@@ -1568,23 +1523,7 @@
      "caphi_urban": "sus",
      "caphi_raw": null,
      "maknuune_id": "1299-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1299-1",
-       "root": "",
-       "gloss": "horse",
-       "analysis": "NOUN",
-       "pointed": "סוּס"
-      },
-      {
-       "id": "13333-3",
-       "root": "",
-       "gloss": "mare (an adult female horse)",
-       "analysis": "NOUN:masculine",
-       "pointed": "סוּס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וזה",
@@ -2126,36 +2065,19 @@
     },
     {
      "surface": "והמשיך",
-     "lemma": "מֶשִׁי",
-     "form": "מֶשִׁי",
+     "lemma": "הִמְשִׁיךְ",
+     "form": "הִמְשִׁיךְ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "silk",
-     "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-     "caphi": "mishyxa",
-     "caphi_urban": "mishyxa",
+     "gloss": "To continue, to still do.",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "himshix",
+     "caphi_urban": "himshix",
      "caphi_raw": null,
-     "maknuune_id": "1814-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "1814-7",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיְךָ"
-      },
-      {
-       "id": "1814-8",
-       "root": "",
-       "gloss": "silk",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "מִשְׁיֵךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "7372-12",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ללכת",
@@ -2825,30 +2747,7 @@
      "caphi_urban": "meot",
      "caphi_raw": null,
      "maknuune_id": "1891-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1891-5",
-       "root": "",
-       "gloss": "hundred, one hundred",
-       "analysis": "NUM:plural",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "3749-1",
-       "root": "",
-       "gloss": "plural of מֵאָה",
-       "analysis": "NUM",
-       "pointed": "מֵאוֹת"
-      },
-      {
-       "id": "622-1",
-       "root": "",
-       "gloss": "as מ- + אוֹת: a sign, an omen",
-       "analysis": "NOUN",
-       "pointed": "אוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וגם",
@@ -3959,39 +3858,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -4182,30 +4050,7 @@
      "caphi_urban": "heemin",
      "caphi_raw": null,
      "maknuune_id": "5500-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5500-1",
-       "root": "א",
-       "gloss": "to believe",
-       "analysis": "VERB",
-       "pointed": "הֶאֱמִין"
-      },
-      {
-       "id": "1604-1",
-       "root": "",
-       "gloss": "as ה- + אָמִין: trustworthy, reliable",
-       "analysis": "ADJ",
-       "pointed": "אָמִין"
-      },
-      {
-       "id": "7740-38",
-       "root": "א",
-       "gloss": "as נֶאֱמַן spelled full: to be true or reliable",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הֵאָמֵין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -4733,30 +4578,7 @@
      "caphi_urban": "hexzir",
      "caphi_raw": null,
      "maknuune_id": "6831-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6831-1",
-       "root": "ח",
-       "gloss": "to return, restore (a thing) (to a person or place)",
-       "analysis": "VERB",
-       "pointed": "הֶחְזִיר"
-      },
-      {
-       "id": "3045-1",
-       "root": "",
-       "gloss": "as ה- + חֲזִיר: pig",
-       "analysis": "NOUN",
-       "pointed": "חֲזִיר"
-      },
-      {
-       "id": "9923-1",
-       "root": "",
-       "gloss": "as הֶחְזֵר spelled full: refund",
-       "analysis": "NOUN",
-       "pointed": "הֶחְזֵיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -5058,64 +4880,19 @@
     },
     {
      "surface": "בשמחה",
-     "lemma": "שָׂמַח",
-     "form": "שָׂמַח",
+     "lemma": "שִׂמְחָה",
+     "form": "שִׂמְחָה",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "to be happy, glad, joyous, cheerful, merry",
-     "analysis": "VERB:noun-from-verb",
+     "gloss": "joy, happiness, glee.",
+     "analysis": "NOUN",
      "caphi": "simxa",
      "caphi_urban": "simxa",
      "caphi_raw": null,
-     "maknuune_id": "1270-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1270-5",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "שִׂמְחָה"
-      },
-      {
-       "id": "1976-1",
-       "root": "",
-       "gloss": "joy, happiness, glee.",
-       "analysis": "NOUN",
-       "pointed": "שִׂמְחָה"
-      },
-      {
-       "id": "1269-3",
-       "root": "",
-       "gloss": "happy, glad, pleased",
-       "analysis": "ADJ:feminine",
-       "pointed": "שְׂמֵחָה"
-      },
-      {
-       "id": "1270-16",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שְׂמֵחָה"
-      },
-      {
-       "id": "1270-13",
-       "root": "",
-       "gloss": "to be happy, glad, joyous, cheerful, merry",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׂמְחָה"
-      },
-      {
-       "id": "1978-1",
-       "root": "",
-       "gloss": "third-person feminine singular past (suffix conjugation) of ",
-       "analysis": "VERB",
-       "pointed": "שמחה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "maknuune_id": "1976-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "וסיפר",
@@ -5868,46 +5645,8 @@
      "caphi_urban": "tafas",
      "caphi_raw": null,
      "maknuune_id": "6875-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "6875-1",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6876-1",
-       "root": "",
-       "gloss": "clasp, clip",
-       "analysis": "NOUN",
-       "pointed": "תֶּפֶס"
-      },
-      {
-       "id": "13328-3",
-       "root": "ת.פ",
-       "gloss": "To be caught.",
-       "analysis": "VERB:active",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "13884-43",
-       "root": "",
-       "gloss": "to seize",
-       "analysis": "VERB:alternative",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6875-39",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "תְּפֹס"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אנשים",
@@ -5953,25 +5692,8 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",

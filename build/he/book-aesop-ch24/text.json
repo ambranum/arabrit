@@ -288,30 +288,7 @@
      "caphi_urban": "lavash",
      "caphi_raw": null,
      "maknuune_id": "2391-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2391-1",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB",
-       "pointed": "לָבַשׁ"
-      },
-      {
-       "id": "2391-30",
-       "root": "",
-       "gloss": "to wear (an article of clothing)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "לְבַשׁ"
-      },
-      {
-       "id": "1004-1",
-       "root": "",
-       "gloss": "as ל- + בֹּשׁ: to feel embarrassed, be ashamed",
-       "analysis": "VERB",
-       "pointed": "בֹּשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",

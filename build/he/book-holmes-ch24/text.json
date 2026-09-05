@@ -516,25 +516,8 @@
      "caphi_urban": "shoter",
      "caphi_raw": null,
      "maknuune_id": "3105-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3105-1",
-       "root": "",
-       "gloss": "policeman, cop",
-       "analysis": "NOUN",
-       "pointed": "שׁוֹטֵר"
-      },
-      {
-       "id": "6414-6",
-       "root": "",
-       "gloss": "policewoman (a female police officer)",
-       "analysis": "NOUN:masculine",
-       "pointed": "שׁוֹטֵר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -1538,25 +1521,8 @@
      "caphi_urban": "shoter",
      "caphi_raw": null,
      "maknuune_id": "3105-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "3105-1",
-       "root": "",
-       "gloss": "policeman, cop",
-       "analysis": "NOUN",
-       "pointed": "שׁוֹטֵר"
-      },
-      {
-       "id": "6414-6",
-       "root": "",
-       "gloss": "policewoman (a female police officer)",
-       "analysis": "NOUN:masculine",
-       "pointed": "שׁוֹטֵר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אמר",
@@ -1741,53 +1707,8 @@
      "caphi_urban": "nixnas",
      "caphi_raw": null,
      "maknuune_id": "2564-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "2564-1",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB",
-       "pointed": "נִכְנַס"
-      },
-      {
-       "id": "2564-16",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִכְנָס"
-      },
-      {
-       "id": "2564-23",
-       "root": "",
-       "gloss": "To enter; to go in or come in [with ל־ (l'-) ‘to’].",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נִכָּנֵס"
-      },
-      {
-       "id": "6280-33",
-       "root": "",
-       "gloss": "To be brought in, taken in, sent in, or otherwise caused to ",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֻכְנַס"
-      },
-      {
-       "id": "9046-34",
-       "root": "",
-       "gloss": "to be assembled, to be gathered together",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכֻנַּס"
-      },
-      {
-       "id": "9047-31",
-       "root": "",
-       "gloss": "to assemble (a group of people), to call a meeting",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכַנֵּס"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "לחדר",
@@ -2255,25 +2176,8 @@
      "caphi_urban": "délet",
      "caphi_raw": null,
      "maknuune_id": "1144-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1144-1",
-       "root": "",
-       "gloss": "door (portal of entry)",
-       "analysis": "NOUN",
-       "pointed": "דֶּלֶת"
-      },
-      {
-       "id": "1145-1",
-       "root": "",
-       "gloss": "alternative spelling of דל״ת",
-       "analysis": "NOUN",
-       "pointed": "דָּלֶת"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "והסתכל",
@@ -2580,44 +2484,7 @@
      "caphi_urban": "shlishi",
      "caphi_raw": null,
      "maknuune_id": "569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "569-1",
-       "root": "",
-       "gloss": "third",
-       "analysis": "ADJ",
-       "pointed": "שְׁלִישִׁי"
-      },
-      {
-       "id": "4145-5",
-       "root": "",
-       "gloss": "A third: one of three equal parts.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שְׁלִישֵׁי־"
-      },
-      {
-       "id": "4146-5",
-       "root": "",
-       "gloss": "A lieutenant.",
-       "analysis": "NOUN:construct.plural",
-       "pointed": "שָׁלִישֵׁי־"
-      },
-      {
-       "id": "1495-1",
-       "root": "",
-       "gloss": "as של- + יִשַׁי: Jesse (the son of Obed and the father of kin",
-       "analysis": "NAME",
-       "pointed": "יִשַׁי"
-      },
-      {
-       "id": "16252-7",
-       "root": "",
-       "gloss": "as ש- + לַיִשׁ: lion",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "לֵישִׁי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והרים",
@@ -3005,25 +2872,8 @@
      "caphi_urban": "xalon",
      "caphi_raw": null,
      "maknuune_id": "1440-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1440-1",
-       "root": "",
-       "gloss": "a window",
-       "analysis": "NOUN",
-       "pointed": "חַלּוֹן"
-      },
-      {
-       "id": "1441-1",
-       "root": "",
-       "gloss": "defective spelling of חילון",
-       "analysis": "NOUN",
-       "pointed": "חִלּוּן"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "מצאנו",
@@ -3269,46 +3119,8 @@
      "caphi_urban": "katav",
      "caphi_raw": null,
      "maknuune_id": "89-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "89-1",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "90-1",
-       "root": "",
-       "gloss": "writing, script, handwriting",
-       "analysis": "NOUN",
-       "pointed": "כְּתָב"
-      },
-      {
-       "id": "91-1",
-       "root": "",
-       "gloss": "a newspaper correspondent",
-       "analysis": "NOUN",
-       "pointed": "כַּתָּב"
-      },
-      {
-       "id": "7827-3",
-       "root": "",
-       "gloss": "to be written: to get written, to undergo writing, to come i",
-       "analysis": "VERB:active",
-       "pointed": "כָּתַב"
-      },
-      {
-       "id": "89-41",
-       "root": "",
-       "gloss": "to write",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כְּתֹב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "על",
@@ -3593,34 +3405,18 @@
     },
     {
      "surface": "קח",
-     "lemma": "לָקַח",
-     "form": "לָקַח",
+     "lemma": "קַח",
+     "form": "קַח",
      "vocalized": "קַח",
      "vocalized_from": "lexicon",
-     "root": "ל.ח",
-     "gloss": "to take (grasp with the hands)",
-     "analysis": "VERB:imperative",
+     "root": null,
+     "gloss": "Masculine singular imperative of לָקַח (laqach)",
+     "analysis": "VERB",
      "caphi": "kax",
      "caphi_urban": "kax",
      "caphi_raw": null,
-     "maknuune_id": "966-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "966-7",
-       "root": "ל.ח",
-       "gloss": "to take (grasp with the hands)",
-       "analysis": "VERB:imperative",
-       "pointed": "קַח"
-      },
-      {
-       "id": "12975-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of לָקַח (laqach)",
-       "analysis": "VERB",
-       "pointed": "קַח"
-      }
-     ]
+     "maknuune_id": "12975-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -3787,36 +3583,19 @@
     },
     {
      "surface": "לאיש",
-     "lemma": "אִשָּׁה",
-     "form": "אִשָּׁה",
+     "lemma": "אִישׁ",
+     "form": "אִישׁ",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "woman (an adult female human)",
-     "analysis": "NOUN:masculine",
+     "gloss": "A man, adult male human being.",
+     "analysis": "NOUN",
      "caphi": "ish",
      "caphi_urban": "ish",
      "caphi_raw": null,
-     "maknuune_id": "1090-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ל-",
-     "options": [
-      {
-       "id": "1090-7",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine",
-       "pointed": "אִישׁ"
-      },
-      {
-       "id": "1096-1",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN",
-       "pointed": "אִישׁ"
-      }
-     ],
-     "_cut_for_prompt": "ל-"
+     "maknuune_id": "1096-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "האמריקאי",
@@ -4591,25 +4370,8 @@
      "caphi_urban": "saviv",
      "caphi_raw": null,
      "maknuune_id": "15795-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-ו",
-     "options": [
-      {
-       "id": "15795-1",
-       "root": "",
-       "gloss": "around",
-       "analysis": "ADV",
-       "pointed": "סָבִיב"
-      },
-      {
-       "id": "15796-1",
-       "root": "",
-       "gloss": "around, about",
-       "analysis": "PREP",
-       "pointed": "סְבִיב"
-      }
-     ],
-     "_cut_for_prompt": "-ו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-ו"
     }
    ],
    "audio": null
