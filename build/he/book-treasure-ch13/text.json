@@ -930,23 +930,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לא",
@@ -967,32 +951,16 @@
      "surface": "שמעו",
      "lemma": "שָׁמַע",
      "form": "שָׁמַע",
-     "vocalized": "שִׁמְעוּ",
+     "vocalized": "שָׁמְעוּ",
      "vocalized_from": "lexicon",
      "root": "ע",
      "gloss": "to hear, to be able to hear",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "shimu",
-     "caphi_urban": "shimu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "shamu",
+     "caphi_urban": "shamu",
      "caphi_raw": null,
-     "maknuune_id": "665-33",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "665-33",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "שִׁמְעוּ"
-      },
-      {
-       "id": "665-16",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׁמְעוּ"
-      }
-     ]
+     "maknuune_id": "665-16",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לפקודות",
@@ -1262,23 +1230,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יישארו",
@@ -2151,50 +2103,19 @@
     },
     {
      "surface": "מהאנשים",
-     "lemma": "נָשִׁים",
-     "form": "נָשִׁים",
+     "lemma": "אֲנָשִׁים",
+     "form": "אֲנָשִׁים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "women",
-     "analysis": "NOUN:masculine",
+     "gloss": "plural indefinite form of אִישׁ (ísh)",
+     "analysis": "NOUN",
      "caphi": "anashim",
      "caphi_urban": "anashim",
      "caphi_raw": null,
-     "maknuune_id": "2871-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "2871-7",
-       "root": "",
-       "gloss": "women",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "3723-1",
-       "root": "",
-       "gloss": "plural indefinite form of אִישׁ (ísh)",
-       "analysis": "NOUN",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "1096-3",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "821-3",
-       "root": "",
-       "gloss": "human, man, person, mortal",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אנשים"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "maknuune_id": "3723-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "שלו",
@@ -2383,25 +2304,8 @@
      "caphi_urban": "xayim",
      "caphi_raw": null,
      "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלי",
@@ -2732,23 +2636,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13079-1",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB",
-       "pointed": "צָעַק"
-      },
-      {
-       "id": "13079-29",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְעַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ג'ים",
@@ -2900,51 +2788,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העצים",

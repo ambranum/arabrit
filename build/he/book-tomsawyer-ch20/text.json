@@ -365,25 +365,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "דיברו",
@@ -849,25 +832,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "נשבעו",
@@ -1083,44 +1049,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "האנשים",
@@ -1431,64 +1360,19 @@
     },
     {
      "surface": "ואל",
-     "lemma": "אֵל",
-     "form": "אֵל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "god (a deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed)",
-     "analysis": "NOUN",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "357-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "357-1",
-       "root": "",
-       "gloss": "god (a deity or supreme being; a supernatural, typically imm",
-       "analysis": "NOUN",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "361-1",
-       "root": "",
-       "gloss": "to, towards, into",
-       "analysis": "PREP",
-       "pointed": "אֶל"
-      },
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "885-3",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET:alternative",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "886-3",
-       "root": "",
-       "gloss": "A goddess.",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תשתו",
@@ -1687,23 +1571,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-23",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-23",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:definite.dual",
-       "pointed": "הידיים"
-      },
-      {
-       "id": "12838-16",
-       "root": "",
-       "gloss": "as הֵד spelled full: echo",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הֵידִיים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלהם",
@@ -1718,25 +1586,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     }
    ],
    "audio": null
@@ -2169,23 +2020,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-23",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-23",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:definite.dual",
-       "pointed": "הידיים"
-      },
-      {
-       "id": "12838-16",
-       "root": "",
-       "gloss": "as הֵד spelled full: echo",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הֵידִיים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלו",
@@ -2270,51 +2105,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העדים",
@@ -2369,25 +2160,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -2432,23 +2206,7 @@
      "caphi_urban": "éven",
      "caphi_raw": null,
      "maknuune_id": "957-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "957-1",
-       "root": "",
-       "gloss": "stone (a piece of such material: a block of stone, rock or a",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶן"
-      },
-      {
-       "id": "958-1",
-       "root": "",
-       "gloss": "ibn",
-       "analysis": "NOUN",
-       "pointed": "אִבְּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2964,50 +2722,19 @@
     },
     {
      "surface": "והאנשים",
-     "lemma": "נָשִׁים",
-     "form": "נָשִׁים",
+     "lemma": "אֲנָשִׁים",
+     "form": "אֲנָשִׁים",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "women",
-     "analysis": "NOUN:masculine",
+     "gloss": "plural indefinite form of אִישׁ (ísh)",
+     "analysis": "NOUN",
      "caphi": "anashim",
      "caphi_urban": "anashim",
      "caphi_raw": null,
-     "maknuune_id": "2871-7",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "2871-7",
-       "root": "",
-       "gloss": "women",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "3723-1",
-       "root": "",
-       "gloss": "plural indefinite form of אִישׁ (ísh)",
-       "analysis": "NOUN",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "1096-3",
-       "root": "",
-       "gloss": "A man, adult male human being.",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אֲנָשִׁים"
-      },
-      {
-       "id": "821-3",
-       "root": "",
-       "gloss": "human, man, person, mortal",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "אנשים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "maknuune_id": "3723-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "התפלאו",
@@ -3749,25 +3476,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "3563-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3563-1",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN",
-       "pointed": "קוֹל"
-      },
-      {
-       "id": "3564-1",
-       "root": "",
-       "gloss": "cool person",
-       "analysis": "ADJ",
-       "pointed": "קוּל"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -3983,25 +3693,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מהחתול",
@@ -4218,51 +3911,7 @@
      "caphi_urban": "shatak",
      "caphi_raw": null,
      "maknuune_id": "2515-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2515-1",
-       "root": "",
-       "gloss": "to shut up, to be silent, to be quiet",
-       "analysis": "VERB",
-       "pointed": "שָׁתַק"
-      },
-      {
-       "id": "2516-3",
-       "root": "",
-       "gloss": "defective spelling of שיתק (shiték).",
-       "analysis": "VERB:canonical",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "2517-3",
-       "root": "",
-       "gloss": "defective spelling of שותק (shuták).",
-       "analysis": "VERB:canonical",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9321-1",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "9321-4",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB:passive",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9322-1",
-       "root": "",
-       "gloss": "to be paralysed",
-       "analysis": "VERB",
-       "pointed": "שֻׁתַּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יותר",
@@ -4553,48 +4202,18 @@
     },
     {
      "surface": "קפץ",
-     "lemma": "קִפֵּץ",
-     "form": "קִפֵּץ",
-     "vocalized": "קִפֵּץ",
+     "lemma": "קָפַץ",
+     "form": "קָפַץ",
+     "vocalized": "קָפַץ",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to spring",
+     "gloss": "to jump",
      "analysis": "VERB",
-     "caphi": "kipets",
-     "caphi_urban": "kipets",
+     "caphi": "kafats",
+     "caphi_urban": "kafats",
      "caphi_raw": null,
-     "maknuune_id": "3180-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3180-1",
-       "root": "",
-       "gloss": "to spring",
-       "analysis": "VERB",
-       "pointed": "קִפֵּץ"
-      },
-      {
-       "id": "3181-1",
-       "root": "",
-       "gloss": "to jump",
-       "analysis": "VERB",
-       "pointed": "קָפַץ"
-      },
-      {
-       "id": "3180-38",
-       "root": "",
-       "gloss": "to spring",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קַפֵּץ"
-      },
-      {
-       "id": "3181-38",
-       "root": "",
-       "gloss": "to jump",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְפֹץ"
-      }
-     ]
+     "maknuune_id": "3181-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהחלון",

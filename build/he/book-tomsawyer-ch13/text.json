@@ -185,51 +185,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העצים",
@@ -492,30 +448,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גדול",
@@ -829,34 +762,19 @@
     },
     {
      "surface": "לנהר",
-     "lemma": "נָהַר",
-     "form": "נָהַר",
-     "vocalized": "לִנְהֹר",
-     "vocalized_from": "lexicon",
-     "root": "ה",
-     "gloss": "to shine",
-     "analysis": "VERB:infinitive",
-     "caphi": "linhor",
-     "caphi_urban": "linhor",
+     "lemma": "נָהָר",
+     "form": "נָהָר",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "river (especially the Nile, Euphrates, etc.)",
+     "analysis": "NOUN",
+     "caphi": "nahar",
+     "caphi_urban": "nahar",
      "caphi_raw": null,
-     "maknuune_id": "944-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "944-4",
-       "root": "ה",
-       "gloss": "to shine",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִנְהֹר"
-      },
-      {
-       "id": "942-1",
-       "root": "",
-       "gloss": "as ל- + נָהָר: river (especially the Nile, Euphrates, etc.)",
-       "analysis": "NOUN",
-       "pointed": "נָהָר"
-      }
-     ]
+     "maknuune_id": "942-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ושחו",
@@ -1250,25 +1168,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "דגו",
@@ -1511,25 +1412,8 @@
      "caphi_urban": "xayim",
      "caphi_raw": null,
      "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלהם",
@@ -1544,25 +1428,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     }
    ],
    "audio": null
@@ -1776,23 +1643,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הלכו",
@@ -1924,25 +1775,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -2204,23 +2038,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ישבו",
@@ -2456,32 +2274,8 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "942-1",
-       "root": "",
-       "gloss": "river (especially the Nile, Euphrates, etc.)",
-       "analysis": "NOUN",
-       "pointed": "נָהָר"
-      },
-      {
-       "id": "943-1",
-       "root": "ה",
-       "gloss": "to flow",
-       "analysis": "VERB",
-       "pointed": "נָהַר"
-      },
-      {
-       "id": "944-29",
-       "root": "ה",
-       "gloss": "to shine",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "נְהַר"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והאק",
@@ -2629,44 +2423,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חושבים",
@@ -2711,23 +2468,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עושים",
@@ -2772,46 +2513,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -2864,51 +2567,7 @@
      "caphi_urban": "bétax",
      "caphi_raw": null,
      "maknuune_id": "8966-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8966-1",
-       "root": "",
-       "gloss": "for sure, definitely",
-       "analysis": "ADV",
-       "pointed": "בֶּטַח"
-      },
-      {
-       "id": "8967-1",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB",
-       "pointed": "בָּטַח"
-      },
-      {
-       "id": "8968-1",
-       "root": "",
-       "gloss": "defective spelling of בִּיטֵּחַ.",
-       "analysis": "VERB",
-       "pointed": "בִּטֵּחַ"
-      },
-      {
-       "id": "8969-1",
-       "root": "",
-       "gloss": "defective spelling of בּוּטַּח.",
-       "analysis": "VERB",
-       "pointed": "בֻּטַּח"
-      },
-      {
-       "id": "8967-29",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּטַח"
-      },
-      {
-       "id": "16800-1",
-       "root": "",
-       "gloss": "as ב- + טָח: to daub",
-       "analysis": "VERB",
-       "pointed": "טָח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מחפשים",
@@ -2996,34 +2655,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלי",
@@ -3282,51 +2925,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -3345,48 +2944,18 @@
     },
     {
      "surface": "דודה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "דּוֹדָה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "1642-16",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "דּוֹדָהּ"
-      },
-      {
-       "id": "1644-15",
-       "root": "",
-       "gloss": "a cauldron",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "דּוּדָהּ"
-      }
-     ]
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פולי",
@@ -3505,34 +3074,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היה",
@@ -3880,23 +3433,7 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אוכל",
@@ -4277,25 +3814,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הדליקו",
@@ -4593,51 +4113,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",

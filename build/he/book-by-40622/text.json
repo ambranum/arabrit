@@ -321,7 +321,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נֶאֶסְפוּ",
@@ -1412,7 +1412,7 @@
      "caphi_urban": "sade",
      "caphi_raw": null,
      "maknuune_id": "980-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -1887,48 +1887,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְהַכַּדּוּרִים",
@@ -1976,7 +1947,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רִטְטוּ",
@@ -2458,7 +2429,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְרָאשֵׁי",
@@ -2822,7 +2793,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִתְגַּבֵּר",
@@ -3922,7 +3893,7 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -4672,7 +4643,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יָדַע",
@@ -7675,7 +7646,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַמָּוֶת",
@@ -7705,7 +7676,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַבְּגִידָה",
@@ -7736,7 +7707,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַמְּנוּסָה",
@@ -11327,7 +11298,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָיְתָה",
@@ -14494,7 +14465,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִסְגִּיר",
@@ -14826,7 +14797,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נוֹתַר",
@@ -15241,18 +15212,18 @@
     },
     {
      "surface": "עֵבֶר",
-     "lemma": "עֵבֶר",
-     "form": "עֵבֶר",
+     "lemma": "עָבַר",
+     "form": "עָבַר",
      "vocalized": "עֵבֶר",
      "vocalized_from": "source:pointed",
-     "root": null,
-     "gloss": "side, direction, way",
-     "analysis": "NOUN",
-     "caphi": "éver",
-     "caphi_urban": "éver",
+     "root": "ע",
+     "gloss": "to pass, to cross",
+     "analysis": "VERB",
+     "caphi": "avar",
+     "caphi_urban": "avar",
      "caphi_raw": null,
-     "maknuune_id": "187-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "185-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָעִיר",
@@ -15637,7 +15608,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָלְכוּ",
@@ -17317,7 +17288,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יֹאבוּ",
@@ -17863,7 +17834,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "דָּחַף",
@@ -19703,7 +19674,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּגוּפוֹ",
@@ -20348,7 +20319,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִיא",
@@ -22051,7 +22022,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כַּנְפֵיהֶן",
@@ -22897,7 +22868,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוּא",
@@ -25858,7 +25829,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

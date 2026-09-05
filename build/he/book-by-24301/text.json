@@ -80,30 +80,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַקְּטַנָּה",
@@ -218,30 +195,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הֵבִיאָה",
@@ -420,7 +374,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַּכִּסֵּא",
@@ -468,7 +422,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נָעֳמִי",
@@ -483,30 +437,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַקְּטַנָּה",
@@ -815,30 +746,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סִפּוּר",
@@ -922,30 +830,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַתְּ",
@@ -1170,30 +1055,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פַּעַם",
@@ -1641,30 +1503,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -2198,30 +2037,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לַבֻּבָּה",
@@ -2734,30 +2550,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְשָׁרָה",
@@ -2944,30 +2737,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּמִיָּד",
@@ -3213,25 +2983,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תַּפְרִיעוּ",
@@ -3322,7 +3075,7 @@
      "caphi_urban": "shamu",
      "caphi_raw": null,
      "maknuune_id": "665-16",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָעֵצִים",
@@ -3590,30 +3343,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s21.mp3"
@@ -3818,30 +3548,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רוֹעֶה",
@@ -4353,30 +4060,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יְשֵׁנָה",
@@ -4535,30 +4219,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּצַד",
@@ -5034,30 +4695,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s28.mp3"
@@ -5339,30 +4977,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַכְשָׁו",
@@ -5707,7 +5322,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַחֲתוּלָה",
@@ -6375,30 +5990,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִיָּד",
@@ -6911,30 +6503,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גַם",
@@ -7441,30 +7010,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יְשֵׁנָה",
@@ -7717,30 +7263,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מְאֹד",
@@ -8255,30 +7778,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שִׁפְשְׁפָה",
@@ -8993,12 +8493,12 @@
      "vocalized_from": "source:pointed",
      "root": "ע.ה",
      "gloss": "To ascend, rise, go up; to move from a point to a higher point.",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "alu",
      "caphi_urban": "alu",
      "caphi_raw": null,
-     "maknuune_id": "740-30",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "740-13",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כֻּלְכֶם",
@@ -9098,30 +8598,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַקְּטַנָּה",

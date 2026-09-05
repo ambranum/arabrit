@@ -44,37 +44,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שמע",
@@ -173,30 +143,7 @@
      "caphi_urban": "kara",
      "caphi_raw": null,
      "maknuune_id": "169-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "169-1",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "10647-3",
-       "root": "א",
-       "gloss": "to be read",
-       "analysis": "VERB:active",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "169-32",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְרָא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -348,37 +295,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שאל",
@@ -408,51 +325,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איש",
@@ -482,44 +355,7 @@
      "caphi_urban": "xaxam",
      "caphi_raw": null,
      "maknuune_id": "870-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "870-1",
-       "root": "",
-       "gloss": "wise, smart",
-       "analysis": "ADJ",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-1",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB",
-       "pointed": "חָכַם"
-      },
-      {
-       "id": "872-14",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-28",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲכַם"
-      },
-      {
-       "id": "11934-23",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "חִכָּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -669,37 +505,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צחק",
@@ -1011,23 +817,7 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שום",
@@ -1277,37 +1067,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נתן",
@@ -1322,51 +1082,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -1579,51 +1295,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "משוגע",

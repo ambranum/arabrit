@@ -205,37 +205,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וסיפרתי",
@@ -442,37 +412,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10439-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP:feminine",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לשום",
@@ -3315,53 +3255,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "סינדבאד",
@@ -3644,51 +3539,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3974,51 +3825,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אוכל",
@@ -4278,37 +4085,7 @@
      "caphi_urban": "matbot",
      "caphi_raw": null,
      "maknuune_id": "2168-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2168-3",
-       "root": "",
-       "gloss": "coin",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַטְבְּעוֹת"
-      },
-      {
-       "id": "7597-3",
-       "root": "",
-       "gloss": "mint (place where coins are minted)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מִטְבָּעוֹת"
-      },
-      {
-       "id": "16722-1",
-       "root": "",
-       "gloss": "as מ- + טַבָּעוֹת: plural indefinite form of טַבַּעַת (tabá'at)",
-       "analysis": "NOUN",
-       "pointed": "טַבָּעוֹת"
-      },
-      {
-       "id": "8092-3",
-       "root": "",
-       "gloss": "as מ- + טַבַּעַת: ring (a circumscribing object, (roughly) cir",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "טַבָּעוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בפעם",
@@ -4680,25 +4457,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",

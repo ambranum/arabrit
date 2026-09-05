@@ -508,30 +508,7 @@
      "caphi_urban": "asa",
      "caphi_raw": null,
      "maknuune_id": "565-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-1",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB",
-       "pointed": "עָשָׂה"
-      },
-      {
-       "id": "7424-3",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:active",
-       "pointed": "עָשָׂה"
-      },
-      {
-       "id": "565-32",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲשֵׂה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אצלה",
@@ -691,51 +668,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איש",
@@ -2614,44 +2547,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      },
-      {
-       "id": "742-1",
-       "root": "",
-       "gloss": "A leaf.",
-       "analysis": "NOUN",
-       "pointed": "עָלֶה"
-      },
-      {
-       "id": "740-28",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲלֵה"
-      },
-      {
-       "id": "2478-18",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "עֻלָּהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לה",
@@ -2856,44 +2752,7 @@
      "caphi_urban": "baxa",
      "caphi_raw": null,
      "maknuune_id": "6058-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-1",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB",
-       "pointed": "בָּכָה"
-      },
-      {
-       "id": "6059-1",
-       "root": "",
-       "gloss": "defective spelling of ביכה",
-       "analysis": "VERB",
-       "pointed": "בִּכָּה"
-      },
-      {
-       "id": "6058-28",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּכֵה"
-      },
-      {
-       "id": "10072-38",
-       "root": "ה",
-       "gloss": "to lament; to mourn (for)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ב- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",
@@ -3580,37 +3439,7 @@
      "caphi_urban": "matbot",
      "caphi_raw": null,
      "maknuune_id": "2168-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2168-3",
-       "root": "",
-       "gloss": "coin",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַטְבְּעוֹת"
-      },
-      {
-       "id": "7597-3",
-       "root": "",
-       "gloss": "mint (place where coins are minted)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מִטְבָּעוֹת"
-      },
-      {
-       "id": "16722-1",
-       "root": "",
-       "gloss": "as מ- + טַבָּעוֹת: plural indefinite form of טַבַּעַת (tabá'at)",
-       "analysis": "NOUN",
-       "pointed": "טַבָּעוֹת"
-      },
-      {
-       "id": "8092-3",
-       "root": "",
-       "gloss": "as מ- + טַבַּעַת: ring (a circumscribing object, (roughly) cir",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "טַבָּעוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3861,48 +3690,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -4202,84 +4001,23 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אתה",
@@ -4294,51 +4032,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מביא",
@@ -4368,23 +4062,7 @@
      "caphi_urban": "nyar",
      "caphi_raw": null,
      "maknuune_id": "2961-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-5",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "נְיָיר"
-      },
-      {
-       "id": "11333-1",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ",
-       "pointed": "נִייר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אפילו",
@@ -4530,51 +4208,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בטוח",
@@ -4972,51 +4606,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4777-1",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN",
-       "pointed": "קָנֶה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4776-30",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְנֵה"
-      },
-      {
-       "id": "4088-17",
-       "root": "",
-       "gloss": "nest (bird-built structure)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קִנָּהּ"
-      },
-      {
-       "id": "4777-15",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קָנֶהָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -5035,43 +4625,19 @@
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מישהו",
@@ -5101,51 +4667,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4777-1",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN",
-       "pointed": "קָנֶה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4776-30",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְנֵה"
-      },
-      {
-       "id": "4088-17",
-       "root": "",
-       "gloss": "nest (bird-built structure)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קִנָּהּ"
-      },
-      {
-       "id": "4777-15",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קָנֶהָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -5412,51 +4934,7 @@
      "caphi_urban": "bétax",
      "caphi_raw": null,
      "maknuune_id": "8966-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8966-1",
-       "root": "",
-       "gloss": "for sure, definitely",
-       "analysis": "ADV",
-       "pointed": "בֶּטַח"
-      },
-      {
-       "id": "8967-1",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB",
-       "pointed": "בָּטַח"
-      },
-      {
-       "id": "8968-1",
-       "root": "",
-       "gloss": "defective spelling of בִּיטֵּחַ.",
-       "analysis": "VERB",
-       "pointed": "בִּטֵּחַ"
-      },
-      {
-       "id": "8969-1",
-       "root": "",
-       "gloss": "defective spelling of בּוּטַּח.",
-       "analysis": "VERB",
-       "pointed": "בֻּטַּח"
-      },
-      {
-       "id": "8967-29",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּטַח"
-      },
-      {
-       "id": "16800-1",
-       "root": "",
-       "gloss": "as ב- + טָח: to daub",
-       "analysis": "VERB",
-       "pointed": "טָח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מה",
@@ -6111,23 +5589,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שווים",
@@ -6226,44 +5688,7 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -6493,51 +5918,7 @@
      "caphi_urban": "axal",
      "caphi_raw": null,
      "maknuune_id": "973-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "973-1",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB",
-       "pointed": "אָכַל"
-      },
-      {
-       "id": "974-1",
-       "root": "",
-       "gloss": "defective spelling of איכל",
-       "analysis": "VERB",
-       "pointed": "אִכֵּל"
-      },
-      {
-       "id": "975-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "VERB",
-       "pointed": "אֻכַּל"
-      },
-      {
-       "id": "976-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "NOUN",
-       "pointed": "אֹכֶל"
-      },
-      {
-       "id": "7644-1",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN",
-       "pointed": "אֹֽכֶל"
-      },
-      {
-       "id": "7646-1",
-       "root": "",
-       "gloss": "First-person singular future (prefix conjugation) of אכל (ak",
-       "analysis": "VERB",
-       "pointed": "אֹכַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "במסעדות",
@@ -6964,34 +6345,18 @@
     },
     {
      "surface": "חיים",
-     "lemma": "חַיִּים",
-     "form": "חַיִּים",
+     "lemma": "חַי",
+     "form": "חַי",
      "vocalized": "חַיִּים",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "life (period during which one is alive)",
-     "analysis": "NOUN",
+     "gloss": "alive",
+     "analysis": "ADJ:masculine.plural",
      "caphi": "xayim",
      "caphi_urban": "xayim",
      "caphi_raw": null,
-     "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ]
+     "maknuune_id": "880-4",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קשים",

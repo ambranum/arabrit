@@ -557,44 +557,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      },
-      {
-       "id": "742-1",
-       "root": "",
-       "gloss": "A leaf.",
-       "analysis": "NOUN",
-       "pointed": "עָלֶה"
-      },
-      {
-       "id": "740-28",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲלֵה"
-      },
-      {
-       "id": "2478-18",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "עֻלָּהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ממנו",
@@ -715,25 +678,8 @@
      "caphi_urban": "amad",
      "caphi_raw": null,
      "maknuune_id": "2979-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2979-1",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB",
-       "pointed": "עָמַד"
-      },
-      {
-       "id": "2979-37",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲמֹד"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עם",
@@ -906,23 +852,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הסתכלו",
@@ -1400,53 +1330,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בדיוק",
@@ -1575,53 +1460,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מה",
@@ -1651,23 +1491,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "7348-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7348-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "איתך"
-      },
-      {
-       "id": "96-12",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "איתך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ספר",
@@ -1712,86 +1536,24 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ואל",
-     "lemma": "אֵל",
-     "form": "אֵל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "god (a deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed)",
-     "analysis": "NOUN",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "357-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "357-1",
-       "root": "",
-       "gloss": "god (a deity or supreme being; a supernatural, typically imm",
-       "analysis": "NOUN",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "361-1",
-       "root": "",
-       "gloss": "to, towards, into",
-       "analysis": "PREP",
-       "pointed": "אֶל"
-      },
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "885-3",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET:alternative",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "886-3",
-       "root": "",
-       "gloss": "A goddess.",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תשכח",
@@ -2642,53 +2404,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "זוכר",
@@ -3415,53 +3132,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "איפה",
@@ -3491,51 +3163,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עובד",
@@ -4386,25 +4014,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -4454,62 +4065,18 @@
     },
     {
      "surface": "נעשה",
-     "lemma": "עָשָׂה",
-     "form": "עָשָׂה",
-     "vocalized": "נַעֲשָׂה",
+     "lemma": "נַעֲשֶׂה",
+     "form": "נַעֲשֶׂה",
+     "vocalized": "נַעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": "ע.ה",
-     "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:passive",
-     "caphi": "naasa",
-     "caphi_urban": "naasa",
+     "root": null,
+     "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (asá).",
+     "analysis": "VERB",
+     "caphi": "naase",
+     "caphi_urban": "naase",
      "caphi_raw": null,
-     "maknuune_id": "565-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-6",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:passive",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7424-1",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7425-1",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (a",
-       "analysis": "VERB",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-17",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "565-23",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-23",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "7425-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קטן",
@@ -5030,37 +4597,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10439-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP:feminine",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -5158,51 +4695,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עושה",
@@ -5318,51 +4811,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מדבר",
@@ -5781,23 +5230,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואמר",
@@ -6806,25 +6239,8 @@
      "caphi_urban": "tsaxak",
      "caphi_raw": null,
      "maknuune_id": "8335-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "8335-1",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB",
-       "pointed": "צָחַק"
-      },
-      {
-       "id": "8335-28",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְחַק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "צחוק",
@@ -7077,25 +6493,8 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "כבר",
@@ -7222,34 +6621,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עם",
@@ -7403,23 +6786,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

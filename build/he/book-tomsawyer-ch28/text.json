@@ -176,39 +176,8 @@
      "caphi_urban": "xazar",
      "caphi_raw": null,
      "maknuune_id": "4374-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4374-1",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB",
-       "pointed": "חָזַר"
-      },
-      {
-       "id": "7942-1",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB",
-       "pointed": "חִזֵּר"
-      },
-      {
-       "id": "4374-37",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲזֹר"
-      },
-      {
-       "id": "7942-38",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַזֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -309,39 +278,8 @@
      "caphi_urban": "xazar",
      "caphi_raw": null,
      "maknuune_id": "4374-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4374-1",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB",
-       "pointed": "חָזַר"
-      },
-      {
-       "id": "7942-1",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB",
-       "pointed": "חִזֵּר"
-      },
-      {
-       "id": "4374-37",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲזֹר"
-      },
-      {
-       "id": "7942-38",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַזֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -457,23 +395,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "497-1",
-       "root": "",
-       "gloss": "light, visible light: electromagnetic radiation of a frequen",
-       "analysis": "NOUN",
-       "pointed": "אוֹר"
-      },
-      {
-       "id": "499-1",
-       "root": "",
-       "gloss": "Ur (an ancient city-state in Sumer)",
-       "analysis": "NAME",
-       "pointed": "אוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -496,23 +418,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "497-1",
-       "root": "",
-       "gloss": "light, visible light: electromagnetic radiation of a frequen",
-       "analysis": "NOUN",
-       "pointed": "אוֹר"
-      },
-      {
-       "id": "499-1",
-       "root": "",
-       "gloss": "Ur (an ancient city-state in Sumer)",
-       "analysis": "NAME",
-       "pointed": "אוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קטן",
@@ -600,48 +506,18 @@
     },
     {
      "surface": "קפץ",
-     "lemma": "קִפֵּץ",
-     "form": "קִפֵּץ",
-     "vocalized": "קִפֵּץ",
+     "lemma": "קָפַץ",
+     "form": "קָפַץ",
+     "vocalized": "קָפַץ",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "to spring",
+     "gloss": "to jump",
      "analysis": "VERB",
-     "caphi": "kipets",
-     "caphi_urban": "kipets",
+     "caphi": "kafats",
+     "caphi_urban": "kafats",
      "caphi_raw": null,
-     "maknuune_id": "3180-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3180-1",
-       "root": "",
-       "gloss": "to spring",
-       "analysis": "VERB",
-       "pointed": "קִפֵּץ"
-      },
-      {
-       "id": "3181-1",
-       "root": "",
-       "gloss": "to jump",
-       "analysis": "VERB",
-       "pointed": "קָפַץ"
-      },
-      {
-       "id": "3180-38",
-       "root": "",
-       "gloss": "to spring",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קַפֵּץ"
-      },
-      {
-       "id": "3181-38",
-       "root": "",
-       "gloss": "to jump",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְפֹץ"
-      }
-     ]
+     "maknuune_id": "3181-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והוא",
@@ -672,23 +548,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13079-1",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB",
-       "pointed": "צָעַק"
-      },
-      {
-       "id": "13079-29",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְעַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כאן",
@@ -1097,34 +957,18 @@
    "words": [
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בחושך",
@@ -1139,32 +983,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "והנר",
@@ -1226,25 +1046,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -1659,55 +1462,18 @@
     },
     {
      "surface": "פחד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
-     "vocalized": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
+     "vocalized": "פָּחַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1763-1",
-       "root": "",
-       "gloss": "fear",
-       "analysis": "NOUN",
-       "pointed": "פַּחַד"
-      },
-      {
-       "id": "1764-1",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB",
-       "pointed": "פָּחַד"
-      },
-      {
-       "id": "1765-1",
-       "root": "",
-       "gloss": "defective spelling of פיחד",
-       "analysis": "VERB",
-       "pointed": "פִּחֵד"
-      },
-      {
-       "id": "1764-28",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּחַד"
-      },
-      {
-       "id": "2184-36",
-       "root": "",
-       "gloss": "To fear, to be afraid or scared.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פַּחֵד"
-      }
-     ]
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ג'ו",
@@ -1742,55 +1508,18 @@
     },
     {
      "surface": "פחד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
-     "vocalized": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
+     "vocalized": "פָּחַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1763-1",
-       "root": "",
-       "gloss": "fear",
-       "analysis": "NOUN",
-       "pointed": "פַּחַד"
-      },
-      {
-       "id": "1764-1",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB",
-       "pointed": "פָּחַד"
-      },
-      {
-       "id": "1765-1",
-       "root": "",
-       "gloss": "defective spelling of פיחד",
-       "analysis": "VERB",
-       "pointed": "פִּחֵד"
-      },
-      {
-       "id": "1764-28",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּחַד"
-      },
-      {
-       "id": "2184-36",
-       "root": "",
-       "gloss": "To fear, to be afraid or scared.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פַּחֵד"
-      }
-     ]
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1888,23 +1617,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13079-1",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB",
-       "pointed": "צָעַק"
-      },
-      {
-       "id": "13079-29",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְעַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ובמערה",
@@ -3080,23 +2793,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "497-1",
-       "root": "",
-       "gloss": "light, visible light: electromagnetic radiation of a frequen",
-       "analysis": "NOUN",
-       "pointed": "אוֹר"
-      },
-      {
-       "id": "499-1",
-       "root": "",
-       "gloss": "Ur (an ancient city-state in Sumer)",
-       "analysis": "NAME",
-       "pointed": "אוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -3141,23 +2838,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "497-1",
-       "root": "",
-       "gloss": "light, visible light: electromagnetic radiation of a frequen",
-       "analysis": "NOUN",
-       "pointed": "אוֹר"
-      },
-      {
-       "id": "499-1",
-       "root": "",
-       "gloss": "Ur (an ancient city-state in Sumer)",
-       "analysis": "NAME",
-       "pointed": "אוּר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחר",
@@ -3926,44 +3607,7 @@
      "caphi_urban": "baxa",
      "caphi_raw": null,
      "maknuune_id": "6058-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-1",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB",
-       "pointed": "בָּכָה"
-      },
-      {
-       "id": "6059-1",
-       "root": "",
-       "gloss": "defective spelling of ביכה",
-       "analysis": "VERB",
-       "pointed": "בִּכָּה"
-      },
-      {
-       "id": "6058-28",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּכֵה"
-      },
-      {
-       "id": "10072-38",
-       "root": "ה",
-       "gloss": "to lament; to mourn (for)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ב- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בפעם",

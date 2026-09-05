@@ -1718,18 +1718,18 @@
     },
     {
      "surface": "עֲבֹר",
-     "lemma": "עֲבֹר",
-     "form": "עֲבֹר",
+     "lemma": "עָבַר",
+     "form": "עָבַר",
      "vocalized": "עֲבֹר",
      "vocalized_from": "source:pointed",
-     "root": null,
-     "gloss": "Masculine singular imperative of עָבַר (avár)",
+     "root": "ע",
+     "gloss": "to pass, to cross",
      "analysis": "VERB",
-     "caphi": "avor",
-     "caphi_urban": "avor",
+     "caphi": "avar",
+     "caphi_urban": "avar",
      "caphi_raw": null,
-     "maknuune_id": "1048-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "185-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שָׁנִים",
@@ -2035,23 +2035,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קָר",
@@ -2547,7 +2531,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָז",
@@ -3118,7 +3102,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַגָּדֵר",

@@ -313,41 +313,18 @@
     },
     {
      "surface": "הרגל",
-     "lemma": "הֶרְגֵּל",
-     "form": "הֶרְגֵּל",
-     "vocalized": "הֶרְגֵּל",
+     "lemma": "רֶגֶל",
+     "form": "רֶגֶל",
+     "vocalized": "הָרֶגֶל",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "habit",
-     "analysis": "NOUN",
-     "caphi": "hergel",
-     "caphi_urban": "hergel",
+     "gloss": "foot, leg",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "haregel",
+     "caphi_urban": "haregel",
      "caphi_raw": null,
-     "maknuune_id": "12999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12999-1",
-       "root": "",
-       "gloss": "habit",
-       "analysis": "NOUN",
-       "pointed": "הֶרְגֵּל"
-      },
-      {
-       "id": "312-9",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶל"
-      },
-      {
-       "id": "313-1",
-       "root": "",
-       "gloss": "as ה- + רִגֵּל: defective spelling of ריגל",
-       "analysis": "VERB",
-       "pointed": "רִגֵּל"
-      }
-     ]
+     "maknuune_id": "312-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלה",
@@ -898,58 +875,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ורצתי",
@@ -1372,48 +1298,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גבוהים",
@@ -1498,23 +1394,7 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "דרך",
@@ -1559,25 +1439,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עצים",
@@ -1607,25 +1470,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מים",
@@ -2061,23 +1907,7 @@
      "caphi_urban": "eyze",
      "caphi_raw": null,
      "maknuune_id": "2659-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2659-1",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET",
-       "pointed": "אֵיזֶה"
-      },
-      {
-       "id": "9329-3",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET:masculine",
-       "pointed": "אֵיזֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איש",
@@ -2107,37 +1937,7 @@
      "caphi_urban": "ashir",
      "caphi_raw": null,
      "maknuune_id": "7876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7876-1",
-       "root": "",
-       "gloss": "rich, wealthy, well off: having a lot of money and possessio",
-       "analysis": "ADJ",
-       "pointed": "עָשִׁיר"
-      },
-      {
-       "id": "1357-1",
-       "root": "",
-       "gloss": "as עֶשֶׂר spelled full: feminine of עֲשָׂרָה (asará, “ten”)",
-       "analysis": "NUM",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "1359-4",
-       "root": "",
-       "gloss": "as עֲשָׂרָה spelled full: ten",
-       "analysis": "NUM:feminine",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "9086-1",
-       "root": "",
-       "gloss": "as עֹשֶׁר spelled full: richness, wealth",
-       "analysis": "NOUN",
-       "pointed": "עֹשֶׁיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",
@@ -3176,30 +2976,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מעייפות",
@@ -3448,23 +3225,7 @@
      "caphi_urban": "xatixat",
      "caphi_raw": null,
      "maknuune_id": "10405-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10405-1",
-       "root": "",
-       "gloss": "singular construct state form of חֲתִיכָה (khatikhá)",
-       "analysis": "NOUN",
-       "pointed": "חֲתִיכַת"
-      },
-      {
-       "id": "7687-4",
-       "root": "",
-       "gloss": "piece, chunk",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "חֲתִיכַת־"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בשר",
@@ -3479,44 +3240,7 @@
      "caphi_urban": "basar",
      "caphi_raw": null,
      "maknuune_id": "999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "999-1",
-       "root": "",
-       "gloss": "flesh, meat",
-       "analysis": "NOUN",
-       "pointed": "בָּשָׂר"
-      },
-      {
-       "id": "1000-1",
-       "root": "",
-       "gloss": "defective spelling of בישר",
-       "analysis": "VERB",
-       "pointed": "בִּשֵּׂר"
-      },
-      {
-       "id": "9523-28",
-       "root": "",
-       "gloss": "to bring good news",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּשֵּׂר"
-      },
-      {
-       "id": "4134-1",
-       "root": "י",
-       "gloss": "as ב- + שָׁר: to sing",
-       "analysis": "VERB",
-       "pointed": "שָׁר"
-      },
-      {
-       "id": "4135-1",
-       "root": "",
-       "gloss": "as ב- + שַׂר: captain, commander",
-       "analysis": "NOUN",
-       "pointed": "שַׂר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גדולה",
@@ -3650,34 +3374,18 @@
     },
     {
      "surface": "ההר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גבוה",
@@ -3746,23 +3454,7 @@
      "caphi_urban": "nafla",
      "caphi_raw": null,
      "maknuune_id": "2407-18",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2407-18",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "נָפְלָה"
-      },
-      {
-       "id": "11108-21",
-       "root": "",
-       "gloss": "to discriminate",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַפְלֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חתיכה",
@@ -4019,23 +3711,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מוציאים",

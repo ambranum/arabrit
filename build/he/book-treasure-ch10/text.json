@@ -951,34 +951,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלי",
@@ -2202,37 +2186,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -2617,37 +2571,7 @@
      "caphi_urban": "mfaked",
      "caphi_raw": null,
      "maknuune_id": "7438-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7438-1",
-       "root": "",
-       "gloss": "A (male) commander, a (male) commanding officer.",
-       "analysis": "NOUN",
-       "pointed": "מְפַקֵּד"
-      },
-      {
-       "id": "10146-24",
-       "root": "",
-       "gloss": "to command, to oversee",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְפַקֵּד"
-      },
-      {
-       "id": "2976-1",
-       "root": "",
-       "gloss": "as מ- + פָּקַד: to count",
-       "analysis": "VERB",
-       "pointed": "פָּקַד"
-      },
-      {
-       "id": "2978-1",
-       "root": "",
-       "gloss": "as מ- + פֻּקַּד: defective spelling of פוקד",
-       "analysis": "VERB",
-       "pointed": "פֻּקַּד"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פלינט",
@@ -2710,37 +2634,7 @@
      "caphi_urban": "matbot",
      "caphi_raw": null,
      "maknuune_id": "2168-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2168-3",
-       "root": "",
-       "gloss": "coin",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַטְבְּעוֹת"
-      },
-      {
-       "id": "7597-3",
-       "root": "",
-       "gloss": "mint (place where coins are minted)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מִטְבָּעוֹת"
-      },
-      {
-       "id": "16722-1",
-       "root": "",
-       "gloss": "as מ- + טַבָּעוֹת: plural indefinite form of טַבַּעַת (tabá'at)",
-       "analysis": "NOUN",
-       "pointed": "טַבָּעוֹת"
-      },
-      {
-       "id": "8092-3",
-       "root": "",
-       "gloss": "as מ- + טַבַּעַת: ring (a circumscribing object, (roughly) cir",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "טַבָּעוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זהב",
@@ -2778,37 +2672,7 @@
      "caphi_urban": "matbot",
      "caphi_raw": null,
      "maknuune_id": "2168-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2168-3",
-       "root": "",
-       "gloss": "coin",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַטְבְּעוֹת"
-      },
-      {
-       "id": "7597-3",
-       "root": "",
-       "gloss": "mint (place where coins are minted)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מִטְבָּעוֹת"
-      },
-      {
-       "id": "16722-1",
-       "root": "",
-       "gloss": "as מ- + טַבָּעוֹת: plural indefinite form of טַבַּעַת (tabá'at)",
-       "analysis": "NOUN",
-       "pointed": "טַבָּעוֹת"
-      },
-      {
-       "id": "8092-3",
-       "root": "",
-       "gloss": "as מ- + טַבַּעַת: ring (a circumscribing object, (roughly) cir",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "טַבָּעוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זהב",
@@ -3296,51 +3160,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חכם",
@@ -3355,44 +3175,7 @@
      "caphi_urban": "xaxam",
      "caphi_raw": null,
      "maknuune_id": "870-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "870-1",
-       "root": "",
-       "gloss": "wise, smart",
-       "analysis": "ADJ",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-1",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB",
-       "pointed": "חָכַם"
-      },
-      {
-       "id": "872-14",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-28",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲכַם"
-      },
-      {
-       "id": "11934-23",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "חִכָּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ג'ים",
@@ -3422,51 +3205,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "דומה",
@@ -3564,23 +3303,7 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3811,51 +3534,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "למלחים",
@@ -4605,32 +4284,8 @@
      "caphi_urban": "xoshex",
      "caphi_raw": null,
      "maknuune_id": "10596-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "10596-3",
-       "root": "",
-       "gloss": "darkness",
-       "analysis": "NOUN:indefinite.singular",
-       "pointed": "חוֹשֶׁךְ"
-      },
-      {
-       "id": "12488-7",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "חוּשְׁךָ"
-      },
-      {
-       "id": "12488-8",
-       "root": "",
-       "gloss": "sense",
-       "analysis": "NOUN:feminine.possessed-form.second-person.singular",
-       "pointed": "חוּשֵׁךְ"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ונרדמתי",

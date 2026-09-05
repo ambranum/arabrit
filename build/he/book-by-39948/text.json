@@ -576,7 +576,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּנוֹ",
@@ -2480,23 +2480,7 @@
      "caphi_urban": "asita",
      "caphi_raw": null,
      "maknuune_id": "565-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-11",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "עָשִׂיתָ"
-      },
-      {
-       "id": "565-12",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "עָשִׂית"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נְקָמָה",
@@ -3290,18 +3274,18 @@
     },
     {
      "surface": "שָׂבְעָה",
-     "lemma": "שָׂבַע",
-     "form": "שָׂבַע",
+     "lemma": "שִׁבְעָה",
+     "form": "שִׁבְעָה",
      "vocalized": "שָׂבְעָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to be sated.",
-     "analysis": "VERB:feminine.past.singular.third-person",
-     "caphi": "sava",
-     "caphi_urban": "sava",
+     "gloss": "seven",
+     "analysis": "NUM",
+     "caphi": "shiva",
+     "caphi_urban": "shiva",
      "caphi_raw": null,
-     "maknuune_id": "1347-14",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1351-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3870,38 +3854,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַזָּקֵן",
@@ -4899,7 +4859,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שַׁעְיָה",
@@ -5183,7 +5143,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְשׁוֹ\"ב",
@@ -5815,7 +5775,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מָה",
@@ -5940,7 +5900,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תִּלְמַד",
@@ -6925,7 +6885,7 @@
      "caphi_urban": "sade",
      "caphi_raw": null,
      "maknuune_id": "980-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     }
    ],
@@ -9995,7 +9955,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַ",
@@ -10088,23 +10048,7 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בִּמְקוֹמוֹ",
@@ -11100,48 +11044,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶל",
@@ -12196,48 +12111,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְלָבוֹא",
@@ -12611,7 +12497,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְבֵית",
@@ -13597,48 +13483,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -15168,48 +15025,19 @@
     },
     {
      "surface": "הַתְעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְסוֹחֲטוֹת",
@@ -15732,48 +15560,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֵינָם",
@@ -16292,48 +16091,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "גַּם",
@@ -17580,7 +17350,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִסָּבִיב",
@@ -19282,7 +19052,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -20152,7 +19922,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַהֵר",
@@ -20417,7 +20187,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְאֹרֶךְ",
@@ -20512,18 +20282,18 @@
     },
     {
      "surface": "וְאֶל",
-     "lemma": "אֶל",
-     "form": "אֶל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": "וְאֶל",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to, towards, into",
-     "analysis": "PREP",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "361-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -20777,7 +20547,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שֶׁמֶשׁ",
@@ -21381,48 +21151,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שֶׁפָּנְתָה",
@@ -21895,18 +21636,18 @@
     },
     {
      "surface": "מִהֵר",
-     "lemma": "מִהֵר",
-     "form": "מִהֵר",
+     "lemma": "מַהֵר",
+     "form": "מַהֵר",
      "vocalized": "מִהֵר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "defective spelling of מיהר",
-     "analysis": "VERB",
-     "caphi": "miher",
-     "caphi_urban": "miher",
+     "gloss": "quickly, rapidly, fast",
+     "analysis": "ADV",
+     "caphi": "maher",
+     "caphi_urban": "maher",
      "caphi_raw": null,
-     "maknuune_id": "433-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "432-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָצֵאת",
@@ -27754,7 +27495,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -27773,48 +27514,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְהִתְחִיל",
@@ -31340,7 +31052,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יָדוֹ",
@@ -31510,7 +31222,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לוֹחֶכֶת",
@@ -33044,7 +32756,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -37739,23 +37451,7 @@
      "caphi_urban": "asita",
      "caphi_raw": null,
      "maknuune_id": "565-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-11",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "עָשִׂיתָ"
-      },
-      {
-       "id": "565-12",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "עָשִׂית"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיַּיִן",
@@ -41628,48 +41324,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וּמִשָּׁם",
@@ -42290,7 +41957,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַכִּיר",
@@ -42716,7 +42383,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְאֹרֶךְ",
@@ -42977,7 +42644,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סָח",
@@ -43843,48 +43510,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אַחַר",
@@ -43981,18 +43619,18 @@
     },
     {
      "surface": "וְאֶל",
-     "lemma": "אֶל",
-     "form": "אֶל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": "וְאֶל",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to, towards, into",
-     "analysis": "PREP",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "361-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -45203,48 +44841,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -45314,7 +44923,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּאַפָּם",
@@ -47724,7 +47333,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָרִצְפָּה",
@@ -47775,48 +47384,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "כְּדֵי",
@@ -48540,7 +48120,7 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -49559,7 +49139,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַחֲרַי",
@@ -49612,7 +49192,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -49727,7 +49307,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -50108,48 +49688,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נִהְיֶה",
@@ -50522,18 +50073,18 @@
     },
     {
      "surface": "פַּחַד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
      "vocalized": "פַּחַד",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גָּדוֹל",
@@ -50678,23 +50229,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -50987,7 +50522,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְרֹאשׁוֹ",
@@ -51018,7 +50553,7 @@
      "caphi_urban": "amad",
      "caphi_raw": null,
      "maknuune_id": "2979-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -51764,48 +51299,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -52876,7 +52382,7 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זִנֵּק",
@@ -53829,7 +53335,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יְרַקְרַק",
@@ -54607,25 +54113,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     },
     {
      "surface": "עִקָּר",
@@ -54694,7 +54183,7 @@
      "caphi_urban": "haxeder",
      "caphi_raw": null,
      "maknuune_id": "798-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְמַעְלָה",
@@ -56499,7 +55988,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַד",
@@ -56966,7 +56455,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִיָּדוֹ",
@@ -59708,7 +59197,7 @@
      "caphi_urban": "nafla",
      "caphi_raw": null,
      "maknuune_id": "2407-18",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִיָּדָהּ",
@@ -59822,7 +59311,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לַתְּעָלָה",
@@ -61757,48 +61246,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וּבְעוֹד",
@@ -62830,7 +62290,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גָּדוֹל",
@@ -63316,18 +62776,18 @@
     },
     {
      "surface": "מִהֵר",
-     "lemma": "מִהֵר",
-     "form": "מִהֵר",
+     "lemma": "מַהֵר",
+     "form": "מַהֵר",
      "vocalized": "מִהֵר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "defective spelling of מיהר",
-     "analysis": "VERB",
-     "caphi": "miher",
-     "caphi_urban": "miher",
+     "gloss": "quickly, rapidly, fast",
+     "analysis": "ADV",
+     "caphi": "maher",
+     "caphi_urban": "maher",
      "caphi_raw": null,
-     "maknuune_id": "433-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "432-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -64358,7 +63818,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִתְחַכֵּם",
@@ -64622,7 +64082,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -65661,48 +65121,19 @@
     },
     {
      "surface": "הַתְּעָלָה",
-     "lemma": "הִתְעַלָּה",
-     "form": "הִתְעַלָּה",
+     "lemma": "תְּעָלָה",
+     "form": "תְּעָלָה",
      "vocalized": "הַתְּעָלָה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To outdo, to exceed",
-     "analysis": "VERB",
-     "caphi": "hitala",
-     "caphi_urban": "hitala",
+     "root": null,
+     "gloss": "a ditch, a moat, a canal",
+     "analysis": "NOUN",
+     "caphi": "tala",
+     "caphi_urban": "tala",
      "caphi_raw": null,
-     "maknuune_id": "7442-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7442-1",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB",
-       "pointed": "הִתְעַלָּה"
-      },
-      {
-       "id": "7442-28",
-       "root": "ע.ה",
-       "gloss": "To outdo, to exceed",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הִתְעַלֵּה"
-      },
-      {
-       "id": "2222-1",
-       "root": "",
-       "gloss": "as ה- + תְּעָלָה: a ditch, a moat, a canal",
-       "analysis": "NOUN",
-       "pointed": "תְּעָלָה"
-      },
-      {
-       "id": "2223-1",
-       "root": "",
-       "gloss": "as ה- + תַּעֲלֶה: Forms of עָלָה (alá).",
-       "analysis": "VERB",
-       "pointed": "תַּעֲלֶה"
-      }
-     ]
+     "maknuune_id": "2222-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רָטֹב",
@@ -66336,7 +65767,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיַּלְדָּה",
@@ -68249,7 +67680,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַסַּדָּן",
@@ -70892,7 +70323,7 @@
      "caphi_urban": "aléynu",
      "caphi_raw": null,
      "maknuune_id": "6343-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -71841,7 +71272,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תֵשֵׁב",

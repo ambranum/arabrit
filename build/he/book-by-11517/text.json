@@ -2088,7 +2088,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תַּלְמִיד",
@@ -3160,25 +3160,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     },
     {
      "surface": "אַךְ",
@@ -6658,7 +6641,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּיָדוֹ",
@@ -7187,25 +7170,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     }
    ],
    "audio": "audio/s29.mp3"
@@ -10025,7 +9991,7 @@
      "caphi_urban": "basar",
      "caphi_raw": null,
      "maknuune_id": "999-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַּעַל",
@@ -12200,7 +12166,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּדַעְתּוֹ",
@@ -13703,29 +13669,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זֶה",
@@ -14022,29 +13972,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וַיַּעַקְבֵנִי",
@@ -14490,29 +14424,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יֵאָמֵר",
@@ -17766,7 +17684,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שׁוֹאֵל",
@@ -18871,7 +18789,7 @@
      "caphi_urban": "axal",
      "caphi_raw": null,
      "maknuune_id": "973-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְלֹא",
@@ -19359,7 +19277,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חָסֵר",
@@ -19732,7 +19650,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סָח",
@@ -22702,7 +22620,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַרְגִּישׁ",
@@ -22891,7 +22809,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּגוּפוֹ",
@@ -23323,7 +23241,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּנִי",
@@ -23353,7 +23271,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וַדַּאי",
@@ -23383,51 +23301,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s98.mp3"
@@ -24993,18 +24867,18 @@
     },
     {
      "surface": "אֹשֶׁר",
-     "lemma": "אֹשֶׁר",
-     "form": "אֹשֶׁר",
+     "lemma": "אֲשֶׁר",
+     "form": "אֲשֶׁר",
      "vocalized": "אֹשֶׁר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "defective spelling of אושר",
-     "analysis": "NOUN",
-     "caphi": "ósher",
-     "caphi_urban": "ósher",
+     "gloss": "Introduces a subordinate clause.",
+     "analysis": "CONJ",
+     "caphi": "asher",
+     "caphi_urban": "asher",
      "caphi_raw": null,
-     "maknuune_id": "1527-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1525-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רִפְרְפָה",
@@ -25110,7 +24984,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לוּחַ",

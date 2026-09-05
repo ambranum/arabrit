@@ -318,23 +318,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ניקתה",
@@ -721,23 +705,7 @@
      "caphi_urban": "ken",
      "caphi_raw": null,
      "maknuune_id": "1460-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1460-1",
-       "root": "",
-       "gloss": "yes",
-       "analysis": "ADV",
-       "pointed": "כֵּן"
-      },
-      {
-       "id": "1461-1",
-       "root": "",
-       "gloss": "pedestal, stand",
-       "analysis": "NOUN",
-       "pointed": "כַּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קניתי",
@@ -1390,30 +1358,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3587-16",
-       "root": "י",
-       "gloss": "to sit, to be in a position with the torso upright and the l",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יָשְׁבָה"
-      },
-      {
-       "id": "3588-12",
-       "root": "",
-       "gloss": "to settle (an issue, a dispute, or someone's mind)",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יִשְּׁבָה"
-      },
-      {
-       "id": "7276-26",
-       "root": "ה",
-       "gloss": "to capture (took captive).",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יִשְׁבֶּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1988,44 +1933,7 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וזה",
@@ -2393,58 +2301,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3300,23 +3157,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ופתאום",
@@ -3507,51 +3348,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הכרטיס",
@@ -3759,51 +3556,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היא",
@@ -4057,51 +3810,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והמשפחה",
@@ -4322,25 +4031,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -4470,30 +4162,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3587-16",
-       "root": "י",
-       "gloss": "to sit, to be in a position with the torso upright and the l",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יָשְׁבָה"
-      },
-      {
-       "id": "3588-12",
-       "root": "",
-       "gloss": "to settle (an issue, a dispute, or someone's mind)",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יִשְּׁבָה"
-      },
-      {
-       "id": "7276-26",
-       "root": "ה",
-       "gloss": "to capture (took captive).",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יִשְׁבֶּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מולו",
@@ -4902,64 +4571,19 @@
     },
     {
      "surface": "ואל",
-     "lemma": "אֵל",
-     "form": "אֵל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "god (a deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed)",
-     "analysis": "NOUN",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "357-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "357-1",
-       "root": "",
-       "gloss": "god (a deity or supreme being; a supernatural, typically imm",
-       "analysis": "NOUN",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "361-1",
-       "root": "",
-       "gloss": "to, towards, into",
-       "analysis": "PREP",
-       "pointed": "אֶל"
-      },
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "885-3",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET:alternative",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "886-3",
-       "root": "",
-       "gloss": "A goddess.",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תשכחי",
@@ -5189,23 +4813,7 @@
      "caphi_urban": "naxon",
      "caphi_raw": null,
      "maknuune_id": "3501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3501-1",
-       "root": "",
-       "gloss": "Right, correct.",
-       "analysis": "ADJ",
-       "pointed": "נָכוֹן"
-      },
-      {
-       "id": "5145-29",
-       "root": "",
-       "gloss": "To direct (as traffic).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכַוֵּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואני",
@@ -5266,53 +4874,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אפילו",
@@ -5444,48 +5007,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -5715,25 +5248,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     }
    ],
    "audio": null
@@ -5940,62 +5456,18 @@
     },
     {
      "surface": "נעשה",
-     "lemma": "עָשָׂה",
-     "form": "עָשָׂה",
-     "vocalized": "נַעֲשָׂה",
+     "lemma": "נַעֲשֶׂה",
+     "form": "נַעֲשֶׂה",
+     "vocalized": "נַעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": "ע.ה",
-     "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:passive",
-     "caphi": "naasa",
-     "caphi_urban": "naasa",
+     "root": null,
+     "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (asá).",
+     "analysis": "VERB",
+     "caphi": "naase",
+     "caphi_urban": "naase",
      "caphi_raw": null,
-     "maknuune_id": "565-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-6",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:passive",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7424-1",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7425-1",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (a",
-       "analysis": "VERB",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-17",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "565-23",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-23",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "7425-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קטן",
@@ -6271,23 +5743,7 @@
      "caphi_urban": "eyze",
      "caphi_raw": null,
      "maknuune_id": "2659-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2659-1",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET",
-       "pointed": "אֵיזֶה"
-      },
-      {
-       "id": "9329-3",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET:masculine",
-       "pointed": "אֵיזֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בית",
@@ -6387,34 +5843,18 @@
     },
     {
      "surface": "חיים",
-     "lemma": "חַיִּים",
-     "form": "חַיִּים",
+     "lemma": "חַי",
+     "form": "חַי",
      "vocalized": "חַיִּים",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "life (period during which one is alive)",
-     "analysis": "NOUN",
+     "gloss": "alive",
+     "analysis": "ADJ:masculine.plural",
      "caphi": "xayim",
      "caphi_urban": "xayim",
      "caphi_raw": null,
-     "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ]
+     "maknuune_id": "880-4",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואי",
@@ -6686,64 +6126,19 @@
     },
     {
      "surface": "ואל",
-     "lemma": "אֵל",
-     "form": "אֵל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "god (a deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed)",
-     "analysis": "NOUN",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "357-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "357-1",
-       "root": "",
-       "gloss": "god (a deity or supreme being; a supernatural, typically imm",
-       "analysis": "NOUN",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "361-1",
-       "root": "",
-       "gloss": "to, towards, into",
-       "analysis": "PREP",
-       "pointed": "אֶל"
-      },
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "885-3",
-       "root": "",
-       "gloss": "masculine/feminine plural of זה (ze)",
-       "analysis": "DET:alternative",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "886-3",
-       "root": "",
-       "gloss": "A goddess.",
-       "analysis": "NOUN:masculine",
-       "pointed": "אֵל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תעשה",

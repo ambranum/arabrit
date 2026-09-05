@@ -44,37 +44,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -228,53 +198,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בטח",
@@ -289,51 +214,7 @@
      "caphi_urban": "bétax",
      "caphi_raw": null,
      "maknuune_id": "8966-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8966-1",
-       "root": "",
-       "gloss": "for sure, definitely",
-       "analysis": "ADV",
-       "pointed": "בֶּטַח"
-      },
-      {
-       "id": "8967-1",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB",
-       "pointed": "בָּטַח"
-      },
-      {
-       "id": "8968-1",
-       "root": "",
-       "gloss": "defective spelling of בִּיטֵּחַ.",
-       "analysis": "VERB",
-       "pointed": "בִּטֵּחַ"
-      },
-      {
-       "id": "8969-1",
-       "root": "",
-       "gloss": "defective spelling of בּוּטַּח.",
-       "analysis": "VERB",
-       "pointed": "בֻּטַּח"
-      },
-      {
-       "id": "8967-29",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּטַח"
-      },
-      {
-       "id": "16800-1",
-       "root": "",
-       "gloss": "as ב- + טָח: to daub",
-       "analysis": "VERB",
-       "pointed": "טָח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שמעת",
@@ -852,51 +733,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רב",
@@ -1521,32 +1358,8 @@
      "caphi_urban": "xazara",
      "caphi_raw": null,
      "maknuune_id": "2142-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2142-1",
-       "root": "",
-       "gloss": "A return, returning, going back.",
-       "analysis": "NOUN",
-       "pointed": "חֲזָרָה"
-      },
-      {
-       "id": "4374-13",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חָזְרָה"
-      },
-      {
-       "id": "7942-21",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חִזְּרָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     }
    ],
    "audio": null
@@ -1569,37 +1382,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -2002,39 +1785,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -2186,39 +1938,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -2347,53 +2068,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "יכול",
@@ -2674,37 +2350,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -2795,37 +2441,7 @@
      "caphi_urban": "xével",
      "caphi_raw": null,
      "maknuune_id": "2631-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2631-1",
-       "root": "",
-       "gloss": "rope",
-       "analysis": "NOUN",
-       "pointed": "חֶבֶל"
-      },
-      {
-       "id": "2632-1",
-       "root": "",
-       "gloss": "pity, woe",
-       "analysis": "NOUN",
-       "pointed": "חֲבָל"
-      },
-      {
-       "id": "2633-1",
-       "root": "",
-       "gloss": "defective spelling of חיבל (khibél)",
-       "analysis": "VERB",
-       "pointed": "חִבֵּל"
-      },
-      {
-       "id": "8183-38",
-       "root": "",
-       "gloss": "to sabotage, damage",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַבֵּל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זאת",
@@ -2923,37 +2539,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -3060,23 +2646,7 @@
      "caphi_urban": "tsair",
      "caphi_raw": null,
      "maknuune_id": "3000-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3000-1",
-       "root": "",
-       "gloss": "Young (in the early part of life or growth).",
-       "analysis": "ADJ",
-       "pointed": "צָעִיר"
-      },
-      {
-       "id": "5452-6",
-       "root": "",
-       "gloss": "A young woman, a female youth.",
-       "analysis": "NOUN:masculine",
-       "pointed": "צָעִיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והולמס",
@@ -3199,39 +2769,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -3284,37 +2823,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -3364,34 +2873,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "להתחתן",
@@ -3466,51 +2959,7 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      },
-      {
-       "id": "14907-1",
-       "root": "",
-       "gloss": "as מ- + ־לָךְ: plural of ־לה",
-       "analysis": "SUFFIX",
-       "pointed": "־לָךְ"
-      },
-      {
-       "id": "4695-1",
-       "root": "",
-       "gloss": "as מ- + לך: Form of ל־ (l'-) including second-person mas",
-       "analysis": "PREP",
-       "pointed": "לך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שוודיה",
@@ -4045,39 +3494,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -4351,25 +3769,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -4505,39 +3906,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -5067,39 +4437,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "אמר",
@@ -5364,37 +4703,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שם",
@@ -5502,75 +4811,22 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לירות",
-     "lemma": "יָרָה",
-     "form": "יָרָה",
+     "lemma": "לִירָה",
+     "form": "לִירָה",
      "vocalized": "לִירוֹת",
      "vocalized_from": "lexicon",
-     "root": "י.ה",
-     "gloss": "To flow as water (that is, to rain).",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "lira (current currency of Turkey and former currency of many countries, including Israel)",
+     "analysis": "NOUN:indefinite.plural",
      "caphi": "lirot",
      "caphi_urban": "lirot",
      "caphi_raw": null,
-     "maknuune_id": "2800-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2800-3",
-       "root": "י.ה",
-       "gloss": "To flow as water (that is, to rain).",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִירוֹת"
-      },
-      {
-       "id": "10260-3",
-       "root": "",
-       "gloss": "lira (current currency of Turkey and former currency of many",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לִירוֹת"
-      }
-     ]
+     "maknuune_id": "10260-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואחרי",
@@ -5945,25 +5201,8 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1331-1",
-       "root": "",
-       "gloss": "hour (a unit of time of one twenty-fourth of a day (sixty mi",
-       "analysis": "NOUN",
-       "pointed": "שָׁעָה"
-      },
-      {
-       "id": "1332-27",
-       "root": "",
-       "gloss": "To look, gaze at or about.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁעֵה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלוש",
@@ -5997,34 +5236,18 @@
     },
     {
      "surface": "בוא",
-     "lemma": "בּוֹא",
-     "form": "בּוֹא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "בּוֹא",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "infinitive absolute of בָּא (bá)",
-     "analysis": "VERB",
+     "root": "ו.א",
+     "gloss": "To come.",
+     "analysis": "VERB:imperative.masculine.singular",
      "caphi": "bo",
      "caphi_urban": "bo",
      "caphi_raw": null,
-     "maknuune_id": "794-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "794-1",
-       "root": "",
-       "gloss": "infinitive absolute of בָּא (bá)",
-       "analysis": "VERB",
-       "pointed": "בּוֹא"
-      },
-      {
-       "id": "3145-31",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בּוֹא"
-      }
-     ]
+     "maknuune_id": "3145-31",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אני",
@@ -6084,23 +5307,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "7348-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7348-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "איתך"
-      },
-      {
-       "id": "96-12",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.possessed-form.second-person.singular",
-       "pointed": "איתך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -6292,23 +5499,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מרוצה",

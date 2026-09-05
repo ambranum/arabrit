@@ -135,51 +135,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שני",
@@ -239,23 +195,7 @@
      "caphi_urban": "éven",
      "caphi_raw": null,
      "maknuune_id": "957-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "957-1",
-       "root": "",
-       "gloss": "stone (a piece of such material: a block of stone, rock or a",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶן"
-      },
-      {
-       "id": "958-1",
-       "root": "",
-       "gloss": "ibn",
-       "analysis": "NOUN",
-       "pointed": "אִבְּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וחול",
@@ -424,44 +364,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3037-1",
-       "root": "",
-       "gloss": "above, over, higher than",
-       "analysis": "PREP",
-       "pointed": "מֵעַל"
-      },
-      {
-       "id": "3038-1",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB",
-       "pointed": "מָעַל"
-      },
-      {
-       "id": "3038-29",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְעַל"
-      },
-      {
-       "id": "547-1",
-       "root": "",
-       "gloss": "as מ- + עַל: on, on top of",
-       "analysis": "PREP",
-       "pointed": "עַל"
-      },
-      {
-       "id": "2478-2",
-       "root": "",
-       "gloss": "as מ- + עול: yoke",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "עֹל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "המים",
@@ -1066,25 +969,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הלך",
@@ -1738,25 +1624,8 @@
      "caphi_urban": "sfina",
      "caphi_raw": null,
      "maknuune_id": "9236-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "9236-1",
-       "root": "",
-       "gloss": "ship, boat",
-       "analysis": "NOUN",
-       "pointed": "סְפִינָה"
-      },
-      {
-       "id": "15618-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סְפִינָה"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "התחילה",
@@ -1771,23 +1640,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2059-12",
-       "root": "",
-       "gloss": "to start, to begin",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "הִתְחִילָה"
-      },
-      {
-       "id": "9912-9",
-       "root": "",
-       "gloss": "beginning",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "התחילה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לזוז",
@@ -2193,48 +2046,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -2668,32 +2491,8 @@
      "caphi_urban": "xazara",
      "caphi_raw": null,
      "maknuune_id": "2142-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2142-1",
-       "root": "",
-       "gloss": "A return, returning, going back.",
-       "analysis": "NOUN",
-       "pointed": "חֲזָרָה"
-      },
-      {
-       "id": "4374-13",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חָזְרָה"
-      },
-      {
-       "id": "7942-21",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חִזְּרָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "בהודו",
@@ -2803,25 +2602,8 @@
      "caphi_urban": "sfina",
      "caphi_raw": null,
      "maknuune_id": "9236-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "9236-1",
-       "root": "",
-       "gloss": "ship, boat",
-       "analysis": "NOUN",
-       "pointed": "סְפִינָה"
-      },
-      {
-       "id": "15618-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סְפִינָה"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "הגיעה",
@@ -2936,25 +2718,8 @@
      "caphi_urban": "xipes",
      "caphi_raw": null,
      "maknuune_id": "3442-20",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "3442-20",
-       "root": "",
-       "gloss": "to look for, search for, seek",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "חִיפֵּשׂ"
-      },
-      {
-       "id": "1469-3",
-       "root": "",
-       "gloss": "To be looked for, sought.",
-       "analysis": "VERB:active",
-       "pointed": "חיפש"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",

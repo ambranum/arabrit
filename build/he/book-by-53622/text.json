@@ -415,7 +415,7 @@
      "caphi_urban": "alu",
      "caphi_raw": null,
      "maknuune_id": "740-13",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָהָר",
@@ -749,7 +749,7 @@
      "caphi_urban": "barxu",
      "caphi_raw": null,
      "maknuune_id": "9625-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְעָלוּ",
@@ -1700,23 +1700,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לוֹ",
@@ -1863,23 +1847,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לוֹ",
@@ -1985,7 +1953,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יִגְדַּל",
@@ -2159,36 +2127,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַזֶּה",
@@ -2544,36 +2495,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְכָל",
@@ -2769,36 +2703,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַיָּפֶה",
@@ -3859,36 +3776,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַזֶּה",
@@ -4065,36 +3965,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַזֶּה",
@@ -4212,36 +4095,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עֵינָיו",
@@ -4291,34 +4157,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְאָמָר",
@@ -4926,36 +4776,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בָּעֵשֶׂב",
@@ -4986,7 +4819,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֶּחָצֵר",
@@ -5298,34 +5131,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְקוֹלוֹ",
@@ -5540,36 +5357,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֵינָם",
@@ -5876,36 +5676,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְאָמַר",
@@ -6186,34 +5969,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -6290,7 +6057,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רַבִּי",
@@ -6423,36 +6190,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְאָמַר",
@@ -6559,7 +6309,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אוֹמֵר",
@@ -6617,36 +6367,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -7048,7 +6781,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְחֶבֶל",
@@ -7253,7 +6986,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חָסֵר",
@@ -7306,7 +7039,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רוֹצֶה",
@@ -7393,34 +7126,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רַבִּי",
@@ -7930,7 +7647,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קַרְנֵיהֶן",
@@ -8127,7 +7844,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָיְתָה",
@@ -8587,36 +8304,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אַךְ",
@@ -8802,34 +8502,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -9007,36 +8691,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַזֶּה",
@@ -9715,36 +9382,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לְדִיר",
@@ -10110,36 +9760,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַקָּטָן",
@@ -10189,36 +9822,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -10635,34 +10251,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָבַש",
@@ -10817,36 +10417,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -10899,7 +10482,7 @@
      "caphi_urban": "xével",
      "caphi_raw": null,
      "maknuune_id": "2631-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֵין",
@@ -11477,7 +11060,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֶּחָצֵר",
@@ -11636,36 +11219,19 @@
    "words": [
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -11880,34 +11446,18 @@
     },
     {
      "surface": "הָהָר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יַחַד",
@@ -12196,18 +11746,18 @@
     },
     {
      "surface": "וְאֶל",
-     "lemma": "אֶל",
-     "form": "אֶל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": "וְאֶל",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to, towards, into",
-     "analysis": "PREP",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "361-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -12328,7 +11878,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַעְלָה",
@@ -12439,36 +11989,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -12748,36 +12281,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶל",
@@ -13101,36 +12617,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "צְחוֹק",
@@ -13323,36 +12822,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מַה",
@@ -13654,7 +13136,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיּוֹם",
@@ -13696,36 +13178,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַקָּטָן",
@@ -13756,7 +13221,7 @@
      "caphi_urban": "amad",
      "caphi_raw": null,
      "maknuune_id": "2979-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -14226,36 +13691,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶת",
@@ -14580,36 +14028,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶת",
@@ -14707,7 +14138,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זִכְרוֹ",
@@ -14993,36 +14424,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הָאוֹבֵד",
@@ -15233,36 +14647,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לָשׁוּב",
@@ -15749,36 +15146,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מֵאַחֲרָיו",
@@ -16407,36 +15787,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַקָּטָן",
@@ -16602,36 +15965,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מִשִּׁנָּיו",
@@ -16699,18 +16045,18 @@
     },
     {
      "surface": "מִהֵר",
-     "lemma": "מִהֵר",
-     "form": "מִהֵר",
+     "lemma": "מַהֵר",
+     "form": "מַהֵר",
      "vocalized": "מִהֵר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "defective spelling of מיהר",
-     "analysis": "VERB",
-     "caphi": "miher",
-     "caphi_urban": "miher",
+     "gloss": "quickly, rapidly, fast",
+     "analysis": "ADV",
+     "caphi": "maher",
+     "caphi_urban": "maher",
      "caphi_raw": null,
-     "maknuune_id": "433-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "432-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִטְרֺף",
@@ -16846,40 +16192,23 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַקָּטָן",
@@ -17098,36 +16427,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "כִּי",
@@ -17239,36 +16551,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לָבֺא",
@@ -17414,7 +16709,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -17683,36 +16978,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "כִּי",
@@ -18194,36 +17472,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְהַקַּרְנַיִם",
@@ -18322,36 +17583,19 @@
    "words": [
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -18761,7 +18005,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כָּל",
@@ -18895,36 +18139,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עֵינָיו",
@@ -19244,7 +18471,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַבֺּקֶר",
@@ -19420,36 +18647,19 @@
    "words": [
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַלָּבָן",
@@ -19745,7 +18955,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֵאַחַד",
@@ -19895,36 +19105,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הָאֻמְלָל",
@@ -19972,7 +19165,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צִפָּה",
@@ -20147,7 +19340,7 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -20410,36 +19603,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הַקָטָן",

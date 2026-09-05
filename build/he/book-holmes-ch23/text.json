@@ -390,23 +390,7 @@
      "caphi_urban": "ktanim",
      "caphi_raw": null,
      "maknuune_id": "572-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "572-4",
-       "root": "",
-       "gloss": "Little, small, diminutive.",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "קְטַנִּים"
-      },
-      {
-       "id": "7916-25",
-       "root": "נ",
-       "gloss": "to be or become small",
-       "analysis": "VERB:masculine.plural.present",
-       "pointed": "קְטֵנִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שנמצא",
@@ -834,23 +818,7 @@
      "caphi_urban": "nyar",
      "caphi_raw": null,
      "maknuune_id": "2961-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-5",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "נְיָיר"
-      },
-      {
-       "id": "11333-1",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ",
-       "pointed": "נִייר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואז",
@@ -1346,30 +1314,7 @@
      "caphi_urban": "misxak",
      "caphi_raw": null,
      "maknuune_id": "1822-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1822-1",
-       "root": "",
-       "gloss": "a game",
-       "analysis": "NOUN",
-       "pointed": "מִשְׂחָק"
-      },
-      {
-       "id": "11203-24",
-       "root": "",
-       "gloss": "to play",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְשַׂחֵק"
-      },
-      {
-       "id": "12277-1",
-       "root": "",
-       "gloss": "as מ- + שָׂחַק: to laugh",
-       "analysis": "VERB",
-       "pointed": "שָׂחַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וכל",
@@ -1400,30 +1345,7 @@
      "caphi_urban": "misxak",
      "caphi_raw": null,
      "maknuune_id": "1822-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1822-1",
-       "root": "",
-       "gloss": "a game",
-       "analysis": "NOUN",
-       "pointed": "מִשְׂחָק"
-      },
-      {
-       "id": "11203-24",
-       "root": "",
-       "gloss": "to play",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "מְשַׂחֵק"
-      },
-      {
-       "id": "12277-1",
-       "root": "",
-       "gloss": "as מ- + שָׂחַק: to laugh",
-       "analysis": "VERB",
-       "pointed": "שָׂחַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נשבר",
@@ -1794,23 +1716,7 @@
      "caphi_urban": "ken",
      "caphi_raw": null,
      "maknuune_id": "1460-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1460-1",
-       "root": "",
-       "gloss": "yes",
-       "analysis": "ADV",
-       "pointed": "כֵּן"
-      },
-      {
-       "id": "1461-1",
-       "root": "",
-       "gloss": "pedestal, stand",
-       "analysis": "NOUN",
-       "pointed": "כַּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואני",
@@ -2464,43 +2370,19 @@
    "words": [
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "השם",
@@ -2911,30 +2793,7 @@
      "caphi_urban": "kara",
      "caphi_raw": null,
      "maknuune_id": "169-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "169-1",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "10647-3",
-       "root": "א",
-       "gloss": "to be read",
-       "analysis": "VERB:active",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "169-32",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְרָא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",

@@ -275,51 +275,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יודע",
@@ -1145,23 +1101,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לקחו",
@@ -1355,25 +1295,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "ירדו",
@@ -1760,23 +1683,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חפרו",
@@ -2011,25 +1918,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "פתחו",
@@ -2294,44 +2184,7 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "דולר",
@@ -2446,25 +2299,8 @@
      "caphi_urban": "xayim",
      "caphi_raw": null,
      "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלו",
@@ -2502,23 +2338,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוציאו",
@@ -2831,44 +2651,7 @@
      "caphi_urban": "tafas",
      "caphi_raw": null,
      "maknuune_id": "6875-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6875-1",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6876-1",
-       "root": "",
-       "gloss": "clasp, clip",
-       "analysis": "NOUN",
-       "pointed": "תֶּפֶס"
-      },
-      {
-       "id": "13328-3",
-       "root": "ת.פ",
-       "gloss": "To be caught.",
-       "analysis": "VERB:active",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "13884-43",
-       "root": "",
-       "gloss": "to seize",
-       "analysis": "VERB:alternative",
-       "pointed": "תָּפַס"
-      },
-      {
-       "id": "6875-39",
-       "root": "",
-       "gloss": "to catch (something)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "תְּפֹס"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותם",
@@ -3583,25 +3366,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "של",
@@ -3936,37 +3702,7 @@
      "caphi_urban": "ashir",
      "caphi_raw": null,
      "maknuune_id": "7876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7876-1",
-       "root": "",
-       "gloss": "rich, wealthy, well off: having a lot of money and possessio",
-       "analysis": "ADJ",
-       "pointed": "עָשִׁיר"
-      },
-      {
-       "id": "1357-1",
-       "root": "",
-       "gloss": "as עֶשֶׂר spelled full: feminine of עֲשָׂרָה (asará, “ten”)",
-       "analysis": "NUM",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "1359-4",
-       "root": "",
-       "gloss": "as עֲשָׂרָה spelled full: ten",
-       "analysis": "NUM:feminine",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "9086-1",
-       "root": "",
-       "gloss": "as עֹשֶׁר spelled full: richness, wealth",
-       "analysis": "NOUN",
-       "pointed": "עֹשֶׁיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -4051,39 +3787,8 @@
      "caphi_urban": "xazar",
      "caphi_raw": null,
      "maknuune_id": "4374-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4374-1",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB",
-       "pointed": "חָזַר"
-      },
-      {
-       "id": "7942-1",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB",
-       "pointed": "חִזֵּר"
-      },
-      {
-       "id": "4374-37",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲזֹר"
-      },
-      {
-       "id": "7942-38",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַזֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עם",
@@ -5384,51 +5089,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לא",
@@ -5580,37 +5241,7 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10439-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP:feminine",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לכנופיה",
@@ -5796,51 +5427,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הרבה",
@@ -6000,25 +5587,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",

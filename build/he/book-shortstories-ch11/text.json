@@ -387,53 +387,8 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "שאין",
@@ -1687,51 +1642,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "התעטשתי",
@@ -1951,23 +1862,7 @@
      "caphi_urban": "kadíma",
      "caphi_raw": null,
      "maknuune_id": "7707-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7707-1",
-       "root": "",
-       "gloss": "eastward",
-       "analysis": "ADV",
-       "pointed": "קָדִימָה"
-      },
-      {
-       "id": "928-5",
-       "root": "",
-       "gloss": "to precede, to come before",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "קְדִימָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואמר",
@@ -2660,51 +2555,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוא",
@@ -2844,34 +2695,18 @@
     },
     {
      "surface": "סימן",
-     "lemma": "סִימָן",
-     "form": "סִימָן",
-     "vocalized": "סִימָן",
+     "lemma": "סִמֵּן",
+     "form": "סִמֵּן",
+     "vocalized": "סִימֵּן",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "mark (sign for reference or measurement)",
-     "analysis": "NOUN",
-     "caphi": "siman",
-     "caphi_urban": "siman",
+     "gloss": "to mark, indicate",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "simen",
+     "caphi_urban": "simen",
      "caphi_raw": null,
-     "maknuune_id": "3871-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3871-1",
-       "root": "",
-       "gloss": "mark (sign for reference or measurement)",
-       "analysis": "NOUN",
-       "pointed": "סִימָן"
-      },
-      {
-       "id": "3872-18",
-       "root": "",
-       "gloss": "to mark, indicate",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "סִימֵּן"
-      }
-     ]
+     "maknuune_id": "3872-18",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שהוא",
@@ -3112,25 +2947,8 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "2600-1",
-       "root": "",
-       "gloss": "this",
-       "analysis": "DET",
-       "pointed": "זֶה"
-      },
-      {
-       "id": "2814-3",
-       "root": "",
-       "gloss": "This, this one.",
-       "analysis": "PRON:masculine",
-       "pointed": "זה"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "היה",
@@ -3243,53 +3061,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מדבר",
@@ -3365,51 +3138,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שהוא",
@@ -3627,25 +3356,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "והיא",
@@ -3752,53 +3464,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תסביר",
@@ -4338,48 +4005,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -4796,51 +4433,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוא",
@@ -5200,25 +4793,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלו",
@@ -5301,23 +4877,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "13079-1",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB",
-       "pointed": "צָעַק"
-      },
-      {
-       "id": "13079-29",
-       "root": "",
-       "gloss": "to shout, to yell",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְעַק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אתה",
@@ -5332,51 +4892,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צוחק",
@@ -6069,23 +5585,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קראה",
@@ -6377,30 +5877,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וזה",

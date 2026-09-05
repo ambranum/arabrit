@@ -100,6 +100,7 @@ FUNCTION = {
 # lexicon" is the first word a reader taps and the worst one to have nothing for.
 PROPER = {
     'גמפל':     ('גִּמְפֶּל', 'Gimpel (a name)', 'NOUN_PROP', 2),
+    'מינה':     ('מִינָה', 'Mina (a name)', 'NOUN_PROP'),
     'עמינדב':   ('עַמִּינָדָב', 'Amminadav (a name)', 'NOUN_PROP'),
     'ירחמיאל':  ('יְרַחְמִיאֵל', 'Yerachmiel (a name)', 'NOUN_PROP'),
     'גרשון':    ('גֵרְשׁוֹן', 'Gershon (a name)', 'NOUN_PROP'),

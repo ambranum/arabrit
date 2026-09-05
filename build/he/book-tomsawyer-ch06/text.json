@@ -399,51 +399,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לעשות",
@@ -1007,30 +963,7 @@
      "caphi_urban": "kolot",
      "caphi_raw": null,
      "maknuune_id": "4127-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4127-1",
-       "root": "",
-       "gloss": "plural indefinite form of קוֹל (kol)",
-       "analysis": "NOUN",
-       "pointed": "קוֹלוֹת"
-      },
-      {
-       "id": "3563-3",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "קוֹלוֹת"
-      },
-      {
-       "id": "2937-19",
-       "root": "ה",
-       "gloss": "to toast",
-       "analysis": "VERB:feminine.plural.present",
-       "pointed": "קוֹלוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -1165,41 +1098,18 @@
     },
     {
      "surface": "הרגל",
-     "lemma": "הֶרְגֵּל",
-     "form": "הֶרְגֵּל",
-     "vocalized": "הֶרְגֵּל",
+     "lemma": "רֶגֶל",
+     "form": "רֶגֶל",
+     "vocalized": "הָרֶגֶל",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "habit",
-     "analysis": "NOUN",
-     "caphi": "hergel",
-     "caphi_urban": "hergel",
+     "gloss": "foot, leg",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "haregel",
+     "caphi_urban": "haregel",
      "caphi_raw": null,
-     "maknuune_id": "12999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12999-1",
-       "root": "",
-       "gloss": "habit",
-       "analysis": "NOUN",
-       "pointed": "הֶרְגֵּל"
-      },
-      {
-       "id": "312-9",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶל"
-      },
-      {
-       "id": "313-1",
-       "root": "",
-       "gloss": "as ה- + רִגֵּל: defective spelling of ריגל",
-       "analysis": "VERB",
-       "pointed": "רִגֵּל"
-      }
-     ]
+     "maknuune_id": "312-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כואבת",
@@ -1324,48 +1234,18 @@
    "words": [
     {
      "surface": "דודה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "דּוֹדָה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "1642-16",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "דּוֹדָהּ"
-      },
-      {
-       "id": "1644-15",
-       "root": "",
-       "gloss": "a cauldron",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "דּוּדָהּ"
-      }
-     ]
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פולי",
@@ -2504,34 +2384,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ולא",
@@ -3181,46 +3045,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שנאו",
@@ -3460,46 +3286,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "קינאו",
@@ -4001,30 +3789,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -4138,30 +3903,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -4884,51 +4626,7 @@
      "caphi_urban": "bétax",
      "caphi_raw": null,
      "maknuune_id": "8966-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8966-1",
-       "root": "",
-       "gloss": "for sure, definitely",
-       "analysis": "ADV",
-       "pointed": "בֶּטַח"
-      },
-      {
-       "id": "8967-1",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB",
-       "pointed": "בָּטַח"
-      },
-      {
-       "id": "8968-1",
-       "root": "",
-       "gloss": "defective spelling of בִּיטֵּחַ.",
-       "analysis": "VERB",
-       "pointed": "בִּטֵּחַ"
-      },
-      {
-       "id": "8969-1",
-       "root": "",
-       "gloss": "defective spelling of בּוּטַּח.",
-       "analysis": "VERB",
-       "pointed": "בֻּטַּח"
-      },
-      {
-       "id": "8967-29",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּטַח"
-      },
-      {
-       "id": "16800-1",
-       "root": "",
-       "gloss": "as ב- + טָח: to daub",
-       "analysis": "VERB",
-       "pointed": "טָח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והלילה",
@@ -5006,51 +4704,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בא",
@@ -5156,25 +4810,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "קבעו",

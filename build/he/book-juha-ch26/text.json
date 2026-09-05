@@ -316,48 +316,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -554,23 +524,7 @@
      "caphi_urban": "eyze",
      "caphi_raw": null,
      "maknuune_id": "2659-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2659-1",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET",
-       "pointed": "אֵיזֶה"
-      },
-      {
-       "id": "9329-3",
-       "root": "",
-       "gloss": "What, which; used in forming questions.",
-       "analysis": "DET:masculine",
-       "pointed": "אֵיזֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איש",
@@ -638,30 +592,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -852,51 +783,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אולי",
@@ -1321,30 +1208,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",

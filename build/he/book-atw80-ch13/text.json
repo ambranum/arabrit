@@ -44,23 +44,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "התקרבו",
@@ -359,25 +343,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     },
     {
      "surface": "כבר",
@@ -1071,23 +1038,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זה",
@@ -1125,23 +1076,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ניסו",
@@ -1348,23 +1283,7 @@
      "caphi_urban": "éven",
      "caphi_raw": null,
      "maknuune_id": "957-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "957-1",
-       "root": "",
-       "gloss": "stone (a piece of such material: a block of stone, rock or a",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶן"
-      },
-      {
-       "id": "958-1",
-       "root": "",
-       "gloss": "ibn",
-       "analysis": "NOUN",
-       "pointed": "אִבְּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1387,23 +1306,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חיכו",
@@ -1793,25 +1696,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     },
     {
      "surface": "נגמר",
@@ -1849,23 +1735,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוציאו",
@@ -2087,39 +1957,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יו",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יו"
     },
     {
      "surface": "וכולם",
@@ -2329,44 +2168,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      },
-      {
-       "id": "742-1",
-       "root": "",
-       "gloss": "A leaf.",
-       "analysis": "NOUN",
-       "pointed": "עָלֶה"
-      },
-      {
-       "id": "740-28",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲלֵה"
-      },
-      {
-       "id": "2478-18",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "עֻלָּהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "למעלה",
@@ -2396,51 +2198,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העצים",
@@ -2701,23 +2459,7 @@
      "caphi_urban": null,
      "caphi_raw": null,
      "maknuune_id": "4-23",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4-23",
-       "root": "",
-       "gloss": "arm",
-       "analysis": "NOUN:definite.dual",
-       "pointed": "הידיים"
-      },
-      {
-       "id": "12838-16",
-       "root": "",
-       "gloss": "as הֵד spelled full: echo",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הֵידִיים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2837,32 +2579,16 @@
      "surface": "ברחו",
      "lemma": "בָּרַח",
      "form": "בָּרַח",
-     "vocalized": "בִּרְחוּ",
+     "vocalized": "בָּרְחוּ",
      "vocalized_from": "lexicon",
      "root": "ח",
      "gloss": "to run away",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "birxu",
-     "caphi_urban": "birxu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "barxu",
+     "caphi_urban": "barxu",
      "caphi_raw": null,
-     "maknuune_id": "9625-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9625-31",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "בִּרְחוּ"
-      },
-      {
-       "id": "9625-14",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "בָּרְחוּ"
-      }
-     ]
+     "maknuune_id": "9625-14",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בין",
@@ -2877,51 +2603,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העצים",
@@ -2964,48 +2646,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -3632,23 +3284,7 @@
      "caphi_urban": "kadíma",
      "caphi_raw": null,
      "maknuune_id": "7707-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7707-1",
-       "root": "",
-       "gloss": "eastward",
-       "analysis": "ADV",
-       "pointed": "קָדִימָה"
-      },
-      {
-       "id": "928-5",
-       "root": "",
-       "gloss": "to precede, to come before",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "קְדִימָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אנחנו",

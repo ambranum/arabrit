@@ -1088,7 +1088,7 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ל-"
     },
     {
@@ -1638,7 +1638,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָכַלְנוּ",
@@ -2535,12 +2535,12 @@
      "vocalized_from": "source:pointed",
      "root": "ע.ה",
      "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "ase",
-     "caphi_urban": "ase",
+     "analysis": "VERB",
+     "caphi": "asa",
+     "caphi_urban": "asa",
      "caphi_raw": null,
-     "maknuune_id": "565-32",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "565-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בַּקָּשָׁתֵנוּ",
@@ -4308,12 +4308,12 @@
      "vocalized_from": "source:pointed",
      "root": "ע",
      "gloss": "to hear, to be able to hear",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "shimu",
-     "caphi_urban": "shimu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "shamu",
+     "caphi_urban": "shamu",
      "caphi_raw": null,
-     "maknuune_id": "665-33",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "665-16",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לַעֲצָתִי",
@@ -5321,12 +5321,12 @@
      "vocalized_from": "source:pointed",
      "root": "ע.ה",
      "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "ase",
-     "caphi_urban": "ase",
+     "analysis": "VERB",
+     "caphi": "asa",
+     "caphi_urban": "asa",
      "caphi_raw": null,
-     "maknuune_id": "565-32",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "565-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נָא",
@@ -5434,7 +5434,7 @@
      "caphi_urban": "xazara",
      "caphi_raw": null,
      "maknuune_id": "2142-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -6327,25 +6327,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תְּגַלֶּנּוּ",
@@ -6752,7 +6735,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -8724,7 +8707,7 @@
      "caphi_urban": "or",
      "caphi_raw": null,
      "maknuune_id": "497-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַבֹּקֶר",
@@ -9411,7 +9394,7 @@
      "caphi_urban": "axal",
      "caphi_raw": null,
      "maknuune_id": "973-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פַּת",
@@ -10017,7 +10000,7 @@
      "caphi_urban": "sade",
      "caphi_raw": null,
      "maknuune_id": "980-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -10325,7 +10308,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָאָח",
@@ -10484,7 +10467,7 @@
      "caphi_urban": "sade",
      "caphi_raw": null,
      "maknuune_id": "980-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -10745,7 +10728,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סוּסוֹ",
@@ -11460,7 +11443,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     },
     {
@@ -11554,7 +11537,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָסוּס",
@@ -12219,7 +12202,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     }
    ],
@@ -12604,7 +12587,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     },
     {
@@ -12669,7 +12652,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     },
     {
@@ -13088,7 +13071,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -13118,7 +13101,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     },
     {
@@ -13656,23 +13639,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שָׂדוֹת",
@@ -14230,23 +14197,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עוֹד",
@@ -14819,7 +14770,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -15520,7 +15471,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עַל",
@@ -15828,7 +15779,7 @@
      "caphi_urban": "nafla",
      "caphi_raw": null,
      "maknuune_id": "2407-18",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קְטָטָה",
@@ -15912,23 +15863,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -16107,7 +16042,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בּוֹכָה",
@@ -16420,7 +16355,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -16756,7 +16691,7 @@
      "caphi_urban": "alu",
      "caphi_raw": null,
      "maknuune_id": "740-13",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִירוּשָׁלַיִם",
@@ -18841,25 +18776,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תִּתְיָרֵא",
@@ -19142,7 +19060,7 @@
      "caphi_urban": "asita",
      "caphi_raw": null,
      "maknuune_id": "565-11",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כִּי",
@@ -19431,12 +19349,12 @@
      "vocalized_from": "source:pointed",
      "root": "ה",
      "gloss": "To see, to have vision; figuratively, to perceive.",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "re",
-     "caphi_urban": "re",
+     "analysis": "VERB",
+     "caphi": "raa",
+     "caphi_urban": "raa",
      "caphi_raw": null,
-     "maknuune_id": "560-30",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "560-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -19513,25 +19431,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תַּרְעִימֶנָּה",
@@ -19561,25 +19462,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תָּרִים",

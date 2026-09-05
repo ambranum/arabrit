@@ -879,37 +879,7 @@
      "caphi_urban": "ltox",
      "caphi_raw": null,
      "maknuune_id": "11398-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11398-1",
-       "root": "",
-       "gloss": "into, inside",
-       "analysis": "PREP",
-       "pointed": "לְתוֹךְ"
-      },
-      {
-       "id": "14733-3",
-       "root": "",
-       "gloss": "to mediate",
-       "analysis": "VERB:infinitive",
-       "pointed": "לְתַוֵּךְ"
-      },
-      {
-       "id": "875-1",
-       "root": "",
-       "gloss": "as ל- + תָּוֶךְ: the midst",
-       "analysis": "NOUN",
-       "pointed": "תָּוֶךְ"
-      },
-      {
-       "id": "10632-1",
-       "root": "",
-       "gloss": "as ל- + תּוֹךְ: inside",
-       "analysis": "NOUN",
-       "pointed": "תּוֹךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העדר",
@@ -1342,23 +1312,7 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4652-1",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB",
-       "pointed": "שָׁכַב"
-      },
-      {
-       "id": "4652-30",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁכַב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בפנים",
@@ -1460,51 +1414,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עכשיו",
@@ -1534,25 +1444,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלי",
@@ -1816,44 +1709,7 @@
      "caphi_urban": "basar",
      "caphi_raw": null,
      "maknuune_id": "999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "999-1",
-       "root": "",
-       "gloss": "flesh, meat",
-       "analysis": "NOUN",
-       "pointed": "בָּשָׂר"
-      },
-      {
-       "id": "1000-1",
-       "root": "",
-       "gloss": "defective spelling of בישר",
-       "analysis": "VERB",
-       "pointed": "בִּשֵּׂר"
-      },
-      {
-       "id": "9523-28",
-       "root": "",
-       "gloss": "to bring good news",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּשֵּׂר"
-      },
-      {
-       "id": "4134-1",
-       "root": "י",
-       "gloss": "as ב- + שָׁר: to sing",
-       "analysis": "VERB",
-       "pointed": "שָׁר"
-      },
-      {
-       "id": "4135-1",
-       "root": "",
-       "gloss": "as ב- + שַׂר: captain, commander",
-       "analysis": "NOUN",
-       "pointed": "שַׂר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לארוחה",

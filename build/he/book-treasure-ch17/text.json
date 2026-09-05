@@ -44,23 +44,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יצאו",
@@ -214,25 +198,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "3563-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3563-1",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN",
-       "pointed": "קוֹל"
-      },
-      {
-       "id": "3564-1",
-       "root": "",
-       "gloss": "cool person",
-       "analysis": "ADJ",
-       "pointed": "קוּל"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "מאחורי",
@@ -336,32 +303,16 @@
      "surface": "שמעו",
      "lemma": "שָׁמַע",
      "form": "שָׁמַע",
-     "vocalized": "שִׁמְעוּ",
+     "vocalized": "שָׁמְעוּ",
      "vocalized_from": "lexicon",
      "root": "ע",
      "gloss": "to hear, to be able to hear",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "shimu",
-     "caphi_urban": "shimu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "shamu",
+     "caphi_urban": "shamu",
      "caphi_raw": null,
-     "maknuune_id": "665-33",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "665-33",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "שִׁמְעוּ"
-      },
-      {
-       "id": "665-16",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׁמְעוּ"
-      }
-     ]
+     "maknuune_id": "665-16",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -407,25 +358,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "באו",
@@ -508,51 +442,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היורה",
@@ -650,25 +540,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הגיעו",
@@ -820,23 +693,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היו",
@@ -855,62 +712,18 @@
     },
     {
      "surface": "שבעה",
-     "lemma": "שֶׁבַע",
-     "form": "שֶׁבַע",
+     "lemma": "שִׁבְעָה",
+     "form": "שִׁבְעָה",
      "vocalized": "שִׁבְעָה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "feminine of שִׁבְעָה (shiv'á, “seven”)",
-     "analysis": "NUM:masculine",
+     "gloss": "seven",
+     "analysis": "NUM",
      "caphi": "shiva",
      "caphi_urban": "shiva",
      "caphi_raw": null,
-     "maknuune_id": "1345-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1345-3",
-       "root": "",
-       "gloss": "feminine of שִׁבְעָה (shiv'á, “seven”)",
-       "analysis": "NUM:masculine",
-       "pointed": "שִׁבְעָה"
-      },
-      {
-       "id": "1351-1",
-       "root": "",
-       "gloss": "seven",
-       "analysis": "NUM",
-       "pointed": "שִׁבְעָה"
-      },
-      {
-       "id": "11888-3",
-       "root": "",
-       "gloss": "masculine construct state of שִׁבְעָה (shiv'á, “seven”)",
-       "analysis": "NUM:absolute",
-       "pointed": "שִׁבְעָה"
-      },
-      {
-       "id": "1350-3",
-       "root": "",
-       "gloss": "satiated, filled",
-       "analysis": "ADJ:feminine",
-       "pointed": "שְׂבֵעָה"
-      },
-      {
-       "id": "1347-17",
-       "root": "",
-       "gloss": "to be sated.",
-       "analysis": "VERB:feminine.present.singular",
-       "pointed": "שְׂבֵעָה"
-      },
-      {
-       "id": "1347-14",
-       "root": "",
-       "gloss": "to be sated.",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׂבְעָה"
-      }
-     ]
+     "maknuune_id": "1351-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והמלח",
@@ -1229,32 +1042,16 @@
      "surface": "ברחו",
      "lemma": "בָּרַח",
      "form": "בָּרַח",
-     "vocalized": "בִּרְחוּ",
+     "vocalized": "בָּרְחוּ",
      "vocalized_from": "lexicon",
      "root": "ח",
      "gloss": "to run away",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "birxu",
-     "caphi_urban": "birxu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "barxu",
+     "caphi_urban": "barxu",
      "caphi_raw": null,
-     "maknuune_id": "9625-31",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "9625-31",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "בִּרְחוּ"
-      },
-      {
-       "id": "9625-14",
-       "root": "ח",
-       "gloss": "to run away",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "בָּרְחוּ"
-      }
-     ]
+     "maknuune_id": "9625-14",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לעצים",
@@ -1580,23 +1377,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נשאו",
@@ -1671,37 +1452,7 @@
      "caphi_urban": "ltox",
      "caphi_raw": null,
      "maknuune_id": "11398-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11398-1",
-       "root": "",
-       "gloss": "into, inside",
-       "analysis": "PREP",
-       "pointed": "לְתוֹךְ"
-      },
-      {
-       "id": "14733-3",
-       "root": "",
-       "gloss": "to mediate",
-       "analysis": "VERB:infinitive",
-       "pointed": "לְתַוֵּךְ"
-      },
-      {
-       "id": "875-1",
-       "root": "",
-       "gloss": "as ל- + תָּוֶךְ: the midst",
-       "analysis": "NOUN",
-       "pointed": "תָּוֶךְ"
-      },
-      {
-       "id": "10632-1",
-       "root": "",
-       "gloss": "as ל- + תּוֹךְ: inside",
-       "analysis": "NOUN",
-       "pointed": "תּוֹךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "המבנה",
@@ -2044,44 +1795,7 @@
      "caphi_urban": "baxa",
      "caphi_raw": null,
      "maknuune_id": "6058-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-1",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB",
-       "pointed": "בָּכָה"
-      },
-      {
-       "id": "6059-1",
-       "root": "",
-       "gloss": "defective spelling of ביכה",
-       "analysis": "VERB",
-       "pointed": "בִּכָּה"
-      },
-      {
-       "id": "6058-28",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּכֵה"
-      },
-      {
-       "id": "10072-38",
-       "root": "ה",
-       "gloss": "to lament; to mourn (for)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ב- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ונישק",
@@ -2229,30 +1943,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחרי",
@@ -2335,30 +2026,7 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6744-1",
-       "root": "",
-       "gloss": "as הוֹצֵא spelled full: masculine singular imperative of הוֹצִיא",
-       "analysis": "VERB",
-       "pointed": "הוֹצֵיא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהכיס",
@@ -2373,39 +2041,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "דגל",
@@ -2521,44 +2158,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3037-1",
-       "root": "",
-       "gloss": "above, over, higher than",
-       "analysis": "PREP",
-       "pointed": "מֵעַל"
-      },
-      {
-       "id": "3038-1",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB",
-       "pointed": "מָעַל"
-      },
-      {
-       "id": "3038-29",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְעַל"
-      },
-      {
-       "id": "547-1",
-       "root": "",
-       "gloss": "as מ- + עַל: on, on top of",
-       "analysis": "PREP",
-       "pointed": "עַל"
-      },
-      {
-       "id": "2478-2",
-       "root": "",
-       "gloss": "as מ- + עול: yoke",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "עֹל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "המבנה",
@@ -2980,37 +2580,7 @@
      "caphi_urban": "srefa",
      "caphi_raw": null,
      "maknuune_id": "2316-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2316-1",
-       "root": "",
-       "gloss": "uncontrolled fire, conflagration",
-       "analysis": "NOUN",
-       "pointed": "שְׂרֵפָה"
-      },
-      {
-       "id": "138-16",
-       "root": "",
-       "gloss": "to burn",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "שָׂרְפָה"
-      },
-      {
-       "id": "8422-1",
-       "root": "",
-       "gloss": "as ש- + רָפֶה: The Hebrew diacritical mark rafe (ִ◌ֿ).",
-       "analysis": "NOUN",
-       "pointed": "רָפֶה"
-      },
-      {
-       "id": "8423-3",
-       "root": "",
-       "gloss": "as ש- + רָפֶה: weak",
-       "analysis": "ADJ:feminine",
-       "pointed": "רָפָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לקרב",
@@ -3071,44 +2641,7 @@
      "caphi_urban": "shnáyyim",
      "caphi_raw": null,
      "maknuune_id": "82-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "82-1",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM",
-       "pointed": "שְׁנַייִם"
-      },
-      {
-       "id": "551-6",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שְׁנִיִּים"
-      },
-      {
-       "id": "3977-1",
-       "root": "",
-       "gloss": "as שָׁנִים spelled full: plural indefinite form of שָׁנָה: years",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִיים"
-      },
-      {
-       "id": "476-5",
-       "root": "",
-       "gloss": "as שָׁנָה spelled full: year (the time it takes for the Earth to",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "שָׁנִיים"
-      },
-      {
-       "id": "2075-4",
-       "root": "",
-       "gloss": "as שֵׁן spelled full: tooth",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "שִׁנַּיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3207,30 +2740,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אבל",
@@ -3367,34 +2877,18 @@
     },
     {
      "surface": "לירות",
-     "lemma": "יָרָה",
-     "form": "יָרָה",
+     "lemma": "לִירָה",
+     "form": "לִירָה",
      "vocalized": "לִירוֹת",
      "vocalized_from": "lexicon",
-     "root": "י.ה",
-     "gloss": "To flow as water (that is, to rain).",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "lira (current currency of Turkey and former currency of many countries, including Israel)",
+     "analysis": "NOUN:indefinite.plural",
      "caphi": "lirot",
      "caphi_urban": "lirot",
      "caphi_raw": null,
-     "maknuune_id": "2800-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2800-3",
-       "root": "י.ה",
-       "gloss": "To flow as water (that is, to rain).",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִירוֹת"
-      },
-      {
-       "id": "10260-3",
-       "root": "",
-       "gloss": "lira (current currency of Turkey and former currency of many",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לִירוֹת"
-      }
-     ]
+     "maknuune_id": "10260-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -3477,44 +2971,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3037-1",
-       "root": "",
-       "gloss": "above, over, higher than",
-       "analysis": "PREP",
-       "pointed": "מֵעַל"
-      },
-      {
-       "id": "3038-1",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB",
-       "pointed": "מָעַל"
-      },
-      {
-       "id": "3038-29",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְעַל"
-      },
-      {
-       "id": "547-1",
-       "root": "",
-       "gloss": "as מ- + עַל: on, on top of",
-       "analysis": "PREP",
-       "pointed": "עַל"
-      },
-      {
-       "id": "2478-2",
-       "root": "",
-       "gloss": "as מ- + עול: yoke",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "עֹל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נפלו",
@@ -3791,25 +3248,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     }
    ],
    "audio": null
@@ -3902,54 +3342,22 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שמעו",
      "lemma": "שָׁמַע",
      "form": "שָׁמַע",
-     "vocalized": "שִׁמְעוּ",
+     "vocalized": "שָׁמְעוּ",
      "vocalized_from": "lexicon",
      "root": "ע",
      "gloss": "to hear, to be able to hear",
-     "analysis": "VERB:imperative.masculine.plural",
-     "caphi": "shimu",
-     "caphi_urban": "shimu",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
+     "caphi": "shamu",
+     "caphi_urban": "shamu",
      "caphi_raw": null,
-     "maknuune_id": "665-33",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "665-33",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "שִׁמְעוּ"
-      },
-      {
-       "id": "665-16",
-       "root": "ע",
-       "gloss": "to hear, to be able to hear",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "שָׁמְעוּ"
-      }
-     ]
+     "maknuune_id": "665-16",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קול",
@@ -4257,46 +3665,8 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רץ",
@@ -4406,44 +3776,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3037-1",
-       "root": "",
-       "gloss": "above, over, higher than",
-       "analysis": "PREP",
-       "pointed": "מֵעַל"
-      },
-      {
-       "id": "3038-1",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB",
-       "pointed": "מָעַל"
-      },
-      {
-       "id": "3038-29",
-       "root": "",
-       "gloss": "to embezzle, misappropriate",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְעַל"
-      },
-      {
-       "id": "547-1",
-       "root": "",
-       "gloss": "as מ- + עַל: on, on top of",
-       "analysis": "PREP",
-       "pointed": "עַל"
-      },
-      {
-       "id": "2478-2",
-       "root": "",
-       "gloss": "as מ- + עול: yoke",
-       "analysis": "NOUN:canonical.masculine",
-       "pointed": "עֹל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הגדר",
@@ -4914,23 +4247,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תספר",

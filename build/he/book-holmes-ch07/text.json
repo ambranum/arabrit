@@ -155,34 +155,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ליד",
@@ -674,25 +658,8 @@
      "caphi_urban": "panim",
      "caphi_raw": null,
      "maknuune_id": "3004-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "3004-1",
-       "root": "",
-       "gloss": "face",
-       "analysis": "NOUN",
-       "pointed": "פָּנִים"
-      },
-      {
-       "id": "1010-3",
-       "root": "",
-       "gloss": "side, direction",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "פָּנִים"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "שלה",
@@ -1759,34 +1726,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלי",
@@ -1816,46 +1767,8 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רוילוט",
@@ -1948,25 +1861,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -2278,39 +2174,8 @@
      "caphi_urban": "xazar",
      "caphi_raw": null,
      "maknuune_id": "4374-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "4374-1",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB",
-       "pointed": "חָזַר"
-      },
-      {
-       "id": "7942-1",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB",
-       "pointed": "חִזֵּר"
-      },
-      {
-       "id": "4374-37",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲזֹר"
-      },
-      {
-       "id": "7942-38",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַזֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "והתחתן",
@@ -2345,34 +2210,18 @@
     },
     {
      "surface": "אימא",
-     "lemma": "אַבָּא",
-     "form": "אַבָּא",
+     "lemma": "אִמָּא",
+     "form": "אִמָּא",
      "vocalized": "אִימָּא",
      "vocalized_from": "derived:ktiv",
      "root": null,
-     "gloss": "father (a male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, etc.))",
-     "analysis": "NOUN:feminine",
+     "gloss": "mother",
+     "analysis": "NOUN",
      "caphi": "íma",
      "caphi_urban": "íma",
      "caphi_raw": null,
-     "maknuune_id": "454-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "454-4",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אִמָּא"
-      },
-      {
-       "id": "1583-1",
-       "root": "",
-       "gloss": "mother",
-       "analysis": "NOUN",
-       "pointed": "אִמָּא"
-      }
-     ]
+     "maknuune_id": "1583-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שלי",
@@ -2723,43 +2572,19 @@
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אנחנו",
@@ -3915,30 +3740,7 @@
      "caphi_urban": "haxeder",
      "caphi_raw": null,
      "maknuune_id": "798-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "798-9",
-       "root": "",
-       "gloss": "room",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֶדֶר"
-      },
-      {
-       "id": "5493-28",
-       "root": "ח",
-       "gloss": "to insert",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְדֵּר"
-      },
-      {
-       "id": "799-1",
-       "root": "ח",
-       "gloss": "as ה- + חָדַר: to penetrate, imbue, infuse",
-       "analysis": "VERB",
-       "pointed": "חָדַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -3968,46 +3770,8 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "החדר",
@@ -4022,30 +3786,7 @@
      "caphi_urban": "haxeder",
      "caphi_raw": null,
      "maknuune_id": "798-9",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "798-9",
-       "root": "",
-       "gloss": "room",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַחֶדֶר"
-      },
-      {
-       "id": "5493-28",
-       "root": "ח",
-       "gloss": "to insert",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְדֵּר"
-      },
-      {
-       "id": "799-1",
-       "root": "ח",
-       "gloss": "as ה- + חָדַר: to penetrate, imbue, infuse",
-       "analysis": "VERB",
-       "pointed": "חָדַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -4902,41 +4643,18 @@
     },
     {
      "surface": "חיה",
-     "lemma": "חַי",
-     "form": "חַי",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
      "vocalized": "חַיָּה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "alive",
-     "analysis": "ADJ:feminine",
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
      "caphi": "xaya",
      "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "880-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of חַי (kháy)",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "881-27",
-       "root": "",
-       "gloss": "to live (to be alive, to have life)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲיֵה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מסוכנת",
@@ -5468,23 +5186,7 @@
      "caphi_urban": "nafla",
      "caphi_raw": null,
      "maknuune_id": "2407-18",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2407-18",
-       "root": "",
-       "gloss": "To fall: to be pulled downward by gravity.",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "נָפְלָה"
-      },
-      {
-       "id": "11108-21",
-       "root": "",
-       "gloss": "to discriminate",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַפְלֶה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",
@@ -5712,46 +5414,8 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "1930-17",
-       "root": "א",
-       "gloss": "to be restored (of art)",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "רוּפָּא"
-      },
-      {
-       "id": "9808-3",
-       "root": "א",
-       "gloss": "to heal, to cure",
-       "analysis": "VERB:passive",
-       "pointed": "רופא"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ואז",
@@ -6116,25 +5780,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הדלת",
@@ -6344,25 +5991,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "פצע",
@@ -6422,25 +6052,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "רעל",

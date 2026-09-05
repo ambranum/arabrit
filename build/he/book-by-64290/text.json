@@ -802,7 +802,7 @@
      "caphi_urban": "ashir",
      "caphi_raw": null,
      "maknuune_id": "7876-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוּא",
@@ -2841,7 +2841,7 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -3201,12 +3201,12 @@
      "vocalized_from": "source:pointed",
      "root": "ע.ה",
      "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "ase",
-     "caphi_urban": "ase",
+     "analysis": "VERB",
+     "caphi": "asa",
+     "caphi_urban": "asa",
      "caphi_raw": null,
-     "maknuune_id": "565-32",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "565-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִיָּד",
@@ -3694,7 +3694,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֶלֶךְ",
@@ -4200,7 +4200,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָמַר",
@@ -4275,7 +4275,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מִתְפָּאֵר",
@@ -4665,23 +4665,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֻתָּר",
@@ -4919,23 +4903,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַצִּפּוֹרָה",
@@ -6063,7 +6031,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {

@@ -1258,7 +1258,7 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -1359,7 +1359,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -2702,18 +2702,18 @@
     },
     {
      "surface": "מִהֵר",
-     "lemma": "מִהֵר",
-     "form": "מִהֵר",
+     "lemma": "מַהֵר",
+     "form": "מַהֵר",
      "vocalized": "מִהֵר",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "defective spelling of מיהר",
-     "analysis": "VERB",
-     "caphi": "miher",
-     "caphi_urban": "miher",
+     "gloss": "quickly, rapidly, fast",
+     "analysis": "ADV",
+     "caphi": "maher",
+     "caphi_urban": "maher",
      "caphi_raw": null,
-     "maknuune_id": "433-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "432-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְהִכָּנֵס",
@@ -2987,7 +2987,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָמַר",
@@ -4994,7 +4994,7 @@
      "caphi_urban": "aléynu",
      "caphi_raw": null,
      "maknuune_id": "6343-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -5544,29 +5544,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שְׁמוֹ",
@@ -7844,29 +7828,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַאִם",
@@ -7981,29 +7949,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְהֶעֱמִיד",
@@ -8639,29 +8591,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּאוֹתָהּ",
@@ -9173,29 +9109,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֹא",
@@ -9466,29 +9386,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּלִי",
@@ -11326,29 +11230,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נִדְּפָה",
@@ -11661,7 +11549,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שְׁמוּאֵל",
@@ -11751,7 +11639,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֹא",
@@ -12230,7 +12118,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָיִיתָ",
@@ -14061,7 +13949,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קָרָה",
@@ -14814,7 +14702,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִבְטַחְתִּי",
@@ -15075,29 +14963,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שָׁאַל",
@@ -15332,7 +15204,7 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -15709,7 +15581,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -15772,29 +15644,13 @@
      "vocalized": "יַעֲקֹב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Third-person masculine singular future (prefix conjugation) of עָקַב (ʿaqáv, “to follow”).",
-     "analysis": "VERB",
+     "gloss": "Jacob",
+     "analysis": "NAME",
      "caphi": "yaakov",
      "caphi_urban": "yaakov",
      "caphi_raw": null,
-     "maknuune_id": "2486-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2486-1",
-       "root": "",
-       "gloss": "Third-person masculine singular future (prefix conjugation) ",
-       "analysis": "VERB",
-       "pointed": "יַעֲקֹב"
-      },
-      {
-       "id": "844-30",
-       "root": "",
-       "gloss": "to follow, tail, track, trace",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יַעֲקֹב"
-      }
-     ]
+     "maknuune_id": "5735-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הִתְעַנְיֵן",
@@ -16116,7 +15972,7 @@
      "caphi_urban": "shatak",
      "caphi_raw": null,
      "maknuune_id": "2515-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רְגָעִים",

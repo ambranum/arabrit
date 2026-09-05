@@ -472,44 +472,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רוצים",
@@ -614,43 +577,19 @@
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אי",
@@ -665,44 +604,7 @@
      "caphi_urban": "i",
      "caphi_raw": null,
      "maknuune_id": "1969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1969-1",
-       "root": "",
-       "gloss": "an island",
-       "analysis": "NOUN",
-       "pointed": "אִי"
-      },
-      {
-       "id": "1972-1",
-       "root": "",
-       "gloss": "non-",
-       "analysis": "PREFIX",
-       "pointed": "אִי־"
-      },
-      {
-       "id": "1975-1",
-       "root": "",
-       "gloss": "where.",
-       "analysis": "ADV",
-       "pointed": "אַי"
-      },
-      {
-       "id": "9218-1",
-       "root": "",
-       "gloss": "-ian, -eer: Denoting a profession or occupation.",
-       "analysis": "SUFFIX",
-       "pointed": "־ַאי"
-      },
-      {
-       "id": "9219-1",
-       "root": "",
-       "gloss": "Used in forming adjectives related to a profession or occupa",
-       "analysis": "SUFFIX",
-       "pointed": "־ָאִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אפשר",
@@ -917,61 +819,22 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עלו",
      "lemma": "עָלָה",
      "form": "עָלָה",
-     "vocalized": "עֲלוּ",
+     "vocalized": "עָלוּ",
      "vocalized_from": "lexicon",
      "root": "ע.ה",
      "gloss": "To ascend, rise, go up; to move from a point to a higher point.",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "alu",
      "caphi_urban": "alu",
      "caphi_raw": null,
-     "maknuune_id": "740-30",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-30",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "עֲלוּ"
-      },
-      {
-       "id": "2478-17",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "עֻלּוֹ"
-      },
-      {
-       "id": "740-13",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "עָלוּ"
-      }
-     ]
+     "maknuune_id": "740-13",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -1309,25 +1172,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הסכימו",
@@ -1426,23 +1272,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סגרו",
@@ -1938,37 +1768,7 @@
      "caphi_urban": "ganav",
      "caphi_raw": null,
      "maknuune_id": "859-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "859-1",
-       "root": "",
-       "gloss": "to steal",
-       "analysis": "VERB",
-       "pointed": "גָּנַב"
-      },
-      {
-       "id": "860-1",
-       "root": "",
-       "gloss": "thief",
-       "analysis": "NOUN",
-       "pointed": "גַּנָּב"
-      },
-      {
-       "id": "6199-3",
-       "root": "",
-       "gloss": "to be stolen",
-       "analysis": "VERB:active",
-       "pointed": "גָּנַב"
-      },
-      {
-       "id": "859-39",
-       "root": "",
-       "gloss": "to steal",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "גְּנֹב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2260,23 +2060,7 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יותר",
@@ -2504,30 +2288,7 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6744-1",
-       "root": "",
-       "gloss": "as הוֹצֵא spelled full: masculine singular imperative of הוֹצִיא",
-       "analysis": "VERB",
-       "pointed": "הוֹצֵיא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",

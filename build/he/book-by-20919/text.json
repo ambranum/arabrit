@@ -1215,7 +1215,7 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ש-"
     },
     {
@@ -1808,51 +1808,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "למַד",
@@ -2227,51 +2183,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֹא",
@@ -2800,44 +2712,7 @@
      "caphi_urban": "basar",
      "caphi_raw": null,
      "maknuune_id": "999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "999-1",
-       "root": "",
-       "gloss": "flesh, meat",
-       "analysis": "NOUN",
-       "pointed": "בָּשָׂר"
-      },
-      {
-       "id": "1000-1",
-       "root": "",
-       "gloss": "defective spelling of בישר",
-       "analysis": "VERB",
-       "pointed": "בִּשֵּׂר"
-      },
-      {
-       "id": "9523-28",
-       "root": "",
-       "gloss": "to bring good news",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּשֵּׂר"
-      },
-      {
-       "id": "4134-1",
-       "root": "י",
-       "gloss": "as ב- + שָׁר: to sing",
-       "analysis": "VERB",
-       "pointed": "שָׁר"
-      },
-      {
-       "id": "4135-1",
-       "root": "",
-       "gloss": "as ב- + שַׂר: captain, commander",
-       "analysis": "NOUN",
-       "pointed": "שַׂר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s8.mp3"
@@ -4662,34 +4537,18 @@
     },
     {
      "surface": "נַעֲשָׂה",
-     "lemma": "עָשָׂה",
-     "form": "עָשָׂה",
+     "lemma": "נַעֲשֶׂה",
+     "form": "נַעֲשֶׂה",
      "vocalized": "נַעֲשָׂה",
      "vocalized_from": "source:pointed",
-     "root": "ע.ה",
-     "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:passive",
-     "caphi": "naasa",
-     "caphi_urban": "naasa",
+     "root": null,
+     "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (asá).",
+     "analysis": "VERB",
+     "caphi": "naase",
+     "caphi_urban": "naase",
      "caphi_raw": null,
-     "maknuune_id": "565-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-6",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:passive",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7424-1",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB",
-       "pointed": "נַעֲשָׂה"
-      }
-     ]
+     "maknuune_id": "7425-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צַדִיק",
@@ -4879,23 +4738,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּבָרַח",
@@ -5576,25 +5419,8 @@
      "caphi_urban": "shofet",
      "caphi_raw": null,
      "maknuune_id": "7362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7362-1",
-       "root": "",
-       "gloss": "judge (a public official whose duty it is to administer the ",
-       "analysis": "NOUN",
-       "pointed": "שׁוֹפֵט"
-      },
-      {
-       "id": "11879-16",
-       "root": "",
-       "gloss": "to judge",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׁוֹפֵט"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בֵּינֵיהֶם",
@@ -5754,51 +5580,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּנוֹ",
@@ -7049,51 +6831,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נוֹעֲדָה",
@@ -7247,38 +6985,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רַבִּי",
@@ -7407,51 +7121,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בָּעִיר",
@@ -7615,38 +7285,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מִתְאַמֵץ",
@@ -8063,7 +7709,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִפְנֵי",
@@ -8268,7 +7914,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s27.mp3"
@@ -10365,51 +10011,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָלָיו",
@@ -10650,38 +10252,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שֶאָדָם",
@@ -11124,38 +10702,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בְּלָשוֹן",
@@ -11218,38 +10772,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶת",
@@ -11358,7 +10888,7 @@
      "caphi_urban": "haxeder",
      "caphi_raw": null,
      "maknuune_id": "798-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְשְאָלָהוּ",
@@ -11665,38 +11195,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": "audio/s45.mp3"
@@ -11728,38 +11234,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בַּכְּתָב",
@@ -12504,38 +11986,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְנִסְתַּכֵּל",
@@ -13395,38 +12853,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶת",
@@ -13907,38 +13341,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "לִדְחוֹת",
@@ -14376,23 +13786,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אָמַר",
@@ -14970,7 +14364,7 @@
      "caphi_urban": "tsaak",
      "caphi_raw": null,
      "maknuune_id": "13079-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָאִיש",
@@ -15232,38 +14626,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רַבִּי",
@@ -16110,41 +15480,18 @@
     },
     {
      "surface": "אִתָּהּ",
-     "lemma": "אִתּוֹ",
-     "form": "אִתּוֹ",
+     "lemma": "אַתָּה",
+     "form": "אַתָּה",
      "vocalized": "אִתָּהּ",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Form of אֶת (ét) including third-person masculine singular personal pronoun as object: with him, with it.",
-     "analysis": "PREP:feminine",
-     "caphi": "itah",
-     "caphi_urban": "itah",
+     "gloss": "you, thou (second-person singular masculine)",
+     "analysis": "PRON",
+     "caphi": "ata",
+     "caphi_urban": "ata",
      "caphi_raw": null,
-     "maknuune_id": "5905-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      }
-     ]
+     "maknuune_id": "417-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גַם",
@@ -16500,38 +15847,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֶת",
@@ -18451,51 +17774,7 @@
      "caphi_urban": "axal",
      "caphi_raw": null,
      "maknuune_id": "973-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "973-1",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB",
-       "pointed": "אָכַל"
-      },
-      {
-       "id": "974-1",
-       "root": "",
-       "gloss": "defective spelling of איכל",
-       "analysis": "VERB",
-       "pointed": "אִכֵּל"
-      },
-      {
-       "id": "975-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "VERB",
-       "pointed": "אֻכַּל"
-      },
-      {
-       "id": "976-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "NOUN",
-       "pointed": "אֹכֶל"
-      },
-      {
-       "id": "7644-1",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN",
-       "pointed": "אֹֽכֶל"
-      },
-      {
-       "id": "7646-1",
-       "root": "",
-       "gloss": "First-person singular future (prefix conjugation) of אכל (ak",
-       "analysis": "VERB",
-       "pointed": "אֹכַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וְלֹא",
@@ -18660,51 +17939,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֵּין",
@@ -19072,38 +18307,14 @@
      "vocalized": "הָרַב",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "Many, much.",
-     "analysis": "ADJ",
+     "gloss": "A rabbi.",
+     "analysis": "NOUN",
      "caphi": "rav",
      "caphi_urban": "rav",
      "caphi_raw": null,
-     "maknuune_id": "28-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "28-1",
-       "root": "",
-       "gloss": "Many, much.",
-       "analysis": "ADJ",
-       "pointed": "רַב"
-      },
-      {
-       "id": "605-5",
-       "root": "",
-       "gloss": "A female rabbi in more liberal streams of Judaism",
-       "analysis": "NOUN:masculine",
-       "pointed": "רַב"
-      },
-      {
-       "id": "14821-1",
-       "root": "",
-       "gloss": "alternative form of רב",
-       "analysis": "PREFIX",
-       "pointed": "רַב־"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "29-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "רַבִּי",
@@ -20020,23 +19231,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּבִכְדֵי",
@@ -20144,23 +19339,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָהּ",
@@ -20801,51 +19980,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֵּין",
@@ -21478,51 +20613,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֶּהָרִים",
@@ -21699,51 +20790,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָשָׂה",
@@ -21837,7 +20884,7 @@
      "caphi_urban": "adama",
      "caphi_raw": null,
      "maknuune_id": "913-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ב-"
     },
     {
@@ -21899,51 +20946,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אִשְׁתּוֹ",
@@ -21958,23 +20961,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הָיְתָה",
@@ -22179,23 +21166,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בָּאָה",
@@ -23505,12 +22476,12 @@
      "vocalized_from": "source:pointed",
      "root": "ה",
      "gloss": "To see, to have vision; figuratively, to perceive.",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "re",
-     "caphi_urban": "re",
+     "analysis": "VERB",
+     "caphi": "raa",
+     "caphi_urban": "raa",
      "caphi_raw": null,
-     "maknuune_id": "560-30",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "560-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -23670,12 +22641,12 @@
      "vocalized_from": "source:pointed",
      "root": "ה",
      "gloss": "To see, to have vision; figuratively, to perceive.",
-     "analysis": "VERB:imperative.masculine.singular",
-     "caphi": "re",
-     "caphi_urban": "re",
+     "analysis": "VERB",
+     "caphi": "raa",
+     "caphi_urban": "raa",
      "caphi_raw": null,
-     "maknuune_id": "560-30",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "560-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -23691,25 +22662,8 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1331-1",
-       "root": "",
-       "gloss": "hour (a unit of time of one twenty-fourth of a day (sixty mi",
-       "analysis": "NOUN",
-       "pointed": "שָׁעָה"
-      },
-      {
-       "id": "1332-27",
-       "root": "",
-       "gloss": "To look, gaze at or about.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁעֵה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שֶהָיָה",
@@ -25108,18 +24062,18 @@
     },
     {
      "surface": "וְאֶל",
-     "lemma": "אֶל",
-     "form": "אֶל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": "וְאֶל",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to, towards, into",
-     "analysis": "PREP",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "361-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -25135,51 +24089,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְפָנָיו",
@@ -25348,18 +24258,18 @@
     },
     {
      "surface": "וְאֶל",
-     "lemma": "אֶל",
-     "form": "אֶל",
+     "lemma": "אַל",
+     "form": "אַל",
      "vocalized": "וְאֶל",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "to, towards, into",
-     "analysis": "PREP",
-     "caphi": "el",
-     "caphi_urban": "el",
+     "gloss": "not, do not",
+     "analysis": "ADV",
+     "caphi": "al",
+     "caphi_urban": "al",
      "caphi_raw": null,
-     "maknuune_id": "361-1",
-     "provenance": "wiktionary:pointed",
+     "maknuune_id": "362-1",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -25673,7 +24583,7 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ל-"
     },
     {
@@ -25689,25 +24599,8 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1331-1",
-       "root": "",
-       "gloss": "hour (a unit of time of one twenty-fourth of a day (sixty mi",
-       "analysis": "NOUN",
-       "pointed": "שָׁעָה"
-      },
-      {
-       "id": "1332-27",
-       "root": "",
-       "gloss": "To look, gaze at or about.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁעֵה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שֶהָיָה",
@@ -25799,51 +24692,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בֵּינֵיהֶם",
@@ -26173,7 +25022,7 @@
      "caphi_urban": "ze",
      "caphi_raw": null,
      "maknuune_id": "2600-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ל-"
     },
     {
@@ -26189,25 +25038,8 @@
      "caphi_urban": "shaa",
      "caphi_raw": null,
      "maknuune_id": "1331-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1331-1",
-       "root": "",
-       "gloss": "hour (a unit of time of one twenty-fourth of a day (sixty mi",
-       "analysis": "NOUN",
-       "pointed": "שָׁעָה"
-      },
-      {
-       "id": "1332-27",
-       "root": "",
-       "gloss": "To look, gaze at or about.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁעֵה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שֶבַּעֲלָהּ",
@@ -26456,51 +25288,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1525-1",
-       "root": "",
-       "gloss": "Introduces a subordinate clause.",
-       "analysis": "CONJ",
-       "pointed": "אֲשֶׁר"
-      },
-      {
-       "id": "1526-1",
-       "root": "",
-       "gloss": "Asher (the eighth son of Jacob, by his wife's handmaid Zilpa",
-       "analysis": "NAME",
-       "pointed": "אָשֵׁר"
-      },
-      {
-       "id": "1527-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "NOUN",
-       "pointed": "אֹשֶׁר"
-      },
-      {
-       "id": "1528-1",
-       "root": "",
-       "gloss": "defective spelling of אישר",
-       "analysis": "VERB",
-       "pointed": "אִשֵּׁר"
-      },
-      {
-       "id": "1529-1",
-       "root": "",
-       "gloss": "defective spelling of אושר",
-       "analysis": "VERB",
-       "pointed": "אֻשַּׁר"
-      },
-      {
-       "id": "4042-4",
-       "root": "",
-       "gloss": "passive of אישר (ishér): to be authorized, to be confirmed.",
-       "analysis": "VERB:active",
-       "pointed": "אִשֵּׁר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בָּחַר",

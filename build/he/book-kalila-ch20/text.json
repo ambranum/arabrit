@@ -44,37 +44,7 @@
      "caphi_urban": "hexaxam",
      "caphi_raw": null,
      "maknuune_id": "871-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "871-10",
-       "root": "",
-       "gloss": "wise man, sage",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הֶחָכָם"
-      },
-      {
-       "id": "11165-28",
-       "root": "",
-       "gloss": "to become wise, acquire knowledge, learn",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְכֵּם"
-      },
-      {
-       "id": "870-1",
-       "root": "",
-       "gloss": "as ה- + חָכָם: wise, smart",
-       "analysis": "ADJ",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-1",
-       "root": "",
-       "gloss": "as ה- + חָכַם: to be wise, become wise, learn",
-       "analysis": "VERB",
-       "pointed": "חָכַם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -153,37 +123,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הוא",
@@ -335,46 +275,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "קטן",
@@ -419,23 +321,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -697,41 +583,18 @@
     },
     {
      "surface": "חיה",
-     "lemma": "חַי",
-     "form": "חַי",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
      "vocalized": "חַיָּה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "alive",
-     "analysis": "ADJ:feminine",
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
      "caphi": "xaya",
      "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "880-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of חַי (kháy)",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "881-27",
-       "root": "",
-       "gloss": "to live (to be alive, to have life)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲיֵה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קטנה",
@@ -863,39 +726,8 @@
      "caphi_urban": "axar",
      "caphi_raw": null,
      "maknuune_id": "790-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "-יו",
-     "options": [
-      {
-       "id": "790-1",
-       "root": "",
-       "gloss": "hind part",
-       "analysis": "NOUN",
-       "pointed": "אַחַר"
-      },
-      {
-       "id": "791-1",
-       "root": "",
-       "gloss": "other, further",
-       "analysis": "ADJ",
-       "pointed": "אַחֵר"
-      },
-      {
-       "id": "792-1",
-       "root": "",
-       "gloss": "defective spelling of איחר",
-       "analysis": "VERB",
-       "pointed": "אִחֵר"
-      },
-      {
-       "id": "11171-38",
-       "root": "",
-       "gloss": "to be late",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַחֵר"
-      }
-     ],
-     "_cut_for_prompt": "-יו"
+     "provenance": "wiktionary:resolved",
+     "_cut": "-יו"
     },
     {
      "surface": "בבית",
@@ -1026,51 +858,7 @@
      "caphi_urban": "bétax",
      "caphi_raw": null,
      "maknuune_id": "8966-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "8966-1",
-       "root": "",
-       "gloss": "for sure, definitely",
-       "analysis": "ADV",
-       "pointed": "בֶּטַח"
-      },
-      {
-       "id": "8967-1",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB",
-       "pointed": "בָּטַח"
-      },
-      {
-       "id": "8968-1",
-       "root": "",
-       "gloss": "defective spelling of בִּיטֵּחַ.",
-       "analysis": "VERB",
-       "pointed": "בִּטֵּחַ"
-      },
-      {
-       "id": "8969-1",
-       "root": "",
-       "gloss": "defective spelling of בּוּטַּח.",
-       "analysis": "VERB",
-       "pointed": "בֻּטַּח"
-      },
-      {
-       "id": "8967-29",
-       "root": "ח",
-       "gloss": "To rely on, to have faith in, to depend on.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּטַח"
-      },
-      {
-       "id": "16800-1",
-       "root": "",
-       "gloss": "as ב- + טָח: to daub",
-       "analysis": "VERB",
-       "pointed": "טָח"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בה",
@@ -1672,34 +1460,18 @@
     },
     {
      "surface": "בוא",
-     "lemma": "בּוֹא",
-     "form": "בּוֹא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "בּוֹא",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "infinitive absolute of בָּא (bá)",
-     "analysis": "VERB",
+     "root": "ו.א",
+     "gloss": "To come.",
+     "analysis": "VERB:imperative.masculine.singular",
      "caphi": "bo",
      "caphi_urban": "bo",
      "caphi_raw": null,
-     "maknuune_id": "794-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "794-1",
-       "root": "",
-       "gloss": "infinitive absolute of בָּא (bá)",
-       "analysis": "VERB",
-       "pointed": "בּוֹא"
-      },
-      {
-       "id": "3145-31",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בּוֹא"
-      }
-     ]
+     "maknuune_id": "3145-31",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהר",
@@ -1714,58 +1486,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יש",
@@ -2740,23 +2461,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נלחמו",
@@ -3762,51 +3467,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לא",
@@ -4051,48 +3712,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -4184,51 +3815,7 @@
      "caphi_urban": "hika",
      "caphi_raw": null,
      "maknuune_id": "7108-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7108-1",
-       "root": "נ.ה",
-       "gloss": "to hit, smite, strike",
-       "analysis": "VERB",
-       "pointed": "הִכָּה"
-      },
-      {
-       "id": "7108-4",
-       "root": "נ.ה",
-       "gloss": "to hit, smite, strike",
-       "analysis": "VERB:passive",
-       "pointed": "הֻכָּה"
-      },
-      {
-       "id": "7109-1",
-       "root": "נ.ה",
-       "gloss": "defective spelling of הוכה",
-       "analysis": "VERB",
-       "pointed": "הֻכָּה"
-      },
-      {
-       "id": "11016-3",
-       "root": "נ.ה",
-       "gloss": "to be hit, smitten, struck.",
-       "analysis": "VERB:active",
-       "pointed": "הִכָּה"
-      },
-      {
-       "id": "7108-30",
-       "root": "נ.ה",
-       "gloss": "to hit, smite, strike",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ה- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותה",
@@ -5051,44 +4638,7 @@
      "caphi_urban": "baxa",
      "caphi_raw": null,
      "maknuune_id": "6058-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-1",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB",
-       "pointed": "בָּכָה"
-      },
-      {
-       "id": "6059-1",
-       "root": "",
-       "gloss": "defective spelling of ביכה",
-       "analysis": "VERB",
-       "pointed": "בִּכָּה"
-      },
-      {
-       "id": "6058-28",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּכֵה"
-      },
-      {
-       "id": "10072-38",
-       "root": "ה",
-       "gloss": "to lament; to mourn (for)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ב- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בכה",
@@ -5103,44 +4653,7 @@
      "caphi_urban": "baxa",
      "caphi_raw": null,
      "maknuune_id": "6058-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6058-1",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB",
-       "pointed": "בָּכָה"
-      },
-      {
-       "id": "6059-1",
-       "root": "",
-       "gloss": "defective spelling of ביכה",
-       "analysis": "VERB",
-       "pointed": "בִּכָּה"
-      },
-      {
-       "id": "6058-28",
-       "root": "ה",
-       "gloss": "To cry, weep.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בְּכֵה"
-      },
-      {
-       "id": "10072-38",
-       "root": "ה",
-       "gloss": "to lament; to mourn (for)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּכֵּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ב- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עד",
@@ -5655,58 +5168,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מתחרט",
@@ -5813,51 +5275,7 @@
      "caphi_urban": "shatak",
      "caphi_raw": null,
      "maknuune_id": "2515-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2515-1",
-       "root": "",
-       "gloss": "to shut up, to be silent, to be quiet",
-       "analysis": "VERB",
-       "pointed": "שָׁתַק"
-      },
-      {
-       "id": "2516-3",
-       "root": "",
-       "gloss": "defective spelling of שיתק (shiték).",
-       "analysis": "VERB:canonical",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "2517-3",
-       "root": "",
-       "gloss": "defective spelling of שותק (shuták).",
-       "analysis": "VERB:canonical",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9321-1",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "9321-4",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB:passive",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9322-1",
-       "root": "",
-       "gloss": "to be paralysed",
-       "analysis": "VERB",
-       "pointed": "שֻׁתַּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והסיפורים",
@@ -5911,39 +5329,8 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "לא",

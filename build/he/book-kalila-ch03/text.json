@@ -75,51 +75,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "185-1",
-       "root": "ע",
-       "gloss": "to pass, to cross",
-       "analysis": "VERB",
-       "pointed": "עָבַר"
-      },
-      {
-       "id": "186-1",
-       "root": "",
-       "gloss": "The past.",
-       "analysis": "NOUN",
-       "pointed": "עָבָר"
-      },
-      {
-       "id": "187-1",
-       "root": "",
-       "gloss": "side, direction, way",
-       "analysis": "NOUN",
-       "pointed": "עֵבֶר"
-      },
-      {
-       "id": "188-1",
-       "root": "",
-       "gloss": "defective spelling of עובר (“embryo, unborn baby”)",
-       "analysis": "NOUN",
-       "pointed": "עֻבָּר"
-      },
-      {
-       "id": "189-1",
-       "root": "",
-       "gloss": "defective spelling of עיבר",
-       "analysis": "VERB",
-       "pointed": "עִבֵּר"
-      },
-      {
-       "id": "1048-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of עָבַר (avár)",
-       "analysis": "VERB",
-       "pointed": "עֲבֹר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ביער",
@@ -1031,51 +987,7 @@
      "caphi_urban": "axal",
      "caphi_raw": null,
      "maknuune_id": "973-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "973-1",
-       "root": "א",
-       "gloss": "to eat",
-       "analysis": "VERB",
-       "pointed": "אָכַל"
-      },
-      {
-       "id": "974-1",
-       "root": "",
-       "gloss": "defective spelling of איכל",
-       "analysis": "VERB",
-       "pointed": "אִכֵּל"
-      },
-      {
-       "id": "975-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "VERB",
-       "pointed": "אֻכַּל"
-      },
-      {
-       "id": "976-1",
-       "root": "",
-       "gloss": "defective spelling of אוכל",
-       "analysis": "NOUN",
-       "pointed": "אֹכֶל"
-      },
-      {
-       "id": "7644-1",
-       "root": "",
-       "gloss": "food",
-       "analysis": "NOUN",
-       "pointed": "אֹֽכֶל"
-      },
-      {
-       "id": "7646-1",
-       "root": "",
-       "gloss": "First-person singular future (prefix conjugation) of אכל (ak",
-       "analysis": "VERB",
-       "pointed": "אֹכַל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ושתה",
@@ -1534,25 +1446,8 @@
      "caphi_urban": "xayim",
      "caphi_raw": null,
      "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלו",
@@ -1594,55 +1489,18 @@
     },
     {
      "surface": "פחד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
-     "vocalized": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
+     "vocalized": "פָּחַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1763-1",
-       "root": "",
-       "gloss": "fear",
-       "analysis": "NOUN",
-       "pointed": "פַּחַד"
-      },
-      {
-       "id": "1764-1",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB",
-       "pointed": "פָּחַד"
-      },
-      {
-       "id": "1765-1",
-       "root": "",
-       "gloss": "defective spelling of פיחד",
-       "analysis": "VERB",
-       "pointed": "פִּחֵד"
-      },
-      {
-       "id": "1764-28",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּחַד"
-      },
-      {
-       "id": "2184-36",
-       "root": "",
-       "gloss": "To fear, to be afraid or scared.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פַּחֵד"
-      }
-     ]
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אבל",
@@ -2245,46 +2103,8 @@
      "caphi_urban": "raa",
      "caphi_raw": null,
      "maknuune_id": "560-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "560-1",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "561-1",
-       "root": "",
-       "gloss": "defective spelling of רואה",
-       "analysis": "NOUN",
-       "pointed": "רֹאֶה"
-      },
-      {
-       "id": "562-1",
-       "root": "",
-       "gloss": "defective spelling of ריאה.",
-       "analysis": "NOUN",
-       "pointed": "רֵאָה"
-      },
-      {
-       "id": "6839-5",
-       "root": "ה",
-       "gloss": "be seen",
-       "analysis": "VERB:active",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "560-30",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְאֵה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",
@@ -2361,37 +2181,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2589,37 +2379,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אתה",
@@ -2634,51 +2394,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נראה",
@@ -2800,51 +2516,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3807,25 +3479,8 @@
      "caphi_urban": "xayim",
      "caphi_raw": null,
      "maknuune_id": "1982-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "1982-1",
-       "root": "",
-       "gloss": "life (period during which one is alive)",
-       "analysis": "NOUN",
-       "pointed": "חַיִּים"
-      },
-      {
-       "id": "880-4",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "חַיִּים"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "שלו",
@@ -3925,37 +3580,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פוחד",
@@ -4192,51 +3817,7 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      },
-      {
-       "id": "14907-1",
-       "root": "",
-       "gloss": "as מ- + ־לָךְ: plural of ־לה",
-       "analysis": "SUFFIX",
-       "pointed": "־לָךְ"
-      },
-      {
-       "id": "4695-1",
-       "root": "",
-       "gloss": "as מ- + לך: Form of ל־ (l'-) including second-person mas",
-       "analysis": "PREP",
-       "pointed": "לך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "היער",
@@ -4319,77 +3900,23 @@
      "caphi_urban": "otxa",
      "caphi_raw": null,
      "maknuune_id": "10439-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10439-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP",
-       "pointed": "אוֹתְךָ"
-      },
-      {
-       "id": "10439-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person masculine singular ",
-       "analysis": "PREP:feminine",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-1",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP",
-       "pointed": "אוֹתָךְ"
-      },
-      {
-       "id": "10440-3",
-       "root": "",
-       "gloss": "Form of אֵת (et) including second-person feminine singular p",
-       "analysis": "PREP:masculine",
-       "pointed": "אוֹתְךָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תבוא",
@@ -4450,51 +3977,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תהיה",
@@ -4575,55 +4058,18 @@
     },
     {
      "surface": "פחד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
-     "vocalized": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
+     "vocalized": "פָּחַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1763-1",
-       "root": "",
-       "gloss": "fear",
-       "analysis": "NOUN",
-       "pointed": "פַּחַד"
-      },
-      {
-       "id": "1764-1",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB",
-       "pointed": "פָּחַד"
-      },
-      {
-       "id": "1765-1",
-       "root": "",
-       "gloss": "defective spelling of פיחד",
-       "analysis": "VERB",
-       "pointed": "פִּחֵד"
-      },
-      {
-       "id": "1764-28",
-       "root": "",
-       "gloss": "to fear, to be scared, afraid, frightened of (a person or th",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פְּחַד"
-      },
-      {
-       "id": "2184-36",
-       "root": "",
-       "gloss": "To fear, to be afraid or scared.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "פַּחֵד"
-      }
-     ]
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בהתחלה",
@@ -4782,25 +4228,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "הלכו",
@@ -5264,25 +4693,8 @@
      "caphi_urban": "oto",
      "caphi_raw": null,
      "maknuune_id": "3607-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "3607-1",
-       "root": "",
-       "gloss": "The same.",
-       "analysis": "DET",
-       "pointed": "אוֹתוֹ"
-      },
-      {
-       "id": "9611-3",
-       "root": "",
-       "gloss": "The same.",
-       "analysis": "DET:masculine",
-       "pointed": "אוֹתוֹ"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "זמן",
@@ -5381,23 +4793,7 @@
      "caphi_urban": "asita",
      "caphi_raw": null,
      "maknuune_id": "565-11",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-11",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "עָשִׂיתָ"
-      },
-      {
-       "id": "565-12",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "עָשִׂית"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מה",
@@ -5473,30 +4869,7 @@
      "caphi_urban": "asa",
      "caphi_raw": null,
      "maknuune_id": "565-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-1",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB",
-       "pointed": "עָשָׂה"
-      },
-      {
-       "id": "7424-3",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:active",
-       "pointed": "עָשָׂה"
-      },
-      {
-       "id": "565-32",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲשֵׂה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהיום",
@@ -5527,51 +4900,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קרוב",

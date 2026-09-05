@@ -311,51 +311,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4777-1",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN",
-       "pointed": "קָנֶה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4776-30",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְנֵה"
-      },
-      {
-       "id": "4088-17",
-       "root": "",
-       "gloss": "nest (bird-built structure)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קִנָּהּ"
-      },
-      {
-       "id": "4777-15",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קָנֶהָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -552,23 +508,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שאלה",
@@ -602,62 +542,18 @@
     },
     {
      "surface": "נעשה",
-     "lemma": "עָשָׂה",
-     "form": "עָשָׂה",
-     "vocalized": "נַעֲשָׂה",
+     "lemma": "נַעֲשֶׂה",
+     "form": "נַעֲשֶׂה",
+     "vocalized": "נַעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": "ע.ה",
-     "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:passive",
-     "caphi": "naasa",
-     "caphi_urban": "naasa",
+     "root": null,
+     "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (asá).",
+     "analysis": "VERB",
+     "caphi": "naase",
+     "caphi_urban": "naase",
      "caphi_raw": null,
-     "maknuune_id": "565-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-6",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:passive",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7424-1",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7425-1",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (a",
-       "analysis": "VERB",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-17",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "565-23",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-23",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "7425-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עם",
@@ -755,46 +651,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ביוקר",
@@ -863,46 +721,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "יש",
@@ -1167,51 +987,7 @@
      "caphi_urban": "kana",
      "caphi_raw": null,
      "maknuune_id": "4776-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4776-1",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4777-1",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN",
-       "pointed": "קָנֶה"
-      },
-      {
-       "id": "11020-3",
-       "root": "ה",
-       "gloss": "to be purchased, bought",
-       "analysis": "VERB:active",
-       "pointed": "קָנָה"
-      },
-      {
-       "id": "4776-30",
-       "root": "ה",
-       "gloss": "to buy, to purchase",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְנֵה"
-      },
-      {
-       "id": "4088-17",
-       "root": "",
-       "gloss": "nest (bird-built structure)",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קִנָּהּ"
-      },
-      {
-       "id": "4777-15",
-       "root": "",
-       "gloss": "a cane: a long hollow stick",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "קָנֶהָ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ממנו",
@@ -1333,23 +1109,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שאלה",

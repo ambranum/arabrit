@@ -63,55 +63,18 @@
     },
     {
      "surface": "עבד",
-     "lemma": "עֶבֶד",
-     "form": "עֶבֶד",
-     "vocalized": "עֶבֶד",
+     "lemma": "עָבַד",
+     "form": "עָבַד",
+     "vocalized": "עָבַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "A slave, a serf.",
-     "analysis": "NOUN",
-     "caphi": "éved",
-     "caphi_urban": "éved",
+     "gloss": "to work, labor",
+     "analysis": "VERB",
+     "caphi": "avad",
+     "caphi_urban": "avad",
      "caphi_raw": null,
-     "maknuune_id": "969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "969-1",
-       "root": "",
-       "gloss": "A slave, a serf.",
-       "analysis": "NOUN",
-       "pointed": "עֶבֶד"
-      },
-      {
-       "id": "970-1",
-       "root": "",
-       "gloss": "to work, labor",
-       "analysis": "VERB",
-       "pointed": "עָבַד"
-      },
-      {
-       "id": "971-1",
-       "root": "",
-       "gloss": "defective spelling of עיבד",
-       "analysis": "VERB",
-       "pointed": "עִבֵּד"
-      },
-      {
-       "id": "970-37",
-       "root": "",
-       "gloss": "to work, labor",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲבֹד"
-      },
-      {
-       "id": "13711-38",
-       "root": "",
-       "gloss": "to process",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עַבֵּד"
-      }
-     ]
+     "maknuune_id": "970-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ביער",
@@ -184,48 +147,18 @@
     },
     {
      "surface": "חתך",
-     "lemma": "חֲתָךְ",
-     "form": "חֲתָךְ",
-     "vocalized": "חֲתָךְ",
+     "lemma": "חָתַךְ",
+     "form": "חָתַךְ",
+     "vocalized": "חָתַךְ",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "cutting: the act of cutting",
-     "analysis": "NOUN",
+     "gloss": "to cut",
+     "analysis": "VERB",
      "caphi": "xatax",
      "caphi_urban": "xatax",
      "caphi_raw": null,
-     "maknuune_id": "6332-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6332-1",
-       "root": "",
-       "gloss": "cutting: the act of cutting",
-       "analysis": "NOUN",
-       "pointed": "חֲתָךְ"
-      },
-      {
-       "id": "6333-1",
-       "root": "",
-       "gloss": "carver",
-       "analysis": "NOUN",
-       "pointed": "חַתָּךְ"
-      },
-      {
-       "id": "6334-1",
-       "root": "",
-       "gloss": "to cut",
-       "analysis": "VERB",
-       "pointed": "חָתַךְ"
-      },
-      {
-       "id": "6334-38",
-       "root": "",
-       "gloss": "to cut",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲתֹךְ"
-      }
-     ]
+     "maknuune_id": "6334-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עצים",
@@ -788,23 +721,7 @@
      "caphi_urban": "éven",
      "caphi_raw": null,
      "maknuune_id": "957-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "957-1",
-       "root": "",
-       "gloss": "stone (a piece of such material: a block of stone, rock or a",
-       "analysis": "NOUN",
-       "pointed": "אֶבֶן"
-      },
-      {
-       "id": "958-1",
-       "root": "",
-       "gloss": "ibn",
-       "analysis": "NOUN",
-       "pointed": "אִבְּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ואז",
@@ -1234,34 +1151,18 @@
     },
     {
      "surface": "בוא",
-     "lemma": "בּוֹא",
-     "form": "בּוֹא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "בּוֹא",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "infinitive absolute of בָּא (bá)",
-     "analysis": "VERB",
+     "root": "ו.א",
+     "gloss": "To come.",
+     "analysis": "VERB:imperative.masculine.singular",
      "caphi": "bo",
      "caphi_urban": "bo",
      "caphi_raw": null,
-     "maknuune_id": "794-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "794-1",
-       "root": "",
-       "gloss": "infinitive absolute of בָּא (bá)",
-       "analysis": "VERB",
-       "pointed": "בּוֹא"
-      },
-      {
-       "id": "3145-31",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בּוֹא"
-      }
-     ]
+     "maknuune_id": "3145-31",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אליי",
@@ -1789,23 +1690,7 @@
      "caphi_urban": "ken",
      "caphi_raw": null,
      "maknuune_id": "1460-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1460-1",
-       "root": "",
-       "gloss": "yes",
-       "analysis": "ADV",
-       "pointed": "כֵּן"
-      },
-      {
-       "id": "1461-1",
-       "root": "",
-       "gloss": "pedestal, stand",
-       "analysis": "NOUN",
-       "pointed": "כַּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קראתי",

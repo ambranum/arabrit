@@ -551,44 +551,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ממשיכים",
@@ -1000,51 +963,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עצים",
@@ -1224,37 +1143,7 @@
      "caphi_urban": "ltox",
      "caphi_raw": null,
      "maknuune_id": "11398-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "11398-1",
-       "root": "",
-       "gloss": "into, inside",
-       "analysis": "PREP",
-       "pointed": "לְתוֹךְ"
-      },
-      {
-       "id": "14733-3",
-       "root": "",
-       "gloss": "to mediate",
-       "analysis": "VERB:infinitive",
-       "pointed": "לְתַוֵּךְ"
-      },
-      {
-       "id": "875-1",
-       "root": "",
-       "gloss": "as ל- + תָּוֶךְ: the midst",
-       "analysis": "NOUN",
-       "pointed": "תָּוֶךְ"
-      },
-      {
-       "id": "10632-1",
-       "root": "",
-       "gloss": "as ל- + תּוֹךְ: inside",
-       "analysis": "NOUN",
-       "pointed": "תּוֹךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חור",
@@ -1956,51 +1845,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לו",
@@ -2626,58 +2471,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וכשהייתי",
@@ -2790,34 +2584,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עם",
@@ -3306,23 +3084,7 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כאן",
@@ -3451,25 +3213,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "ברגע",
@@ -3563,32 +3308,8 @@
      "caphi_urban": "xazara",
      "caphi_raw": null,
      "maknuune_id": "2142-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2142-1",
-       "root": "",
-       "gloss": "A return, returning, going back.",
-       "analysis": "NOUN",
-       "pointed": "חֲזָרָה"
-      },
-      {
-       "id": "4374-13",
-       "root": "ח",
-       "gloss": "to return (to come back after some period of time, or at reg",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חָזְרָה"
-      },
-      {
-       "id": "7942-21",
-       "root": "",
-       "gloss": "to court",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "חִזְּרָה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "במעלה",
@@ -3653,34 +3374,18 @@
     },
     {
      "surface": "ההר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והדרך",
@@ -3993,46 +3698,8 @@
      "caphi_urban": "adama",
      "caphi_raw": null,
      "maknuune_id": "913-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "913-1",
-       "root": "",
-       "gloss": "earth, soil, land",
-       "analysis": "NOUN",
-       "pointed": "אֲדָמָה"
-      },
-      {
-       "id": "370-4",
-       "root": "",
-       "gloss": "red",
-       "analysis": "ADJ:feminine",
-       "pointed": "אֲדֻמָּה"
-      },
-      {
-       "id": "851-18",
-       "root": "ה",
-       "gloss": "to resemble",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֶדְמֶה"
-      },
-      {
-       "id": "13080-28",
-       "root": "",
-       "gloss": "to imagine",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדַמֶּה"
-      },
-      {
-       "id": "14897-32",
-       "root": "ה",
-       "gloss": "to imagine, to liken something to something",
-       "analysis": "VERB:feminine.first-person.future.masculine.singular",
-       "pointed": "אֲדֻמֶּה"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "הרכה",
@@ -4190,34 +3857,18 @@
     },
     {
      "surface": "סימן",
-     "lemma": "סִימָן",
-     "form": "סִימָן",
-     "vocalized": "סִימָן",
+     "lemma": "סִמֵּן",
+     "form": "סִמֵּן",
+     "vocalized": "סִימֵּן",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "mark (sign for reference or measurement)",
-     "analysis": "NOUN",
-     "caphi": "siman",
-     "caphi_urban": "siman",
+     "gloss": "to mark, indicate",
+     "analysis": "VERB:masculine.past.singular.third-person",
+     "caphi": "simen",
+     "caphi_urban": "simen",
      "caphi_raw": null,
-     "maknuune_id": "3871-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3871-1",
-       "root": "",
-       "gloss": "mark (sign for reference or measurement)",
-       "analysis": "NOUN",
-       "pointed": "סִימָן"
-      },
-      {
-       "id": "3872-18",
-       "root": "",
-       "gloss": "to mark, indicate",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "סִימֵּן"
-      }
-     ]
+     "maknuune_id": "3872-18",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחד",
@@ -5048,25 +4699,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לי",
@@ -5210,46 +4844,8 @@
      "caphi_urban": "réshet",
      "caphi_raw": null,
      "maknuune_id": "4051-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4051-1",
-       "root": "",
-       "gloss": "a net (a mesh of string or the like)",
-       "analysis": "NOUN",
-       "pointed": "רֶשֶׁת"
-      },
-      {
-       "id": "4052-1",
-       "root": "",
-       "gloss": "defective spelling of רישת",
-       "analysis": "VERB",
-       "pointed": "רִשֵּׁת"
-      },
-      {
-       "id": "10170-28",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַשֵּׁת"
-      },
-      {
-       "id": "10170-7",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רִשַּׁתָּ"
-      },
-      {
-       "id": "10170-8",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רִשַּׁתְּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "נסגרה",
@@ -5893,34 +5489,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מאחורי",

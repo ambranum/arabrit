@@ -1030,30 +1030,7 @@
      "caphi_urban": "xut",
      "caphi_raw": null,
      "maknuune_id": "3443-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3443-1",
-       "root": "",
-       "gloss": "a string, thread, yarn, or wire",
-       "analysis": "NOUN",
-       "pointed": "חוּט"
-      },
-      {
-       "id": "3444-1",
-       "root": "",
-       "gloss": "defective spelling of חיווט",
-       "analysis": "VERB",
-       "pointed": "חִוֵּט"
-      },
-      {
-       "id": "10703-38",
-       "root": "",
-       "gloss": "to wire",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַוֵּט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אחרי",
@@ -1083,30 +1060,7 @@
      "caphi_urban": "xut",
      "caphi_raw": null,
      "maknuune_id": "3443-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3443-1",
-       "root": "",
-       "gloss": "a string, thread, yarn, or wire",
-       "analysis": "NOUN",
-       "pointed": "חוּט"
-      },
-      {
-       "id": "3444-1",
-       "root": "",
-       "gloss": "defective spelling of חיווט",
-       "analysis": "VERB",
-       "pointed": "חִוֵּט"
-      },
-      {
-       "id": "10703-38",
-       "root": "",
-       "gloss": "to wire",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַוֵּט"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1191,30 +1145,7 @@
      "caphi_urban": "kolot",
      "caphi_raw": null,
      "maknuune_id": "4127-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4127-1",
-       "root": "",
-       "gloss": "plural indefinite form of קוֹל (kol)",
-       "analysis": "NOUN",
-       "pointed": "קוֹלוֹת"
-      },
-      {
-       "id": "3563-3",
-       "root": "",
-       "gloss": "voice (also in its figurative senses of statement, opinion, ",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "קוֹלוֹת"
-      },
-      {
-       "id": "2937-19",
-       "root": "ה",
-       "gloss": "to toast",
-       "analysis": "VERB:feminine.plural.present",
-       "pointed": "קוֹלוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1678,25 +1609,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     },
     {
      "surface": "מרחוק",
@@ -1846,30 +1760,7 @@
      "caphi_urban": "sakin",
      "caphi_raw": null,
      "maknuune_id": "3268-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3268-1",
-       "root": "",
-       "gloss": "knife, blade",
-       "analysis": "NOUN",
-       "pointed": "סַכִּין"
-      },
-      {
-       "id": "7028-1",
-       "root": "",
-       "gloss": "as סִכֵּן spelled full: To endanger or risk (someone or somethin",
-       "analysis": "VERB",
-       "pointed": "סִכֵּין"
-      },
-      {
-       "id": "7028-38",
-       "root": "",
-       "gloss": "as סִכֵּן spelled full: To endanger or risk (someone or somethin",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "סַכֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2269,37 +2160,7 @@
      "caphi_urban": "xével",
      "caphi_raw": null,
      "maknuune_id": "2631-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2631-1",
-       "root": "",
-       "gloss": "rope",
-       "analysis": "NOUN",
-       "pointed": "חֶבֶל"
-      },
-      {
-       "id": "2632-1",
-       "root": "",
-       "gloss": "pity, woe",
-       "analysis": "NOUN",
-       "pointed": "חֲבָל"
-      },
-      {
-       "id": "2633-1",
-       "root": "",
-       "gloss": "defective spelling of חיבל (khibél)",
-       "analysis": "VERB",
-       "pointed": "חִבֵּל"
-      },
-      {
-       "id": "8183-38",
-       "root": "",
-       "gloss": "to sabotage, damage",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חַבֵּל"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שהיה",
@@ -2778,58 +2639,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לפני",
@@ -3045,25 +2855,8 @@
      "caphi_urban": "sfina",
      "caphi_raw": null,
      "maknuune_id": "9236-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וה-",
-     "options": [
-      {
-       "id": "9236-1",
-       "root": "",
-       "gloss": "ship, boat",
-       "analysis": "NOUN",
-       "pointed": "סְפִינָה"
-      },
-      {
-       "id": "15618-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סְפִינָה"
-      }
-     ],
-     "_cut_for_prompt": "וה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וה-"
     },
     {
      "surface": "והסירה",
@@ -3487,23 +3280,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2059-12",
-       "root": "",
-       "gloss": "to start, to begin",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "הִתְחִילָה"
-      },
-      {
-       "id": "9912-9",
-       "root": "",
-       "gloss": "beginning",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "התחילה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "להסתובב",
@@ -3573,39 +3350,16 @@
      "surface": "עלו",
      "lemma": "עָלָה",
      "form": "עָלָה",
-     "vocalized": "עֲלוּ",
+     "vocalized": "עָלוּ",
      "vocalized_from": "lexicon",
      "root": "ע.ה",
      "gloss": "To ascend, rise, go up; to move from a point to a higher point.",
-     "analysis": "VERB:imperative.masculine.plural",
+     "analysis": "VERB:feminine.masculine.past.plural.third-person",
      "caphi": "alu",
      "caphi_urban": "alu",
      "caphi_raw": null,
-     "maknuune_id": "740-30",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-30",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.plural",
-       "pointed": "עֲלוּ"
-      },
-      {
-       "id": "2478-17",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "עֻלּוֹ"
-      },
-      {
-       "id": "740-13",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:feminine.masculine.past.plural.third-person",
-       "pointed": "עָלוּ"
-      }
-     ]
+     "maknuune_id": "740-13",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -3948,30 +3702,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כאן",

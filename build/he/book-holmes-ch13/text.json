@@ -1005,25 +1005,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     },
     {
      "surface": "ריקות",
@@ -1417,44 +1400,7 @@
      "caphi_urban": "laxash",
      "caphi_raw": null,
      "maknuune_id": "3367-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3367-1",
-       "root": "ח",
-       "gloss": "to whisper",
-       "analysis": "VERB",
-       "pointed": "לָחַשׁ"
-      },
-      {
-       "id": "3368-1",
-       "root": "",
-       "gloss": "a whisper",
-       "analysis": "NOUN",
-       "pointed": "לַחַשׁ"
-      },
-      {
-       "id": "3369-1",
-       "root": "",
-       "gloss": "defective spelling of ליחש (likhésh)",
-       "analysis": "VERB",
-       "pointed": "לִחֵשׁ"
-      },
-      {
-       "id": "3367-29",
-       "root": "ח",
-       "gloss": "to whisper",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "לְחַשׁ"
-      },
-      {
-       "id": "7086-1",
-       "root": "",
-       "gloss": "as ל- + חָשׁ: to sense, to feel: to have a sense, to exper",
-       "analysis": "VERB",
-       "pointed": "חָשׁ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בלי",
@@ -1696,53 +1642,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תחזור",
@@ -1964,25 +1865,8 @@
      "caphi_urban": "tsaxak",
      "caphi_raw": null,
      "maknuune_id": "8335-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "8335-1",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB",
-       "pointed": "צָחַק"
-      },
-      {
-       "id": "8335-28",
-       "root": "",
-       "gloss": "to laugh",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "צְחַק"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "והיה",
@@ -2359,34 +2243,19 @@
     },
     {
      "surface": "לנהר",
-     "lemma": "נָהַר",
-     "form": "נָהַר",
-     "vocalized": "לִנְהֹר",
-     "vocalized_from": "lexicon",
-     "root": "ה",
-     "gloss": "to shine",
-     "analysis": "VERB:infinitive",
-     "caphi": "linhor",
-     "caphi_urban": "linhor",
+     "lemma": "נָהָר",
+     "form": "נָהָר",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "river (especially the Nile, Euphrates, etc.)",
+     "analysis": "NOUN",
+     "caphi": "nahar",
+     "caphi_urban": "nahar",
      "caphi_raw": null,
-     "maknuune_id": "944-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "944-4",
-       "root": "ה",
-       "gloss": "to shine",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִנְהֹר"
-      },
-      {
-       "id": "942-1",
-       "root": "",
-       "gloss": "as ל- + נָהָר: river (especially the Nile, Euphrates, etc.)",
-       "analysis": "NOUN",
-       "pointed": "נָהָר"
-      }
-     ]
+     "maknuune_id": "942-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "ואנשים",
@@ -2628,34 +2497,18 @@
     },
     {
      "surface": "בוא",
-     "lemma": "בּוֹא",
-     "form": "בּוֹא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "בּוֹא",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "infinitive absolute of בָּא (bá)",
-     "analysis": "VERB",
+     "root": "ו.א",
+     "gloss": "To come.",
+     "analysis": "VERB:imperative.masculine.singular",
      "caphi": "bo",
      "caphi_urban": "bo",
      "caphi_raw": null,
-     "maknuune_id": "794-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "794-1",
-       "root": "",
-       "gloss": "infinitive absolute of בָּא (bá)",
-       "analysis": "VERB",
-       "pointed": "בּוֹא"
-      },
-      {
-       "id": "3145-31",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בּוֹא"
-      }
-     ]
+     "maknuune_id": "3145-31",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "איתי",
@@ -2716,46 +2569,8 @@
      "caphi_urban": "kfar",
      "caphi_raw": null,
      "maknuune_id": "2049-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ב-",
-     "options": [
-      {
-       "id": "2049-1",
-       "root": "",
-       "gloss": "village",
-       "analysis": "NOUN",
-       "pointed": "כְּפָר"
-      },
-      {
-       "id": "2050-1",
-       "root": "",
-       "gloss": "defective spelling of כיפר (kipér, “to cover; to pardon”)",
-       "analysis": "VERB",
-       "pointed": "כִּפֵּר"
-      },
-      {
-       "id": "2051-1",
-       "root": "",
-       "gloss": "defective spelling of כּוֹפֶר (kófer, “henna”)",
-       "analysis": "NOUN",
-       "pointed": "כֹּפֶר"
-      },
-      {
-       "id": "11087-5",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:passive",
-       "pointed": "כֻּפַּר"
-      },
-      {
-       "id": "11087-41",
-       "root": "",
-       "gloss": "to cover",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּפֵּר"
-      }
-     ],
-     "_cut_for_prompt": "ב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ב-"
     },
     {
      "surface": "ואני",
@@ -2947,37 +2762,7 @@
      "caphi_urban": "ashir",
      "caphi_raw": null,
      "maknuune_id": "7876-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7876-1",
-       "root": "",
-       "gloss": "rich, wealthy, well off: having a lot of money and possessio",
-       "analysis": "ADJ",
-       "pointed": "עָשִׁיר"
-      },
-      {
-       "id": "1357-1",
-       "root": "",
-       "gloss": "as עֶשֶׂר spelled full: feminine of עֲשָׂרָה (asará, “ten”)",
-       "analysis": "NUM",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "1359-4",
-       "root": "",
-       "gloss": "as עֲשָׂרָה spelled full: ten",
-       "analysis": "NUM:feminine",
-       "pointed": "עֶשֶׂיר"
-      },
-      {
-       "id": "9086-1",
-       "root": "",
-       "gloss": "as עֹשֶׁר spelled full: richness, wealth",
-       "analysis": "NOUN",
-       "pointed": "עֹשֶׁיר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יש",
@@ -3480,23 +3265,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הלכה",
@@ -5349,34 +5118,19 @@
     },
     {
      "surface": "לנהר",
-     "lemma": "נָהַר",
-     "form": "נָהַר",
-     "vocalized": "לִנְהֹר",
-     "vocalized_from": "lexicon",
-     "root": "ה",
-     "gloss": "to shine",
-     "analysis": "VERB:infinitive",
-     "caphi": "linhor",
-     "caphi_urban": "linhor",
+     "lemma": "נָהָר",
+     "form": "נָהָר",
+     "vocalized": null,
+     "vocalized_from": "unvocalized:clitic",
+     "root": null,
+     "gloss": "river (especially the Nile, Euphrates, etc.)",
+     "analysis": "NOUN",
+     "caphi": "nahar",
+     "caphi_urban": "nahar",
      "caphi_raw": null,
-     "maknuune_id": "944-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "944-4",
-       "root": "ה",
-       "gloss": "to shine",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִנְהֹר"
-      },
-      {
-       "id": "942-1",
-       "root": "",
-       "gloss": "as ל- + נָהָר: river (especially the Nile, Euphrates, etc.)",
-       "analysis": "NOUN",
-       "pointed": "נָהָר"
-      }
-     ]
+     "maknuune_id": "942-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ל-"
     },
     {
      "surface": "והמים",
@@ -5678,37 +5432,7 @@
      "caphi_urban": "matbot",
      "caphi_raw": null,
      "maknuune_id": "2168-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2168-3",
-       "root": "",
-       "gloss": "coin",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מַטְבְּעוֹת"
-      },
-      {
-       "id": "7597-3",
-       "root": "",
-       "gloss": "mint (place where coins are minted)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "מִטְבָּעוֹת"
-      },
-      {
-       "id": "16722-1",
-       "root": "",
-       "gloss": "as מ- + טַבָּעוֹת: plural indefinite form of טַבַּעַת (tabá'at)",
-       "analysis": "NOUN",
-       "pointed": "טַבָּעוֹת"
-      },
-      {
-       "id": "8092-3",
-       "root": "",
-       "gloss": "as מ- + טַבַּעַת: ring (a circumscribing object, (roughly) cir",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "טַבָּעוֹת"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "של",
@@ -6242,25 +5966,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לי",

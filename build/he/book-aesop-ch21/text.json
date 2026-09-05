@@ -151,23 +151,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רבו",
@@ -303,23 +287,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רבו",
@@ -486,25 +454,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "לא",
@@ -618,30 +569,7 @@
      "caphi_urban": "kara",
      "caphi_raw": null,
      "maknuune_id": "169-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "169-1",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "10647-3",
-       "root": "א",
-       "gloss": "to be read",
-       "analysis": "VERB:active",
-       "pointed": "קָרָא"
-      },
-      {
-       "id": "169-32",
-       "root": "א",
-       "gloss": "to read",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "קְרָא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "להם",
@@ -877,51 +805,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אותו",
@@ -1660,25 +1544,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "של-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "של-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "של-"
     }
    ],
    "audio": null
@@ -1799,51 +1666,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מקל",
@@ -2315,25 +2138,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -2371,44 +2177,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חזקים",
@@ -2476,44 +2245,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נשברים",

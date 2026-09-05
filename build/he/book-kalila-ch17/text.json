@@ -44,37 +44,7 @@
      "caphi_urban": "hexaxam",
      "caphi_raw": null,
      "maknuune_id": "871-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "871-10",
-       "root": "",
-       "gloss": "wise man, sage",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הֶחָכָם"
-      },
-      {
-       "id": "11165-28",
-       "root": "",
-       "gloss": "to become wise, acquire knowledge, learn",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַחְכֵּם"
-      },
-      {
-       "id": "870-1",
-       "root": "",
-       "gloss": "as ה- + חָכָם: wise, smart",
-       "analysis": "ADJ",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-1",
-       "root": "",
-       "gloss": "as ה- + חָכַם: to be wise, become wise, learn",
-       "analysis": "VERB",
-       "pointed": "חָכַם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -323,30 +293,7 @@
      "caphi_urban": "met",
      "caphi_raw": null,
      "maknuune_id": "1922-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1922-1",
-       "root": "",
-       "gloss": "Dead, having died.",
-       "analysis": "ADJ",
-       "pointed": "מֵת"
-      },
-      {
-       "id": "1923-7",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "מַתָּ"
-      },
-      {
-       "id": "1923-8",
-       "root": "",
-       "gloss": "To die.",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "מַתְּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -404,34 +351,18 @@
     },
     {
      "surface": "ההר",
-     "lemma": "הָהָר",
-     "form": "הָהָר",
+     "lemma": "הַר",
+     "form": "הַר",
      "vocalized": "הָהָר",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "singular definite form of הַר (har)",
-     "analysis": "NOUN",
+     "gloss": "mountain (mass of earth and rock)",
+     "analysis": "NOUN:definite.singular",
      "caphi": "hahar",
      "caphi_urban": "hahar",
      "caphi_raw": null,
-     "maknuune_id": "6962-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6962-1",
-       "root": "",
-       "gloss": "singular definite form of הַר (har)",
-       "analysis": "NOUN",
-       "pointed": "הָהָר"
-      },
-      {
-       "id": "3046-9",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָהָר"
-      }
-     ]
+     "maknuune_id": "3046-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עץ",
@@ -492,44 +423,7 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קנים",
@@ -715,44 +609,7 @@
      "caphi_urban": "élef",
      "caphi_raw": null,
      "maknuune_id": "388-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "388-1",
-       "root": "",
-       "gloss": "thousand, one thousand",
-       "analysis": "NUM",
-       "pointed": "אֶלֶף"
-      },
-      {
-       "id": "390-1",
-       "root": "",
-       "gloss": "alternative spelling of אל״ף",
-       "analysis": "NOUN",
-       "pointed": "אָלֶף"
-      },
-      {
-       "id": "391-1",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB",
-       "pointed": "אִלֵּף"
-      },
-      {
-       "id": "391-3",
-       "root": "",
-       "gloss": "defective spelling of אילף",
-       "analysis": "VERB:passive",
-       "pointed": "אֻלַּף"
-      },
-      {
-       "id": "10417-40",
-       "root": "",
-       "gloss": "to tame, to train",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "אַלֵּף"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ינשופים",
@@ -806,51 +663,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הינשופים",
@@ -1681,25 +1494,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     }
    ],
    "audio": null
@@ -1963,51 +1759,7 @@
      "caphi_urban": "mélex",
      "caphi_raw": null,
      "maknuune_id": "242-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-1",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      },
-      {
-       "id": "243-36",
-       "root": "",
-       "gloss": "to reign (to rule as a king)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְלֹךְ"
-      },
-      {
-       "id": "14907-1",
-       "root": "",
-       "gloss": "as מ- + ־לָךְ: plural of ־לה",
-       "analysis": "SUFFIX",
-       "pointed": "־לָךְ"
-      },
-      {
-       "id": "4695-1",
-       "root": "",
-       "gloss": "as מ- + לך: Form of ל־ (l'-) including second-person mas",
-       "analysis": "PREP",
-       "pointed": "לך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העורבים",
@@ -2182,62 +1934,18 @@
     },
     {
      "surface": "נעשה",
-     "lemma": "עָשָׂה",
-     "form": "עָשָׂה",
-     "vocalized": "נַעֲשָׂה",
+     "lemma": "נַעֲשֶׂה",
+     "form": "נַעֲשֶׂה",
+     "vocalized": "נַעֲשֶׂה",
      "vocalized_from": "lexicon",
-     "root": "ע.ה",
-     "gloss": "To do (to perform an action, to accomplish a thing).",
-     "analysis": "VERB:passive",
-     "caphi": "naasa",
-     "caphi_urban": "naasa",
+     "root": null,
+     "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (asá).",
+     "analysis": "VERB",
+     "caphi": "naase",
+     "caphi_urban": "naase",
      "caphi_raw": null,
-     "maknuune_id": "565-6",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "565-6",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:passive",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7424-1",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB",
-       "pointed": "נַעֲשָׂה"
-      },
-      {
-       "id": "7425-1",
-       "root": "",
-       "gloss": "First-person plural future (prefix conjugation) of עָשָׂה (a",
-       "analysis": "VERB",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-17",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "565-23",
-       "root": "ע.ה",
-       "gloss": "To do (to perform an action, to accomplish a thing).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נַעֲשֶׂה"
-      },
-      {
-       "id": "7424-23",
-       "root": "ה",
-       "gloss": "to be done, performed, executed",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נֵעָשֶׂה"
-      }
-     ]
+     "maknuune_id": "7425-1",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2841,51 +2549,7 @@
      "caphi_urban": "shatak",
      "caphi_raw": null,
      "maknuune_id": "2515-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2515-1",
-       "root": "",
-       "gloss": "to shut up, to be silent, to be quiet",
-       "analysis": "VERB",
-       "pointed": "שָׁתַק"
-      },
-      {
-       "id": "2516-3",
-       "root": "",
-       "gloss": "defective spelling of שיתק (shiték).",
-       "analysis": "VERB:canonical",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "2517-3",
-       "root": "",
-       "gloss": "defective spelling of שותק (shuták).",
-       "analysis": "VERB:canonical",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9321-1",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB",
-       "pointed": "שִׁתֵּק"
-      },
-      {
-       "id": "9321-4",
-       "root": "",
-       "gloss": "to paralyze",
-       "analysis": "VERB:passive",
-       "pointed": "שֻׁתַּק"
-      },
-      {
-       "id": "9322-1",
-       "root": "",
-       "gloss": "to be paralysed",
-       "analysis": "VERB",
-       "pointed": "שֻׁתַּק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2908,37 +2572,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -2968,53 +2602,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "מה",
@@ -3097,25 +2686,8 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הזקן",
@@ -3206,23 +2778,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ירדפו",
@@ -3329,23 +2885,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יהרגו",
@@ -3451,23 +2991,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ישפילו",
@@ -3679,37 +3203,7 @@
      "caphi_urban": "hamelex",
      "caphi_raw": null,
      "maknuune_id": "242-10",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "242-10",
-       "root": "",
-       "gloss": "king",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַמֶּלֶךְ"
-      },
-      {
-       "id": "9514-28",
-       "root": "",
-       "gloss": "to make king, coronate, crown",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַמְלֵךְ"
-      },
-      {
-       "id": "243-1",
-       "root": "",
-       "gloss": "as ה- + מָלַךְ: to reign (to rule as a king)",
-       "analysis": "VERB",
-       "pointed": "מָלַךְ"
-      },
-      {
-       "id": "244-5",
-       "root": "",
-       "gloss": "as ה- + מַלְכָּה: queen (female monarch)",
-       "analysis": "NOUN:masculine",
-       "pointed": "מֶלֶךְ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -3955,44 +3449,7 @@
      "caphi_urban": "atem",
      "caphi_raw": null,
      "maknuune_id": "2866-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2866-1",
-       "root": "",
-       "gloss": "You, y'all, you guys: the second-person masculine plural sub",
-       "analysis": "PRON",
-       "pointed": "אַתֶּם"
-      },
-      {
-       "id": "7345-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine plural per",
-       "analysis": "PREP",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "96-25",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "אִתָּם"
-      },
-      {
-       "id": "17106-3",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP:alternative",
-       "pointed": "אֹתָם"
-      },
-      {
-       "id": "2867-1",
-       "root": "",
-       "gloss": "Form of את (et) including third-person masculine plural pers",
-       "analysis": "PREP",
-       "pointed": "אתם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "חייבים",
@@ -4283,51 +3740,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הזקן",
@@ -4398,25 +3811,8 @@
      "caphi_urban": "orev",
      "caphi_raw": null,
      "maknuune_id": "2828-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "2828-1",
-       "root": "",
-       "gloss": "raven",
-       "analysis": "NOUN",
-       "pointed": "עוֹרֵב"
-      },
-      {
-       "id": "512-14",
-       "root": "",
-       "gloss": "to guarantee, promise vow",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹרֵב"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הזקן",
@@ -4539,23 +3935,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לא",
@@ -4921,23 +4301,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מרטו",
@@ -5120,25 +4484,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "עפו",

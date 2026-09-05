@@ -48,55 +48,18 @@
     },
     {
      "surface": "עבד",
-     "lemma": "עֶבֶד",
-     "form": "עֶבֶד",
-     "vocalized": "עֶבֶד",
+     "lemma": "עָבַד",
+     "form": "עָבַד",
+     "vocalized": "עָבַד",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "A slave, a serf.",
-     "analysis": "NOUN",
-     "caphi": "éved",
-     "caphi_urban": "éved",
+     "gloss": "to work, labor",
+     "analysis": "VERB",
+     "caphi": "avad",
+     "caphi_urban": "avad",
      "caphi_raw": null,
-     "maknuune_id": "969-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "969-1",
-       "root": "",
-       "gloss": "A slave, a serf.",
-       "analysis": "NOUN",
-       "pointed": "עֶבֶד"
-      },
-      {
-       "id": "970-1",
-       "root": "",
-       "gloss": "to work, labor",
-       "analysis": "VERB",
-       "pointed": "עָבַד"
-      },
-      {
-       "id": "971-1",
-       "root": "",
-       "gloss": "defective spelling of עיבד",
-       "analysis": "VERB",
-       "pointed": "עִבֵּד"
-      },
-      {
-       "id": "970-37",
-       "root": "",
-       "gloss": "to work, labor",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲבֹד"
-      },
-      {
-       "id": "13711-38",
-       "root": "",
-       "gloss": "to process",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עַבֵּד"
-      }
-     ]
+     "maknuune_id": "970-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -209,30 +172,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -262,46 +202,8 @@
      "caphi_urban": "réshet",
      "caphi_raw": null,
      "maknuune_id": "4051-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4051-1",
-       "root": "",
-       "gloss": "a net (a mesh of string or the like)",
-       "analysis": "NOUN",
-       "pointed": "רֶשֶׁת"
-      },
-      {
-       "id": "4052-1",
-       "root": "",
-       "gloss": "defective spelling of רישת",
-       "analysis": "VERB",
-       "pointed": "רִשֵּׁת"
-      },
-      {
-       "id": "10170-28",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַשֵּׁת"
-      },
-      {
-       "id": "10170-7",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רִשַּׁתָּ"
-      },
-      {
-       "id": "10170-8",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רִשַּׁתְּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "פעם",
@@ -400,46 +302,8 @@
      "caphi_urban": "réshet",
      "caphi_raw": null,
      "maknuune_id": "4051-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4051-1",
-       "root": "",
-       "gloss": "a net (a mesh of string or the like)",
-       "analysis": "NOUN",
-       "pointed": "רֶשֶׁת"
-      },
-      {
-       "id": "4052-1",
-       "root": "",
-       "gloss": "defective spelling of רישת",
-       "analysis": "VERB",
-       "pointed": "רִשֵּׁת"
-      },
-      {
-       "id": "10170-28",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַשֵּׁת"
-      },
-      {
-       "id": "10170-7",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רִשַּׁתָּ"
-      },
-      {
-       "id": "10170-8",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רִשַּׁתְּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "יצאה",
@@ -637,48 +501,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -708,46 +542,8 @@
      "caphi_urban": "réshet",
      "caphi_raw": null,
      "maknuune_id": "4051-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "4051-1",
-       "root": "",
-       "gloss": "a net (a mesh of string or the like)",
-       "analysis": "NOUN",
-       "pointed": "רֶשֶׁת"
-      },
-      {
-       "id": "4052-1",
-       "root": "",
-       "gloss": "defective spelling of רישת",
-       "analysis": "VERB",
-       "pointed": "רִשֵּׁת"
-      },
-      {
-       "id": "10170-28",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רַשֵּׁת"
-      },
-      {
-       "id": "10170-7",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:masculine.past.second-person.singular",
-       "pointed": "רִשַּׁתָּ"
-      },
-      {
-       "id": "10170-8",
-       "root": "",
-       "gloss": "to net",
-       "analysis": "VERB:feminine.past.second-person.singular",
-       "pointed": "רִשַּׁתְּ"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -1089,25 +885,8 @@
      "caphi_urban": "eyn",
      "caphi_raw": null,
      "maknuune_id": "898-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "898-1",
-       "root": "",
-       "gloss": "There is not, there are not: used in expressing non-existenc",
-       "analysis": "PARTICLE",
-       "pointed": "אֵין"
-      },
-      {
-       "id": "899-1",
-       "root": "",
-       "gloss": "nothing",
-       "analysis": "NOUN",
-       "pointed": "אַיִן"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "בי",
@@ -1137,44 +916,7 @@
      "caphi_urban": "basar",
      "caphi_raw": null,
      "maknuune_id": "999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "999-1",
-       "root": "",
-       "gloss": "flesh, meat",
-       "analysis": "NOUN",
-       "pointed": "בָּשָׂר"
-      },
-      {
-       "id": "1000-1",
-       "root": "",
-       "gloss": "defective spelling of בישר",
-       "analysis": "VERB",
-       "pointed": "בִּשֵּׂר"
-      },
-      {
-       "id": "9523-28",
-       "root": "",
-       "gloss": "to bring good news",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בַּשֵּׂר"
-      },
-      {
-       "id": "4134-1",
-       "root": "י",
-       "gloss": "as ב- + שָׁר: to sing",
-       "analysis": "VERB",
-       "pointed": "שָׁר"
-      },
-      {
-       "id": "4135-1",
-       "root": "",
-       "gloss": "as ב- + שַׂר: captain, commander",
-       "analysis": "NOUN",
-       "pointed": "שַׂר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1585,53 +1327,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תקבל",
@@ -1777,53 +1474,8 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     }
    ],
    "audio": null
@@ -1876,51 +1528,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מדבר",
@@ -2003,51 +1611,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בידיים",

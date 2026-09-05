@@ -496,34 +496,18 @@
     },
     {
      "surface": "עומד",
-     "lemma": "עוֹמֵד",
-     "form": "עוֹמֵד",
+     "lemma": "עָמַד",
+     "form": "עָמַד",
      "vocalized": "עוֹמֵד",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "masculine singular present of עָמַד (amád)",
-     "analysis": "VERB",
+     "root": "ע",
+     "gloss": "to stand (to support oneself on the feet in an erect position)",
+     "analysis": "VERB:masculine.present.singular",
      "caphi": "omed",
      "caphi_urban": "omed",
      "caphi_raw": null,
-     "maknuune_id": "6617-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6617-1",
-       "root": "",
-       "gloss": "masculine singular present of עָמַד (amád)",
-       "analysis": "VERB",
-       "pointed": "עוֹמֵד"
-      },
-      {
-       "id": "2979-15",
-       "root": "ע",
-       "gloss": "to stand (to support oneself on the feet in an erect positio",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "עוֹמֵד"
-      }
-     ]
+     "maknuune_id": "2979-15",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לספר",
@@ -583,25 +567,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הכי",
@@ -1374,53 +1341,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "כותב",
@@ -2071,44 +1993,7 @@
      "caphi_urban": "xaxam",
      "caphi_raw": null,
      "maknuune_id": "870-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "870-1",
-       "root": "",
-       "gloss": "wise, smart",
-       "analysis": "ADJ",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-1",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB",
-       "pointed": "חָכַם"
-      },
-      {
-       "id": "872-14",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "חָכָם"
-      },
-      {
-       "id": "872-28",
-       "root": "",
-       "gloss": "to be wise, become wise, learn",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲכַם"
-      },
-      {
-       "id": "11934-23",
-       "root": "",
-       "gloss": "palate, roof of the mouth",
-       "analysis": "NOUN:masculine.plural.possessed-form.third-person",
-       "pointed": "חִכָּם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וזה",
@@ -2283,25 +2168,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "בבקשה",
@@ -2760,34 +2628,18 @@
     },
     {
      "surface": "לירות",
-     "lemma": "יָרָה",
-     "form": "יָרָה",
+     "lemma": "לִירָה",
+     "form": "לִירָה",
      "vocalized": "לִירוֹת",
      "vocalized_from": "lexicon",
-     "root": "י.ה",
-     "gloss": "To flow as water (that is, to rain).",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "lira (current currency of Turkey and former currency of many countries, including Israel)",
+     "analysis": "NOUN:indefinite.plural",
      "caphi": "lirot",
      "caphi_urban": "lirot",
      "caphi_raw": null,
-     "maknuune_id": "2800-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2800-3",
-       "root": "י.ה",
-       "gloss": "To flow as water (that is, to rain).",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִירוֹת"
-      },
-      {
-       "id": "10260-3",
-       "root": "",
-       "gloss": "lira (current currency of Turkey and former currency of many",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לִירוֹת"
-      }
-     ]
+     "maknuune_id": "10260-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בשבוע",
@@ -4950,43 +4802,19 @@
     },
     {
      "surface": "ואם",
-     "lemma": "אֵם",
-     "form": "אֵם",
+     "lemma": "אִם",
+     "form": "אִם",
      "vocalized": null,
      "vocalized_from": "unvocalized:clitic",
      "root": null,
-     "gloss": "mother (a female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, fostered, etc))",
-     "analysis": "NOUN",
-     "caphi": "em",
-     "caphi_urban": "em",
+     "gloss": "if, whether",
+     "analysis": "CONJ",
+     "caphi": "im",
+     "caphi_urban": "im",
      "caphi_raw": null,
-     "maknuune_id": "104-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "104-1",
-       "root": "",
-       "gloss": "mother (a female parent, especially of a human; a female who",
-       "analysis": "NOUN",
-       "pointed": "אֵם"
-      },
-      {
-       "id": "105-1",
-       "root": "",
-       "gloss": "if, whether",
-       "analysis": "CONJ",
-       "pointed": "אִם"
-      },
-      {
-       "id": "392-5",
-       "root": "",
-       "gloss": "father (a male parent, especially of a human; a male who par",
-       "analysis": "NOUN:feminine",
-       "pointed": "אֵם"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": "105-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "אני",
@@ -5289,34 +5117,18 @@
     },
     {
      "surface": "לירות",
-     "lemma": "יָרָה",
-     "form": "יָרָה",
+     "lemma": "לִירָה",
+     "form": "לִירָה",
      "vocalized": "לִירוֹת",
      "vocalized_from": "lexicon",
-     "root": "י.ה",
-     "gloss": "To flow as water (that is, to rain).",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "lira (current currency of Turkey and former currency of many countries, including Israel)",
+     "analysis": "NOUN:indefinite.plural",
      "caphi": "lirot",
      "caphi_urban": "lirot",
      "caphi_raw": null,
-     "maknuune_id": "2800-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2800-3",
-       "root": "י.ה",
-       "gloss": "To flow as water (that is, to rain).",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִירוֹת"
-      },
-      {
-       "id": "10260-3",
-       "root": "",
-       "gloss": "lira (current currency of Turkey and former currency of many",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לִירוֹת"
-      }
-     ]
+     "maknuune_id": "10260-3",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בשבוע",
@@ -5655,51 +5467,7 @@
      "caphi_urban": "natan",
      "caphi_raw": null,
      "maknuune_id": "575-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "575-1",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "575-8",
-       "root": "נ.נ",
-       "gloss": "to give",
-       "analysis": "VERB:passive",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "576-1",
-       "root": "",
-       "gloss": "defective spelling of ניתן",
-       "analysis": "VERB",
-       "pointed": "נִתַּן"
-      },
-      {
-       "id": "577-1",
-       "root": "",
-       "gloss": "Nathan (an Old Testament prophet who advised King David)",
-       "analysis": "NAME",
-       "pointed": "נָתָן"
-      },
-      {
-       "id": "4013-3",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:active",
-       "pointed": "נָתַן"
-      },
-      {
-       "id": "4013-27",
-       "root": "נ",
-       "gloss": "to be given",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "נִתָּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לי",
@@ -5733,34 +5501,18 @@
     },
     {
      "surface": "לירות",
-     "lemma": "יָרָה",
-     "form": "יָרָה",
+     "lemma": "לִירָה",
+     "form": "לִירָה",
      "vocalized": "לִירוֹת",
      "vocalized_from": "lexicon",
-     "root": "י.ה",
-     "gloss": "To flow as water (that is, to rain).",
-     "analysis": "VERB:infinitive",
+     "root": null,
+     "gloss": "lira (current currency of Turkey and former currency of many countries, including Israel)",
+     "analysis": "NOUN:indefinite.plural",
      "caphi": "lirot",
      "caphi_urban": "lirot",
      "caphi_raw": null,
-     "maknuune_id": "2800-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2800-3",
-       "root": "י.ה",
-       "gloss": "To flow as water (that is, to rain).",
-       "analysis": "VERB:infinitive",
-       "pointed": "לִירוֹת"
-      },
-      {
-       "id": "10260-3",
-       "root": "",
-       "gloss": "lira (current currency of Turkey and former currency of many",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "לִירוֹת"
-      }
-     ]
+     "maknuune_id": "10260-3",
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -5970,23 +5722,7 @@
      "caphi_urban": "nyar",
      "caphi_raw": null,
      "maknuune_id": "2961-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-5",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "נְיָיר"
-      },
-      {
-       "id": "11333-1",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ",
-       "pointed": "נִייר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "והוא",
@@ -6017,30 +5753,7 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6744-1",
-       "root": "",
-       "gloss": "as הוֹצֵא spelled full: masculine singular imperative of הוֹצִיא",
-       "analysis": "VERB",
-       "pointed": "הוֹצֵיא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -6086,39 +5799,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "ושם",
@@ -6768,53 +6450,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ש-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ש-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ש-"
     },
     {
      "surface": "חושב",

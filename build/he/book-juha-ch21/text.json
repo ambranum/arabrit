@@ -158,25 +158,8 @@
      "caphi_urban": "shofet",
      "caphi_raw": null,
      "maknuune_id": "7362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7362-1",
-       "root": "",
-       "gloss": "judge (a public official whose duty it is to administer the ",
-       "analysis": "NOUN",
-       "pointed": "שׁוֹפֵט"
-      },
-      {
-       "id": "11879-16",
-       "root": "",
-       "gloss": "to judge",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "שׁוֹפֵט"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "של",
@@ -390,25 +373,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -767,25 +733,8 @@
      "caphi_urban": "kol",
      "caphi_raw": null,
      "maknuune_id": "1550-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1550-4",
-       "root": "",
-       "gloss": "All, whole, entirety, everything; found almost exclusively i",
-       "analysis": "NOUN:alternative",
-       "pointed": "כּוֹל"
-      },
-      {
-       "id": "14962-1",
-       "root": "",
-       "gloss": "excessive spelling of כֹּל",
-       "analysis": "NOUN",
-       "pointed": "כול"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": null
@@ -838,53 +787,8 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "רגע",
@@ -952,51 +856,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צודק",
@@ -1455,51 +1315,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צודק",
@@ -1553,23 +1369,7 @@
      "caphi_urban": "ishto",
      "caphi_raw": null,
      "maknuune_id": "7473-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7473-1",
-       "root": "",
-       "gloss": "singular form of אישה / אִשָּׁה (ishá) with third-person mas",
-       "analysis": "NOUN",
-       "pointed": "אִשְׁתּוֹ"
-      },
-      {
-       "id": "1090-16",
-       "root": "",
-       "gloss": "woman (an adult female human)",
-       "analysis": "NOUN:masculine.possessed-form.singular.third-person",
-       "pointed": "אִשְׁתּוֹ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ישבה",
@@ -1584,30 +1384,7 @@
      "caphi_urban": "yashva",
      "caphi_raw": null,
      "maknuune_id": "3587-16",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3587-16",
-       "root": "י",
-       "gloss": "to sit, to be in a position with the torso upright and the l",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יָשְׁבָה"
-      },
-      {
-       "id": "3588-12",
-       "root": "",
-       "gloss": "to settle (an issue, a dispute, or someone's mind)",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "יִשְּׁבָה"
-      },
-      {
-       "id": "7276-26",
-       "root": "ה",
-       "gloss": "to capture (took captive).",
-       "analysis": "VERB:future.masculine.singular.third-person",
-       "pointed": "יִשְׁבֶּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בפינה",
@@ -1807,44 +1584,7 @@
      "caphi_urban": "shnáyyim",
      "caphi_raw": null,
      "maknuune_id": "82-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "82-1",
-       "root": "",
-       "gloss": "two",
-       "analysis": "NUM",
-       "pointed": "שְׁנַייִם"
-      },
-      {
-       "id": "551-6",
-       "root": "",
-       "gloss": "second",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "שְׁנִיִּים"
-      },
-      {
-       "id": "3977-1",
-       "root": "",
-       "gloss": "as שָׁנִים spelled full: plural indefinite form of שָׁנָה: years",
-       "analysis": "NOUN",
-       "pointed": "שָׁנִיים"
-      },
-      {
-       "id": "476-5",
-       "root": "",
-       "gloss": "as שָׁנָה spelled full: year (the time it takes for the Earth to",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "שָׁנִיים"
-      },
-      {
-       "id": "2075-4",
-       "root": "",
-       "gloss": "as שֵׁן spelled full: tooth",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "שִׁנַּיִים"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לא",
@@ -1989,23 +1729,7 @@
      "caphi_urban": "naxon",
      "caphi_raw": null,
      "maknuune_id": "3501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3501-1",
-       "root": "",
-       "gloss": "Right, correct.",
-       "analysis": "ADJ",
-       "pointed": "נָכוֹן"
-      },
-      {
-       "id": "5145-29",
-       "root": "",
-       "gloss": "To direct (as traffic).",
-       "analysis": "VERB:feminine.first-person.future.masculine.plural",
-       "pointed": "נְכַוֵּן"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null

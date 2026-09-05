@@ -120,25 +120,8 @@
      "caphi_urban": "sipur",
      "caphi_raw": null,
      "maknuune_id": "7220-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "7220-5",
-       "root": "",
-       "gloss": "A story: a sequence of real or fictional events, or an accou",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "סִיפּוּר"
-      },
-      {
-       "id": "4008-4",
-       "root": "",
-       "gloss": "to tell (a story), to narrate, to recount",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "סיפור"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שלי",
@@ -1542,30 +1525,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מטבע",
@@ -1972,44 +1932,7 @@
      "caphi_urban": "ala",
      "caphi_raw": null,
      "maknuune_id": "740-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "740-1",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB",
-       "pointed": "עָלָה"
-      },
-      {
-       "id": "741-1",
-       "root": "",
-       "gloss": "fully burnt offering",
-       "analysis": "NOUN",
-       "pointed": "עֹלָה"
-      },
-      {
-       "id": "742-1",
-       "root": "",
-       "gloss": "A leaf.",
-       "analysis": "NOUN",
-       "pointed": "עָלֶה"
-      },
-      {
-       "id": "740-28",
-       "root": "ע.ה",
-       "gloss": "To ascend, rise, go up; to move from a point to a higher poi",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "עֲלֵה"
-      },
-      {
-       "id": "2478-18",
-       "root": "",
-       "gloss": "yoke",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "עֻלָּהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -2506,25 +2429,8 @@
      "caphi_urban": "oto",
      "caphi_raw": null,
      "maknuune_id": "3607-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "וב-",
-     "options": [
-      {
-       "id": "3607-1",
-       "root": "",
-       "gloss": "The same.",
-       "analysis": "DET",
-       "pointed": "אוֹתוֹ"
-      },
-      {
-       "id": "9611-3",
-       "root": "",
-       "gloss": "The same.",
-       "analysis": "DET:masculine",
-       "pointed": "אוֹתוֹ"
-      }
-     ],
-     "_cut_for_prompt": "וב-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "וב-"
     },
     {
      "surface": "זמן",
@@ -3288,53 +3194,8 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תסתכל",
@@ -3417,51 +3278,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רואה",
@@ -3563,34 +3380,18 @@
     },
     {
      "surface": "בוא",
-     "lemma": "בּוֹא",
-     "form": "בּוֹא",
+     "lemma": "בָּא",
+     "form": "בָּא",
      "vocalized": "בּוֹא",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "infinitive absolute of בָּא (bá)",
-     "analysis": "VERB",
+     "root": "ו.א",
+     "gloss": "To come.",
+     "analysis": "VERB:imperative.masculine.singular",
      "caphi": "bo",
      "caphi_urban": "bo",
      "caphi_raw": null,
-     "maknuune_id": "794-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "794-1",
-       "root": "",
-       "gloss": "infinitive absolute of בָּא (bá)",
-       "analysis": "VERB",
-       "pointed": "בּוֹא"
-      },
-      {
-       "id": "3145-31",
-       "root": "ו.א",
-       "gloss": "To come.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בּוֹא"
-      }
-     ]
+     "maknuune_id": "3145-31",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תגיד",
@@ -3883,41 +3684,18 @@
     },
     {
      "surface": "הרגל",
-     "lemma": "הֶרְגֵּל",
-     "form": "הֶרְגֵּל",
-     "vocalized": "הֶרְגֵּל",
+     "lemma": "רֶגֶל",
+     "form": "רֶגֶל",
+     "vocalized": "הָרֶגֶל",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "habit",
-     "analysis": "NOUN",
-     "caphi": "hergel",
-     "caphi_urban": "hergel",
+     "gloss": "foot, leg",
+     "analysis": "NOUN:definite.singular",
+     "caphi": "haregel",
+     "caphi_urban": "haregel",
      "caphi_raw": null,
-     "maknuune_id": "12999-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12999-1",
-       "root": "",
-       "gloss": "habit",
-       "analysis": "NOUN",
-       "pointed": "הֶרְגֵּל"
-      },
-      {
-       "id": "312-9",
-       "root": "",
-       "gloss": "foot, leg",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הָרֶגֶל"
-      },
-      {
-       "id": "313-1",
-       "root": "",
-       "gloss": "as ה- + רִגֵּל: defective spelling of ריגל",
-       "analysis": "VERB",
-       "pointed": "רִגֵּל"
-      }
-     ]
+     "maknuune_id": "312-9",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "האחת",

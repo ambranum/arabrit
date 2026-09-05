@@ -110,30 +110,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זוֹ",
@@ -1087,30 +1064,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s4.mp3"
@@ -1448,30 +1402,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זוֹ",
@@ -1740,25 +1671,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     },
     {
      "surface": "מִיָּד",
@@ -2064,30 +1978,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מְבִיאִים",
@@ -2551,30 +2442,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַרְבָּה",
@@ -2923,30 +2791,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מְעַקֶּמֶת",
@@ -3242,30 +3087,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כָּל",
@@ -3574,30 +3396,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שׁוֹקוֹלָד",
@@ -3977,30 +3776,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "תּוֹחֶבֶת",
@@ -4467,30 +4243,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זֶה",
@@ -4713,23 +4466,7 @@
      "caphi_urban": "xatixat",
      "caphi_raw": null,
      "maknuune_id": "10405-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10405-1",
-       "root": "",
-       "gloss": "singular construct state form of חֲתִיכָה (khatikhá)",
-       "analysis": "NOUN",
-       "pointed": "חֲתִיכַת"
-      },
-      {
-       "id": "7687-4",
-       "root": "",
-       "gloss": "piece, chunk",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "חֲתִיכַת־"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סֻכָּר",
@@ -5207,30 +4944,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַקְשִׁיבָה",
@@ -5520,30 +5234,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֻכְרָחָה",
@@ -5893,30 +5584,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַכִּירָתִי",
@@ -6106,30 +5774,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "זוֹ",
@@ -6310,36 +5955,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "דִּינָה",
@@ -6571,30 +6199,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מֵחֶדֶר",
@@ -6962,36 +6567,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "דִּינָה",
@@ -7249,23 +6837,7 @@
      "caphi_urban": "kax",
      "caphi_raw": null,
      "maknuune_id": "6101-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "6101-1",
-       "root": "",
-       "gloss": "Such, so, thus, in this way, in that way.",
-       "analysis": "ADV",
-       "pointed": "כָּךְ"
-      },
-      {
-       "id": "6103-1",
-       "root": "",
-       "gloss": "Kach, a far-right Israeli political party founded in 1971 by",
-       "analysis": "NAME",
-       "pointed": "כך"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -7631,18 +7203,18 @@
     },
     {
      "surface": "פַּחַד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
      "vocalized": "פַּחַד",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "פֶּן",
@@ -7714,36 +7286,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עָנְתָה",
@@ -8703,7 +8258,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בִּתָּהּ",
@@ -8848,32 +8403,8 @@
      "caphi_urban": "rofe",
      "caphi_raw": null,
      "maknuune_id": "1928-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1928-1",
-       "root": "",
-       "gloss": "medical doctor, physician",
-       "analysis": "NOUN",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "8023-6",
-       "root": "",
-       "gloss": "female medical doctor, physician",
-       "analysis": "NOUN:masculine",
-       "pointed": "רוֹפֵא"
-      },
-      {
-       "id": "3364-15",
-       "root": "א",
-       "gloss": "to heal, cure (someone)",
-       "analysis": "VERB:masculine.present.singular",
-       "pointed": "רוֹפֵא"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הָיָה",
@@ -8964,30 +8495,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִנְסֹעַ",
@@ -9320,30 +8828,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַתְּ",
@@ -9479,30 +8964,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּשִׂמְחָה",
@@ -9647,30 +9109,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כָּל",
@@ -9734,36 +9173,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": "audio/s48.mp3"
@@ -10056,30 +9478,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עִם",
@@ -10211,30 +9610,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שְׂבֵעַת",
@@ -10353,36 +9729,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     }
    ],
    "audio": "audio/s51.mp3"
@@ -10806,30 +10165,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֵיךְ",
@@ -10984,36 +10320,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הִיא",
@@ -11266,30 +10585,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s54.mp3"
@@ -11391,36 +10687,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֵינֶנִּי",
@@ -11569,36 +10848,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "שֶׁנֶּאֶמְרוּ",
@@ -11722,30 +10984,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s56.mp3"
@@ -11803,36 +11042,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "מִתְפָּעֶלֶת",
@@ -11956,7 +11178,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לֶאֱכֹל",
@@ -12589,36 +11811,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "צֹרֶךְ",
@@ -12732,30 +11937,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נֶעֶשְׂתָה",
@@ -13180,36 +12362,19 @@
    "words": [
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "הָיְתָה",
@@ -13507,30 +12672,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לַשּׁוּב",
@@ -13618,36 +12760,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "עִם",
@@ -13677,30 +12802,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לָרַכֶּבֶת",
@@ -13890,30 +12992,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שֶׁלָּהּ",
@@ -13981,30 +13060,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בְּשִׂמְחָה",
@@ -14381,30 +13437,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "צָהֲלָה",
@@ -14473,30 +13506,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "קָרָא",
@@ -14579,30 +13589,7 @@
      "caphi_urban": "noomi",
      "caphi_raw": null,
      "maknuune_id": "10601-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "10601-1",
-       "root": "",
-       "gloss": "Naomi",
-       "analysis": "NAME",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11823-6",
-       "root": "",
-       "gloss": "pleasantness",
-       "analysis": "NOUN:feminine.first-person.masculine.possessed-form.singular",
-       "pointed": "נׇעֳמִי"
-      },
-      {
-       "id": "11825-29",
-       "root": "",
-       "gloss": "to please",
-       "analysis": "VERB:feminine.imperative.singular",
-       "pointed": "נַעֲמִי"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עָנְתָה",
@@ -14958,36 +13945,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "דִּינָה",
@@ -15507,36 +14477,19 @@
     },
     {
      "surface": "הַדּוֹדָה",
-     "lemma": "דּוֹד",
-     "form": "דּוֹד",
+     "lemma": "דּוֹדָה",
+     "form": "דּוֹדָה",
      "vocalized": "הַדּוֹדָה",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-     "analysis": "NOUN:feminine",
+     "gloss": "aunt",
+     "analysis": "NOUN",
      "caphi": "dóda",
      "caphi_urban": "dóda",
      "caphi_raw": null,
-     "maknuune_id": "1642-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "1642-5",
-       "root": "",
-       "gloss": "uncle (the brother or brother-in-law of one’s parent)",
-       "analysis": "NOUN:feminine",
-       "pointed": "דּוֹדָה"
-      },
-      {
-       "id": "8144-1",
-       "root": "",
-       "gloss": "aunt",
-       "analysis": "NOUN",
-       "pointed": "דּוֹדָה"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "8144-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "אֲבָל",
@@ -16103,7 +15056,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הֵבִיאָה",

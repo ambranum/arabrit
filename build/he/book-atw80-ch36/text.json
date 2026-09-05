@@ -44,23 +44,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ירדו",
@@ -222,23 +206,7 @@
      "caphi_urban": "kadíma",
      "caphi_raw": null,
      "maknuune_id": "7707-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7707-1",
-       "root": "",
-       "gloss": "eastward",
-       "analysis": "ADV",
-       "pointed": "קָדִימָה"
-      },
-      {
-       "id": "928-5",
-       "root": "",
-       "gloss": "to precede, to come before",
-       "analysis": "VERB:noun-from-verb",
-       "pointed": "קְדִימָה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כדי",
@@ -896,30 +864,7 @@
      "caphi_urban": "hotsi",
      "caphi_raw": null,
      "maknuune_id": "4140-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4140-1",
-       "root": "י.א",
-       "gloss": "to take or bring out or forth",
-       "analysis": "VERB",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6743-3",
-       "root": "א",
-       "gloss": "to be removed, taken out",
-       "analysis": "VERB:active",
-       "pointed": "הוֹצִיא"
-      },
-      {
-       "id": "6744-1",
-       "root": "",
-       "gloss": "as הוֹצֵא spelled full: masculine singular imperative of הוֹצִיא",
-       "analysis": "VERB",
-       "pointed": "הוֹצֵיא"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "נייר",
@@ -934,23 +879,7 @@
      "caphi_urban": "nyar",
      "caphi_raw": null,
      "maknuune_id": "2961-5",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2961-5",
-       "root": "",
-       "gloss": "paper",
-       "analysis": "NOUN:construct.singular",
-       "pointed": "נְיָיר"
-      },
-      {
-       "id": "11333-1",
-       "root": "",
-       "gloss": "as נִיר spelled full: plowed",
-       "analysis": "ADJ",
-       "pointed": "נִייר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מהכיס",
@@ -965,39 +894,8 @@
      "caphi_urban": "kis",
      "caphi_raw": null,
      "maknuune_id": "7641-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מה-",
-     "options": [
-      {
-       "id": "7641-1",
-       "root": "",
-       "gloss": "pouch, bag, purse",
-       "analysis": "NOUN",
-       "pointed": "כִּיס"
-      },
-      {
-       "id": "7642-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "NOUN",
-       "pointed": "כַּיָּס"
-      },
-      {
-       "id": "7643-1",
-       "root": "",
-       "gloss": "defective spelling of כייס",
-       "analysis": "VERB",
-       "pointed": "כִּיֵּס"
-      },
-      {
-       "id": "7654-38",
-       "root": "",
-       "gloss": "to pickpocket",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "כַּיֵּס"
-      }
-     ],
-     "_cut_for_prompt": "מה-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מה-"
     },
     {
      "surface": "ואמר",
@@ -1058,51 +956,7 @@
      "caphi_urban": "ata",
      "caphi_raw": null,
      "maknuune_id": "417-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "417-1",
-       "root": "",
-       "gloss": "you, thou (second-person singular masculine)",
-       "analysis": "PRON",
-       "pointed": "אַתָּה"
-      },
-      {
-       "id": "418-1",
-       "root": "",
-       "gloss": "to come",
-       "analysis": "VERB",
-       "pointed": "אָתָה"
-      },
-      {
-       "id": "5905-3",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person masculine singular p",
-       "analysis": "PREP:feminine",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "7347-1",
-       "root": "",
-       "gloss": "Form of אֶת (ét) including third-person feminine singular pe",
-       "analysis": "PREP",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "96-23",
-       "root": "",
-       "gloss": "shovel",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִתָּהּ"
-      },
-      {
-       "id": "5904-3",
-       "root": "",
-       "gloss": "defective spelling of אוֹתוֹ.",
-       "analysis": "PREP:feminine",
-       "pointed": "אֹתָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "עצור",
@@ -1705,46 +1559,8 @@
      "caphi_urban": "raa",
      "caphi_raw": null,
      "maknuune_id": "560-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "560-1",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "561-1",
-       "root": "",
-       "gloss": "defective spelling of רואה",
-       "analysis": "NOUN",
-       "pointed": "רֹאֶה"
-      },
-      {
-       "id": "562-1",
-       "root": "",
-       "gloss": "defective spelling of ריאה.",
-       "analysis": "NOUN",
-       "pointed": "רֵאָה"
-      },
-      {
-       "id": "6839-5",
-       "root": "ה",
-       "gloss": "be seen",
-       "analysis": "VERB:active",
-       "pointed": "רָאָה"
-      },
-      {
-       "id": "560-30",
-       "root": "ה",
-       "gloss": "To see, to have vision; figuratively, to perceive.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "רְאֵה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "את",
@@ -1843,30 +1659,7 @@
      "caphi_urban": "zarak",
      "caphi_raw": null,
      "maknuune_id": "2943-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2943-1",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "6830-3",
-       "root": "",
-       "gloss": "To be thrown.",
-       "analysis": "VERB:active",
-       "pointed": "זָרַק"
-      },
-      {
-       "id": "2943-39",
-       "root": "",
-       "gloss": "To throw, to toss: to cause an object to move rapidly throug",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "זְרֹק"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",
@@ -2191,23 +1984,7 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "סגרו",
@@ -2793,48 +2570,18 @@
     },
     {
      "surface": "הרים",
-     "lemma": "הָרִים",
-     "form": "הָרִים",
-     "vocalized": "הָרִים",
+     "lemma": "הֵרִים",
+     "form": "הֵרִים",
+     "vocalized": "הֵרִים",
      "vocalized_from": "lexicon",
-     "root": null,
-     "gloss": "plural indefinite form of הַר (har): mountains",
-     "analysis": "NOUN",
-     "caphi": "harim",
-     "caphi_urban": "harim",
+     "root": "ו",
+     "gloss": "to pick up",
+     "analysis": "VERB",
+     "caphi": "herim",
+     "caphi_urban": "herim",
      "caphi_raw": null,
-     "maknuune_id": "5569-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "5569-1",
-       "root": "",
-       "gloss": "plural indefinite form of הַר (har): mountains",
-       "analysis": "NOUN",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "5570-1",
-       "root": "ו",
-       "gloss": "to pick up",
-       "analysis": "VERB",
-       "pointed": "הֵרִים"
-      },
-      {
-       "id": "3046-3",
-       "root": "",
-       "gloss": "mountain (mass of earth and rock)",
-       "analysis": "NOUN:indefinite.plural",
-       "pointed": "הָרִים"
-      },
-      {
-       "id": "10815-4",
-       "root": "",
-       "gloss": "pregnant",
-       "analysis": "ADJ:masculine.plural",
-       "pointed": "הָרִים"
-      }
-     ]
+     "maknuune_id": "5570-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "את",

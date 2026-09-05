@@ -2575,30 +2575,7 @@
      "caphi_urban": "hika",
      "caphi_raw": null,
      "maknuune_id": "7108-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "7108-1",
-       "root": "נ.ה",
-       "gloss": "to hit, smite, strike",
-       "analysis": "VERB",
-       "pointed": "הִכָּה"
-      },
-      {
-       "id": "11016-3",
-       "root": "נ.ה",
-       "gloss": "to be hit, smitten, struck.",
-       "analysis": "VERB:active",
-       "pointed": "הִכָּה"
-      },
-      {
-       "id": "6786-1",
-       "root": "",
-       "gloss": "as ה- + כֹּה: thus, in this way",
-       "analysis": "ADV",
-       "pointed": "כֹּה"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גַלִים",
@@ -5925,7 +5902,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מַרְאֵה",
@@ -7167,7 +7144,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אֶת",
@@ -7781,7 +7758,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אַךְ",
@@ -8026,7 +8003,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַנַצִים",
@@ -8094,51 +8071,7 @@
      "caphi_urban": "xashav",
      "caphi_raw": null,
      "maknuune_id": "1501-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "1501-1",
-       "root": "",
-       "gloss": "to think",
-       "analysis": "VERB",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "1502-1",
-       "root": "",
-       "gloss": "an accountant",
-       "analysis": "NOUN",
-       "pointed": "חַשָּׁב"
-      },
-      {
-       "id": "1503-1",
-       "root": "",
-       "gloss": "defective spelling of חישב: to compute.",
-       "analysis": "VERB",
-       "pointed": "חִשֵּׁב"
-      },
-      {
-       "id": "1504-1",
-       "root": "",
-       "gloss": "defective spelling of חושב: to be calculate.",
-       "analysis": "VERB",
-       "pointed": "חֻשַּׁב"
-      },
-      {
-       "id": "5543-3",
-       "root": "",
-       "gloss": "to be considered (assigned some quality)",
-       "analysis": "VERB:active",
-       "pointed": "חָשַׁב"
-      },
-      {
-       "id": "9613-4",
-       "root": "",
-       "gloss": "to be calculated",
-       "analysis": "VERB:active",
-       "pointed": "חִשֵּׁב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וּנְהַג",
@@ -9327,7 +9260,7 @@
      "caphi_urban": "aléynu",
      "caphi_raw": null,
      "maknuune_id": "6343-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְהִתְכּוֹנֵן",

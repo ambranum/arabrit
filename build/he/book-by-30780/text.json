@@ -4171,18 +4171,18 @@
    "words": [
     {
      "surface": "פַּחַד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
      "vocalized": "פַּחַד",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "וַחֲשָׁד",
@@ -4354,18 +4354,18 @@
    "words": [
     {
      "surface": "פַּחַד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
      "vocalized": "פַּחַד",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַמִּזְרָח",
@@ -5854,7 +5854,7 @@
      "caphi_urban": "barxu",
      "caphi_raw": null,
      "maknuune_id": "9625-14",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": "audio/s26.mp3"
@@ -7382,7 +7382,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "רֶגֶשׁ",
@@ -7697,7 +7697,7 @@
      "caphi_urban": "asher",
      "caphi_raw": null,
      "maknuune_id": "1525-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שִׁוְיוֹן",

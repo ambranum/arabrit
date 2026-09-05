@@ -90,58 +90,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "יותר",
@@ -176,41 +125,18 @@
     },
     {
      "surface": "חיה",
-     "lemma": "חַי",
-     "form": "חַי",
+     "lemma": "חַיָּה",
+     "form": "חַיָּה",
      "vocalized": "חַיָּה",
      "vocalized_from": "lexicon",
      "root": null,
-     "gloss": "alive",
-     "analysis": "ADJ:feminine",
+     "gloss": "feminine singular indefinite form of חַי (kháy)",
+     "analysis": "ADJ",
      "caphi": "xaya",
      "caphi_urban": "xaya",
      "caphi_raw": null,
-     "maknuune_id": "880-3",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "880-3",
-       "root": "",
-       "gloss": "alive",
-       "analysis": "ADJ:feminine",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "2654-1",
-       "root": "",
-       "gloss": "feminine singular indefinite form of חַי (kháy)",
-       "analysis": "ADJ",
-       "pointed": "חַיָּה"
-      },
-      {
-       "id": "881-27",
-       "root": "",
-       "gloss": "to live (to be alive, to have life)",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "חֲיֵה"
-      }
-     ]
+     "maknuune_id": "2654-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ביער",
@@ -620,23 +546,7 @@
      "caphi_urban": "hatsav",
      "caphi_raw": null,
      "maknuune_id": "3282-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3282-8",
-       "root": "",
-       "gloss": "turtle, tortoise",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַצָּב"
-      },
-      {
-       "id": "13723-28",
-       "root": "י",
-       "gloss": "to place, set, erect",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַצֵּב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "אמר",
@@ -1022,58 +932,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "ונעלם",
@@ -1135,51 +994,7 @@
      "caphi_urban": "beyn",
      "caphi_raw": null,
      "maknuune_id": "531-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "531-1",
-       "root": "",
-       "gloss": "between, among, amid",
-       "analysis": "PREP",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "398-28",
-       "root": "",
-       "gloss": "to understand.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "בִּין"
-      },
-      {
-       "id": "6490-1",
-       "root": "",
-       "gloss": "as ב- + ־ִין: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX",
-       "pointed": "־ִין"
-      },
-      {
-       "id": "3837-3",
-       "root": "",
-       "gloss": "as ב- + ־ִים: For most masculine nouns and certain feminin",
-       "analysis": "SUFFIX:alternative",
-       "pointed": "־ין"
-      },
-      {
-       "id": "396-1",
-       "root": "",
-       "gloss": "as בֵּן spelled full: son",
-       "analysis": "NOUN",
-       "pointed": "בֵּין"
-      },
-      {
-       "id": "400-6",
-       "root": "",
-       "gloss": "as בַּת spelled full: daughter",
-       "analysis": "NOUN:masculine",
-       "pointed": "בֵּין"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "העצים",
@@ -1217,23 +1032,7 @@
      "caphi_urban": "hatsav",
      "caphi_raw": null,
      "maknuune_id": "3282-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3282-8",
-       "root": "",
-       "gloss": "turtle, tortoise",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַצָּב"
-      },
-      {
-       "id": "13723-28",
-       "root": "י",
-       "gloss": "to place, set, erect",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַצֵּב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "התחיל",
@@ -1454,23 +1253,7 @@
      "caphi_urban": "axóra",
      "caphi_raw": null,
      "maknuune_id": "16635-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "16635-1",
-       "root": "",
-       "gloss": "backward, backwards, astern",
-       "analysis": "ADV",
-       "pointed": "אָחוֹרָה"
-      },
-      {
-       "id": "7887-28",
-       "root": "",
-       "gloss": "A delay: an instance of lateness, a discrepancy between an e",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "אִחוּרָהּ"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -1553,23 +1336,7 @@
      "caphi_urban": "hatsav",
      "caphi_raw": null,
      "maknuune_id": "3282-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3282-8",
-       "root": "",
-       "gloss": "turtle, tortoise",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַצָּב"
-      },
-      {
-       "id": "13723-28",
-       "root": "י",
-       "gloss": "to place, set, erect",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַצֵּב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "בכלל",
@@ -1720,23 +1487,7 @@
      "caphi_urban": "shaxav",
      "caphi_raw": null,
      "maknuune_id": "4652-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "4652-1",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB",
-       "pointed": "שָׁכַב"
-      },
-      {
-       "id": "4652-30",
-       "root": "",
-       "gloss": "To lie down, to be lying down, to recline.",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "שְׁכַב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "מתחת",
@@ -1821,23 +1572,7 @@
      "caphi_urban": "hatsav",
      "caphi_raw": null,
      "maknuune_id": "3282-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3282-8",
-       "root": "",
-       "gloss": "turtle, tortoise",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַצָּב"
-      },
-      {
-       "id": "13723-28",
-       "root": "י",
-       "gloss": "to place, set, erect",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַצֵּב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "המשיך",
@@ -2002,51 +1737,7 @@
      "caphi_urban": "avar",
      "caphi_raw": null,
      "maknuune_id": "185-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "185-1",
-       "root": "ע",
-       "gloss": "to pass, to cross",
-       "analysis": "VERB",
-       "pointed": "עָבַר"
-      },
-      {
-       "id": "186-1",
-       "root": "",
-       "gloss": "The past.",
-       "analysis": "NOUN",
-       "pointed": "עָבָר"
-      },
-      {
-       "id": "187-1",
-       "root": "",
-       "gloss": "side, direction, way",
-       "analysis": "NOUN",
-       "pointed": "עֵבֶר"
-      },
-      {
-       "id": "188-1",
-       "root": "",
-       "gloss": "defective spelling of עובר (“embryo, unborn baby”)",
-       "analysis": "NOUN",
-       "pointed": "עֻבָּר"
-      },
-      {
-       "id": "189-1",
-       "root": "",
-       "gloss": "defective spelling of עיבר",
-       "analysis": "VERB",
-       "pointed": "עִבֵּר"
-      },
-      {
-       "id": "1048-1",
-       "root": "",
-       "gloss": "Masculine singular imperative of עָבַר (avár)",
-       "analysis": "VERB",
-       "pointed": "עֲבֹר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "על",
@@ -2311,58 +2002,7 @@
      "caphi_urban": "maher",
      "caphi_raw": null,
      "maknuune_id": "432-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "432-1",
-       "root": "",
-       "gloss": "quickly, rapidly, fast",
-       "analysis": "ADV",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "433-1",
-       "root": "",
-       "gloss": "defective spelling of מיהר",
-       "analysis": "VERB",
-       "pointed": "מִהֵר"
-      },
-      {
-       "id": "434-1",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB",
-       "pointed": "מָהַר"
-      },
-      {
-       "id": "435-1",
-       "root": "",
-       "gloss": "defective spelling of מוהר",
-       "analysis": "NOUN",
-       "pointed": "מֹהַר"
-      },
-      {
-       "id": "4723-38",
-       "root": "",
-       "gloss": "to hurry",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מַהֵר"
-      },
-      {
-       "id": "434-32",
-       "root": "",
-       "gloss": "to acquire a wife by paying her purchase price",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "מְהַר"
-      },
-      {
-       "id": "3046-1",
-       "root": "",
-       "gloss": "as מ- + הַר: mountain (mass of earth and rock)",
-       "analysis": "NOUN",
-       "pointed": "הַר"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     }
    ],
    "audio": null
@@ -2400,23 +2040,7 @@
      "caphi_urban": "hatsav",
      "caphi_raw": null,
      "maknuune_id": "3282-8",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "3282-8",
-       "root": "",
-       "gloss": "turtle, tortoise",
-       "analysis": "NOUN:definite.singular",
-       "pointed": "הַצָּב"
-      },
-      {
-       "id": "13723-28",
-       "root": "י",
-       "gloss": "to place, set, erect",
-       "analysis": "VERB:imperative.masculine.singular",
-       "pointed": "הַצֵּב"
-      }
-     ]
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "כבר",

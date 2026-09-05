@@ -4370,48 +4370,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     }
    ],
    "audio": "audio/s21.mp3"
@@ -5722,25 +5692,8 @@
      "caphi_urban": "al",
      "caphi_raw": null,
      "maknuune_id": "362-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "362-1",
-       "root": "",
-       "gloss": "not, do not",
-       "analysis": "ADV",
-       "pointed": "אַל"
-      },
-      {
-       "id": "14819-1",
-       "root": "",
-       "gloss": "alternative form of אַל",
-       "analysis": "PREFIX",
-       "pointed": "אַל־"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "ו-"
     },
     {
      "surface": "תִּשְׁכְּחִי",
@@ -6589,7 +6542,7 @@
      "caphi_urban": "haregel",
      "caphi_raw": null,
      "maknuune_id": "312-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַיְּמָנִית",
@@ -6623,48 +6576,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וְזֹאת",
@@ -6710,7 +6633,7 @@
      "caphi_urban": "haregel",
      "caphi_raw": null,
      "maknuune_id": "312-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "הַשְּׂמָאלִית",
@@ -6994,48 +6917,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     }
    ],
    "audio": "audio/s31.mp3"
@@ -7863,36 +7756,19 @@
     },
     {
      "surface": "הַגְּדִי",
-     "lemma": "גְּדִיָּה",
-     "form": "גְּדִיָּה",
+     "lemma": "גְּדִי",
+     "form": "גְּדִי",
      "vocalized": "הַגְּדִי",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "a kid (a young female goat)",
-     "analysis": "NOUN:masculine",
+     "gloss": "kid (a young goat)",
+     "analysis": "NOUN",
      "caphi": "gdi",
      "caphi_urban": "gdi",
      "caphi_raw": null,
-     "maknuune_id": "845-4",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ה-",
-     "options": [
-      {
-       "id": "845-4",
-       "root": "",
-       "gloss": "a kid (a young female goat)",
-       "analysis": "NOUN:masculine",
-       "pointed": "גְּדִי"
-      },
-      {
-       "id": "7427-1",
-       "root": "",
-       "gloss": "kid (a young goat)",
-       "analysis": "NOUN",
-       "pointed": "גְּדִי"
-      }
-     ],
-     "_cut_for_prompt": "ה-"
+     "maknuune_id": "7427-1",
+     "provenance": "wiktionary:resolved",
+     "_cut": "ה-"
     },
     {
      "surface": "וְרָצְתָה",
@@ -8682,48 +8558,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וְשָׁרָה",
@@ -8911,48 +8757,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "הִנִּיחָה",
@@ -9505,48 +9321,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "מֵהַקֶּרֶשׁ",
@@ -9890,48 +9676,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "מֵהַשְּׁלוּלִית",
@@ -10328,48 +10084,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "קָרְאָה",
@@ -11092,48 +10818,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "הַשָּׁטָה",
@@ -11422,48 +11118,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וּפִתְאֹם",
@@ -12211,48 +11877,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וּבָכְתָה",
@@ -12878,50 +12514,19 @@
     },
     {
      "surface": "וּמִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "וּמִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun",
+     "_cut": "ו-"
     },
     {
      "surface": "שָׁטָה",
@@ -13522,18 +13127,18 @@
    "words": [
     {
      "surface": "פַּחַד",
-     "lemma": "פַּחַד",
-     "form": "פַּחַד",
+     "lemma": "פָּחַד",
+     "form": "פָּחַד",
      "vocalized": "פַּחַד",
      "vocalized_from": "source:pointed",
      "root": null,
-     "gloss": "fear",
-     "analysis": "NOUN",
-     "caphi": "páxad",
-     "caphi_urban": "páxad",
+     "gloss": "to fear, to be scared, afraid, frightened of (a person or thing)",
+     "analysis": "VERB",
+     "caphi": "paxad",
+     "caphi_urban": "paxad",
      "caphi_raw": null,
-     "maknuune_id": "1763-1",
-     "provenance": "wiktionary:pointed"
+     "maknuune_id": "1764-1",
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "גָּדוֹל",
@@ -13827,48 +13432,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "מִתְקָרֶבֶת",
@@ -14220,48 +13795,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     }
    ],
    "audio": "audio/s58.mp3"
@@ -14413,7 +13958,7 @@
      "caphi_urban": "haregel",
      "caphi_raw": null,
      "maknuune_id": "312-9",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "שֶׁל",
@@ -14502,48 +14047,18 @@
    "words": [
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "לֹא",
@@ -14683,48 +14198,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "הֵנִיעָה",
@@ -15952,7 +15437,7 @@
      "caphi_urban": "meal",
      "caphi_raw": null,
      "maknuune_id": "3037-1",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לְרֹאשָׁהּ",
@@ -16127,7 +15612,7 @@
      "caphi_urban": "nahar",
      "caphi_raw": null,
      "maknuune_id": "942-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ה-"
     },
     {
@@ -19029,48 +18514,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וְהִיא",
@@ -19101,7 +18556,7 @@
      "caphi_urban": "hitxila",
      "caphi_raw": null,
      "maknuune_id": "2059-12",
-     "provenance": "wiktionary:pointed"
+     "provenance": "wiktionary:resolved"
     },
     {
      "surface": "לִצְעֹק",
@@ -19721,50 +19176,19 @@
     },
     {
      "surface": "וּמִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "וּמִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun",
+     "_cut": "ו-"
     },
     {
      "surface": "לְמַטָּה",
@@ -20663,48 +20087,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     }
    ],
    "audio": "audio/s82.mp3"
@@ -20895,7 +20289,7 @@
      "caphi_urban": "exad",
      "caphi_raw": null,
      "maknuune_id": "535-1",
-     "provenance": "wiktionary:pointed",
+     "provenance": "wiktionary:resolved",
      "_cut": "ו-"
     },
     {
@@ -20911,25 +20305,8 @@
      "caphi_urban": "hem",
      "caphi_raw": null,
      "maknuune_id": "2619-1",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "מ-",
-     "options": [
-      {
-       "id": "2619-1",
-       "root": "",
-       "gloss": "they (the third-person masculine plural personal pronoun, ma",
-       "analysis": "PRON",
-       "pointed": "הֵם"
-      },
-      {
-       "id": "2621-1",
-       "root": "",
-       "gloss": "heme",
-       "analysis": "NOUN",
-       "pointed": "הם"
-      }
-     ],
-     "_cut_for_prompt": "מ-"
+     "provenance": "wiktionary:resolved",
+     "_cut": "מ-"
     },
     {
      "surface": "הִצְבִּיעַ",
@@ -21192,48 +20569,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "שָׁטָה",
@@ -21420,50 +20767,19 @@
     },
     {
      "surface": "וּמִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "וּמִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "_cut": "ו-",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ],
-     "_cut_for_prompt": "ו-"
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun",
+     "_cut": "ו-"
     }
    ],
    "audio": "audio/s87.mp3"
@@ -21666,48 +20982,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וְעַל",
@@ -22161,48 +21447,18 @@
     },
     {
      "surface": "מִינָה",
-     "lemma": "מִיֵּן",
-     "form": "מִיֵּן",
+     "lemma": "מִינָה",
+     "form": "מִינָה",
      "vocalized": "מִינָה",
      "vocalized_from": "source:pointed",
-     "root": "י",
-     "gloss": "to sort",
-     "analysis": "VERB:feminine.imperative.plural",
-     "caphi": "mayena",
-     "caphi_urban": "mayena",
+     "root": null,
+     "gloss": "Mina (a name)",
+     "analysis": "NOUN_PROP",
+     "caphi": "mina",
+     "caphi_urban": "mina",
      "caphi_raw": null,
-     "maknuune_id": "12154-41",
-     "provenance": "AMBIGUOUS-needs-resolution",
-     "options": [
-      {
-       "id": "12154-41",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.imperative.plural",
-       "pointed": "מַיֵּנָּה"
-      },
-      {
-       "id": "2326-15",
-       "root": "",
-       "gloss": "kind",
-       "analysis": "NOUN:feminine.possessed-form.singular.third-person",
-       "pointed": "מִינָהּ"
-      },
-      {
-       "id": "12154-21",
-       "root": "י",
-       "gloss": "to sort",
-       "analysis": "VERB:feminine.past.singular.third-person",
-       "pointed": "מִיְּנָה"
-      },
-      {
-       "id": "13809-18",
-       "root": "",
-       "gloss": "to appoint",
-       "analysis": "VERB:masculine.past.singular.third-person",
-       "pointed": "מִינָּה"
-      }
-     ]
+     "maknuune_id": null,
+     "provenance": "curated:proper-noun"
     },
     {
      "surface": "וְאוֹלָה",
